@@ -50,6 +50,12 @@
 	<string>This app needs camera access to take photos for avatar.</string>
 	<key>NSLocalNetworkUsageDescription</key>
 	<string>This app needs access to local network to connect to development servers</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We need your location to provide location-based features even when the app is in background</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We need your location to provide location-based features even when the app is in background</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location to provide location-based features</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>We need access to your microphone for voice calls.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
