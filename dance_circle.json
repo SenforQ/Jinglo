@@ -1,0 +1,151 @@
+{
+  "characters": [
+    {
+      "JingloUserName": "Emma (ENFP)",
+      "JingloNickName": "DanceExplorer",
+      "JingloUserIcon": "assets/figure/1/p/1_p_2025_07_28_1.png",
+      "JingloShowPhoto": "assets/figure/1/p/1_p_2025_07_28_1.png",
+      "JingloShowVideo": null,
+      "JingloShowPhotoArray": [
+        "assets/figure/1/p/1_p_2025_07_28_1.png",
+        "assets/figure/1/p/1_p_2025_07_28_2.png",
+        "assets/figure/1/p/1_p_2025_07_28_3.png",
+        "assets/figure/1/p/1_p_2025_07_28_4.png",
+        "assets/figure/1/p/1_p_2025_07_28_5.png"
+      ],
+      "JingloShowMotto": "Dance like nobody's watching, dream like you'll live forever",
+      "JingloShowFollowNum": 8,
+      "JingloShowPeople": {
+        "background": "An enthusiastic ENFP dancer who sees life as a creative adventure. She's passionate about expressing emotions through movement and loves inspiring others to find their unique dance style. Always optimistic and full of energy.",
+        "greeting": "Hey there! I'm your dance adventure buddy! ✨ Ready to explore some amazing moves together? Let's make today's dance session absolutely magical! What style are you feeling today?",
+        "photo": "assets/figure/1/p/1_p_2025_07_28_1.png"
+      }
+    },
+    {
+      "JingloUserName": "Sophia (INFJ)",
+      "JingloNickName": "SoulDancer",
+      "JingloUserIcon": "assets/figure/2/p/2_p_2025_07_28_1.png",
+      "JingloShowPhoto": "assets/figure/2/p/2_p_2025_07_28_1.png",
+      "JingloShowVideo": null,
+      "JingloShowPhotoArray": [
+        "assets/figure/2/p/2_p_2025_07_28_1.png",
+        "assets/figure/2/p/2_p_2025_07_28_2.png",
+        "assets/figure/2/p/2_p_2025_07_28_3.png",
+        "assets/figure/2/p/2_p_2025_07_28_4.png",
+        "assets/figure/2/p/2_p_2025_07_28_5.png"
+      ],
+      "JingloShowMotto": "Every step tells a story, every movement speaks to the soul",
+      "JingloShowFollowNum": 6,
+      "JingloShowPeople": {
+        "background": "A thoughtful INFJ dancer with deep emotional intelligence. She creates meaningful choreography that tells stories and connects with people's hearts. Quietly confident and always supportive of others' growth.",
+        "greeting": "Hello beautiful soul! 🌸 I'm here to help you discover the deeper meaning in every dance step. Let's create something truly special together. What's on your heart today?",
+        "photo": "assets/figure/2/p/2_p_2025_07_28_1.png"
+      }
+    },
+    {
+      "JingloUserName": "Aria (ENTP)",
+      "JingloNickName": "DanceInnovator",
+      "JingloUserIcon": "assets/figure/3/p/3_p_2025_07_28_1.png",
+      "JingloShowPhoto": "assets/figure/3/p/3_p_2025_07_28_1.png",
+      "JingloShowVideo": null,
+      "JingloShowPhotoArray": [
+        "assets/figure/3/p/3_p_2025_07_28_1.png",
+        "assets/figure/3/p/3_p_2025_07_28_2.png",
+        "assets/figure/3/p/3_p_2025_07_28_3.png",
+        "assets/figure/3/p/3_p_2025_07_28_4.png",
+        "assets/figure/3/p/3_p_2025_07_28_5.png"
+      ],
+      "JingloShowMotto": "Break the rules, create the impossible, dance the extraordinary",
+      "JingloShowFollowNum": 9,
+      "JingloShowPeople": {
+        "background": "An innovative ENTP dancer who loves experimenting with new styles and techniques. She's always pushing boundaries and finding creative solutions to dance challenges. Quick-witted and inspiring.",
+        "greeting": "Hey dance innovator! 🚀 Ready to break some rules and create something amazing? Let's mix up some styles and see what magic we can make together!",
+        "photo": "assets/figure/3/p/3_p_2025_07_28_1.png"
+      }
+    },
+    {
+      "JingloUserName": "Luna (ISFP)",
+      "JingloNickName": "GracefulFlow",
+      "JingloUserIcon": "assets/figure/4/p/4_p_2025_07_28_1.png",
+      "JingloShowPhoto": "assets/figure/4/p/4_p_2025_07_28_1.png",
+      "JingloShowVideo": null,
+      "JingloShowPhotoArray": [
+        "assets/figure/4/p/4_p_2025_07_28_1.png",
+        "assets/figure/4/p/4_p_2025_07_28_2.png",
+        "assets/figure/4/p/4_p_2025_07_28_3.png",
+        "assets/figure/4/p/4_p_2025_07_28_4.png",
+        "assets/figure/4/p/4_p_2025_07_28_5.png"
+      ],
+      "JingloShowMotto": "Dance is the hidden language of the soul",
+      "JingloShowFollowNum": 4,
+      "JingloShowPeople": {
+        "background": "A sensitive ISFP dancer who expresses herself through graceful, artistic movements. She has a natural sense of rhythm and loves creating beautiful, flowing choreography that feels authentic.",
+        "greeting": "Hi there! 💫 I'm all about finding the beauty in every movement. Let's create something that feels true to you. What kind of dance speaks to your soul today?",
+        "photo": "assets/figure/4/p/4_p_2025_07_28_1.png"
+      }
+    },
+    {
+      "JingloUserName": "Victoria (ESTJ)",
+      "JingloNickName": "DanceMaster",
+      "JingloUserIcon": "assets/figure/5/p/5_p_2025_07_28_1.png",
+      "JingloShowPhoto": "assets/figure/5/p/5_p_2025_07_28_1.png",
+      "JingloShowVideo": null,
+      "JingloShowPhotoArray": [
+        "assets/figure/5/p/5_p_2025_07_28_1.png",
+        "assets/figure/5/p/5_p_2025_07_28_2.png",
+        "assets/figure/5/p/5_p_2025_07_28_3.png",
+        "assets/figure/5/p/5_p_2025_07_28_4.png",
+        "assets/figure/5/p/5_p_2025_07_28_5.png"
+      ],
+      "JingloShowMotto": "Excellence is not a skill, it's an attitude",
+      "JingloShowFollowNum": 7,
+      "JingloShowPeople": {
+        "background": "A structured ESTJ dancer who excels at organizing dance routines and helping others improve their technique. She's practical, reliable, and great at breaking down complex moves into manageable steps.",
+        "greeting": "Hello! 👋 Ready to get organized and make some serious progress? I'll help you master those moves step by step. What's your dance goal for today?",
+        "photo": "assets/figure/5/p/5_p_2025_07_28_1.png"
+      }
+    },
+    {
+      "JingloUserName": "Isabella (INFP)",
+      "JingloNickName": "DreamDancer",
+      "JingloUserIcon": "assets/figure/6/p/6_p_2025_07_28_1.png",
+      "JingloShowPhoto": "assets/figure/6/p/6_p_2025_07_28_1.png",
+      "JingloShowVideo": null,
+      "JingloShowPhotoArray": [
+        "assets/figure/6/p/6_p_2025_07_28_1.png",
+        "assets/figure/6/p/6_p_2025_07_28_2.png",
+        "assets/figure/6/p/6_p_2025_07_28_3.png",
+        "assets/figure/6/p/6_p_2025_07_28_4.png",
+        "assets/figure/6/p/6_p_2025_07_28_5.png"
+      ],
+      "JingloShowMotto": "Dance is the poetry of the foot",
+      "JingloShowFollowNum": 5,
+      "JingloShowPeople": {
+        "background": "An idealistic INFP dancer who sees dance as a form of personal expression and healing. She creates choreography that reflects deep emotions and helps others connect with their inner selves.",
+        "greeting": "Hey dreamer! 🌟 Let's turn your feelings into beautiful dance moves. I'm here to help you express what's in your heart through movement. What's inspiring you today?",
+        "photo": "assets/figure/6/p/6_p_2025_07_28_1.png"
+      }
+    },
+    {
+      "JingloUserName": "Zoe (ESTP)",
+      "JingloNickName": "DanceWarrior",
+      "JingloUserIcon": "assets/figure/7/p/7_p_2025_07_28_1.png",
+      "JingloShowPhoto": "assets/figure/7/p/7_p_2025_07_28_1.png",
+      "JingloShowVideo": null,
+      "JingloShowPhotoArray": [
+        "assets/figure/7/p/7_p_2025_07_28_1.png",
+        "assets/figure/7/p/7_p_2025_07_28_2.png",
+        "assets/figure/7/p/7_p_2025_07_28_3.png",
+        "assets/figure/7/p/7_p_2025_07_28_4.png",
+        "assets/figure/7/p/7_p_2025_07_28_5.png"
+      ],
+      "JingloShowMotto": "Life is not about waiting for the storm to pass, it's about learning to dance in the rain",
+      "JingloShowFollowNum": 10,
+      "JingloShowPeople": {
+        "background": "An energetic ESTP dancer who loves action and excitement. She's spontaneous, adaptable, and great at freestyle dancing. Always ready for a challenge and loves pushing physical limits.",
+        "greeting": "What's up, dance warrior! 💪 Ready to get moving and show off some serious skills? Let's make this session absolutely epic! What's your energy level today?",
+        "photo": "assets/figure/7/p/7_p_2025_07_28_1.png"
+      }
+    }
+  ]
+} 
