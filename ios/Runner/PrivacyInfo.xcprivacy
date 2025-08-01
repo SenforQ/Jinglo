@@ -1,0 +1,15 @@
+{
+    "NSPrivacyTracking": false,
+    "NSPrivacyTrackingDomains": [],
+    "NSPrivacyCollectedDataTypes": [],
+    "NSPrivacyAccessedAPITypes": [
+        {
+            "type": "NSPrivacyAccessedAPICategoryUserDefaults",
+            "reason": "This app needs to store user preferences"
+        },
+        {
+            "type": "NSPrivacyAccessedAPICategoryFileTimestamp",
+            "reason": "This app needs to access file timestamps for sharing files"
+        }
+    ]
+} 

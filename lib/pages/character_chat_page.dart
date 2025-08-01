@@ -5,6 +5,7 @@ import 'dart:io';
 import '../models/chat_message.dart';
 import '../models/user_info.dart';
 import '../services/user_service.dart';
+import '../pages/video_call_page.dart'; // Added import for VideoCallPage
 
 class CharacterChatPage extends StatefulWidget {
   final Map<String, dynamic> character;
@@ -510,6 +511,37 @@ class _CharacterChatPageState extends State<CharacterChatPage> {
                   contentPadding: EdgeInsets.symmetric(horizontal: 20, vertical: 12),
                 ),
                 onSubmitted: (_) => _sendMessage(),
+              ),
+            ),
+          ),
+          const SizedBox(width: 12),
+          // 视频通话按钮
+          GestureDetector(
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => VideoCallPage(
+                    character: widget.character,
+                  ),
+                ),
+              );
+            },
+            child: Container(
+              width: 48,
+              height: 48,
+              decoration: BoxDecoration(
+                color: Colors.white.withValues(alpha: 0.1),
+                shape: BoxShape.circle,
+                border: Border.all(
+                  color: Colors.white.withValues(alpha: 0.3),
+                  width: 1,
+                ),
+              ),
+              child: const Icon(
+                Icons.videocam,
+                color: Colors.white,
+                size: 24,
               ),
             ),
           ),

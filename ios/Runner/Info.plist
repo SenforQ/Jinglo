@@ -59,7 +59,13 @@
 	<key>NSMicrophoneUsageDescription</key>
 	<string>We need access to your microphone for voice calls.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>This app needs photo library access to select photos for avatar.</string>
+	<string>This app needs access to photo library for sharing images</string>
+	<key>NSPrivacyCollectedDataTypes</key>
+	<array/>
+	<key>NSPrivacyTracking</key>
+	<false/>
+	<key>NSPrivacyTrackingDomains</key>
+	<array/>
 	<key>NSUserTrackingUsageDescription</key>
 	<string>Accessing device identifier information will be used push personalized advertising services</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
