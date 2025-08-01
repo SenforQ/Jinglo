@@ -5,11 +5,25 @@
     "NSPrivacyAccessedAPITypes": [
         {
             "type": "NSPrivacyAccessedAPICategoryUserDefaults",
-            "reason": "This app needs to store user preferences"
+            "reason": "App functionality requires storing user preferences"
         },
         {
             "type": "NSPrivacyAccessedAPICategoryFileTimestamp",
-            "reason": "This app needs to access file timestamps for sharing files"
+            "reason": "App functionality requires access to file timestamps"
+        },
+        {
+            "type": "NSPrivacyAccessedAPICategorySystemBootTime",
+            "reason": "App functionality requires access to system boot time"
+        },
+        {
+            "type": "NSPrivacyAccessedAPICategoryDiskSpace",
+            "reason": "App functionality requires access to disk space information"
         }
-    ]
+    ],
+    "NSPrivacyAccessedAPITypeReasons": {
+        "NSPrivacyAccessedAPICategoryUserDefaults": "Store user preferences and app settings",
+        "NSPrivacyAccessedAPICategoryFileTimestamp": "Manage shared content",
+        "NSPrivacyAccessedAPICategorySystemBootTime": "System requirements",
+        "NSPrivacyAccessedAPICategoryDiskSpace": "Manage local storage"
+    }
 } 
