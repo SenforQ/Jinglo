@@ -39,6 +39,8 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
 	<key>MinimumOSVersion</key>
 	<string>13.0</string>
 	<key>NSAppTransportSecurity</key>
@@ -66,10 +68,6 @@
 	<false/>
 	<key>NSPrivacyTrackingDomains</key>
 	<array/>
-	<key>LSSupportsOpeningDocumentsInPlace</key>
-	<true/>
-	<key>UIFileSharingEnabled</key>
-	<true/>
 	<key>NSUserTrackingUsageDescription</key>
 	<string>Accessing device identifier information will be used push personalized advertising services</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
@@ -78,6 +76,8 @@
 	<array>
 		<string>audio</string>
 	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

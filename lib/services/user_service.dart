@@ -15,7 +15,7 @@ class UserService {
   static Stream<String> get userActionStream => _userActionController.stream;
   
   // 发送用户操作事件
-  static void _notifyUserAction(String action) {
+  static void notifyUserAction(String action) {
     _userActionController.add(action);
   }
 
@@ -48,7 +48,11 @@ class UserService {
       await saveUserInfo(updatedUserInfo);
     }
     
-    return updatedUserInfo;
+    // 获取VIP状态
+    final isVip = prefs.getBool('user_vip_active') ?? false;
+    final finalUserInfo = updatedUserInfo.copyWith(isVip: isVip);
+    
+    return finalUserInfo;
   }
 
   // 保存用户信息
@@ -65,6 +69,7 @@ class UserService {
     String? signature,
     int? followers,
     int? following,
+    bool? isVip,
   }) async {
     final currentUser = await getUserInfo();
     final updatedUser = currentUser.copyWith(
@@ -73,6 +78,7 @@ class UserService {
       signature: signature,
       followers: followers,
       following: following,
+      isVip: isVip,
     );
     await saveUserInfo(updatedUser);
   }
@@ -105,7 +111,7 @@ class UserService {
       blockedUsers.add(userId);
       await prefs.setStringList(_blockedUsersKey, blockedUsers);
       // 通知其他页面刷新数据
-      _notifyUserAction('user_blocked');
+      notifyUserAction('user_blocked');
     }
   }
 
@@ -138,7 +144,7 @@ class UserService {
       hiddenUsers.add(userId);
       await prefs.setStringList(_hiddenUsersKey, hiddenUsers);
       // 通知其他页面刷新数据
-      _notifyUserAction('user_hidden');
+      notifyUserAction('user_hidden');
     }
   }
 
@@ -174,7 +180,7 @@ class UserService {
       followedUsers.add(userId);
       await prefs.setStringList(_followedUsersKey, followedUsers);
       // 通知其他页面刷新数据
-      _notifyUserAction('user_followed');
+      notifyUserAction('user_followed');
     }
   }
 
@@ -185,7 +191,7 @@ class UserService {
     followedUsers.remove(userId);
     await prefs.setStringList(_followedUsersKey, followedUsers);
     // 通知其他页面刷新数据
-    _notifyUserAction('user_unfollowed');
+    notifyUserAction('user_unfollowed');
   }
 
   // 检查用户是否被关注

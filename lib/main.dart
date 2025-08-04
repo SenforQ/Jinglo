@@ -6,7 +6,8 @@ import 'pages/mine_page.dart';
 import 'pages/welcome_page.dart';
 import 'widgets/music_player_widget.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const JingloApp());
 }
 

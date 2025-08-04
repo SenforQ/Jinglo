@@ -5,6 +5,9 @@ import '../services/user_service.dart';
 import 'privacy_policy_page.dart';
 import 'user_agreement_page.dart';
 import 'about_us_page.dart';
+import 'vip_page.dart';
+import 'wallet_page.dart';
+import 'editor_info_page.dart';
 
 class MinePage extends StatefulWidget {
   const MinePage({super.key});
@@ -47,12 +50,14 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
   void _setupUserActionListener() {
     _userActionSubscription = UserService.userActionStream.listen((action) {
       debugPrint('MinePage received user action: $action');
-      if (action == 'user_followed' || action == 'user_unfollowed') {
-        debugPrint('MinePage refreshing data after follow action');
+      if (action == 'user_followed' || action == 'user_unfollowed' || action == 'vip_activated' || action == 'profile_updated') {
+        debugPrint('MinePage refreshing data after action: $action');
         _refreshUserInfo();
       }
     });
   }
+
+
 
   // 刷新用户信息
   void _refreshUserInfo() {
@@ -61,6 +66,7 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
 
   @override
   Widget build(BuildContext context) {
+    super.build(context);
     return Scaffold(
       backgroundColor: const Color(0xFF2F132E),
       body: _isLoading
@@ -69,7 +75,8 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
                 color: Colors.white,
               ),
             )
-          : Column(
+          : SingleChildScrollView(
+              child: Column(
               children: [
                 // 顶部背景图片
                 Container(
@@ -93,14 +100,19 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
                         child: Column(
                           children: [
                             // 用户头像
+                              Stack(
+                                alignment: Alignment.center,
+                                children: [
                             Container(
                               width: 82,
                               height: 82,
                               decoration: BoxDecoration(
                                 shape: BoxShape.circle,
                                 border: Border.all(
-                                  color: Colors.white,
-                                  width: 2,
+                                        color: _userInfo?.isVip == true 
+                                          ? const Color(0xFFFFD700) 
+                                          : Colors.white,
+                                        width: _userInfo?.isVip == true ? 3 : 2,
                                 ),
                               ),
                               child: ClipOval(
@@ -111,9 +123,41 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
                                   fit: BoxFit.cover,
                                 ),
                               ),
+                                  ),
+                                  // VIP标识符
+                                  if (_userInfo?.isVip == true)
+                                    Positioned(
+                                      bottom: 0,
+                                      right: 0,
+                                      child: Container(
+                                        width: 24,
+                                        height: 24,
+                                        decoration: BoxDecoration(
+                                          shape: BoxShape.circle,
+                                          gradient: const LinearGradient(
+                                            colors: [Color(0xFFFFD700), Color(0xFFFFA500)],
+                                            begin: Alignment.topLeft,
+                                            end: Alignment.bottomRight,
+                                          ),
+                                          border: Border.all(
+                                            color: Colors.white,
+                                            width: 2,
+                                          ),
+                                        ),
+                                        child: const Icon(
+                                          Icons.star,
+                                          color: Colors.white,
+                                          size: 14,
+                                        ),
+                                      ),
+                                    ),
+                                ],
                             ),
                             const SizedBox(height: 16),
-                            // 用户姓名
+                              // 用户姓名和VIP标识
+                              Row(
+                                mainAxisAlignment: MainAxisAlignment.center,
+                                children: [
                             Text(
                               _userInfo?.name ?? 'Jinglo985',
                               style: const TextStyle(
@@ -121,6 +165,30 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
                                 fontWeight: FontWeight.bold,
                                 color: Colors.white,
                               ),
+                                  ),
+                                  if (_userInfo?.isVip == true) ...[
+                                    const SizedBox(width: 8),
+                                    Container(
+                                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                                      decoration: BoxDecoration(
+                                        gradient: const LinearGradient(
+                                          colors: [Color(0xFFFFD700), Color(0xFFFFA500)],
+                                          begin: Alignment.centerLeft,
+                                          end: Alignment.centerRight,
+                                        ),
+                                        borderRadius: BorderRadius.circular(12),
+                                      ),
+                                      child: const Text(
+                                        'VIP',
+                                        style: TextStyle(
+                                          color: Colors.white,
+                                          fontSize: 12,
+                                          fontWeight: FontWeight.bold,
+                                        ),
+                                      ),
+                                    ),
+                                  ],
+                                ],
                             ),
                             const SizedBox(height: 8),
                             // 个性签名
@@ -199,9 +267,69 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
                     ],
                   ),
                 ),
+                  const SizedBox(height: 16),
+                  // 两个模块之间的图片区域
+                  Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 18.0), // 36/2 = 18
+                    child: Row(
+                      children: [
+                        // 左侧图片
+                        Expanded(
+                          child: GestureDetector(
+                            onTap: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => const VipPage(),
+                                ),
+                              );
+                            },
+                            child: AspectRatio(
+                              aspectRatio: 1.92, // 宽高比2.5:1，让高度自适应
+                              child: Container(
+                                decoration: BoxDecoration(
+                                  borderRadius: BorderRadius.circular(8),
+                                  image: const DecorationImage(
+                                    image: AssetImage('assets/vip_icon_20250801.png'),
+                                    fit: BoxFit.cover,
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(width: 12),
+                        // 右侧图片
+                        Expanded(
+                          child: GestureDetector(
+                            onTap: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => const WalletPage(),
+                                ),
+                              );
+                            },
+                            child: AspectRatio(
+                              aspectRatio: 1.92, // 宽高比2.5:1，让高度自适应
+                              child: Container(
+                                decoration: BoxDecoration(
+                                  borderRadius: BorderRadius.circular(8),
+                                  image: const DecorationImage(
+                                    image: AssetImage('assets/wallet_icon_20250801.png'),
+                                    fit: BoxFit.cover,
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 0),
                 // 下半部分功能区
-                Expanded(
-                  child: Padding(
+                  Padding(
                     padding: const EdgeInsets.only(left: 20.0, right: 20.0, top: 20.0, bottom: 90.0),
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -219,7 +347,6 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
                         // 功能卡片区域
                         Container(
                           width: double.infinity,
-                          height: 188,
                           decoration: BoxDecoration(
                             color: const Color(0xFF666666),
                             borderRadius: BorderRadius.circular(12),
@@ -229,28 +356,37 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
                             child: Column(
                               children: [
                                 // 第一行：Privacy Policy、Setting、About us
-                                Expanded(
-                                  child: Row(
+                                Row(
                                     children: [
                                        // Setting
                                       Expanded(
-                                        child: Column(
-                                          mainAxisAlignment: MainAxisAlignment.center,
-                                          children: [
-                                            Image.asset(
-                                              'assets/me_setting_20250724.png',
-                                              width: 32,
-                                              height: 32,
-                                            ),
-                                            const SizedBox(height: 8),
-                                            const Text(
-                                              'Editor Info',
-                                              style: TextStyle(
-                                                fontSize: 12,
-                                                color: Colors.white,
+                                        child: GestureDetector(
+                                          onTap: () {
+                                            Navigator.push(
+                                              context,
+                                              MaterialPageRoute(
+                                                builder: (context) => const EditorInfoPage(),
                                               ),
-                                            ),
-                                          ],
+                                            );
+                                          },
+                                          child: Column(
+                                            mainAxisAlignment: MainAxisAlignment.center,
+                                            children: [
+                                              Image.asset(
+                                                'assets/me_setting_20250724.png',
+                                                width: 32,
+                                                height: 32,
+                                              ),
+                                              const SizedBox(height: 8),
+                                              const Text(
+                                                'Editor Info',
+                                                style: TextStyle(
+                                                  fontSize: 12,
+                                                  color: Colors.white,
+                                                ),
+                                              ),
+                                            ],
+                                          ),
                                         ),
                                       ),
                                       // Privacy Policy
@@ -318,10 +454,9 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
                                       ),
                                     ],
                                   ),
-                                ),
+                                const SizedBox(height: 20),
                                 // 第二行：User Agreement
-                                Expanded(
-                                  child: Row(
+                                Row(
                                     children: [
                                       // User Agreement
                                       Expanded(
@@ -359,7 +494,6 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
                                       // 预留空间
                                       const Expanded(child: SizedBox()),
                                     ],
-                                  ),
                                 ),
                               ],
                             ),
@@ -368,8 +502,8 @@ class _MinePageState extends State<MinePage> with AutomaticKeepAliveClientMixin 
                       ],
                     ),
                   ),
+                ],
                 ),
-              ],
             ),
     );
   }

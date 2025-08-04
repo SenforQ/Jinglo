@@ -23,11 +23,13 @@ class _AiDancePageState extends State<AiDancePage> with AutomaticKeepAliveClient
   bool _isLoading = false;
   bool _showChat = false;
   UserInfo? _userInfo;
+  int _currentCoins = 0; // 当前金币余额
 
   @override
   void initState() {
     super.initState();
     _loadUserInfo();
+    _loadCoins();
   }
 
   @override
@@ -51,6 +53,49 @@ class _AiDancePageState extends State<AiDancePage> with AutomaticKeepAliveClient
         _userInfo = UserInfo.defaultUser;
       });
     }
+  }
+
+  Future<void> _loadCoins() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _currentCoins = prefs.getInt('user_coins') ?? 0;
+    });
+  }
+
+  Future<bool> _checkAndDeductCoins() async {
+    if (_currentCoins < 2) {
+      // 金币不足，显示提示
+      Fluttertoast.showToast(
+        msg: 'Insufficient coins. You need 2 coins to chat with AI. Please purchase coins in the wallet.',
+        toastLength: Toast.LENGTH_LONG,
+        gravity: ToastGravity.CENTER,
+        backgroundColor: const Color(0xFFFF6B6B),
+        textColor: Colors.white,
+        fontSize: 16.0,
+      );
+      return false;
+    }
+
+    // 扣除2金币
+    final prefs = await SharedPreferences.getInstance();
+    final newCoins = _currentCoins - 2;
+    await prefs.setInt('user_coins', newCoins);
+    
+    setState(() {
+      _currentCoins = newCoins;
+    });
+
+    // 显示扣除提示
+    Fluttertoast.showToast(
+      msg: '2 coins deducted. Remaining: $_currentCoins coins',
+      toastLength: Toast.LENGTH_SHORT,
+      gravity: ToastGravity.CENTER,
+      backgroundColor: const Color(0xFF4CAF50),
+      textColor: Colors.white,
+      fontSize: 16.0,
+    );
+
+    return true;
   }
 
   Future<void> _saveChatHistory() async {
@@ -126,7 +171,11 @@ class _AiDancePageState extends State<AiDancePage> with AutomaticKeepAliveClient
     _sendPresetMessage(question);
   }
 
-  void _sendPresetMessage(String message) {
+  void _sendPresetMessage(String message) async {
+    // 检查并扣除金币
+    final canSend = await _checkAndDeductCoins();
+    if (!canSend) return;
+    
     // 直接发送消息，不设置到输入框
     _sendMessageInternal(message, clearInput: false);
   }
@@ -134,6 +183,10 @@ class _AiDancePageState extends State<AiDancePage> with AutomaticKeepAliveClient
   Future<void> _sendMessage() async {
     final message = _messageController.text.trim();
     if (message.isEmpty || _isLoading) return;
+    
+    // 检查并扣除金币
+    final canSend = await _checkAndDeductCoins();
+    if (!canSend) return;
     
     _sendMessageInternal(message, clearInput: true);
   }
@@ -267,6 +320,7 @@ class _AiDancePageState extends State<AiDancePage> with AutomaticKeepAliveClient
 
   @override
   Widget build(BuildContext context) {
+    super.build(context);
     // 获取屏幕高度
     final screenHeight = MediaQuery.of(context).size.height;
     
@@ -375,19 +429,62 @@ class _AiDancePageState extends State<AiDancePage> with AutomaticKeepAliveClient
   }
 
   Widget _buildChatArea() {
-    return Container(
-      margin: const EdgeInsets.symmetric(horizontal: 16),
-      child: ListView.builder(
-        controller: _scrollController,
-        padding: const EdgeInsets.only(bottom: 20),
-        itemCount: _messages.length + (_isLoading ? 1 : 0),
-        itemBuilder: (context, index) {
-          if (index == _messages.length && _isLoading) {
-            return _buildLoadingMessage();
-          }
-          return _buildMessageBubble(_messages[index]);
-        },
-      ),
+    return Column(
+      children: [
+        // 金币余额显示
+        Container(
+          margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+          decoration: BoxDecoration(
+            color: const Color(0xFF591C47),
+            borderRadius: BorderRadius.circular(20),
+          ),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              const Icon(
+                Icons.monetization_on,
+                color: Color(0xFFFFD700),
+                size: 20,
+              ),
+              const SizedBox(width: 8),
+              Text(
+                '$_currentCoins coins',
+                style: const TextStyle(
+                  color: Color(0xFFFFD700),
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              const SizedBox(width: 8),
+              Text(
+                '(2 coins per message)',
+                style: const TextStyle(
+                  color: Colors.white70,
+                  fontSize: 12,
+                ),
+              ),
+            ],
+          ),
+        ),
+        // 聊天消息列表
+        Expanded(
+          child: Container(
+            margin: const EdgeInsets.symmetric(horizontal: 16),
+            child: ListView.builder(
+              controller: _scrollController,
+              padding: const EdgeInsets.only(bottom: 20),
+              itemCount: _messages.length + (_isLoading ? 1 : 0),
+              itemBuilder: (context, index) {
+                if (index == _messages.length && _isLoading) {
+                  return _buildLoadingMessage();
+                }
+                return _buildMessageBubble(_messages[index]);
+              },
+            ),
+          ),
+        ),
+      ],
     );
   }
 
@@ -655,7 +752,7 @@ class _AiDancePageState extends State<AiDancePage> with AutomaticKeepAliveClient
                 decoration: InputDecoration(
                   hintText: _isLoading 
                       ? 'AI is thinking...'
-                      : 'Do you have any questions for me~',
+                      : 'Do you have any questions for me~ (2 coins)',
                   hintStyle: TextStyle(
                     color: Colors.grey,
                     fontSize: 16,

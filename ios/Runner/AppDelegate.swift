@@ -3,17 +3,17 @@ import UIKit
 import AppTrackingTransparency
 @main
 @objc class AppDelegate: FlutterAppDelegate {
-  override func application(
-    _ application: UIApplication,
-    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
-  ) -> Bool {
-      DispatchQueue.main.asyncAfter(deadline: .now() + 4.5) {
-          if #available(iOS 14, *) {
-              ATTrackingManager.requestTrackingAuthorization { status in
-              }
+    override func application(
+        _ application: UIApplication,
+        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
+    ) -> Bool {
+        DispatchQueue.main.asyncAfter(deadline: .now() + 4.5) {
+            if #available(iOS 14, *) {
+                ATTrackingManager.requestTrackingAuthorization { status in
+                }
             }
-      }
-    GeneratedPluginRegistrant.register(with: self)
-    return super.application(application, didFinishLaunchingWithOptions: launchOptions)
-  }
+        }
+        GeneratedPluginRegistrant.register(with: self)
+        return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+    }
 }

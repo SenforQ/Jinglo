@@ -4,6 +4,7 @@ class UserInfo {
   final String signature;
   final int followers;
   final int following;
+  final bool isVip;
 
   UserInfo({
     required this.avatar,
@@ -11,6 +12,7 @@ class UserInfo {
     required this.signature,
     required this.followers,
     required this.following,
+    this.isVip = false,
   });
 
   // 默认用户信息
@@ -20,6 +22,7 @@ class UserInfo {
     signature: 'Love dancing is like love life',
     followers: 0,
     following: 0,
+    isVip: false,
   );
 
   // 从JSON转换为UserInfo对象
@@ -30,6 +33,7 @@ class UserInfo {
       signature: json['signature'] ?? 'Love dancing is like love life',
       followers: json['followers'] ?? 0,
       following: json['following'] ?? 0,
+      isVip: json['isVip'] ?? false,
     );
   }
 
@@ -41,6 +45,7 @@ class UserInfo {
       'signature': signature,
       'followers': followers,
       'following': following,
+      'isVip': isVip,
     };
   }
 
@@ -51,6 +56,7 @@ class UserInfo {
     String? signature,
     int? followers,
     int? following,
+    bool? isVip,
   }) {
     return UserInfo(
       avatar: avatar ?? this.avatar,
@@ -58,6 +64,7 @@ class UserInfo {
       signature: signature ?? this.signature,
       followers: followers ?? this.followers,
       following: following ?? this.following,
+      isVip: isVip ?? this.isVip,
     );
   }
 } 
