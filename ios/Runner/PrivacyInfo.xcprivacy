@@ -1,29 +1,47 @@
-{
-    "NSPrivacyTracking": false,
-    "NSPrivacyTrackingDomains": [],
-    "NSPrivacyCollectedDataTypes": [],
-    "NSPrivacyAccessedAPITypes": [
-        {
-            "type": "NSPrivacyAccessedAPICategoryUserDefaults",
-            "reason": "App functionality requires storing user preferences"
-        },
-        {
-            "type": "NSPrivacyAccessedAPICategoryFileTimestamp",
-            "reason": "App functionality requires access to file timestamps"
-        },
-        {
-            "type": "NSPrivacyAccessedAPICategorySystemBootTime",
-            "reason": "App functionality requires access to system boot time"
-        },
-        {
-            "type": "NSPrivacyAccessedAPICategoryDiskSpace",
-            "reason": "App functionality requires access to disk space information"
-        }
-    ],
-    "NSPrivacyAccessedAPITypeReasons": {
-        "NSPrivacyAccessedAPICategoryUserDefaults": "Store user preferences and app settings",
-        "NSPrivacyAccessedAPICategoryFileTimestamp": "Manage shared content",
-        "NSPrivacyAccessedAPICategorySystemBootTime": "System requirements",
-        "NSPrivacyAccessedAPICategoryDiskSpace": "Manage local storage"
-    }
-} 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPrivacyAccessedAPITypes</key>
+	<array>
+		<dict>
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryDiskSpace</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>E174.1</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryFileTimestamp</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>C617.1</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategorySystemBootTime</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>35F9.1</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryUserDefaults</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>CA92.1</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSPrivacyCollectedDataTypes</key>
+	<array/>
+	<key>NSPrivacyTrackingDomains</key>
+	<array/>
+	<key>NSPrivacyTracking</key>
+	<false/>
+</dict>
+</plist>

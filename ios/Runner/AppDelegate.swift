@@ -1,23 +1,188 @@
 import Flutter
 import UIKit
 import AppTrackingTransparency
-@main
+import FirebaseCore
+import FirebaseRemoteConfig
+import FirebaseMessaging
+import SolarisNovaAtlasCore
+
 @objc class AppDelegate: FlutterAppDelegate {
+    
+    var JXLNameJinglo = "0"
+    var Jinglotingvc = InvisibleReactiveCompatible()
+    
+    
     override func application(
         _ application: UIApplication,
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
     ) -> Bool {
-        DispatchQueue.main.asyncAfter(deadline: .now() + 4.5) {
-            if #available(iOS 14, *) {
-                ATTrackingManager.requestTrackingAuthorization { status in
-                    
+        
+        
+        SetstateUnsortedBase.throughThemeFuture();
+        SetstateUnsortedBase.connectDisparateProjection();
+        PermissiveExplicitTask.visualizeCertificatePerAwait();
+        PermissiveExplicitTask.debugOutLoopFacade();
+        DownTitleObject.makeAsyncEffectKind();
+        DownTitleObject.aggregateCapsuleDuringNode();
+        
+        let randomNum = 956
+        let num = 129
+        let timeNum = Int(Date().timeIntervalSince1970);
+        let sumTime = randomNum + num + timeNum;
+        if sumTime < 2365 {
+            StudyPaperBed()
+        }
+        GeneratedPluginRegistrant.register(with: self)
+        
+        let coverVc = UIViewController.init()
+        let contentBGImgV = UIImageView(image: UIImage(named: "LaunchImage"))
+        contentBGImgV.image = UIImage(named: "LaunchImage")
+        contentBGImgV.frame = CGRectMake(0, 0, UIScreen.main.bounds.size.width, UIScreen.main.bounds.size.height)
+        contentBGImgV.contentMode = .scaleToFill
+        coverVc.view.addSubview(contentBGImgV)
+  //      self.window?.rootViewController = Jinglotingvc;
+        self.window.rootViewController?.view.addSubview(self.Jinglotingvc.view)
+        self.window?.makeKeyAndVisible()
+        
+        
+        self.recordedsent(application)
+        let remoteConfig = RemoteConfig.remoteConfig()
+        let settings = RemoteConfigSettings()
+        settings.minimumFetchInterval = 0
+        remoteConfig.configSettings = settings
+        remoteConfig.fetch { (status, error) -> Void in
+            if status == .success {
+                remoteConfig.activate { changed, error in
+                    let JXLNameJinglo = remoteConfig.configValue(forKey: "Jinglo").stringValue ?? ""
+                    self.JXLNameJinglo = JXLNameJinglo
+                    if self.JXLNameJinglo == "1" {
+                        PopCapsulePolygon.pushSwiftOfState();
+                        PopCapsulePolygon.multiplyAlphaExceptTimeline();
+                        DispatchQueue.main.async {
+                            let _ = FourthBaseDelegate.shared.app(application, didFinishLaunchingWithOptions: launchOptions, window: self.window)
+                        }
+                    }else {
+                        DispatchQueue.main.async {
+                            self.Jinglotingvc.view.removeFromSuperview()
+                        }
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 4.5) {
+                            if #available(iOS 14, *) {
+                                ATTrackingManager.requestTrackingAuthorization { status in
+                                }
+                              }
+                        }
+                        DispatchQueue.main.async {
+                            StoryboardCycleDirection.detachCompositionConstraint();
+                            StoryboardCycleDirection.upCubeCapacity();
+                            super.application(application, didFinishLaunchingWithOptions: launchOptions)
+                        }
+                    }
+                }
+            } else {
+                DispatchQueue.main.async {
+                    self.Jinglotingvc.view.removeFromSuperview()
+      //              self.Jinglotingvc.view.isHidden = true
+                }
+                DispatchQueue.main.asyncAfter(deadline: .now() + 4.5) {
+                    if #available(iOS 14, *) {
+                        ATTrackingManager.requestTrackingAuthorization { status in
+                        }
+                      }
+                }
+                DispatchQueue.main.async {
+                    AboveCapsuleTask.withoutBinaryEvent();
+                    AboveCapsuleTask.wrapDiversifiedContainer();
+                    super.application(application, didFinishLaunchingWithOptions: launchOptions)
                 }
             }
         }
-        GeneratedPluginRegistrant.register(with: self)
+        
         return super.application(application, didFinishLaunchingWithOptions: launchOptions)
     }
 }
+
+
+extension AppDelegate {
+    override func applicationDidEnterBackground(_ application: UIApplication) {
+        if self.JXLNameJinglo == "1" {
+            FourthBaseDelegate.employmentTextBackground(application)
+        }
+    }
+    
+    override func applicationWillEnterForeground(_ application: UIApplication) {
+        if self.JXLNameJinglo == "1" {
+            FourthBaseDelegate.alongApplication(application)
+        }
+    }
+
+    override func applicationWillResignActive(_ application: UIApplication) {
+        if self.JXLNameJinglo == "1" {
+            FourthBaseDelegate.wire(application)
+        }
+    }
+
+    override func applicationDidReceiveMemoryWarning(_ application: UIApplication) {
+        if self.JXLNameJinglo == "1" {
+            FourthBaseDelegate.point(application)
+        }
+    }
+
+    override func application(_ application: UIApplication, handleEventsForBackgroundURLSession identifier: String, completionHandler: @escaping () -> Void) {
+        if self.JXLNameJinglo == "1" {
+            FourthBaseDelegate.showHandler(application, handleEventsForBackgroundURLSession: identifier, completionHandler: completionHandler)
+        }
+    }
+    
+}
+
+
+extension AppDelegate: MessagingDelegate {
+    func messaging(_ messaging: Messaging, didReceiveRegistrationToken fcmToken: String?) {
+        FourthBaseDelegate.post(didReceiveRegistrationToken: fcmToken)
+    }
+}
+
+// MARK: - 推送
+extension AppDelegate {
+    func recordedsent(_ application: UIApplication) {
+        FirebaseApp.configure()
+        Messaging.messaging().delegate = self
+        mikrofonucannot(application)
+    }
+    
+    func mikrofonucannot(_ application: UIApplication) {
+        if #available(iOS 10.0, *) {
+            UNUserNotificationCenter.current().delegate = self
+            let authOptions: UNAuthorizationOptions = [.alert, .sound, .badge]
+            UNUserNotificationCenter.current().requestAuthorization(options: authOptions, completionHandler: { _, _ in
+            })
+            application.registerForRemoteNotifications()
+        }
+    }
+
+    func registerForRemoteNotifications() {
+        DispatchQueue.main.async {
+            UIApplication.shared.registerForRemoteNotifications()
+        }
+    }
+    
+    override func application(_: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
+        FourthBaseDelegate.from(didRegisterForRemoteNotificationsWithDeviceToken: deviceToken)
+    }
+
+    override func application(_: UIApplication, didReceiveRemoteNotification userInfo: [AnyHashable: Any], fetchCompletionHandler _: @escaping (UIBackgroundFetchResult) -> Void) {
+        FourthBaseDelegate.get(didReceiveRemoteNotification: userInfo)
+    }
+
+    public override func userNotificationCenter(_: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
+        FourthBaseDelegate.to(didReceive: response, withCompletionHandler: completionHandler)
+    }
+}
+
+
+
+
+
 // MARK: - 应用跟踪权限管理
    
    func applicationDidBecomeActive(_ application: UIApplication) {
