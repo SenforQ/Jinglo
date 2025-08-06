@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBufferMargin</key>
+	<string>retainedBoxLeft</string>
+	<key>customizedTaskRight</key>
+	<string>symbolScopeTop</string>
+	<key>enabledCubeFeedback</key>
+	<string>basicInteractorPressure</string>
+	<key>signInterpreterTop</key>
+	<string>navigatorPerComposite</string>
+	<key>similarPointPosition</key>
+	<string>tickerWorkOrigin</string>
+	<key>standaloneGrayscaleTail</key>
+	<string>commonGetxSpeed</string>
+	<key>stepTierBound</key>
+	<string>buttonOutsidePrototype</string>
+</dict>
+</plist>

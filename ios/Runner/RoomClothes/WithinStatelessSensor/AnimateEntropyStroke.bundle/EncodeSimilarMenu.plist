@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAroundStage</key>
+	<string>euclideanSineRight</string>
+	<key>ephemeralConstraintSpeed</key>
+	<string>frameWorkEdge</string>
+	<key>loopThroughCommand</key>
+	<string>smallSeguePressure</string>
+	<key>mediumDependencyPadding</key>
+	<string>rowForJob</string>
+	<key>popupModeBorder</key>
+	<string>segueIncludeTemple</string>
+	<key>usedTransformerColor</key>
+	<string>specifyPriorityTag</string>
+	<key>widgetFormPressure</key>
+	<string>taskPerTask</string>
+</dict>
+</plist>

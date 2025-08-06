@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPhaseShape</key>
+	<string>oldGroupCoord</string>
+	<key>callbackByBridge</key>
+	<string>directlyBuilderVisible</string>
+	<key>controllerMementoStatus</key>
+	<string>asyncMemberShade</string>
+	<key>futureTierStyle</key>
+	<string>layoutUntilCommand</string>
+	<key>modelInterpreterFormat</key>
+	<string>particleFromInterpreter</string>
+	<key>observerLayerFormat</key>
+	<string>durationAroundPattern</string>
+	<key>spriteOperationSpacing</key>
+	<string>characterVersusSystem</string>
+	<key>subsequentModelAppearance</key>
+	<string>normParamDistance</string>
+</dict>
+</plist>

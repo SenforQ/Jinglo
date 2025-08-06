@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedProgressbarAcceleration</key>
+	<string>storeOfAction</string>
+	<key>decorationAwayProxy</key>
+	<string>queueSystemSaturation</string>
+	<key>fixedModalEdge</key>
+	<string>textDecoratorHead</string>
+	<key>navigatorBridgeInteraction</key>
+	<string>callbackProcessContrast</string>
+	<key>resolverChainSpeed</key>
+	<string>mainBlocSize</string>
+	<key>seamlessSineBorder</key>
+	<string>constVectorBottom</string>
+</dict>
+</plist>

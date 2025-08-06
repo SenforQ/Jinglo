@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWorkFormat</key>
+	<string>marginActivityStatus</string>
+	<key>callbackObserverCount</key>
+	<string>containerOutsideStrategy</string>
+	<key>channelsInChain</key>
+	<string>missedZoneRate</string>
+	<key>dynamicTaskOrientation</key>
+	<string>largeFrameRate</string>
+	<key>marginThroughLevel</key>
+	<string>significantFeatureDepth</string>
+	<key>offsetAsMemento</key>
+	<string>persistentRouterValidation</string>
+	<key>spotSingletonLocation</key>
+	<string>sizeAroundPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectVersusAction</key>
+	<string>allocatorAlongActivity</string>
+	<key>geometricVectorStyle</key>
+	<string>customReducerDistance</string>
+	<key>keyStackSkewx</key>
+	<string>cellLevelSize</string>
+	<key>observerAndCommand</key>
+	<string>listenerBufferDensity</string>
+</dict>
+</plist>

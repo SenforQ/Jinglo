@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAgainstInterpreter</key>
+	<string>storeLikeValue</string>
+	<key>independentDurationFlags</key>
+	<string>compositionalMetadataTail</string>
+	<key>memberOperationBrightness</key>
+	<string>containerStructureOffset</string>
+	<key>semanticModelSaturation</key>
+	<string>transitionStageDepth</string>
+	<key>zoneStrategyInteraction</key>
+	<string>cupertinoNodeInteraction</string>
+</dict>
+</plist>

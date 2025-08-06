@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitSingletonCoord</key>
+	<string>reductionBufferDuration</string>
+	<key>curveVisitorVisible</key>
+	<string>pinchableReducerStyle</string>
+	<key>factoryMediatorMode</key>
+	<string>transitionOfStructure</string>
+	<key>fusedCellBottom</key>
+	<string>eventVariableInset</string>
+	<key>menuShapeSpacing</key>
+	<string>mapMementoDistance</string>
+	<key>menuStructureTransparency</key>
+	<string>effectStructureCount</string>
+	<key>mobxFlyweightTop</key>
+	<string>painterProxyFormat</string>
+	<key>oldSpriteOrientation</key>
+	<string>mapWithBuffer</string>
+	<key>projectionNearPattern</key>
+	<string>semanticTopicDistance</string>
+	<key>routerMediatorFlags</key>
+	<string>dependencyWithKind</string>
+</dict>
+</plist>

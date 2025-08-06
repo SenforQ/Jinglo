@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelViaPhase</key>
+	<string>batchFlyweightResponse</string>
+	<key>expandedMethodTint</key>
+	<string>loopSinceFunction</string>
+	<key>overlayTaskFormat</key>
+	<string>storeAlongPlatform</string>
+	<key>tweenMediatorBorder</key>
+	<string>similarAnimationEdge</string>
+	<key>unaryVersusSingleton</key>
+	<string>unactivatedRectTag</string>
+</dict>
+</plist>

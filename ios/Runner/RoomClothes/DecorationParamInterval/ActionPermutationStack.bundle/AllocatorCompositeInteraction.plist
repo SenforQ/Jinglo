@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseGraphVelocity</key>
+	<string>standaloneInkwellTint</string>
+	<key>elasticCaptionRight</key>
+	<string>commonCatalystTag</string>
+	<key>graphAlongFramework</key>
+	<string>sliderFrameworkHue</string>
+	<key>labelAboutAdapter</key>
+	<string>injectionCompositeInterval</string>
+	<key>pinchableVariantSpacing</key>
+	<string>buttonAroundPlatform</string>
+</dict>
+</plist>

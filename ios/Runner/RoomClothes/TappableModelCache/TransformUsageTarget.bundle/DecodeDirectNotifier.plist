@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeModulusSkewx</key>
+	<string>largeAllocatorFormat</string>
+	<key>callbackByLevel</key>
+	<string>asyncTypeAcceleration</string>
+	<key>descriptionStylePosition</key>
+	<string>permissiveProviderInteraction</string>
+	<key>instructionBufferBehavior</key>
+	<string>groupAmongSingleton</string>
+	<key>segueAsMode</key>
+	<string>finalDropdownbuttonPosition</string>
+	<key>sessionContainType</key>
+	<string>painterIncludeFramework</string>
+	<key>skinCommandFrequency</key>
+	<string>ignoredQueueInteraction</string>
+</dict>
+</plist>

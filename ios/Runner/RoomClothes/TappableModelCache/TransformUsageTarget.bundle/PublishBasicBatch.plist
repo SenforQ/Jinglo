@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerValueVisible</key>
+	<string>sessionFromPhase</string>
+	<key>inactiveObserverDuration</key>
+	<string>frameAlongProxy</string>
+	<key>requestBeyondObserver</key>
+	<string>gridChainEdge</string>
+	<key>storeMementoShape</key>
+	<string>crucialPaddingBorder</string>
+	<key>tabbarOutsideFacade</key>
+	<string>integerAlongStrategy</string>
+</dict>
+</plist>

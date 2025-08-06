@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowPlatformBorder</key>
+	<string>pivotalSymbolOffset</string>
+	<key>curveWithoutParam</key>
+	<string>cubitAndAction</string>
+	<key>ephemeralKernelKind</key>
+	<string>numericalAwaitBorder</string>
+	<key>flexibleLossAppearance</key>
+	<string>checkboxAboutCycle</string>
+	<key>missedCallbackFeedback</key>
+	<string>respectiveResourceState</string>
+	<key>mobxJobInteraction</key>
+	<string>sliderAwayShape</string>
+	<key>persistentAxisVisibility</key>
+	<string>positionAtAction</string>
+	<key>protocolOutsideMethod</key>
+	<string>interactorWithoutVariable</string>
+	<key>sequentialWidgetSize</key>
+	<string>fragmentWorkInset</string>
+</dict>
+</plist>

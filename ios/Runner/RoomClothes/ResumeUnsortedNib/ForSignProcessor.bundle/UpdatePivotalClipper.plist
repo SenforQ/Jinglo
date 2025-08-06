@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandThroughBridge</key>
+	<string>chartAlongChain</string>
+	<key>firstScenePosition</key>
+	<string>smallHistogramDelay</string>
+	<key>geometricStorageHue</key>
+	<string>timerSystemVisibility</string>
+	<key>isolateSingletonTheme</key>
+	<string>positionBufferAlignment</string>
+	<key>presenterNearState</key>
+	<string>dependencyEnvironmentBrightness</string>
+	<key>routerThanMethod</key>
+	<string>sizeForPhase</string>
+	<key>variantBufferDensity</key>
+	<string>singleTabbarSpacing</string>
+</dict>
+</plist>

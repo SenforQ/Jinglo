@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFrameworkTransparency</key>
+	<string>isolateOperationBrightness</string>
+	<key>cursorProcessBorder</key>
+	<string>backwardLabelPadding</string>
+	<key>labelVersusParameter</key>
+	<string>sampleUntilProxy</string>
+	<key>mainHeapPressure</key>
+	<string>promiseDuringJob</string>
+	<key>popupSinceVisitor</key>
+	<string>sortedControllerTheme</string>
+	<key>rectProcessAlignment</key>
+	<string>batchBeyondParameter</string>
+	<key>scaleKindInterval</key>
+	<string>publicArithmeticBound</string>
+	<key>scrollableCursorPadding</key>
+	<string>titleForPattern</string>
+	<key>sessionTempleMargin</key>
+	<string>intensityStyleFormat</string>
+</dict>
+</plist>

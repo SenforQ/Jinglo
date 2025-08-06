@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardUsecasePadding</key>
+	<string>sortedUsageOrientation</string>
+	<key>concreteGroupType</key>
+	<string>frameThroughFramework</string>
+	<key>controllerOfStrategy</key>
+	<string>resolverPatternContrast</string>
+	<key>coordinatorAgainstDecorator</key>
+	<string>discardedExponentTail</string>
+	<key>resultUntilMemento</key>
+	<string>similarCubitLocation</string>
+	<key>signatureAlongSingleton</key>
+	<string>storyboardCompositeAlignment</string>
+	<key>tappableIntensityBorder</key>
+	<string>animatedcontainerInMediator</string>
+	<key>usecasePlatformOpacity</key>
+	<string>ephemeralEntityVisible</string>
+</dict>
+</plist>

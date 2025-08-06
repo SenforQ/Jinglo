@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardMissionSkewx</key>
+	<string>primaryTaskSpeed</string>
+	<key>particlePatternTransparency</key>
+	<string>bitrateWithoutKind</string>
+	<key>sizeMementoRate</key>
+	<string>delegateFunctionCoord</string>
+	<key>spriteProcessOrigin</key>
+	<string>commonOverlayTransparency</string>
+</dict>
+</plist>

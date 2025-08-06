@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintFlyweightStatus</key>
+	<string>checkboxVersusChain</string>
+	<key>declarativeProfileBehavior</key>
+	<string>presenterContainOperation</string>
+	<key>resizableContainerColor</key>
+	<string>prismaticAnchorBehavior</string>
+	<key>routerChainStyle</key>
+	<string>specifyEventMode</string>
+</dict>
+</plist>

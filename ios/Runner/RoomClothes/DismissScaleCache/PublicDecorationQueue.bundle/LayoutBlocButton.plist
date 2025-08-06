@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardProxyDistance</key>
+	<string>kernelExceptMemento</string>
+	<key>graphicBridgeAlignment</key>
+	<string>futureDuringComposite</string>
+	<key>listenerWithoutMemento</key>
+	<string>numericalStoreOrigin</string>
+	<key>notificationInComposite</key>
+	<string>aspectOperationSaturation</string>
+	<key>otherContainerVisibility</key>
+	<string>retainedImageDirection</string>
+	<key>prismaticBorderState</key>
+	<string>labelWorkOpacity</string>
+	<key>sizeShapeBottom</key>
+	<string>hyperbolicErrorDelay</string>
+	<key>stackDespitePlatform</key>
+	<string>workflowByObserver</string>
+</dict>
+</plist>

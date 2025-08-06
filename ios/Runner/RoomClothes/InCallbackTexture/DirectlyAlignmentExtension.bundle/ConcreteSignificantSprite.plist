@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDocumentDuration</key>
+	<string>anchorForTemple</string>
+	<key>customResolverColor</key>
+	<string>screenEnvironmentContrast</string>
+	<key>decorationContainValue</key>
+	<string>fixedCaptionLeft</string>
+	<key>layoutAlongTask</key>
+	<string>equalizationFromEnvironment</string>
+	<key>localizationContainMode</key>
+	<string>subscriptionParamHue</string>
+	<key>requestCycleAlignment</key>
+	<string>grayscaleVariableLeft</string>
+	<key>resourceTaskScale</key>
+	<string>zoneOfScope</string>
+	<key>semanticThreadOpacity</key>
+	<string>sceneAndLevel</string>
+	<key>textActivityShade</key>
+	<string>gesturedetectorTempleShade</string>
+</dict>
+</plist>

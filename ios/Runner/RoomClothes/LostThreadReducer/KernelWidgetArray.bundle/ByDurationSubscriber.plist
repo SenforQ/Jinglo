@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBesideState</key>
+	<string>chapterForSystem</string>
+	<key>chartLevelContrast</key>
+	<string>concurrentWidgetValidation</string>
+	<key>discardedInterpolationTheme</key>
+	<string>mutableCustompaintEdge</string>
+	<key>modalDespiteSingleton</key>
+	<string>euclideanRiverpodBorder</string>
+	<key>relationalLocalizationInteraction</key>
+	<string>crucialViewBrightness</string>
+	<key>responseLevelDensity</key>
+	<string>textPatternOrientation</string>
+</dict>
+</plist>

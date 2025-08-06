@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFromPhase</key>
+	<string>draggableOverlayFeedback</string>
+	<key>interpolationThroughAdapter</key>
+	<string>signatureKindFormat</string>
+	<key>layoutAroundCommand</key>
+	<string>sustainableBufferKind</string>
+	<key>metadataMethodCenter</key>
+	<string>taskThroughFacade</string>
+	<key>parallelInterpolationInset</key>
+	<string>responsiveChannelsAcceleration</string>
+	<key>spineWithoutValue</key>
+	<string>gridPrototypeMargin</string>
+</dict>
+</plist>

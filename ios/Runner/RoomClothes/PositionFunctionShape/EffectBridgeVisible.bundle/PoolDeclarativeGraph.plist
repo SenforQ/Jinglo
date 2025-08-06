@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCubitInteraction</key>
+	<string>scaleInAction</string>
+	<key>inheritedUsageContrast</key>
+	<string>sceneNearState</string>
+	<key>interactiveStorageAppearance</key>
+	<string>spineAlongTask</string>
+	<key>providerParamTint</key>
+	<string>accordionTransitionSkewy</string>
+	<key>queueEnvironmentPadding</key>
+	<string>normalRectColor</string>
+	<key>retainedWidgetOffset</key>
+	<string>rowNearScope</string>
+	<key>taskScopeColor</key>
+	<string>expandedParameterSpacing</string>
+</dict>
+</plist>

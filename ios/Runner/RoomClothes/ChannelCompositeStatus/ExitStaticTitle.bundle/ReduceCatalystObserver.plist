@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveTaskPosition</key>
+	<string>sizeAboutContext</string>
+	<key>customizedGradientAppearance</key>
+	<string>ignoredConstraintTransparency</string>
+	<key>eventOutsideKind</key>
+	<string>cubitPhaseMode</string>
+	<key>originalPresenterBehavior</key>
+	<string>viewBeyondScope</string>
+	<key>queryScopeVisibility</key>
+	<string>uniformCaptionOpacity</string>
+	<key>roleMementoTint</key>
+	<string>retainedFeatureFlags</string>
+	<key>smartCatalystVelocity</key>
+	<string>displayableControllerHue</string>
+	<key>subtleLossOrientation</key>
+	<string>bufferForPlatform</string>
+	<key>workflowExceptPhase</key>
+	<string>loopJobDistance</string>
+</dict>
+</plist>

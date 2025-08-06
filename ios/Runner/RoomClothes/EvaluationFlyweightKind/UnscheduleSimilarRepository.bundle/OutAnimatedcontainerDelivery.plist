@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constTransformerBehavior</key>
+	<string>decorationStyleFlags</string>
+	<key>exceptionStateLocation</key>
+	<string>parallelContainerState</string>
+	<key>globalDialogsLeft</key>
+	<string>progressbarValueStatus</string>
+	<key>optimizerAmongParameter</key>
+	<string>gridviewTaskDistance</string>
+	<key>resolverAsInterpreter</key>
+	<string>gestureParamBorder</string>
+	<key>singletonViaVariable</key>
+	<string>alignmentBufferTheme</string>
+</dict>
+</plist>

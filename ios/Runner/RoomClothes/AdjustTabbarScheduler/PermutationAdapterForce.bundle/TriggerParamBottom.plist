@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaqueryExceptComposite</key>
+	<string>builderParamOrientation</string>
+	<key>navigatorFlyweightStyle</key>
+	<string>desktopAwaitRight</string>
+	<key>rectInsideInterpreter</key>
+	<string>priorDecorationDirection</string>
+	<key>zoneFromTier</key>
+	<string>timerBridgeDensity</string>
+</dict>
+</plist>

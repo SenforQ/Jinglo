@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleKernelBorder</key>
+	<string>mobileByCommand</string>
+	<key>displayablePointShape</key>
+	<string>labelOutsideStyle</string>
+	<key>navigatorTypeDirection</key>
+	<string>customIntegerSpacing</string>
+	<key>nibLayerResponse</key>
+	<string>mobileZonePressure</string>
+	<key>precisionInterpreterResponse</key>
+	<string>allocatorAmongOperation</string>
+	<key>profileModeContrast</key>
+	<string>nativeNotificationPressure</string>
+	<key>slashContextInterval</key>
+	<string>builderBeyondBuffer</string>
+	<key>subscriptionPrototypeShape</key>
+	<string>materialManagerTheme</string>
+	<key>sustainableDelegateScale</key>
+	<string>chartOfKind</string>
+</dict>
+</plist>

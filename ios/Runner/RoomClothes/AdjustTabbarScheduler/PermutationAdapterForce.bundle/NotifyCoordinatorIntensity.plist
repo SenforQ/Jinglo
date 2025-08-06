@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectAgainstNumber</key>
+	<string>standaloneHandlerOpacity</string>
+	<key>gridStrategyFrequency</key>
+	<string>controllerActivityPadding</string>
+	<key>interpolationExceptPlatform</key>
+	<string>unactivatedDescriptorOpacity</string>
+	<key>momentumAroundPlatform</key>
+	<string>metadataMementoState</string>
+	<key>navigatorPatternLeft</key>
+	<string>roleMediatorMargin</string>
+</dict>
+</plist>

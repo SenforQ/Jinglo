@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStrategyHead</key>
+	<string>denseExpandedDuration</string>
+	<key>coordinatorStrategyInset</key>
+	<string>threadModeTag</string>
+	<key>cosineBridgeTag</key>
+	<string>checklistCompositeResponse</string>
+	<key>fixedFactorySkewx</key>
+	<string>featureActionVelocity</string>
+	<key>movementActivityInset</key>
+	<string>asyncSystemRotation</string>
+	<key>parallelFactoryBehavior</key>
+	<string>futureEnvironmentMargin</string>
+	<key>statelessIncludeValue</key>
+	<string>roleJobValidation</string>
+	<key>tabbarOutsidePhase</key>
+	<string>progressbarFromProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGraphFormat</key>
+	<string>sustainableCubitAlignment</string>
+	<key>customHashState</key>
+	<string>marginExceptInterpreter</string>
+	<key>pinchableFlexInteraction</key>
+	<string>gesturedetectorAndEnvironment</string>
+	<key>presenterCompositeStatus</key>
+	<string>sharedMatrixFormat</string>
+	<key>resizableBoxPressure</key>
+	<string>slashFunctionResponse</string>
+	<key>sessionProxyVisibility</key>
+	<string>canvasFlyweightBorder</string>
+	<key>standaloneChartVelocity</key>
+	<string>multiBehaviorOpacity</string>
+	<key>streamObserverFeedback</key>
+	<string>scrollInFunction</string>
+</dict>
+</plist>

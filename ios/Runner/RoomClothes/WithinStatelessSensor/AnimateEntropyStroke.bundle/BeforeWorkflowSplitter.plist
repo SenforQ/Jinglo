@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsDuringStage</key>
+	<string>disparateModalScale</string>
+	<key>dynamicCaptionPadding</key>
+	<string>dynamicTabviewInset</string>
+	<key>frameExceptFacade</key>
+	<string>alignmentDespiteFlyweight</string>
+	<key>mediocreMusicInset</key>
+	<string>singleCurveSpeed</string>
+	<key>similarChapterPosition</key>
+	<string>missedBatchCount</string>
+	<key>singleEntropyMomentum</key>
+	<string>rowAmongVar</string>
+</dict>
+</plist>

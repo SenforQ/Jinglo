@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentBlocMode</key>
+	<string>listenerScopePressure</string>
+	<key>gridVarOrientation</key>
+	<string>retainedSpotContrast</string>
+	<key>gridviewStageSkewx</key>
+	<string>mutableBuilderFrequency</string>
+	<key>publicMissionAlignment</key>
+	<string>synchronousNotifierStyle</string>
+	<key>scaffoldOutsideSingleton</key>
+	<string>textViaActivity</string>
+</dict>
+</plist>

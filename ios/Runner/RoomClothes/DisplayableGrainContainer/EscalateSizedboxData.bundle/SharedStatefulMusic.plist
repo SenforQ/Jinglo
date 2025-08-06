@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTierDirection</key>
+	<string>blocValueVisibility</string>
+	<key>gradientObserverBehavior</key>
+	<string>apertureObserverDensity</string>
+	<key>kernelForDecorator</key>
+	<string>activeCurveOrigin</string>
+	<key>layoutModeFeedback</key>
+	<string>nodeInsideStage</string>
+	<key>localizationStateDelay</key>
+	<string>advancedStorePosition</string>
+	<key>managerStageContrast</key>
+	<string>interfaceStructureFeedback</string>
+	<key>mobxCycleHue</key>
+	<string>heapBridgeDensity</string>
+	<key>textureAdapterPressure</key>
+	<string>interactiveWorkflowStatus</string>
+	<key>vectorTypeState</key>
+	<string>cosineFromTier</string>
+</dict>
+</plist>

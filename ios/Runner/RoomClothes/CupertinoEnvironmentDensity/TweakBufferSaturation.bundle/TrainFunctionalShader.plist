@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPatternDepth</key>
+	<string>prismaticActivityFrequency</string>
+	<key>futureCompositeInset</key>
+	<string>touchWithSystem</string>
+	<key>playbackAndSingleton</key>
+	<string>animationAlongProxy</string>
+	<key>secondInjectionSkewy</key>
+	<string>decorationStageStyle</string>
+</dict>
+</plist>

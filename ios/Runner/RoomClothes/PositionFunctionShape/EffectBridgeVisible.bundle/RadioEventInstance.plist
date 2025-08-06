@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationViaParameter</key>
+	<string>grainFlyweightRotation</string>
+	<key>columnAgainstCycle</key>
+	<string>referenceStageType</string>
+	<key>constraintInterpreterTag</key>
+	<string>significantMultiplicationRotation</string>
+	<key>inheritedSignatureBorder</key>
+	<string>appbarAtStage</string>
+	<key>navigatorStrategyVisible</key>
+	<string>pinchablePositionedTransparency</string>
+	<key>semanticManagerFeedback</key>
+	<string>interactiveThemeEdge</string>
+	<key>singletonActivityDistance</key>
+	<string>remainderOutsideTask</string>
+</dict>
+</plist>

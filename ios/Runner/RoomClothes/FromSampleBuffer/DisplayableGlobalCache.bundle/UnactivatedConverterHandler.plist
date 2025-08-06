@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLikeMode</key>
+	<string>buttonProcessStyle</string>
+	<key>behaviorStrategyBrightness</key>
+	<string>bufferLikeAction</string>
+	<key>chartCommandColor</key>
+	<string>mainCoordinatorBottom</string>
+	<key>crudeNodeFrequency</key>
+	<string>sampleWithEnvironment</string>
+	<key>deferredFeatureContrast</key>
+	<string>displayableReferenceBorder</string>
+	<key>finalTechniqueResponse</key>
+	<string>fragmentActionTail</string>
+	<key>localNavigatorOrigin</key>
+	<string>interactiveCardDepth</string>
+	<key>parallelIntensityOffset</key>
+	<string>layerLayerName</string>
+	<key>providerCycleKind</key>
+	<string>featureValueDensity</string>
+</dict>
+</plist>

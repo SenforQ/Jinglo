@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorForMethod</key>
+	<string>sineVariableOffset</string>
+	<key>batchWithoutForm</key>
+	<string>groupCompositeRate</string>
+	<key>eagerCompletionBottom</key>
+	<string>firstStateMargin</string>
+	<key>mediocreSliderInterval</key>
+	<string>listenerStateTint</string>
+	<key>screenStrategyInteraction</key>
+	<string>gestureForSystem</string>
+	<key>stampAgainstProxy</key>
+	<string>canvasVersusKind</string>
+	<key>tabviewFormBorder</key>
+	<string>activeCheckboxOrigin</string>
+	<key>timerIncludeFacade</key>
+	<string>usageMementoState</string>
+	<key>usedMenuSize</key>
+	<string>tabbarIncludeInterpreter</string>
+</dict>
+</plist>

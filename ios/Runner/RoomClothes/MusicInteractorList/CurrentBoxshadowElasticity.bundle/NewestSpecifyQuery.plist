@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logarithmFormBrightness</key>
+	<string>switchVersusFacade</string>
+	<key>particleInCommand</key>
+	<string>modelUntilAction</string>
+	<key>positionedTaskInteraction</key>
+	<string>frameAtEnvironment</string>
+	<key>synchronousFeatureHue</key>
+	<string>greatStampContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAmongObserver</key>
+	<string>isolateIncludeVariable</string>
+	<key>effectProcessInterval</key>
+	<string>eventContainContext</string>
+	<key>progressbarFunctionMode</key>
+	<string>layoutPerAction</string>
+	<key>radiusForVariable</key>
+	<string>contractionSingletonPosition</string>
+	<key>sineContainAction</key>
+	<string>vectorScopeScale</string>
+	<key>statePrototypeFormat</key>
+	<string>statelessDecorationFlags</string>
+	<key>subscriptionEnvironmentDelay</key>
+	<string>webResponseCenter</string>
+</dict>
+</plist>

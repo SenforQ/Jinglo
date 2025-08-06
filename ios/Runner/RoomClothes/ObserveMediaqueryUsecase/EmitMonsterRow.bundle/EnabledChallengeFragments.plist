@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAndProcess</key>
+	<string>allocatorProcessFrequency</string>
+	<key>completerInComposite</key>
+	<string>protocolBridgeOpacity</string>
+	<key>remainderVersusFlyweight</key>
+	<string>slashMethodOrientation</string>
+	<key>rowStructureTheme</key>
+	<string>sortedProgressbarCount</string>
+	<key>switchMethodVisibility</key>
+	<string>textStateAppearance</string>
+	<key>usecaseVersusEnvironment</key>
+	<string>seamlessPrecisionCoord</string>
+</dict>
+</plist>

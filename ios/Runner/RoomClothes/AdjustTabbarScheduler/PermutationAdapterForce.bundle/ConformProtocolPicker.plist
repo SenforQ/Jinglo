@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basePrototypeColor</key>
+	<string>stepUntilBuffer</string>
+	<key>concreteCupertinoDelay</key>
+	<string>profileAsValue</string>
+	<key>enabledOperationPosition</key>
+	<string>dropdownbuttonObserverFeedback</string>
+	<key>iterativeCommandTransparency</key>
+	<string>cupertinoMethodInterval</string>
+	<key>labelLikePhase</key>
+	<string>textTaskDelay</string>
+	<key>queryCompositeState</key>
+	<string>modelUntilTask</string>
+	<key>routeTaskTint</key>
+	<string>richtextOperationShade</string>
+	<key>tabviewNumberTransparency</key>
+	<string>storeMediatorAlignment</string>
+</dict>
+</plist>

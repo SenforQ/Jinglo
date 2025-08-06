@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperTempleBound</key>
+	<string>tappablePointStyle</string>
+	<key>contractionStructureState</key>
+	<string>storeActivityVelocity</string>
+	<key>groupExceptTemple</key>
+	<string>layoutWithoutMediator</string>
+	<key>labelOrTask</key>
+	<string>segueShapeOffset</string>
+	<key>musicOutsideFacade</key>
+	<string>durationMementoCount</string>
+	<key>responsiveNavigatorDistance</key>
+	<string>multiDurationBrightness</string>
+	<key>staticResolverDirection</key>
+	<string>capacitiesVisitorRotation</string>
+</dict>
+</plist>

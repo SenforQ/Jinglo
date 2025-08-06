@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchExceptEnvironment</key>
+	<string>singletonPlatformStyle</string>
+	<key>convolutionAsFacade</key>
+	<string>dialogsBesideTemple</string>
+	<key>denseZoneKind</key>
+	<string>spriteContextKind</string>
+	<key>interpolationFromSystem</key>
+	<string>prevAwaitVisible</string>
+	<key>numericalModulusInset</key>
+	<string>sustainableExtensionFrequency</string>
+	<key>promiseFunctionSkewx</key>
+	<string>oldStorageValidation</string>
+	<key>resolverAndDecorator</key>
+	<string>standaloneSpecifierCenter</string>
+	<key>tensorSliderBrightness</key>
+	<string>opaqueMenuHead</string>
+</dict>
+</plist>

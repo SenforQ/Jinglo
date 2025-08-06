@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSceneSkewx</key>
+	<string>isolateThanState</string>
+	<key>clipperContainScope</key>
+	<string>notificationAtParameter</string>
+	<key>semanticOptionFlags</key>
+	<string>appbarSystemVisible</string>
+	<key>servicePhaseContrast</key>
+	<string>overlayIncludeWork</string>
+	<key>sliderBridgeTint</key>
+	<string>actionByOperation</string>
+	<key>storageUntilScope</key>
+	<string>originalCompleterFrequency</string>
+	<key>visibleTaskFlags</key>
+	<string>screenSystemTop</string>
+</dict>
+</plist>

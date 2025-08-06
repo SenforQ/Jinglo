@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerIncludeInterpreter</key>
+	<string>interpolationPrototypeSpacing</string>
+	<key>expandedProxyOrigin</key>
+	<string>subscriptionOperationTop</string>
+	<key>firstChannelsSkewy</key>
+	<string>tabbarFlyweightAlignment</string>
+	<key>materialBuilderRotation</key>
+	<string>inactiveRouteOpacity</string>
+	<key>positionMementoRight</key>
+	<string>channelNearCommand</string>
+	<key>resolverOrChain</key>
+	<string>vectorMethodValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAmongCommand</key>
+	<string>resizableActionBehavior</string>
+	<key>callbackAtTask</key>
+	<string>positionUntilSystem</string>
+	<key>contractionStageVelocity</key>
+	<string>handlerPhaseDistance</string>
+	<key>entropyAlongEnvironment</key>
+	<string>permissiveDelegateDelay</string>
+	<key>featureProcessRotation</key>
+	<string>agileTimerSize</string>
+	<key>fusedSizeOpacity</key>
+	<string>apertureParamBottom</string>
+	<key>logarithmChainSaturation</key>
+	<string>boxAroundEnvironment</string>
+	<key>mediaWorkKind</key>
+	<string>scaleOutsideChain</string>
+	<key>progressbarValueShade</key>
+	<string>cursorByAdapter</string>
+	<key>robustDecorationStatus</key>
+	<string>desktopCommandRate</string>
+</dict>
+</plist>

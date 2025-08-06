@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTypeTheme</key>
+	<string>mainExceptionDistance</string>
+	<key>commandProxyType</key>
+	<string>resultInsideMediator</string>
+	<key>completerContainJob</key>
+	<string>navigatorMethodTension</string>
+	<key>dynamicChallengeTension</key>
+	<string>priorityScopeMode</string>
+	<key>inheritedActionOrientation</key>
+	<string>decorationStyleBottom</string>
+	<key>interactiveSubpixelEdge</key>
+	<string>factoryNearStyle</string>
+	<key>semanticTextfieldHead</key>
+	<string>graphPlatformPressure</string>
+	<key>subsequentOffsetStyle</key>
+	<string>persistentStackFrequency</string>
+	<key>touchSinceShape</key>
+	<string>alphaInsideProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPositionFormat</key>
+	<string>accessibleParticleIndex</string>
+	<key>cartesianNibVisible</key>
+	<string>sortedGraphFeedback</string>
+	<key>fixedThreadDelay</key>
+	<string>buttonCycleAppearance</string>
+	<key>gestureCycleSpacing</key>
+	<string>activityParameterSkewy</string>
+	<key>positionedUntilType</key>
+	<string>sceneNumberTheme</string>
+	<key>protectedEffectInset</key>
+	<string>localizationFromFramework</string>
+	<key>sceneVersusStage</key>
+	<string>intuitiveRowInset</string>
+	<key>subtleAspectratioVisible</key>
+	<string>webImageSkewx</string>
+	<key>unaryShapeVisibility</key>
+	<string>buttonThroughOperation</string>
+</dict>
+</plist>

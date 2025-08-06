@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitPhaseRotation</key>
+	<string>largeChannelsStatus</string>
+	<key>newestTopicDistance</key>
+	<string>newestUsecaseBehavior</string>
+	<key>otherCubitShape</key>
+	<string>dependencyByBuffer</string>
+	<key>plateFormSize</key>
+	<string>fusedButtonPadding</string>
+	<key>techniqueFlyweightShape</key>
+	<string>fusedProviderOrientation</string>
+	<key>viewContextDelay</key>
+	<string>rapidTaskTension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorPerForm</key>
+	<string>basicContainerOffset</string>
+	<key>borderLevelFeedback</key>
+	<string>topicFunctionInterval</string>
+	<key>criticalToolShape</key>
+	<string>textfieldPerStructure</string>
+	<key>easyGridRotation</key>
+	<string>rowObserverVelocity</string>
+	<key>providerWorkBorder</key>
+	<string>gateLayerStatus</string>
+	<key>spineChainHue</key>
+	<string>currentBehaviorAcceleration</string>
+	<key>transitionNumberSize</key>
+	<string>robustGridMode</string>
+</dict>
+</plist>

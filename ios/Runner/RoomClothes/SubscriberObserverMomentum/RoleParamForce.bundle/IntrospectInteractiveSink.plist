@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertIncludeShape</key>
+	<string>discardedGesturedetectorRate</string>
+	<key>arithmeticSceneAcceleration</key>
+	<string>metadataCommandForce</string>
+	<key>exceptionInStyle</key>
+	<string>decorationTierForce</string>
+	<key>factoryIncludeVisitor</key>
+	<string>richtextAboutCommand</string>
+	<key>particleOutsideFramework</key>
+	<string>baselineWithActivity</string>
+	<key>workflowMementoForce</key>
+	<string>rowSingletonSkewy</string>
+</dict>
+</plist>

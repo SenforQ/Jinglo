@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisIncludeDecorator</key>
+	<string>cubitCommandStyle</string>
+	<key>dynamicRemainderFrequency</key>
+	<string>smallTopicStyle</string>
+	<key>easyProjectAlignment</key>
+	<string>boxLevelTransparency</string>
+	<key>frameBeyondSingleton</key>
+	<string>timerLayerStyle</string>
+	<key>resolverAdapterFormat</key>
+	<string>dialogsMediatorHue</string>
+	<key>sizeDespiteProxy</key>
+	<string>rectIncludeCycle</string>
+	<key>themeShapeDelay</key>
+	<string>agileExpandedTransparency</string>
+	<key>unactivatedEntityShade</key>
+	<string>standaloneVectorTint</string>
+</dict>
+</plist>

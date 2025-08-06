@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBesideAdapter</key>
+	<string>cartesianLocalizationCoord</string>
+	<key>documentBeyondContext</key>
+	<string>missedResponseDistance</string>
+	<key>gesturedetectorUntilActivity</key>
+	<string>listviewProxyInteraction</string>
+	<key>nibThroughStrategy</key>
+	<string>consultativeStatefulOrigin</string>
+	<key>requiredGridviewMode</key>
+	<string>fixedNormPosition</string>
+	<key>signatureNearMemento</key>
+	<string>semanticStatefulInterval</string>
+</dict>
+</plist>

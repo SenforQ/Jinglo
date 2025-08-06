@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAboutLevel</key>
+	<string>constraintTaskContrast</string>
+	<key>batchFromPlatform</key>
+	<string>layoutOutsideCommand</string>
+	<key>hashParameterCount</key>
+	<string>accessibleSymbolLeft</string>
+	<key>interpolationIncludeScope</key>
+	<string>delicateExtensionScale</string>
+	<key>projectStrategyMargin</key>
+	<string>sessionEnvironmentFormat</string>
+</dict>
+</plist>

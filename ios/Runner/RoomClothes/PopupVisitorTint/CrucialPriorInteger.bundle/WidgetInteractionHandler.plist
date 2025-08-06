@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorVersusNumber</key>
+	<string>injectionCommandSaturation</string>
+	<key>kernelCycleResponse</key>
+	<string>routerPlatformSaturation</string>
+	<key>stampWithoutNumber</key>
+	<string>primaryUtilRotation</string>
+	<key>utilCompositeTop</key>
+	<string>diffableRequestCount</string>
+</dict>
+</plist>

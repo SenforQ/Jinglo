@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralAllocatorState</key>
+	<string>significantInjectionBehavior</string>
+	<key>inheritedNodeCoord</key>
+	<string>observerStructureOrientation</string>
+	<key>interactorValueDirection</key>
+	<string>textLayerIndex</string>
+	<key>nodeWithoutProxy</key>
+	<string>spriteKindHue</string>
+	<key>queryAgainstProxy</key>
+	<string>sizeForNumber</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorCommandAlignment</key>
+	<string>multiplicationFlyweightContrast</string>
+	<key>inheritedMethodVisibility</key>
+	<string>queueNumberSpacing</string>
+	<key>publicUsageColor</key>
+	<string>tappableDecorationBorder</string>
+	<key>semanticPopupSkewx</key>
+	<string>animationSystemSize</string>
+	<key>standaloneAnimationContrast</key>
+	<string>specifyUtilCenter</string>
+	<key>symmetricSwitchBehavior</key>
+	<string>storeAdapterLocation</string>
+	<key>utilAroundMediator</key>
+	<string>concreteReducerAcceleration</string>
+</dict>
+</plist>

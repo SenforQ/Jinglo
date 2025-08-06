@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerInsideStrategy</key>
+	<string>observerLayerShape</string>
+	<key>aspectratioOutsideMode</key>
+	<string>pivotalNavigatorAlignment</string>
+	<key>canvasIncludeAdapter</key>
+	<string>globalBehaviorResponse</string>
+	<key>containerStateAcceleration</key>
+	<string>smallHistogramDirection</string>
+	<key>draggableSpriteRate</key>
+	<string>transitionNumberIndex</string>
+	<key>resultFrameworkBottom</key>
+	<string>significantUsecaseFlags</string>
+	<key>topicNumberOpacity</key>
+	<string>draggableCheckboxHead</string>
+	<key>utilInterpreterTail</key>
+	<string>currentAccessoryStyle</string>
+</dict>
+</plist>

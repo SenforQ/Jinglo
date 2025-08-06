@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBufferScale</key>
+	<string>serviceViaVar</string>
+	<key>checkboxDuringVariable</key>
+	<string>basicRowCoord</string>
+	<key>gramProxyName</key>
+	<string>statefulFacadeStatus</string>
+	<key>hierarchicalViewBehavior</key>
+	<string>injectionDespiteFacade</string>
+	<key>retainedSymbolSkewx</key>
+	<string>boxshadowByMode</string>
+	<key>shaderInFramework</key>
+	<string>uniformHandlerName</string>
+	<key>streamFormHue</key>
+	<string>accessorySingletonSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarOrContext</key>
+	<string>layoutOperationDirection</string>
+	<key>brushActionPressure</key>
+	<string>widgetParamDensity</string>
+	<key>callbackFlyweightSpeed</key>
+	<string>nodeVariableVelocity</string>
+	<key>musicShapeForce</key>
+	<string>directCurveTransparency</string>
+</dict>
+</plist>

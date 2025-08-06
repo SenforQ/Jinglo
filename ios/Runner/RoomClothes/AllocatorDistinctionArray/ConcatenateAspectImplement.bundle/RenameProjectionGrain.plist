@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerPerOperation</key>
+	<string>tableStageTransparency</string>
+	<key>modalTierOpacity</key>
+	<string>intensityAdapterBrightness</string>
+	<key>protectedRowRate</key>
+	<string>staticExponentEdge</string>
+	<key>responsiveDescriptionSpeed</key>
+	<string>painterViaComposite</string>
+	<key>secondStateTint</key>
+	<string>baseAwayContext</string>
+	<key>semanticsParameterTail</key>
+	<string>typicalAlphaBottom</string>
+	<key>tensorAlignmentCenter</key>
+	<string>interfaceDecoratorCenter</string>
+</dict>
+</plist>

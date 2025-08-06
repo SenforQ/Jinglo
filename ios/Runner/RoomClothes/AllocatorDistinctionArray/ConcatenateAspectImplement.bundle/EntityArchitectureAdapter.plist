@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesBufferStyle</key>
+	<string>stackWithoutMemento</string>
+	<key>directLossVisibility</key>
+	<string>bufferOutsideVisitor</string>
+	<key>eagerServiceMode</key>
+	<string>animationModeVisible</string>
+	<key>firstCommandKind</key>
+	<string>groupAndContext</string>
+	<key>getxSingletonTheme</key>
+	<string>convolutionViaValue</string>
+	<key>priorResourceLeft</key>
+	<string>scrollDuringPrototype</string>
+	<key>taskCommandPosition</key>
+	<string>autoFactoryHead</string>
+</dict>
+</plist>

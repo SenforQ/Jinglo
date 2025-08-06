@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisOperationPadding</key>
+	<string>semanticGestureStyle</string>
+	<key>capacitiesPerActivity</key>
+	<string>rowKindOpacity</string>
+	<key>documentStrategyMargin</key>
+	<string>backwardUsecaseDuration</string>
+	<key>functionalBlocPadding</key>
+	<string>promiseInsideEnvironment</string>
+	<key>plateTempleSkewy</key>
+	<string>accessoryViaSystem</string>
+	<key>providerShapeBound</key>
+	<string>menuTypeBottom</string>
+	<key>requiredAlignmentBehavior</key>
+	<string>resolverModeRight</string>
+	<key>stateLikeBuffer</key>
+	<string>listviewMethodDuration</string>
+</dict>
+</plist>

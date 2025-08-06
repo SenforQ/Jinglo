@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationObserverTop</key>
+	<string>spineLayerForce</string>
+	<key>dynamicStepAlignment</key>
+	<string>queryLevelPosition</string>
+	<key>graphOrCycle</key>
+	<string>concurrentExpandedAppearance</string>
+	<key>missionStrategyVisibility</key>
+	<string>convolutionBeyondFramework</string>
+	<key>usedUtilFeedback</key>
+	<string>routeFunctionDistance</string>
+</dict>
+</plist>

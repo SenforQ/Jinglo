@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAwayStyle</key>
+	<string>stateLayerInteraction</string>
+	<key>callbackFrameworkFrequency</key>
+	<string>decorationPhaseLeft</string>
+	<key>interpolationCompositeCenter</key>
+	<string>activityLikeSystem</string>
+	<key>popupTypeStatus</key>
+	<string>featureInsideStrategy</string>
+	<key>publicRowStatus</key>
+	<string>cacheFunctionShade</string>
+	<key>stateParameterFrequency</key>
+	<string>canvasDespiteMediator</string>
+	<key>timerBesideProxy</key>
+	<string>repositoryCommandFormat</string>
+</dict>
+</plist>

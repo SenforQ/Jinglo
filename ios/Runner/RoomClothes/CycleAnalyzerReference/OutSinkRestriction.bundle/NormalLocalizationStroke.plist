@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentWithFunction</key>
+	<string>sortedRectContrast</string>
+	<key>errorPatternAlignment</key>
+	<string>swiftProcessInteraction</string>
+	<key>inactiveSkirtDirection</key>
+	<string>metadataAsFacade</string>
+	<key>pageviewLayerShape</key>
+	<string>menuFromLayer</string>
+	<key>particlePatternRotation</key>
+	<string>gestureModeScale</string>
+	<key>routeVarFeedback</key>
+	<string>sceneJobShape</string>
+	<key>zoneParameterName</key>
+	<string>persistentCertificateOffset</string>
+</dict>
+</plist>

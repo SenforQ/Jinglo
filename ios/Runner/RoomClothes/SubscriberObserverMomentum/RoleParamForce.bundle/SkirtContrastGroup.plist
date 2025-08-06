@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncIncludeMediator</key>
+	<string>rapidDrawerState</string>
+	<key>customizedGiftTheme</key>
+	<string>textThanSingleton</string>
+	<key>independentNodeBound</key>
+	<string>dynamicObserverSkewx</string>
+	<key>providerBesideJob</key>
+	<string>menuActionState</string>
+	<key>robustScaleFlags</key>
+	<string>overlayAwayObserver</string>
+	<key>singletonViaSystem</key>
+	<string>cupertinoContainerName</string>
+</dict>
+</plist>

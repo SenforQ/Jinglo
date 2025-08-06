@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStageFlags</key>
+	<string>commonConstraintDelay</string>
+	<key>compositionFormVelocity</key>
+	<string>modelDespiteMemento</string>
+	<key>priorFactoryOffset</key>
+	<string>scaffoldStrategyFlags</string>
+	<key>requiredScaleDuration</key>
+	<string>containerSystemFlags</string>
+</dict>
+</plist>

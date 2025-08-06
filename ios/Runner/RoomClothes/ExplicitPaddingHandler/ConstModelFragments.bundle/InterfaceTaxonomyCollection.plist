@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>plateFromType</key>
+	<string>tableStrategyFlags</string>
+	<key>projectCycleDirection</key>
+	<string>projectSinceNumber</string>
+	<key>threadVersusFramework</key>
+	<string>asyncStateMargin</string>
+	<key>tickerObserverSaturation</key>
+	<string>popupLikeMemento</string>
+	<key>usagePlatformRotation</key>
+	<string>stepViaMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalAllocatorPressure</key>
+	<string>frameByTier</string>
+	<key>notificationLikeStyle</key>
+	<string>sharedRemainderSpeed</string>
+	<key>permanentFeatureHue</key>
+	<string>directlyStateShade</string>
+	<key>titleBeyondState</key>
+	<string>storyboardShapeSize</string>
+</dict>
+</plist>

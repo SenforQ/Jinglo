@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonViaInterpreter</key>
+	<string>futurePrototypeFlags</string>
+	<key>certificateIncludeStage</key>
+	<string>graphThroughJob</string>
+	<key>globalDescriptionOrientation</key>
+	<string>parallelPrecisionAcceleration</string>
+	<key>heapActionLeft</key>
+	<string>layoutCompositeSpeed</string>
+	<key>methodFromJob</key>
+	<string>usageObserverOrigin</string>
+	<key>scrollableControllerVelocity</key>
+	<string>singletonProcessContrast</string>
+</dict>
+</plist>

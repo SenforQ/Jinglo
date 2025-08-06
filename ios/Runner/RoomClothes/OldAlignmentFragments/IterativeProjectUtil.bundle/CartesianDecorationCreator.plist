@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySinceStage</key>
+	<string>indicatorTierBrightness</string>
+	<key>basicBuilderDelay</key>
+	<string>interfacePerAdapter</string>
+	<key>responseWorkBound</key>
+	<string>denseNavigationTransparency</string>
+	<key>skinShapeDensity</key>
+	<string>utilOutsidePhase</string>
+	<key>subscriptionFacadeFeedback</key>
+	<string>primaryAlphaTag</string>
+	<key>synchronousManagerMode</key>
+	<string>roleDuringSystem</string>
+</dict>
+</plist>

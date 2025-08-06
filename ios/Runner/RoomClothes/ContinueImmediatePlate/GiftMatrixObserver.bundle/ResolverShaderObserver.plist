@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAccessoryAppearance</key>
+	<string>localNavigationValidation</string>
+	<key>coordinatorAboutType</key>
+	<string>injectionByMemento</string>
+	<key>cupertinoAndActivity</key>
+	<string>buttonEnvironmentKind</string>
+	<key>featureProxyFormat</key>
+	<string>titleStyleSpacing</string>
+	<key>offsetAndSingleton</key>
+	<string>observerBesideAction</string>
+	<key>relationalSubscriptionTheme</key>
+	<string>allocatorVisitorVisibility</string>
+	<key>semanticPopupTransparency</key>
+	<string>titleVisitorOrigin</string>
+	<key>statefulCertificateDuration</key>
+	<string>intermediateOverlayBrightness</string>
+</dict>
+</plist>

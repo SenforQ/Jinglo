@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCapacitiesTint</key>
+	<string>integerFromEnvironment</string>
+	<key>coordinatorPatternFlags</key>
+	<string>alignmentTierMode</string>
+	<key>dimensionByPrototype</key>
+	<string>oldRichtextAcceleration</string>
+	<key>managerStageOffset</key>
+	<string>lossActivityVisible</string>
+	<key>opaqueUnaryVisible</key>
+	<string>subtleAccessoryDirection</string>
+	<key>roleInChain</key>
+	<string>asyncLayerBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellEnvironmentDirection</key>
+	<string>controllerAroundFunction</string>
+	<key>loopThanInterpreter</key>
+	<string>cellProxyDirection</string>
+	<key>multiRowAlignment</key>
+	<string>dependencyViaSingleton</string>
+	<key>transformerInsideMode</key>
+	<string>adaptiveTransitionTail</string>
+</dict>
+</plist>

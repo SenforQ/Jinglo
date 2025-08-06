@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderActionScale</key>
+	<string>remainderLikeCommand</string>
+	<key>buttonPerNumber</key>
+	<string>ephemeralGridForce</string>
+	<key>dependencyNearPhase</key>
+	<string>standaloneRectPosition</string>
+	<key>desktopEventHead</key>
+	<string>zoneContextBound</string>
+	<key>directlyAssetBehavior</key>
+	<string>descriptionForInterpreter</string>
+	<key>imperativeSceneHead</key>
+	<string>statefulSegmentRight</string>
+	<key>labelDuringProxy</key>
+	<string>builderWithObserver</string>
+</dict>
+</plist>

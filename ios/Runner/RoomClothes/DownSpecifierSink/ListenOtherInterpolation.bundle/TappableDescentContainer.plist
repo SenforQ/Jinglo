@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInVar</key>
+	<string>dimensionBufferVelocity</string>
+	<key>logParameterOffset</key>
+	<string>buttonVarState</string>
+	<key>movementNumberLeft</key>
+	<string>imperativeSegueBound</string>
+	<key>specifierBufferStyle</key>
+	<string>capacitiesProxyStatus</string>
+</dict>
+</plist>

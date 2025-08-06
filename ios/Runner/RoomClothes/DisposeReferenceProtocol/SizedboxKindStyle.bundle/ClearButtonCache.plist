@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionOperationForce</key>
+	<string>activityAgainstObserver</string>
+	<key>iterativeHandlerOrientation</key>
+	<string>mediumRadiusTransparency</string>
+	<key>permissivePositionScale</key>
+	<string>cubitFormShade</string>
+	<key>radioParamEdge</key>
+	<string>opaqueLossEdge</string>
+	<key>storageAwayEnvironment</key>
+	<string>crudeClipperDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBeyondParam</key>
+	<string>touchFacadeScale</string>
+	<key>bitrateAgainstInterpreter</key>
+	<string>permanentTangentOpacity</string>
+	<key>borderVersusTier</key>
+	<string>concurrentSingletonShade</string>
+	<key>decorationDespiteObserver</key>
+	<string>multiDurationPadding</string>
+	<key>interactorAmongOperation</key>
+	<string>semanticEntityMode</string>
+	<key>mobxSinceFlyweight</key>
+	<string>materialFeatureSkewx</string>
+	<key>protocolTypeDensity</key>
+	<string>layerFromPhase</string>
+	<key>textTaskIndex</key>
+	<string>textBridgeOrigin</string>
+	<key>timerBySingleton</key>
+	<string>bitrateSingletonSkewx</string>
+</dict>
+</plist>

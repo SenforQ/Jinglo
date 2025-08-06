@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStatePressure</key>
+	<string>normOrAdapter</string>
+	<key>buttonPatternDepth</key>
+	<string>actionAtParameter</string>
+	<key>coordinatorProcessStyle</key>
+	<string>dedicatedDelegateRate</string>
+	<key>curveOutsideVar</key>
+	<string>optimizerSinceLevel</string>
+	<key>expandedVariableTension</key>
+	<string>controllerLikeOperation</string>
+	<key>immediateAsyncDirection</key>
+	<string>gramPlatformStatus</string>
+	<key>interfacePerFramework</key>
+	<string>gridThroughStyle</string>
+	<key>operationPatternSkewx</key>
+	<string>significantImageTag</string>
+	<key>painterStructureBottom</key>
+	<string>particleOperationOpacity</string>
+	<key>spriteContextCount</key>
+	<string>statefulTransitionSpeed</string>
+</dict>
+</plist>

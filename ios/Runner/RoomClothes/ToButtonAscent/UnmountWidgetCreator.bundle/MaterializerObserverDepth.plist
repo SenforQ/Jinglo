@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesIncludeFramework</key>
+	<string>alertDespiteStrategy</string>
+	<key>chapterSinceStage</key>
+	<string>fusedCommandScale</string>
+	<key>dialogsFlyweightSpacing</key>
+	<string>dependencyPatternAppearance</string>
+	<key>managerUntilActivity</key>
+	<string>challengeAroundPhase</string>
+	<key>respectiveConstraintStatus</key>
+	<string>delicateStateVisibility</string>
+	<key>scaleExceptShape</key>
+	<string>segueWithoutForm</string>
+	<key>tappableThreadShape</key>
+	<string>sharedMobileSize</string>
+	<key>ternaryWorkMargin</key>
+	<string>missionPerMemento</string>
+	<key>themeStyleRight</key>
+	<string>statefulViaChain</string>
+</dict>
+</plist>

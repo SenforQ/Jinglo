@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoClipperRotation</key>
+	<string>reactiveLossVisible</string>
+	<key>cosineVarDistance</key>
+	<string>layerValueLeft</string>
+	<key>difficultStreamFormat</key>
+	<string>originalCapsuleBound</string>
+	<key>errorVisitorFormat</key>
+	<string>sortedCubeCoord</string>
+	<key>standaloneSliderShade</key>
+	<string>explicitRichtextLocation</string>
+	<key>textOfProxy</key>
+	<string>rectBesideChain</string>
+</dict>
+</plist>

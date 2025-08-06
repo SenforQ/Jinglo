@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyTierCenter</key>
+	<string>usecaseViaFramework</string>
+	<key>errorAsCycle</key>
+	<string>behaviorInStage</string>
+	<key>promiseModeDepth</key>
+	<string>previewVarTension</string>
+	<key>protocolCommandStatus</key>
+	<string>imperativeSingletonOrigin</string>
+	<key>radiusAwayVisitor</key>
+	<string>ephemeralStorageMode</string>
+	<key>standaloneTableFormat</key>
+	<string>functionalSliderHue</string>
+</dict>
+</plist>

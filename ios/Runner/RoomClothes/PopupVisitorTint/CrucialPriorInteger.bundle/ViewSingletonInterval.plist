@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesForContext</key>
+	<string>immutableTransformerCenter</string>
+	<key>channelsAlongAction</key>
+	<string>inactiveNodeAppearance</string>
+	<key>delegateFromVar</key>
+	<string>lazyResolverDuration</string>
+	<key>uniformAnimationDistance</key>
+	<string>nativeSingletonValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLayoutBottom</key>
+	<string>prismaticContainerCenter</string>
+	<key>commonSkinTop</key>
+	<string>protocolAboutStyle</string>
+	<key>gemExceptStrategy</key>
+	<string>logAsEnvironment</string>
+	<key>graphicExceptObserver</key>
+	<string>appbarInsideCommand</string>
+	<key>injectionViaBridge</key>
+	<string>decorationMethodDepth</string>
+	<key>optimizerOfJob</key>
+	<string>expandedPlatformSkewy</string>
+	<key>previewJobStatus</key>
+	<string>denseBuilderRight</string>
+	<key>semanticFeatureLeft</key>
+	<string>futureDecoratorDirection</string>
+	<key>stateScopeSkewx</key>
+	<string>blocCycleAcceleration</string>
+</dict>
+</plist>

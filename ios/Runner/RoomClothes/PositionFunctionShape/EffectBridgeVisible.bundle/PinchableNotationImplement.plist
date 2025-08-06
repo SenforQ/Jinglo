@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticHistogramBehavior</key>
+	<string>alphaByFlyweight</string>
+	<key>batchSinceMode</key>
+	<string>graphFromSingleton</string>
+	<key>composableSensorStyle</key>
+	<string>popupIncludeStyle</string>
+	<key>paddingBesideActivity</key>
+	<string>actionMediatorCoord</string>
+	<key>robustBinaryTransparency</key>
+	<string>tweenContainScope</string>
+	<key>streamAtValue</key>
+	<string>zoneNumberOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorInterpreterColor</key>
+	<string>cycleVersusEnvironment</string>
+	<key>dedicatedHandlerStyle</key>
+	<string>allocatorBeyondState</string>
+	<key>frameChainOrientation</key>
+	<string>iterativeContractionOpacity</string>
+	<key>grayscaleViaMode</key>
+	<string>radiusVersusChain</string>
+	<key>groupOutsideContext</key>
+	<string>alertVersusChain</string>
+	<key>hardModelDensity</key>
+	<string>dynamicTernaryDuration</string>
+	<key>lazyRequestBrightness</key>
+	<string>positionAgainstMode</string>
+	<key>responseFlyweightInterval</key>
+	<string>cubitContainVisitor</string>
+	<key>sustainableSignTint</key>
+	<string>flexThanTemple</string>
+</dict>
+</plist>

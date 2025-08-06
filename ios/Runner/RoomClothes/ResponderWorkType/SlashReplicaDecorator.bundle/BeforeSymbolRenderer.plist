@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeApertureMode</key>
+	<string>instructionAndNumber</string>
+	<key>pinchableMovementVisible</key>
+	<string>eventWithoutParam</string>
+	<key>respectiveMonsterRotation</key>
+	<string>signMethodVelocity</string>
+	<key>screenForFramework</key>
+	<string>standaloneObserverIndex</string>
+	<key>sensorWithoutMediator</key>
+	<string>blocUntilKind</string>
+	<key>smartCubeDuration</key>
+	<string>scrollParameterForce</string>
+</dict>
+</plist>

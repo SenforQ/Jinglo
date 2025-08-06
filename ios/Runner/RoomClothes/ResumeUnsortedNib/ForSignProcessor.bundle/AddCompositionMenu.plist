@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveFacadeBorder</key>
+	<string>usedSizeStyle</string>
+	<key>difficultInterfaceTransparency</key>
+	<string>extensionBufferSpeed</string>
+	<key>persistentNotifierBottom</key>
+	<string>animationAwayState</string>
+	<key>prismaticScreenPressure</key>
+	<string>nextSampleStatus</string>
+	<key>routeStrategySkewx</key>
+	<string>requestIncludeMode</string>
+</dict>
+</plist>

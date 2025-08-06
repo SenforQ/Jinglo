@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCallbackIndex</key>
+	<string>respectiveConsumerTag</string>
+	<key>isolateAtNumber</key>
+	<string>isolateAsParam</string>
+	<key>momentumScopeState</key>
+	<string>dependencyNumberOrientation</string>
+	<key>statelessBesideParam</key>
+	<string>liteProviderShade</string>
+</dict>
+</plist>

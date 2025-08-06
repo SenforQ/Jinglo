@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContextName</key>
+	<string>intermediateCoordinatorDistance</string>
+	<key>descriptorWithActivity</key>
+	<string>statelessSegueDelay</string>
+	<key>frameVarInterval</key>
+	<string>tweenVisitorPosition</string>
+	<key>grainStateInteraction</key>
+	<string>advancedContainerDepth</string>
+	<key>intermediateNodeBound</key>
+	<string>convolutionParameterSkewy</string>
+	<key>priorityDecoratorRate</key>
+	<string>directLabelTail</string>
+	<key>sceneVarSpacing</key>
+	<string>stateStyleOrientation</string>
+	<key>sizeJobShade</key>
+	<string>blocStrategyFormat</string>
+	<key>tabbarProcessState</key>
+	<string>pointPhaseStatus</string>
+</dict>
+</plist>

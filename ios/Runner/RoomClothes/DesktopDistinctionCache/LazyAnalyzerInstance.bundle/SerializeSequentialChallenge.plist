@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerStructureTransparency</key>
+	<string>tickerPerStrategy</string>
+	<key>providerAboutFunction</key>
+	<string>independentTransitionOffset</string>
+	<key>queryLayerType</key>
+	<string>featureFromWork</string>
+	<key>tabbarJobFeedback</key>
+	<string>mobxMediatorPosition</string>
+</dict>
+</plist>

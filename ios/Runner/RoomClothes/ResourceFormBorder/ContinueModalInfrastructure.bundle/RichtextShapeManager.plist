@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocLikeStrategy</key>
+	<string>spineBeyondVar</string>
+	<key>enabledPrecisionTransparency</key>
+	<string>builderBesideCommand</string>
+	<key>lazyRouteHead</key>
+	<string>completionPerPhase</string>
+	<key>rapidCubitInterval</key>
+	<string>queueEnvironmentRate</string>
+	<key>reactiveRequestDistance</key>
+	<string>discardedZoneTint</string>
+	<key>reducerStrategyRotation</key>
+	<string>rowBufferDirection</string>
+	<key>rowLikeBridge</key>
+	<string>dedicatedDropdownbuttonAppearance</string>
+	<key>transformerLayerTension</key>
+	<string>customizedProgressbarPosition</string>
+</dict>
+</plist>

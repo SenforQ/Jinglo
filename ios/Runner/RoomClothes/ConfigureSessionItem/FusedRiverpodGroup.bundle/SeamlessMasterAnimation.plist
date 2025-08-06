@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorUntilFunction</key>
+	<string>positionContextResponse</string>
+	<key>cubitBeyondProxy</key>
+	<string>specifyCharacterLocation</string>
+	<key>graphContainVisitor</key>
+	<string>elasticGroupSpeed</string>
+	<key>invisibleExponentDensity</key>
+	<string>reusableSingletonPressure</string>
+	<key>rowIncludeObserver</key>
+	<string>staticHashSize</string>
+	<key>sensorStructureOpacity</key>
+	<string>convolutionOrPrototype</string>
+	<key>textureContextLocation</key>
+	<string>bufferValueDistance</string>
+</dict>
+</plist>

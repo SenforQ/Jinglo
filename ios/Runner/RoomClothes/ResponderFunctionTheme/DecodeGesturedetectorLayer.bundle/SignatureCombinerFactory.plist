@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInterpolationPressure</key>
+	<string>statelessControllerRight</string>
+	<key>callbackPhaseBehavior</key>
+	<string>sortedBlocOpacity</string>
+	<key>controllerForStage</key>
+	<string>newestBaselineDuration</string>
+	<key>cubitMementoColor</key>
+	<string>statelessLocalizationBottom</string>
+	<key>displayableRouteShade</key>
+	<string>immediateGradientPadding</string>
+	<key>layoutAtJob</key>
+	<string>associatedMediaDelay</string>
+	<key>materialParameterEdge</key>
+	<string>particleFlyweightInterval</string>
+	<key>radiusTempleTension</key>
+	<string>rowValueTension</string>
+	<key>roleInNumber</key>
+	<string>intuitiveRichtextPosition</string>
+	<key>touchAsFlyweight</key>
+	<string>criticalLoopAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularReducerCoord</key>
+	<string>criticalResultEdge</string>
+	<key>modulusDuringOperation</key>
+	<string>accordionInteractorSkewx</string>
+	<key>offsetVersusComposite</key>
+	<string>allocatorWorkMode</string>
+	<key>transitionPrototypeSize</key>
+	<string>publicTickerMode</string>
+</dict>
+</plist>

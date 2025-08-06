@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGridResponse</key>
+	<string>webCurveType</string>
+	<key>agileCompleterInset</key>
+	<string>denseCommandPressure</string>
+	<key>lostMobileShape</key>
+	<string>sineByObserver</string>
+	<key>resultThroughComposite</key>
+	<string>textOutsideActivity</string>
+</dict>
+</plist>

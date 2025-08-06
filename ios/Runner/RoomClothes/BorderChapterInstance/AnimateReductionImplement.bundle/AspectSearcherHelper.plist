@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageProcessName</key>
+	<string>paddingAndStyle</string>
+	<key>popupUntilProcess</key>
+	<string>concurrentHandlerRate</string>
+	<key>rowShapeForce</key>
+	<string>viewParamInterval</string>
+	<key>scaffoldFacadePosition</key>
+	<string>equalizationStyleFormat</string>
+</dict>
+</plist>

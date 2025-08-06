@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonToolSkewx</key>
+	<string>lossUntilVariable</string>
+	<key>cyclePhaseTail</key>
+	<string>basicMenuBorder</string>
+	<key>delegateBeyondValue</key>
+	<string>segmentContextLeft</string>
+	<key>ephemeralProgressbarHead</key>
+	<string>dialogsWorkBehavior</string>
+	<key>nodeDespiteForm</key>
+	<string>variantAtKind</string>
+</dict>
+</plist>

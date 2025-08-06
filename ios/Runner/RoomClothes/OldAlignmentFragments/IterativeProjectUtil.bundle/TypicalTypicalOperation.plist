@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonProcessCount</key>
+	<string>unsortedResultHead</string>
+	<key>graphicEnvironmentForce</key>
+	<string>requestContextFeedback</string>
+	<key>imperativeTaskFeedback</key>
+	<string>optimizerForOperation</string>
+	<key>modelParameterMomentum</key>
+	<string>positionedSinceState</string>
+	<key>painterVisitorContrast</key>
+	<string>integerBeyondChain</string>
+	<key>prevUnaryTransparency</key>
+	<string>permissiveNavigatorResponse</string>
+	<key>semanticsThanVar</key>
+	<string>pageviewAtFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateShapeSpeed</key>
+	<string>streamJobSize</string>
+	<key>displayableLayoutTag</key>
+	<string>variantWithoutBuffer</string>
+	<key>fusedFactoryBottom</key>
+	<string>isolateWithoutFacade</string>
+	<key>lastTransitionBehavior</key>
+	<string>queueAndKind</string>
+	<key>lossAmongType</key>
+	<string>futureCommandColor</string>
+	<key>multiDecorationMargin</key>
+	<string>baselineStrategyPosition</string>
+	<key>normFunctionMode</key>
+	<string>routeInterpreterSpeed</string>
+	<key>richtextAtVar</key>
+	<string>featureFromBuffer</string>
+	<key>sliderDespiteTier</key>
+	<string>commandThanWork</string>
+	<key>unsortedErrorPadding</key>
+	<string>scrollableHistogramInset</string>
+</dict>
+</plist>

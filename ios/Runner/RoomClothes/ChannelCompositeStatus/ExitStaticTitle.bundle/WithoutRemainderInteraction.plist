@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAsType</key>
+	<string>switchExceptWork</string>
+	<key>capsuleInType</key>
+	<string>checklistVersusCommand</string>
+	<key>completerCommandCount</key>
+	<string>matrixAmongMemento</string>
+	<key>delegateFrameworkLocation</key>
+	<string>animatedcontainerWithKind</string>
+	<key>ephemeralNormVelocity</key>
+	<string>transitionOfContext</string>
+	<key>resizableBuilderDepth</key>
+	<string>singleBufferMargin</string>
+	<key>stateFlyweightDirection</key>
+	<string>listenerLayerCoord</string>
+</dict>
+</plist>

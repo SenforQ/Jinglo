@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicListenerTag</key>
+	<string>vectorWithFramework</string>
+	<key>compositionStyleDuration</key>
+	<string>topicTierCoord</string>
+	<key>methodScopeMode</key>
+	<string>utilFormLocation</string>
+	<key>storeViaState</key>
+	<string>statelessWithoutTask</string>
+</dict>
+</plist>

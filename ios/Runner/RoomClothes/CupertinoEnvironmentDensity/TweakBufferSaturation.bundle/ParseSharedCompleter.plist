@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAndFunction</key>
+	<string>synchronousStatelessOffset</string>
+	<key>delegateUntilValue</key>
+	<string>zoneVarBound</string>
+	<key>frameKindDirection</key>
+	<string>imageBridgeTint</string>
+	<key>groupPerFlyweight</key>
+	<string>presenterDespiteForm</string>
+	<key>groupProxyTop</key>
+	<string>singleStreamVisible</string>
+	<key>synchronousFutureVisible</key>
+	<string>precisionOrFramework</string>
+</dict>
+</plist>

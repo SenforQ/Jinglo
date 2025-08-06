@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDecoratorRate</key>
+	<string>priorityChainRate</string>
+	<key>animatedcontainerObserverInteraction</key>
+	<string>coordinatorChainState</string>
+	<key>asyncBehaviorMargin</key>
+	<string>constraintAroundTask</string>
+	<key>compositionalCubeDuration</key>
+	<string>granularBrushDistance</string>
+	<key>factoryLayerTag</key>
+	<string>sharedSkinFrequency</string>
+	<key>priorityAboutStrategy</key>
+	<string>listviewSingletonValidation</string>
+</dict>
+</plist>

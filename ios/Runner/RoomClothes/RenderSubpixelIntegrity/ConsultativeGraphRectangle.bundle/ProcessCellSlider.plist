@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableCaptionOrigin</key>
+	<string>displayablePositionOrigin</string>
+	<key>integerDuringBuffer</key>
+	<string>gemStateAppearance</string>
+	<key>modelForShape</key>
+	<string>awaitOrPhase</string>
+	<key>positionInterpreterScale</key>
+	<string>paddingParameterBehavior</string>
+</dict>
+</plist>

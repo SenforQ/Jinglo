@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPerScope</key>
+	<string>spriteStrategyOffset</string>
+	<key>coordinatorObserverBound</key>
+	<string>utilCycleFeedback</string>
+	<key>interfaceVarRight</key>
+	<string>eventIncludeSystem</string>
+	<key>nativeGradientDepth</key>
+	<string>navigationOfStrategy</string>
+	<key>prismaticConsumerBrightness</key>
+	<string>oldCosineFeedback</string>
+	<key>requiredZoneTail</key>
+	<string>mobileFacadeOrientation</string>
+	<key>timerViaFacade</key>
+	<string>secondSubscriptionContrast</string>
+</dict>
+</plist>

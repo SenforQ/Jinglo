@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledRequestName</key>
+	<string>chapterFacadePressure</string>
+	<key>gesturedetectorPatternName</key>
+	<string>cubitTempleTag</string>
+	<key>playbackLayerFeedback</key>
+	<string>tabbarContextDensity</string>
+	<key>resourceThanTemple</key>
+	<string>sharedIsolateDensity</string>
+	<key>sizeAdapterOffset</key>
+	<string>discardedBuilderBound</string>
+	<key>sliderTempleAppearance</key>
+	<string>standaloneLayoutSpeed</string>
+	<key>stepBeyondAdapter</key>
+	<string>rectShapeDirection</string>
+	<key>textureWithoutState</key>
+	<string>contractionOperationOpacity</string>
+</dict>
+</plist>

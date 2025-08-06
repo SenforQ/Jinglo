@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateFlyweightFlags</key>
+	<string>tappableStateHead</string>
+	<key>durationStrategyHead</key>
+	<string>hardCubitScale</string>
+	<key>matrixInterpreterHue</key>
+	<string>routerMethodPosition</string>
+	<key>tickerVisitorPosition</key>
+	<string>nodeWithStructure</string>
+</dict>
+</plist>

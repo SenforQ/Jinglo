@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryForEnvironment</key>
+	<string>vectorProcessShade</string>
+	<key>menuPhaseFrequency</key>
+	<string>advancedSpriteDistance</string>
+	<key>momentumModeBehavior</key>
+	<string>capsuleContainForm</string>
+	<key>movementModeTint</key>
+	<string>spineScopeState</string>
+	<key>singleNodeHue</key>
+	<string>futureDecoratorTransparency</string>
+	<key>workflowAlongStrategy</key>
+	<string>usedRectValidation</string>
+	<key>zoneValueSaturation</key>
+	<string>metadataAgainstForm</string>
+</dict>
+</plist>

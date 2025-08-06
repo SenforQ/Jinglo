@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalGraphicAppearance</key>
+	<string>persistentTweenOpacity</string>
+	<key>easyPageviewVisibility</key>
+	<string>cycleContextResponse</string>
+	<key>imperativeListviewSpeed</key>
+	<string>semanticProgressbarContrast</string>
+	<key>metadataAsPlatform</key>
+	<string>logarithmAsMode</string>
+	<key>topicPhaseVisible</key>
+	<string>blocAwayStage</string>
+</dict>
+</plist>

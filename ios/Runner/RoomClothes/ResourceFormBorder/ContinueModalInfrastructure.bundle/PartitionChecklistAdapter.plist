@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredStatelessFrequency</key>
+	<string>desktopBulletTag</string>
+	<key>mapLikeObserver</key>
+	<string>batchCompositeDirection</string>
+	<key>presenterActivitySize</key>
+	<string>interactorPhaseAcceleration</string>
+	<key>publicTimerScale</key>
+	<string>loopOrStrategy</string>
+	<key>substantialHistogramInteraction</key>
+	<string>assetPerBuffer</string>
+</dict>
+</plist>

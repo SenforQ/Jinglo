@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionVisitorMomentum</key>
+	<string>statefulServiceLocation</string>
+	<key>effectPerComposite</key>
+	<string>instructionMethodAcceleration</string>
+	<key>exponentContextFrequency</key>
+	<string>explicitBoxFrequency</string>
+	<key>synchronousSkinRotation</key>
+	<string>associatedResultSpeed</string>
+</dict>
+</plist>

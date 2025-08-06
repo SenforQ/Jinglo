@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonMediatorShape</key>
+	<string>typicalSegmentPosition</string>
+	<key>channelCycleSpeed</key>
+	<string>bitrateAndPlatform</string>
+	<key>customizedTernaryTint</key>
+	<string>dropdownbuttonObserverPressure</string>
+	<key>dedicatedTernaryAppearance</key>
+	<string>cupertinoViewVisible</string>
+	<key>globalConfigurationInteraction</key>
+	<string>multiLayerDepth</string>
+	<key>requiredTextureLeft</key>
+	<string>discardedSingletonShade</string>
+	<key>subscriptionFromShape</key>
+	<string>axisAtWork</string>
+</dict>
+</plist>

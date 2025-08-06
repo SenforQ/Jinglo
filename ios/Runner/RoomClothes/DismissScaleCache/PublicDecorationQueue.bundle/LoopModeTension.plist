@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCycleBrightness</key>
+	<string>assetOfState</string>
+	<key>awaitFromFacade</key>
+	<string>protectedAllocatorRate</string>
+	<key>axisStatePressure</key>
+	<string>bufferSinceStrategy</string>
+	<key>buttonBridgeBorder</key>
+	<string>channelLevelCount</string>
+	<key>captionEnvironmentVisible</key>
+	<string>sessionSystemColor</string>
+	<key>effectNearDecorator</key>
+	<string>promiseCommandBorder</string>
+	<key>observerLayerRotation</key>
+	<string>uniformPrecisionStyle</string>
+	<key>previewIncludeFacade</key>
+	<string>substantialTextDirection</string>
+	<key>responseFromType</key>
+	<string>actionAboutContext</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTitleVisibility</key>
+	<string>eventTierBottom</string>
+	<key>intensityBesideNumber</key>
+	<string>localTopicCount</string>
+	<key>layoutIncludeKind</key>
+	<string>checkboxStrategyOpacity</string>
+	<key>normalAccessoryIndex</key>
+	<string>finalButtonShade</string>
+	<key>pivotalProviderRate</key>
+	<string>asynchronousInterpolationAcceleration</string>
+	<key>smartEntropyStyle</key>
+	<string>aspectFunctionTension</string>
+	<key>usecasePrototypeIndex</key>
+	<string>iterativeAwaitPosition</string>
+</dict>
+</plist>

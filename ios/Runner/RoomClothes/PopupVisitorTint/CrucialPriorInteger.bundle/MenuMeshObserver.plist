@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTransitionVelocity</key>
+	<string>grainChainValidation</string>
+	<key>cubitViaEnvironment</key>
+	<string>dedicatedTabviewScale</string>
+	<key>grainAwayCommand</key>
+	<string>pointAndDecorator</string>
+	<key>groupPatternCenter</key>
+	<string>streamParameterPadding</string>
+	<key>titleOrDecorator</key>
+	<string>advancedDurationTag</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackThroughJob</key>
+	<string>finalCheckboxOrientation</string>
+	<key>completionParamLeft</key>
+	<string>discardedTickerForce</string>
+	<key>cubitAtVariable</key>
+	<string>advancedControllerDuration</string>
+	<key>grayscaleOrMode</key>
+	<string>serviceFromAction</string>
+	<key>handlerProxyForce</key>
+	<string>geometricPositionedScale</string>
+	<key>hardPopupTint</key>
+	<string>builderInterpreterHead</string>
+	<key>lazyProviderOrientation</key>
+	<string>accordionMethodStatus</string>
+	<key>nibOutsideOperation</key>
+	<string>tickerPhaseDepth</string>
+	<key>reusableStoryboardTop</key>
+	<string>tweenDuringChain</string>
+	<key>sinkVersusForm</key>
+	<string>storageAdapterTop</string>
+</dict>
+</plist>

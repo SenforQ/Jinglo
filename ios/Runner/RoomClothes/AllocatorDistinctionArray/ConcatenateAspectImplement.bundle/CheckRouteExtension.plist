@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNormFrequency</key>
+	<string>featureViaPhase</string>
+	<key>awaitSingletonVisibility</key>
+	<string>cupertinoControllerBrightness</string>
+	<key>inactiveAlignmentBorder</key>
+	<string>grayscaleForPattern</string>
+	<key>providerParameterSpacing</key>
+	<string>popupDuringTask</string>
+	<key>reducerSingletonIndex</key>
+	<string>canvasDuringPrototype</string>
+	<key>requiredTextureColor</key>
+	<string>localizationProcessStyle</string>
+	<key>sortedStateDistance</key>
+	<string>basicProviderSkewx</string>
+</dict>
+</plist>

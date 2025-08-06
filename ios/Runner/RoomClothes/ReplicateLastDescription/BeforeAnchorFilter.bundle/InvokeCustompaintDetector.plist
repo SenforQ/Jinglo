@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPlatformResponse</key>
+	<string>touchAtStructure</string>
+	<key>dependencyAwayComposite</key>
+	<string>featureShapeRight</string>
+	<key>dynamicSegmentSkewy</key>
+	<string>popupMediatorCount</string>
+	<key>immutableReducerDirection</key>
+	<string>interfaceInsideFlyweight</string>
+	<key>nativePreviewTransparency</key>
+	<string>criticalListenerTheme</string>
+	<key>originalMusicKind</key>
+	<string>textureStrategyDelay</string>
+	<key>particleCycleStyle</key>
+	<string>relationalCapsuleVisible</string>
+	<key>prismaticImageLocation</key>
+	<string>reducerSingletonSpacing</string>
+	<key>progressbarCommandDistance</key>
+	<string>collectionBridgeSpeed</string>
+	<key>segueTempleDuration</key>
+	<string>previewCommandFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterFormSpeed</key>
+	<string>stepWithVar</string>
+	<key>containerTierDistance</key>
+	<string>responseBesideCycle</string>
+	<key>discardedTransitionState</key>
+	<string>spotFlyweightName</string>
+	<key>factoryAsTemple</key>
+	<string>observerAsAction</string>
+	<key>primarySliderOpacity</key>
+	<string>easyPaddingColor</string>
+	<key>respectiveHistogramPressure</key>
+	<string>navigatorStrategyInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicHeapContrast</key>
+	<string>sliderSingletonBehavior</string>
+	<key>localTextDistance</key>
+	<string>batchOutsideScope</string>
+	<key>mobileMementoTransparency</key>
+	<string>grainShapeTransparency</string>
+	<key>stepPerProxy</key>
+	<string>interactiveDelegateVelocity</string>
+	<key>titleAlongProcess</key>
+	<string>nodePlatformTint</string>
+</dict>
+</plist>

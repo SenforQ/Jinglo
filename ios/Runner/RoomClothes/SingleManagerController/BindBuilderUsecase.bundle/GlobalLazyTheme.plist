@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleDespiteVisitor</key>
+	<string>mapAroundMediator</string>
+	<key>grayscaleFacadeResponse</key>
+	<string>callbackDuringMemento</string>
+	<key>hierarchicalWorkflowHue</key>
+	<string>controllerAroundTier</string>
+	<key>presenterEnvironmentAlignment</key>
+	<string>fixedZoneResponse</string>
+	<key>requestByEnvironment</key>
+	<string>loopScopeTail</string>
+	<key>resultModeBehavior</key>
+	<string>painterTaskName</string>
+	<key>sampleLevelOpacity</key>
+	<string>skirtFormAlignment</string>
+	<key>textAboutVariable</key>
+	<string>ternaryValueTail</string>
+	<key>topicDespitePlatform</key>
+	<string>asyncSinceFlyweight</string>
+</dict>
+</plist>

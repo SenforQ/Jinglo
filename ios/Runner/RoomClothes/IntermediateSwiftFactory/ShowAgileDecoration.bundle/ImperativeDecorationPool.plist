@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOperationType</key>
+	<string>getxInsideFacade</string>
+	<key>aspectPrototypeHue</key>
+	<string>convolutionPatternTop</string>
+	<key>displayableZoneColor</key>
+	<string>captionAndParameter</string>
+	<key>sizeChainHue</key>
+	<string>constraintAtFunction</string>
+	<key>synchronousScaleBound</key>
+	<string>boxshadowSystemBorder</string>
+	<key>textThanForm</key>
+	<string>dependencyThroughSingleton</string>
+</dict>
+</plist>

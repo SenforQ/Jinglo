@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelDecoratorOpacity</key>
+	<string>nextTaskValidation</string>
+	<key>localizationAndPlatform</key>
+	<string>singleReducerDirection</string>
+	<key>mainMarginVelocity</key>
+	<string>invisibleBasePressure</string>
+	<key>missedPageviewState</key>
+	<string>singletonMethodInset</string>
+	<key>missedSwitchCoord</key>
+	<string>robustHistogramVelocity</string>
+	<key>queueValueColor</key>
+	<string>transformerTypeRate</string>
+</dict>
+</plist>

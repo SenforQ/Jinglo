@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitStrategyFormat</key>
+	<string>baselineCompositeSpacing</string>
+	<key>euclideanDependencyLocation</key>
+	<string>blocBridgeForce</string>
+	<key>hyperbolicBatchDistance</key>
+	<string>pageviewObserverVelocity</string>
+	<key>mapFromFunction</key>
+	<string>tabviewFromAction</string>
+	<key>musicAndParameter</key>
+	<string>chapterSinceStrategy</string>
+	<key>nodeInScope</key>
+	<string>containerIncludeKind</string>
+	<key>particleMediatorAppearance</key>
+	<string>featureFrameworkFrequency</string>
+	<key>prismaticSpecifierOffset</key>
+	<string>accessibleBoxshadowContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarThanNumber</key>
+	<string>cubitObserverVisible</string>
+	<key>axisSystemColor</key>
+	<string>priorSubpixelLeft</string>
+	<key>coordinatorAsPlatform</key>
+	<string>isolateByCommand</string>
+	<key>mediaTierInteraction</key>
+	<string>advancedIsolateTag</string>
+	<key>tickerParameterStatus</key>
+	<string>semanticTextPosition</string>
+</dict>
+</plist>

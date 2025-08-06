@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainTierFrequency</key>
+	<string>currentNibSpeed</string>
+	<key>independentCurveShade</key>
+	<string>desktopThreadMode</string>
+	<key>originalCharacterInterval</key>
+	<string>movementAlongJob</string>
+	<key>originalTouchIndex</key>
+	<string>cardUntilPattern</string>
+	<key>projectionTierHead</key>
+	<string>controllerDuringInterpreter</string>
+	<key>protectedEffectDistance</key>
+	<string>fragmentJobDuration</string>
+</dict>
+</plist>

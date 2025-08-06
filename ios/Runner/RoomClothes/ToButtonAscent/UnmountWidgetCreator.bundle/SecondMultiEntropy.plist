@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationForStage</key>
+	<string>skirtPrototypeCoord</string>
+	<key>progressbarAroundShape</key>
+	<string>mediumResponseDuration</string>
+	<key>textureExceptStage</key>
+	<string>painterCycleStatus</string>
+	<key>utilFrameworkRate</key>
+	<string>firstLogOrientation</string>
+</dict>
+</plist>

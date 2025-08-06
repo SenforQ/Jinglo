@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveToolBorder</key>
+	<string>handlerOfStage</string>
+	<key>concurrentTabviewBehavior</key>
+	<string>presenterMediatorBorder</string>
+	<key>gemModeCount</key>
+	<string>intermediateConstraintEdge</string>
+	<key>interactorSinceActivity</key>
+	<string>factoryForBuffer</string>
+	<key>localizationObserverValidation</key>
+	<string>associatedTimerSize</string>
+	<key>materialPaddingSize</key>
+	<string>accessibleInjectionStyle</string>
+</dict>
+</plist>

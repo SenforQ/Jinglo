@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPerTier</key>
+	<string>statefulAnimatedcontainerBorder</string>
+	<key>ignoredAccessoryStatus</key>
+	<string>associatedButtonLeft</string>
+	<key>localizationBeyondVar</key>
+	<string>equalizationWorkBorder</string>
+	<key>mainQueryTop</key>
+	<string>errorParamRate</string>
+	<key>mainTransformerFormat</key>
+	<string>getxMediatorBrightness</string>
+	<key>precisionAtStage</key>
+	<string>mobileAllocatorInteraction</string>
+</dict>
+</plist>

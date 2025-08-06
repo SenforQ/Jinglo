@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardProxyStyle</key>
+	<string>typicalPageviewDepth</string>
+	<key>decorationPhaseBorder</key>
+	<string>completionAsType</string>
+	<key>immutableIsolateBound</key>
+	<string>basicColumnTransparency</string>
+	<key>intuitiveEquipmentPressure</key>
+	<string>persistentLabelStyle</string>
+	<key>multiplicationContainStage</key>
+	<string>accordionMatrixFrequency</string>
+	<key>staticCupertinoValidation</key>
+	<string>plateActivityOffset</string>
+	<key>storePatternBound</key>
+	<string>projectAndScope</string>
+	<key>viewExceptTier</key>
+	<string>dynamicCheckboxSpacing</string>
+</dict>
+</plist>

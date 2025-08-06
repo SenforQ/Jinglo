@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPresenterFeedback</key>
+	<string>sensorThroughSystem</string>
+	<key>clipperDecoratorTint</key>
+	<string>globalQueueHue</string>
+	<key>disparateIsolateAppearance</key>
+	<string>hierarchicalServiceBorder</string>
+	<key>intuitivePriorityTransparency</key>
+	<string>blocForCycle</string>
+	<key>projectSinceMediator</key>
+	<string>oldAspectratioHue</string>
+	<key>singleTabbarOrientation</key>
+	<string>seamlessObserverColor</string>
+</dict>
+</plist>

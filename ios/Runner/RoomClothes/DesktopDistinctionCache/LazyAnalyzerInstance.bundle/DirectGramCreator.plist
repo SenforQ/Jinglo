@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseAsNumber</key>
+	<string>responsiveEffectBehavior</string>
+	<key>navigatorSingletonForce</key>
+	<string>descriptionBridgeOffset</string>
+	<key>permissiveMenuTop</key>
+	<string>menuStructurePressure</string>
+	<key>storeNearFacade</key>
+	<string>mobileDescriptionName</string>
+	<key>themeDuringSystem</key>
+	<string>effectSingletonScale</string>
+</dict>
+</plist>

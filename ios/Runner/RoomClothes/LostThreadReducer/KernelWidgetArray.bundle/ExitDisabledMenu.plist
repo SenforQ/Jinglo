@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAlongFlyweight</key>
+	<string>equipmentThanVar</string>
+	<key>blocBesideParameter</key>
+	<string>dimensionThroughTask</string>
+	<key>concurrentHeapPressure</key>
+	<string>gridPhaseIndex</string>
+	<key>loopBesideObserver</key>
+	<string>capsuleSingletonType</string>
+	<key>positionPlatformLeft</key>
+	<string>cosineCycleTop</string>
+	<key>scaffoldActionVisibility</key>
+	<string>liteEffectKind</string>
+	<key>sceneStageShape</key>
+	<string>consultativeEventDensity</string>
+	<key>sizeModeBrightness</key>
+	<string>swiftTierKind</string>
+	<key>sliderStageIndex</key>
+	<string>stampTierForce</string>
+	<key>transitionAndFlyweight</key>
+	<string>checklistInScope</string>
+</dict>
+</plist>

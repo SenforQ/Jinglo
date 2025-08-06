@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLabelScale</key>
+	<string>promiseOrJob</string>
+	<key>cubeBeyondStage</key>
+	<string>clipperLayerCount</string>
+	<key>dedicatedCompositionFrequency</key>
+	<string>completerObserverInterval</string>
+	<key>featureTaskDirection</key>
+	<string>autoUnaryBehavior</string>
+	<key>featureVarName</key>
+	<string>positionAsObserver</string>
+	<key>immutableDecorationIndex</key>
+	<string>mainIconOrigin</string>
+	<key>pointJobIndex</key>
+	<string>awaitShapeCenter</string>
+	<key>prismaticTangentTop</key>
+	<string>injectionPhaseTransparency</string>
+	<key>segueWithoutNumber</key>
+	<string>presenterIncludeEnvironment</string>
+</dict>
+</plist>

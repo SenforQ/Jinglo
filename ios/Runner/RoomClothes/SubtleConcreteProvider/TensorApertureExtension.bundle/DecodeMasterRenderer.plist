@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScrollMode</key>
+	<string>asyncGridCoord</string>
+	<key>checklistEnvironmentTheme</key>
+	<string>documentPlatformVelocity</string>
+	<key>currentMediaqueryTransparency</key>
+	<string>customTextfieldOrientation</string>
+	<key>entityFrameworkTransparency</key>
+	<string>columnCycleDepth</string>
+	<key>nodeExceptComposite</key>
+	<string>slashPlatformEdge</string>
+	<key>primaryNotifierOrigin</key>
+	<string>coordinatorBridgeSaturation</string>
+	<key>textfieldAlongObserver</key>
+	<string>collectionWithSystem</string>
+	<key>transitionThanScope</key>
+	<string>delicateChallengeSaturation</string>
+</dict>
+</plist>

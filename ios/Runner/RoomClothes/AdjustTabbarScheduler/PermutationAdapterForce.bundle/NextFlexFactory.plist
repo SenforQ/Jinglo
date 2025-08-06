@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableSampleRotation</key>
+	<string>popupTaskForce</string>
+	<key>factoryByEnvironment</key>
+	<string>tappableLocalizationInteraction</string>
+	<key>missionFacadeTransparency</key>
+	<string>errorPerValue</string>
+	<key>normAndShape</key>
+	<string>durationParameterHead</string>
+	<key>sustainableCanvasDepth</key>
+	<string>protectedMatrixVisible</string>
+</dict>
+</plist>

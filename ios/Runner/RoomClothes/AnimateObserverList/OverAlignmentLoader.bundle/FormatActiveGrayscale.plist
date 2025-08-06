@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackParamAcceleration</key>
+	<string>gridviewOperationSaturation</string>
+	<key>chartTempleDensity</key>
+	<string>dialogsBeyondSystem</string>
+	<key>compositionalSingletonFlags</key>
+	<string>coordinatorAwayTask</string>
+	<key>constraintInterpreterState</key>
+	<string>reusableTextfieldSpacing</string>
+	<key>euclideanSliderSkewy</key>
+	<string>observerAdapterMargin</string>
+	<key>gateOfJob</key>
+	<string>webPointTag</string>
+	<key>imageIncludeChain</key>
+	<string>pivotalTabviewBehavior</string>
+	<key>routeEnvironmentShape</key>
+	<string>offsetBeyondPlatform</string>
+</dict>
+</plist>

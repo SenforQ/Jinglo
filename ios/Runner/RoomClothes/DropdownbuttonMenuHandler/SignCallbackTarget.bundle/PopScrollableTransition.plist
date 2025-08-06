@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentCommandBehavior</key>
+	<string>compositionExceptShape</string>
+	<key>alignmentLevelFlags</key>
+	<string>routeOrInterpreter</string>
+	<key>binaryVersusPlatform</key>
+	<string>capacitiesUntilTask</string>
+	<key>hyperbolicHandlerRate</key>
+	<string>hierarchicalAspectratioDensity</string>
+	<key>labelOutsideStrategy</key>
+	<string>immediateLabelCount</string>
+	<key>queueSinceAdapter</key>
+	<string>repositoryAroundLayer</string>
+	<key>smallRequestFrequency</key>
+	<string>getxFormFlags</string>
+	<key>widgetLayerStyle</key>
+	<string>projectLayerDepth</string>
+	<key>widgetVisitorKind</key>
+	<string>independentTextfieldDensity</string>
+</dict>
+</plist>

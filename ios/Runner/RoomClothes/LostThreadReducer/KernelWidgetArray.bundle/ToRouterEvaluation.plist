@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBufferTag</key>
+	<string>singletonFacadeRotation</string>
+	<key>blocVersusBuffer</key>
+	<string>mapViaActivity</string>
+	<key>featureStageBehavior</key>
+	<string>requiredPlaybackAcceleration</string>
+	<key>mainChannelsName</key>
+	<string>priorControllerScale</string>
+	<key>overlayFacadeState</key>
+	<string>descriptionBufferBound</string>
+	<key>sequentialModelIndex</key>
+	<string>cartesianLossForce</string>
+	<key>topicMethodRight</key>
+	<string>reductionAgainstContext</string>
+</dict>
+</plist>

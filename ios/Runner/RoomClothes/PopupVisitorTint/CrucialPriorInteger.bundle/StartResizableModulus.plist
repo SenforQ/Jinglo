@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintContainStyle</key>
+	<string>standaloneDecorationAlignment</string>
+	<key>draggableTransitionStyle</key>
+	<string>usecaseBridgeValidation</string>
+	<key>futureInsideLevel</key>
+	<string>localizationBufferForce</string>
+	<key>interactorAwayVar</key>
+	<string>primaryBrushValidation</string>
+	<key>semanticContainerContrast</key>
+	<string>queueBridgeInteraction</string>
+	<key>sliderModeSkewy</key>
+	<string>sceneProxyEdge</string>
+	<key>stateProxyContrast</key>
+	<string>ephemeralCacheCenter</string>
+</dict>
+</plist>

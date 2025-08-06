@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAccessoryRight</key>
+	<string>permissiveRepositoryShade</string>
+	<key>dropdownbuttonPerChain</key>
+	<string>repositoryBridgeOffset</string>
+	<key>globalDescriptionStyle</key>
+	<string>materialOffsetTag</string>
+	<key>layerViaChain</key>
+	<string>resultFunctionPosition</string>
+	<key>localStoreTransparency</key>
+	<string>durationByChain</string>
+	<key>logarithmEnvironmentMode</key>
+	<string>listenerShapeFrequency</string>
+	<key>newestDropdownbuttonInterval</key>
+	<string>robustInjectionSpeed</string>
+	<key>nodeOperationDelay</key>
+	<string>painterOperationDelay</string>
+</dict>
+</plist>

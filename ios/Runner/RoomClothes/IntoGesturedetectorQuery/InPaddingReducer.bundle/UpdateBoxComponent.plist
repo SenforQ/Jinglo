@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSubscriptionFlags</key>
+	<string>queueAroundTier</string>
+	<key>behaviorAlongComposite</key>
+	<string>arithmeticParamPressure</string>
+	<key>cosineWithMode</key>
+	<string>listenerStrategyPosition</string>
+	<key>firstNavigatorName</key>
+	<string>streamStateOpacity</string>
+	<key>interfaceIncludeValue</key>
+	<string>managerStructureStatus</string>
+</dict>
+</plist>

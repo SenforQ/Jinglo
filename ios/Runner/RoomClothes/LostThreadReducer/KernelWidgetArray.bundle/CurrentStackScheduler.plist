@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentViaStrategy</key>
+	<string>customizedCellBehavior</string>
+	<key>labelBridgeContrast</key>
+	<string>arithmeticContainerDistance</string>
+	<key>progressbarWithoutProxy</key>
+	<string>semanticResolverIndex</string>
+	<key>protocolAndVariable</key>
+	<string>interpolationStageHue</string>
+	<key>providerContainOperation</key>
+	<string>disabledTaskAcceleration</string>
+	<key>retainedScreenShade</key>
+	<string>themeBeyondLevel</string>
+	<key>sequentialSinePosition</key>
+	<string>entityDespiteCommand</string>
+	<key>subscriptionLevelSize</key>
+	<string>directlyRectKind</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerVersusStyle</key>
+	<string>sizeThanParam</string>
+	<key>displayableProviderOpacity</key>
+	<string>resultLikeStructure</string>
+	<key>fixedGridSpeed</key>
+	<string>graphAdapterFrequency</string>
+	<key>rectActionRate</key>
+	<string>desktopAnimationPressure</string>
+	<key>requiredRemainderSize</key>
+	<string>asyncOperationAcceleration</string>
+	<key>resourceInsideEnvironment</key>
+	<string>contractionInterpreterMode</string>
+	<key>spineMementoMode</key>
+	<string>channelAsMethod</string>
+	<key>transitionStateValidation</key>
+	<string>channelStructurePressure</string>
+</dict>
+</plist>

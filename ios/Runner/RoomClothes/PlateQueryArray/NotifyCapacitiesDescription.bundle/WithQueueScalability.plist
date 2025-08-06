@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMethodShade</key>
+	<string>matrixMethodBound</string>
+	<key>cupertinoCoordinatorMargin</key>
+	<string>textWithoutObserver</string>
+	<key>eventCycleKind</key>
+	<string>stackAlongSingleton</string>
+	<key>invisibleCommandPressure</key>
+	<string>pageviewInsideDecorator</string>
+	<key>repositoryVisitorStatus</key>
+	<string>allocatorFromParam</string>
+	<key>tensorSizeKind</key>
+	<string>widgetBesideFunction</string>
+</dict>
+</plist>

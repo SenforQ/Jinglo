@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackViaBridge</key>
+	<string>completionAwayAdapter</string>
+	<key>cubitLikeStage</key>
+	<string>oldEventResponse</string>
+	<key>declarativeTabbarName</key>
+	<string>awaitTaskShade</string>
+	<key>euclideanCollectionColor</key>
+	<string>normalListenerShade</string>
+	<key>extensionCommandStyle</key>
+	<string>sizeBeyondLayer</string>
+	<key>smallSegueInteraction</key>
+	<string>segmentUntilSingleton</string>
+	<key>smartLabelBound</key>
+	<string>protectedSegmentBrightness</string>
+	<key>subsequentRemainderAcceleration</key>
+	<string>observerMementoBottom</string>
+	<key>subtleStoryboardVisible</key>
+	<string>retainedMemberDirection</string>
+	<key>symbolFormState</key>
+	<string>resilientCellOrientation</string>
+</dict>
+</plist>

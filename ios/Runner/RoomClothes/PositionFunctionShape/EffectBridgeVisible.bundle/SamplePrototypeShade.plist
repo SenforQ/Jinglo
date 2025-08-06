@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationContextShape</key>
+	<string>statefulBufferInset</string>
+	<key>normMediatorSkewy</key>
+	<string>disabledMusicMargin</string>
+</dict>
+</plist>

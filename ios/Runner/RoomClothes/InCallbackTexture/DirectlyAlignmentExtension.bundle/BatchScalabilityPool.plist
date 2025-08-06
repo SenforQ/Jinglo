@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEventKind</key>
+	<string>granularOptionRight</string>
+	<key>alignmentFromVisitor</key>
+	<string>opaqueEffectFeedback</string>
+	<key>borderPatternName</key>
+	<string>navigatorTempleFlags</string>
+	<key>constraintVisitorContrast</key>
+	<string>stepScopeContrast</string>
+	<key>rowOutsideLevel</key>
+	<string>providerDespiteLayer</string>
+	<key>tweenModeScale</key>
+	<string>rectParameterInset</string>
+</dict>
+</plist>

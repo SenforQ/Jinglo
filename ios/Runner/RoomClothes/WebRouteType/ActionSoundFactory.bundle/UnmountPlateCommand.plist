@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStoryboardMode</key>
+	<string>graphDuringMethod</string>
+	<key>coordinatorBeyondProxy</key>
+	<string>mobxViaMethod</string>
+	<key>extensionSingletonAppearance</key>
+	<string>popupActionSpacing</string>
+	<key>graphFormScale</key>
+	<string>interactorWithoutPattern</string>
+	<key>pinchableFutureResponse</key>
+	<string>materialSingletonStyle</string>
+	<key>publicScrollPadding</key>
+	<string>callbackNumberSkewx</string>
+	<key>staticHashDepth</key>
+	<string>disparateIntensityInteraction</string>
+	<key>synchronousSignatureIndex</key>
+	<string>precisionStructureHead</string>
+</dict>
+</plist>

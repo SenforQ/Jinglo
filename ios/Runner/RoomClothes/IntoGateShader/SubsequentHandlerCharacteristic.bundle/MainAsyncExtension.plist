@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSampleRate</key>
+	<string>offsetAlongType</string>
+	<key>cycleOperationDensity</key>
+	<string>vectorAgainstPattern</string>
+	<key>discardedDrawerBorder</key>
+	<string>multiplicationAtPrototype</string>
+	<key>loopAboutPrototype</key>
+	<string>responsiveFeatureMode</string>
+</dict>
+</plist>

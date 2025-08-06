@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOrScope</key>
+	<string>cubitThroughFacade</string>
+	<key>binaryLikeDecorator</key>
+	<string>widgetTypeBrightness</string>
+	<key>cursorCycleName</key>
+	<string>reducerPlatformShade</string>
+	<key>eagerStreamLeft</key>
+	<string>sinkAsAction</string>
+	<key>roleLayerMomentum</key>
+	<string>delegateActivityStatus</string>
+</dict>
+</plist>

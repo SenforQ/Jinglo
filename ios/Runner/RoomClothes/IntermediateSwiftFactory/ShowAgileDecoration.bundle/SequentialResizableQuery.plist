@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDurationShape</key>
+	<string>descriptionCommandInteraction</string>
+	<key>collectionObserverBorder</key>
+	<string>gradientCommandState</string>
+	<key>dependencyUntilStage</key>
+	<string>toolActionVelocity</string>
+	<key>fragmentInterpreterInterval</key>
+	<string>symmetricActionBottom</string>
+	<key>granularDecorationCount</key>
+	<string>directlyBulletMode</string>
+	<key>layerInPlatform</key>
+	<string>repositoryInTier</string>
+	<key>robustSpriteFeedback</key>
+	<string>buttonProxyOrigin</string>
+	<key>transformerThanStage</key>
+	<string>imperativeActivityAcceleration</string>
+</dict>
+</plist>

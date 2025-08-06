@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBeyondLayer</key>
+	<string>segmentMethodEdge</string>
+	<key>containerFrameworkSkewy</key>
+	<string>routeOperationOpacity</string>
+	<key>controllerStyleBrightness</key>
+	<string>beginnerLogContrast</string>
+	<key>kernelVersusActivity</key>
+	<string>composableNotifierInset</string>
+	<key>notificationPhaseRotation</key>
+	<string>priorFactoryDelay</string>
+	<key>radiusMethodDuration</key>
+	<string>asynchronousLabelContrast</string>
+	<key>resizableLocalizationKind</key>
+	<string>canvasFacadeLeft</string>
+	<key>tableCycleTension</key>
+	<string>respectiveCupertinoSkewx</string>
+</dict>
+</plist>

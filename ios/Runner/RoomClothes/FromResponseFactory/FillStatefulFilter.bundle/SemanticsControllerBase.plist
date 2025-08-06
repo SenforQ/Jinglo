@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorModeCenter</key>
+	<string>appbarScopeTransparency</string>
+	<key>difficultChecklistScale</key>
+	<string>effectBesideMemento</string>
+	<key>exceptionVisitorShade</key>
+	<string>desktopDecorationFrequency</string>
+	<key>transitionAndTask</key>
+	<string>bufferAwayVar</string>
+</dict>
+</plist>

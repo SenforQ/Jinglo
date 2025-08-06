@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseParamBehavior</key>
+	<string>isolateWithoutShape</string>
+	<key>consultativeProgressbarOpacity</key>
+	<string>sizedboxOutsideBridge</string>
+	<key>isolateFromMemento</key>
+	<string>concurrentPriorityRate</string>
+	<key>reactiveChannelForce</key>
+	<string>similarCacheStyle</string>
+	<key>reactiveCompletionSpeed</key>
+	<string>factoryAndContext</string>
+	<key>sizeStyleSkewx</key>
+	<string>positionedStateRight</string>
+	<key>streamWorkMomentum</key>
+	<string>signaturePatternSaturation</string>
+</dict>
+</plist>

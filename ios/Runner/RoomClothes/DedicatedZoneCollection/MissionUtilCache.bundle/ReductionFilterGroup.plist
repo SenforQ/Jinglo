@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncActivityAlignment</key>
+	<string>indicatorForStrategy</string>
+	<key>cupertinoContainPhase</key>
+	<string>promiseBesideValue</string>
+	<key>sizeFromSingleton</key>
+	<string>binaryTypeOpacity</string>
+	<key>subtleGesturedetectorFeedback</key>
+	<string>menuActionOrigin</string>
+	<key>timerContainKind</key>
+	<string>contractionBesidePhase</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAsyncCount</key>
+	<string>iterativeResourceTag</string>
+	<key>configurationWorkRate</key>
+	<string>allocatorChainSaturation</string>
+	<key>layoutWithoutAdapter</key>
+	<string>cycleFormOpacity</string>
+	<key>navigationCompositeOrientation</key>
+	<string>futureBridgeHue</string>
+	<key>opaqueCharacterDistance</key>
+	<string>controllerOfOperation</string>
+	<key>parallelHashSize</key>
+	<string>immediateStoryboardName</string>
+	<key>profileLikeAdapter</key>
+	<string>utilAgainstVisitor</string>
+	<key>timerFromInterpreter</key>
+	<string>missedSessionPosition</string>
+</dict>
+</plist>

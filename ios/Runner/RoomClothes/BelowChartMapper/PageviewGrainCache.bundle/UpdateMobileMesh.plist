@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInterpreterMode</key>
+	<string>textAndVariable</string>
+	<key>cupertinoResolverTransparency</key>
+	<string>diffableGemDensity</string>
+	<key>currentBlocTheme</key>
+	<string>lostLabelTail</string>
+	<key>customSizeStyle</key>
+	<string>crucialStatelessState</string>
+	<key>descriptionTempleTail</key>
+	<string>extensionAndType</string>
+	<key>permanentBatchOrientation</key>
+	<string>draggableTimerIndex</string>
+	<key>transitionWithoutAction</key>
+	<string>entityAmongFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedExceptionPressure</key>
+	<string>taskKindDirection</string>
+	<key>beginnerDecorationFlags</key>
+	<string>screenIncludeComposite</string>
+	<key>cursorProxyDistance</key>
+	<string>toolStateCenter</string>
+	<key>directlySinkPosition</key>
+	<string>asyncVersusLayer</string>
+	<key>disabledPositionFormat</key>
+	<string>intensityViaVariable</string>
+	<key>draggableMobxSaturation</key>
+	<string>synchronousGesturedetectorTail</string>
+	<key>gridAdapterAppearance</key>
+	<string>gradientVisitorContrast</string>
+	<key>interactiveSlashStatus</key>
+	<string>featurePlatformResponse</string>
+	<key>richtextByFlyweight</key>
+	<string>durationSinceParam</string>
+	<key>tappableRowBorder</key>
+	<string>immutableAspectratioAcceleration</string>
+</dict>
+</plist>

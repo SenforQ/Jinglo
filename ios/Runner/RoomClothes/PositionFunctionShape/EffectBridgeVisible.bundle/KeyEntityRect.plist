@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationActionTransparency</key>
+	<string>entityFormLocation</string>
+	<key>consumerSinceStage</key>
+	<string>plateTaskLeft</string>
+	<key>explicitIsolateRotation</key>
+	<string>liteCanvasPosition</string>
+	<key>robustSpriteTag</key>
+	<string>globalSceneBehavior</string>
+	<key>scaleParameterShape</key>
+	<string>monsterMediatorCount</string>
+	<key>scrollDecoratorCoord</key>
+	<string>heroViaComposite</string>
+	<key>utilUntilStrategy</key>
+	<string>transformerInPrototype</string>
+</dict>
+</plist>

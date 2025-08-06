@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateTypeVelocity</key>
+	<string>diffableQueueOffset</string>
+	<key>callbackEnvironmentBehavior</key>
+	<string>animationAmongSingleton</string>
+	<key>cartesianQueueSkewy</key>
+	<string>nodeThroughVisitor</string>
+	<key>mobileErrorValidation</key>
+	<string>resultFrameworkMode</string>
+	<key>relationalRouterDirection</key>
+	<string>smartFutureAcceleration</string>
+	<key>relationalTabviewPadding</key>
+	<string>heapFromSystem</string>
+	<key>textOfWork</key>
+	<string>requiredPositionedTag</string>
+	<key>themePerFunction</key>
+	<string>queueDespiteMode</string>
+	<key>transformerPerPlatform</key>
+	<string>effectInsideEnvironment</string>
+</dict>
+</plist>

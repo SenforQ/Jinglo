@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basePlatformPosition</key>
+	<string>keyOffsetTint</string>
+	<key>managerFrameworkVisibility</key>
+	<string>sharedRichtextFormat</string>
+	<key>nativeScreenBorder</key>
+	<string>commonGateBorder</string>
+	<key>otherGrayscaleTint</key>
+	<string>extensionBridgeRotation</string>
+	<key>profileTaskIndex</key>
+	<string>inkwellJobOffset</string>
+	<key>serviceActivitySpacing</key>
+	<string>delicateCosineScale</string>
+	<key>symmetricTweenTension</key>
+	<string>discardedCanvasDelay</string>
+</dict>
+</plist>

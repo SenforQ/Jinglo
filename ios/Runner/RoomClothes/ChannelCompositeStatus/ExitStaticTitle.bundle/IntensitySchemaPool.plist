@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelProcessSpacing</key>
+	<string>isolateJobBound</string>
+	<key>cosineStageFrequency</key>
+	<string>awaitDuringComposite</string>
+	<key>mapPhaseCenter</key>
+	<string>sizedboxNumberBottom</string>
+	<key>numericalProviderLocation</key>
+	<string>masterFrameworkRate</string>
+	<key>radioAboutAction</key>
+	<string>cursorMementoFeedback</string>
+	<key>skinStyleIndex</key>
+	<string>sequentialBufferFeedback</string>
+	<key>threadTempleResponse</key>
+	<string>mediocreRowPosition</string>
+</dict>
+</plist>

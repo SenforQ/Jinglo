@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAmongFramework</key>
+	<string>equipmentByKind</string>
+	<key>constraintTypeFlags</key>
+	<string>permanentMobileTint</string>
+	<key>instructionBufferFrequency</key>
+	<string>asynchronousProviderCenter</string>
+	<key>interactorCommandState</key>
+	<string>permissiveHeroResponse</string>
+	<key>offsetBesideJob</key>
+	<string>semanticRequestVisibility</string>
+	<key>providerOfTask</key>
+	<string>firstConfigurationFrequency</string>
+	<key>sliderAdapterValidation</key>
+	<string>inheritedKernelAlignment</string>
+	<key>vectorTaskKind</key>
+	<string>techniqueFlyweightSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonShapeRate</key>
+	<string>entropyInsideParam</string>
+	<key>decorationContextType</key>
+	<string>themeVariableTransparency</string>
+	<key>ephemeralCanvasShape</key>
+	<string>sceneWithParameter</string>
+	<key>menuStyleRate</key>
+	<string>richtextCommandOpacity</string>
+	<key>particleDespiteAction</key>
+	<string>crucialBuilderInset</string>
+	<key>resultParamForce</key>
+	<string>keySpotCenter</string>
+</dict>
+</plist>

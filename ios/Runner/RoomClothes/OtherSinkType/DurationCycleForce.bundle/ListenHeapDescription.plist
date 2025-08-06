@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseEffectHue</key>
+	<string>animatedDimensionTag</string>
+	<key>masterStyleAlignment</key>
+	<string>utilOutsideScope</string>
+	<key>menuAsPhase</key>
+	<string>explicitCheckboxInset</string>
+	<key>nodeAmongFramework</key>
+	<string>animatedcontainerActionResponse</string>
+	<key>presenterPhaseCenter</key>
+	<string>concurrentCubitLocation</string>
+	<key>richtextCompositeVisibility</key>
+	<string>explicitLayoutFrequency</string>
+	<key>screenPrototypeSaturation</key>
+	<string>ignoredResponseSaturation</string>
+	<key>tweenDuringTask</key>
+	<string>scaleAmongChain</string>
+	<key>visibleWidgetVelocity</key>
+	<string>profileSystemCount</string>
+</dict>
+</plist>

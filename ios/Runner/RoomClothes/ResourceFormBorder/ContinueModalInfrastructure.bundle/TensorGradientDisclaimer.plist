@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardViewAlignment</key>
+	<string>reusableContainerValidation</string>
+	<key>deferredContainerInterval</key>
+	<string>resultStructureDensity</string>
+	<key>globalManagerMode</key>
+	<string>advancedSliderFormat</string>
+	<key>responseProcessAlignment</key>
+	<string>plateAsMethod</string>
+	<key>segueOperationDistance</key>
+	<string>litePointHue</string>
+</dict>
+</plist>

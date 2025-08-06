@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerWithStyle</key>
+	<string>draggableViewMode</string>
+	<key>behaviorFromPhase</key>
+	<string>localizationVarName</string>
+	<key>functionalTransitionAcceleration</key>
+	<string>painterNearLayer</string>
+	<key>gestureMediatorHead</key>
+	<string>precisionOperationPressure</string>
+	<key>layoutObserverDistance</key>
+	<string>scrollAtState</string>
+	<key>resourceScopeCenter</key>
+	<string>unaryWithParam</string>
+	<key>rowForComposite</key>
+	<string>configurationInsideContext</string>
+	<key>sliderPrototypeForce</key>
+	<string>layoutNumberShape</string>
+</dict>
+</plist>

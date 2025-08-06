@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBufferBound</key>
+	<string>menuShapeState</string>
+	<key>interpolationFromContext</key>
+	<string>scrollableLabelAcceleration</string>
+	<key>seamlessThreadTop</key>
+	<string>workflowShapeKind</string>
+	<key>sortedGroupEdge</key>
+	<string>smartDelegateSaturation</string>
+	<key>uniformButtonTheme</key>
+	<string>permanentTextureOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseWithEnvironment</key>
+	<string>notifierAwayCycle</string>
+	<key>callbackContainShape</key>
+	<string>memberWorkValidation</string>
+	<key>fusedAsyncOpacity</key>
+	<string>otherTimerTop</string>
+	<key>scrollStateVisible</key>
+	<string>menuModeInset</string>
+	<key>singletonNumberDuration</key>
+	<string>projectionOutsideEnvironment</string>
+	<key>subsequentPageviewDepth</key>
+	<string>notificationMediatorDepth</string>
+	<key>taskFromActivity</key>
+	<string>spotObserverFrequency</string>
+	<key>unsortedStatelessEdge</key>
+	<string>requiredViewResponse</string>
+</dict>
+</plist>

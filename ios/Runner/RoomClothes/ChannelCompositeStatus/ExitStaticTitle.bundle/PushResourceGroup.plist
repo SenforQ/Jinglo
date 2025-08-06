@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>particleAwayStructure</key>
+	<string>singleContractionOffset</string>
+	<key>routerVariableRotation</key>
+	<string>sessionAsPrototype</string>
+	<key>scaleOrKind</key>
+	<string>topicTypeState</string>
+	<key>spriteFromEnvironment</key>
+	<string>tickerAroundSingleton</string>
+	<key>transitionUntilParam</key>
+	<string>beginnerCompletionRight</string>
+	<key>widgetExceptState</key>
+	<string>tappableStateStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeTaskOrientation</key>
+	<string>beginnerTickerSkewx</string>
+	<key>sampleBufferFormat</key>
+	<string>channelsPerChain</string>
+	<key>spriteDespiteFunction</key>
+	<string>dedicatedBitrateSkewx</string>
+	<key>storageBufferDensity</key>
+	<string>textBeyondFramework</string>
+	<key>ternaryUntilMemento</key>
+	<string>baselineFacadeType</string>
+</dict>
+</plist>

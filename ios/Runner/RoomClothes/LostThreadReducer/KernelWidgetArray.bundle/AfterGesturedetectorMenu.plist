@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarVersusMode</key>
+	<string>playbackPhaseSpacing</string>
+	<key>assetOutsideComposite</key>
+	<string>captionFlyweightFrequency</string>
+	<key>bulletOutsideAdapter</key>
+	<string>containerViaStrategy</string>
+	<key>disabledZoneHue</key>
+	<string>providerVersusPlatform</string>
+	<key>extensionWorkOffset</key>
+	<string>channelScopeShade</string>
+	<key>immediateInjectionVisible</key>
+	<string>scaleVarFormat</string>
+	<key>modelMementoMomentum</key>
+	<string>musicNumberShape</string>
+	<key>popupStageBorder</key>
+	<string>graphProcessAlignment</string>
+</dict>
+</plist>

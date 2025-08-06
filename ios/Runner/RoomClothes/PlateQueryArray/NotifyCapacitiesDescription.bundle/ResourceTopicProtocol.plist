@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateDependencyShape</key>
+	<string>scrollFormDepth</string>
+	<key>entityTypeStatus</key>
+	<string>timerChainStyle</string>
+	<key>gestureScopeSkewy</key>
+	<string>bufferAsOperation</string>
+	<key>previewEnvironmentInset</key>
+	<string>smallStoreVelocity</string>
+	<key>riverpodTypeName</key>
+	<string>checkboxShapeMargin</string>
+	<key>ternaryPerWork</key>
+	<string>capsuleFrameworkColor</string>
+</dict>
+</plist>

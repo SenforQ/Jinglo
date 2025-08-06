@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertExceptContext</key>
+	<string>criticalSkinBehavior</string>
+	<key>containerBufferEdge</key>
+	<string>disabledFutureRight</string>
+	<key>directCatalystAppearance</key>
+	<string>aspectratioStrategyMode</string>
+	<key>featureAndFlyweight</key>
+	<string>pinchableUsecasePressure</string>
+	<key>hyperbolicCacheShade</key>
+	<string>singletonAndMediator</string>
+	<key>injectionFrameworkTag</key>
+	<string>cursorObserverInterval</string>
+	<key>observerTempleCoord</key>
+	<string>animationWithTemple</string>
+	<key>originalAsyncPosition</key>
+	<string>projectAgainstStructure</string>
+	<key>variantVariableShape</key>
+	<string>frameBridgeScale</string>
+</dict>
+</plist>

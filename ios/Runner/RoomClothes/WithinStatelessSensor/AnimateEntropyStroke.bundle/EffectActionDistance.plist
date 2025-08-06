@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPatternTheme</key>
+	<string>popupInterpreterShape</string>
+	<key>alphaWithoutStrategy</key>
+	<string>liteEffectAcceleration</string>
+	<key>euclideanPainterShade</key>
+	<string>geometricContractionAlignment</string>
+	<key>monsterMementoFrequency</key>
+	<string>adaptiveDurationTheme</string>
+	<key>operationWithoutSingleton</key>
+	<string>taskActivityPadding</string>
+	<key>relationalThreadForce</key>
+	<string>customMethodShade</string>
+	<key>textDespiteFlyweight</key>
+	<string>heapTypeDuration</string>
+</dict>
+</plist>

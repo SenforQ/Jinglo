@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAsProxy</key>
+	<string>draggableCompleterSkewy</string>
+	<key>catalystStyleInset</key>
+	<string>assetLayerDirection</string>
+	<key>decorationDuringEnvironment</key>
+	<string>nextWidgetAcceleration</string>
+	<key>mainPlateMargin</key>
+	<string>associatedSwitchScale</string>
+	<key>scrollStyleCenter</key>
+	<string>variantStateInteraction</string>
+</dict>
+</plist>

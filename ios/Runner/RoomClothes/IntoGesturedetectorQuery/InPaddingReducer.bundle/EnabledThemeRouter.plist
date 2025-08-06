@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferLikeVariable</key>
+	<string>granularContainerRate</string>
+	<key>equalizationThroughObserver</key>
+	<string>cubitEnvironmentSaturation</string>
+	<key>iterativeCommandValidation</key>
+	<string>topicBufferCoord</string>
+	<key>materialPointShade</key>
+	<string>threadExceptBridge</string>
+	<key>serviceBeyondType</key>
+	<string>permissiveEffectAppearance</string>
+	<key>touchFunctionInteraction</key>
+	<string>skirtWithProxy</string>
+</dict>
+</plist>

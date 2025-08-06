@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartParamSpeed</key>
+	<string>activityPatternHue</string>
+	<key>declarativeDescriptionHead</key>
+	<string>capsuleContainChain</string>
+	<key>memberCycleContrast</key>
+	<string>accessibleAnimationSpeed</string>
+	<key>primaryAspectratioColor</key>
+	<string>cupertinoByFlyweight</string>
+	<key>singletonValueBehavior</key>
+	<string>pinchableObserverAcceleration</string>
+</dict>
+</plist>

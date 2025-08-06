@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartIncludeTemple</key>
+	<string>mediumMediaFeedback</string>
+	<key>commonNavigationBehavior</key>
+	<string>apertureBesideActivity</string>
+	<key>hashVersusProcess</key>
+	<string>concurrentDescriptorPadding</string>
+	<key>paddingBeyondAction</key>
+	<string>observerBridgeShade</string>
+	<key>stepForBridge</key>
+	<string>desktopResourceDelay</string>
+	<key>ternaryActionOrigin</key>
+	<string>dimensionFacadeShape</string>
+</dict>
+</plist>

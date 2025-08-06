@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentResourceSkewy</key>
+	<string>stateNearNumber</string>
+	<key>extensionAtVar</key>
+	<string>entityAsPattern</string>
+	<key>interactorAmongFacade</key>
+	<string>mediumTextBottom</string>
+	<key>mainServiceSkewy</key>
+	<string>blocSingletonPadding</string>
+	<key>pointOrVisitor</key>
+	<string>advancedGraphicType</string>
+	<key>routerContainStrategy</key>
+	<string>petFunctionPosition</string>
+	<key>sceneMementoDirection</key>
+	<string>queryOperationFlags</string>
+	<key>swiftBufferInteraction</key>
+	<string>consultativeGridviewTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialNodeOffset</key>
+	<string>completerExceptPrototype</string>
+	<key>customizedDecorationPadding</key>
+	<string>ternaryContextOrientation</string>
+	<key>discardedStampFlags</key>
+	<string>allocatorAtParameter</string>
+	<key>equalizationFormVisible</key>
+	<string>declarativeGrayscaleStyle</string>
+	<key>multiReducerInset</key>
+	<string>cubitLayerOffset</string>
+	<key>sophisticatedQueueStatus</key>
+	<string>routerAsAdapter</string>
+	<key>spineAndParam</key>
+	<string>binaryMethodPadding</string>
+</dict>
+</plist>

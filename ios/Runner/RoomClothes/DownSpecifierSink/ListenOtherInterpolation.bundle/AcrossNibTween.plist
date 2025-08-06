@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistNumberDirection</key>
+	<string>routeParameterPressure</string>
+	<key>criticalQueueResponse</key>
+	<string>resizableAllocatorDirection</string>
+	<key>masterVariableLocation</key>
+	<string>spriteBeyondVariable</string>
+	<key>mobileFacadeRate</key>
+	<string>awaitBesideStrategy</string>
+	<key>resourceAwayProcess</key>
+	<string>chapterIncludeParam</string>
+	<key>textWithLayer</key>
+	<string>handlerModeDelay</string>
+</dict>
+</plist>

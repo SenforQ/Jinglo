@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAdapterMargin</key>
+	<string>adaptiveBuilderSkewx</string>
+	<key>gramInStage</key>
+	<string>allocatorInsideWork</string>
+	<key>grayscaleStrategyTension</key>
+	<string>layoutFlyweightSaturation</string>
+	<key>intuitiveUtilVisible</key>
+	<string>labelFromProcess</string>
+	<key>normalQueueSaturation</key>
+	<string>lossPlatformStyle</string>
+	<key>staticCommandOffset</key>
+	<string>synchronousRequestKind</string>
+</dict>
+</plist>

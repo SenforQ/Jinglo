@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSliderKind</key>
+	<string>requiredTextVisibility</string>
+	<key>buttonAsDecorator</key>
+	<string>accordionProgressbarAppearance</string>
+	<key>crucialFactoryOpacity</key>
+	<string>borderMementoHue</string>
+	<key>isolateAboutVisitor</key>
+	<string>sizeFlyweightTop</string>
+	<key>marginPrototypeRotation</key>
+	<string>riverpodCommandName</string>
+	<key>menuFacadePosition</key>
+	<string>captionContextMode</string>
+	<key>opaqueDimensionRotation</key>
+	<string>declarativeInkwellOrientation</string>
+	<key>techniqueMediatorFrequency</key>
+	<string>missedAllocatorHue</string>
+	<key>touchAgainstInterpreter</key>
+	<string>futureProcessVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapPlatformColor</key>
+	<string>managerBesideWork</string>
+	<key>layoutTypeIndex</key>
+	<string>primaryTextureBorder</string>
+	<key>pageviewOutsideStructure</key>
+	<string>zoneContextTint</string>
+	<key>primaryGridviewOrientation</key>
+	<string>visibleResponseInteraction</string>
+	<key>semanticsKindMargin</key>
+	<string>criticalMaterialValidation</string>
+</dict>
+</plist>

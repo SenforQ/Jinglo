@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lossDespiteLayer</key>
+	<string>utilThroughKind</string>
+	<key>marginInsideStrategy</key>
+	<string>controllerOrSingleton</string>
+	<key>metadataSingletonType</key>
+	<string>inactiveHistogramOffset</string>
+	<key>persistentResourceInset</key>
+	<string>queueModeTop</string>
+</dict>
+</plist>

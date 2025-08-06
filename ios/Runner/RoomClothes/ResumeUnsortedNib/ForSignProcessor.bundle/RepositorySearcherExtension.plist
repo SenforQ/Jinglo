@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCubitRotation</key>
+	<string>indicatorActivityDelay</string>
+	<key>listenerOutsideDecorator</key>
+	<string>stateSingletonAcceleration</string>
+	<key>materialChannelBottom</key>
+	<string>adaptiveMenuAcceleration</string>
+	<key>priorPlaybackDepth</key>
+	<string>groupAboutAdapter</string>
+	<key>rapidHistogramAcceleration</key>
+	<string>indicatorBridgeFeedback</string>
+	<key>richtextWithMode</key>
+	<string>cupertinoKindLocation</string>
+	<key>sinkAgainstActivity</key>
+	<string>smartManagerInteraction</string>
+	<key>staticAssetTransparency</key>
+	<string>storyboardMementoAppearance</string>
+	<key>workflowAtVar</key>
+	<string>viewAtMethod</string>
+</dict>
+</plist>

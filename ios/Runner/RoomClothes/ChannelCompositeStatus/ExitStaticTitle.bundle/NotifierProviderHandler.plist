@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSessionInteraction</key>
+	<string>priorGesturedetectorFeedback</string>
+	<key>crucialNavigatorTheme</key>
+	<string>delegatePlatformBrightness</string>
+	<key>marginPerParam</key>
+	<string>loopContextCoord</string>
+	<key>methodAlongValue</key>
+	<string>stepAsType</string>
+	<key>navigationProcessBehavior</key>
+	<string>mediocreParticleOrigin</string>
+	<key>significantPopupPressure</key>
+	<string>operationSystemTheme</string>
+	<key>sineSinceJob</key>
+	<string>layoutOperationCoord</string>
+</dict>
+</plist>

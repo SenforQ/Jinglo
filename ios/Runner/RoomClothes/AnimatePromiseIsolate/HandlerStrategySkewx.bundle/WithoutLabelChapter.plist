@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsStrategyRotation</key>
+	<string>checklistTierMargin</string>
+	<key>desktopCompositionMargin</key>
+	<string>basicHistogramVisibility</string>
+	<key>desktopProjectionPosition</key>
+	<string>unsortedTransformerTag</string>
+	<key>equipmentAwayWork</key>
+	<string>immediateDependencyOpacity</string>
+	<key>intensityObserverLocation</key>
+	<string>layoutAdapterDelay</string>
+	<key>paddingProcessState</key>
+	<string>vectorLayerType</string>
+	<key>serviceStructureTransparency</key>
+	<string>precisionFacadeOffset</string>
+</dict>
+</plist>

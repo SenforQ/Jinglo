@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerLikeStrategy</key>
+	<string>listenerAroundMediator</string>
+	<key>directManagerMode</key>
+	<string>threadThroughScope</string>
+	<key>gateByValue</key>
+	<string>kernelAsChain</string>
+	<key>parallelMediaLocation</key>
+	<string>builderIncludePlatform</string>
+	<key>responseVersusJob</key>
+	<string>sampleOutsideVariable</string>
+	<key>sensorBesideFunction</key>
+	<string>requestSingletonBound</string>
+	<key>storageWithSystem</key>
+	<string>commonGesturedetectorRate</string>
+</dict>
+</plist>

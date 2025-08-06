@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorUntilParam</key>
+	<string>normalCubitAcceleration</string>
+	<key>coordinatorSinceParam</key>
+	<string>loopKindVisibility</string>
+	<key>grainOperationDepth</key>
+	<string>modalVersusSystem</string>
+	<key>invisibleCallbackSpeed</key>
+	<string>resultBeyondParameter</string>
+	<key>keyEventHue</key>
+	<string>widgetAsBuffer</string>
+	<key>singletonOfMediator</key>
+	<string>globalObserverMargin</string>
+	<key>tensorOptionRate</key>
+	<string>modelInVar</string>
+</dict>
+</plist>

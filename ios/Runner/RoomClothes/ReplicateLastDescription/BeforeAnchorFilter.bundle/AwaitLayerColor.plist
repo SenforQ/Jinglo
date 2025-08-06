@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBridgeMargin</key>
+	<string>protectedMetadataInset</string>
+	<key>layoutVersusVariable</key>
+	<string>persistentPreviewColor</string>
+	<key>remainderBesideStructure</key>
+	<string>relationalSignBrightness</string>
+	<key>requestPerFramework</key>
+	<string>modalStrategyDuration</string>
+</dict>
+</plist>

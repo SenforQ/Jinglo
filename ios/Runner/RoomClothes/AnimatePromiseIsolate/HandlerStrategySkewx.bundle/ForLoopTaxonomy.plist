@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMethodDelay</key>
+	<string>alignmentForStyle</string>
+	<key>delicateCaptionTransparency</key>
+	<string>interfaceInsideMethod</string>
+	<key>ignoredResolverShape</key>
+	<string>cycleLevelContrast</string>
+	<key>painterMediatorShade</key>
+	<string>menuBySingleton</string>
+	<key>queueUntilParameter</key>
+	<string>secondNavigatorSize</string>
+	<key>responseDecoratorOffset</key>
+	<string>resourceShapePadding</string>
+	<key>stateObserverCenter</key>
+	<string>anchorVariableHue</string>
+	<key>symmetricGestureBottom</key>
+	<string>localizationThanFramework</string>
+	<key>workflowFormForce</key>
+	<string>variantMediatorVelocity</string>
+</dict>
+</plist>

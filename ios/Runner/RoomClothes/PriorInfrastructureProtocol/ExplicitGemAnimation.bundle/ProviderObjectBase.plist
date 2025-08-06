@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameForMediator</key>
+	<string>cubitTypePressure</string>
+	<key>kernelInsideBridge</key>
+	<string>convolutionFunctionSpeed</string>
+	<key>largeRowSpeed</key>
+	<string>functionalMetadataBehavior</string>
+	<key>lazyNotifierTop</key>
+	<string>sliderDuringObserver</string>
+	<key>persistentThreadRotation</key>
+	<string>timerSinceInterpreter</string>
+	<key>progressbarBridgeBottom</key>
+	<string>referenceScopeSkewx</string>
+	<key>providerMethodKind</key>
+	<string>rowWithoutAdapter</string>
+	<key>queueFunctionDuration</key>
+	<string>mobileDialogsInset</string>
+	<key>skinInAdapter</key>
+	<string>descriptorForProcess</string>
+	<key>stackJobLocation</key>
+	<string>asyncAndProxy</string>
+</dict>
+</plist>

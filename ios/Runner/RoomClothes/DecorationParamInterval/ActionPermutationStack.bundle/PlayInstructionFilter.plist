@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCallbackKind</key>
+	<string>commandFormDirection</string>
+	<key>cubitAlongLevel</key>
+	<string>layerFlyweightValidation</string>
+	<key>greatGiftDelay</key>
+	<string>resilientInteractorInteraction</string>
+	<key>queueThroughDecorator</key>
+	<string>decorationMediatorResponse</string>
+	<key>rectThanBuffer</key>
+	<string>cubitProxyBound</string>
+	<key>sessionFromPlatform</key>
+	<string>labelFunctionBound</string>
+	<key>subsequentThemeMomentum</key>
+	<string>localizationPrototypeTransparency</string>
+</dict>
+</plist>

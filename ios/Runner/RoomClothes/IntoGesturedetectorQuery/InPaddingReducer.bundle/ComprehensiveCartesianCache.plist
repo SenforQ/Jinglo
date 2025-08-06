@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryObserverFrequency</key>
+	<string>plateContainFlyweight</string>
+	<key>fusedPresenterTransparency</key>
+	<string>storeValuePadding</string>
+	<key>gesturedetectorAtTier</key>
+	<string>queueFromTask</string>
+	<key>intensityModeAlignment</key>
+	<string>curveInShape</string>
+	<key>mainCatalystOrientation</key>
+	<string>sortedTransitionMode</string>
+	<key>resultBesideStyle</key>
+	<string>providerFacadeFormat</string>
+	<key>signAsInterpreter</key>
+	<string>granularReductionMomentum</string>
+	<key>tableOutsideStage</key>
+	<string>beginnerPopupOrientation</string>
+</dict>
+</plist>

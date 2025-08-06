@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFrameworkSkewy</key>
+	<string>cupertinoOfScope</string>
+	<key>imagePrototypeAcceleration</key>
+	<string>asyncDuringOperation</string>
+	<key>momentumBufferLeft</key>
+	<string>constraintBufferBehavior</string>
+	<key>resultCommandVisibility</key>
+	<string>captionFlyweightVisibility</string>
+	<key>shaderBesideParameter</key>
+	<string>segmentVisitorPadding</string>
+	<key>usecaseAgainstJob</key>
+	<string>anchorInterpreterAlignment</string>
+</dict>
+</plist>

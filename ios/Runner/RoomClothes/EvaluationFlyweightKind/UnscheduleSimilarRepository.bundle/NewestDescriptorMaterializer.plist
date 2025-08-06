@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPreviewAcceleration</key>
+	<string>chartCommandEdge</string>
+	<key>indicatorAlongObserver</key>
+	<string>layoutAgainstState</string>
+	<key>lastSceneFrequency</key>
+	<string>composableCursorStatus</string>
+	<key>normOfEnvironment</key>
+	<string>inheritedRequestVelocity</string>
+	<key>positionForPattern</key>
+	<string>alphaTempleRate</string>
+	<key>primaryListviewTag</key>
+	<string>euclideanPresenterTop</string>
+	<key>relationalProgressbarResponse</key>
+	<string>responseActivityAcceleration</string>
+	<key>resourceAboutJob</key>
+	<string>chartBufferBrightness</string>
+	<key>segmentPrototypeOrigin</key>
+	<string>standaloneProviderInteraction</string>
+	<key>singletonThroughVar</key>
+	<string>discardedScreenTransparency</string>
+</dict>
+</plist>

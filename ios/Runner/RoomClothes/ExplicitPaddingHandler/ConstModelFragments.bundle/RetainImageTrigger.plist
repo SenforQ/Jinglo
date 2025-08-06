@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constCubeFeedback</key>
+	<string>topicInParameter</string>
+	<key>coordinatorAlongValue</key>
+	<string>screenParameterPressure</string>
+	<key>frameModeAcceleration</key>
+	<string>batchUntilMediator</string>
+	<key>inactiveAppbarState</key>
+	<string>finalRouterValidation</string>
+	<key>navigatorFacadeOpacity</key>
+	<string>checklistLevelHead</string>
+	<key>resizableSubpixelOrigin</key>
+	<string>stackDuringSingleton</string>
+	<key>shaderCommandInset</key>
+	<string>cursorMementoSize</string>
+</dict>
+</plist>

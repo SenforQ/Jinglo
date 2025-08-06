@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentCommandAppearance</key>
+	<string>rowAroundCycle</string>
+	<key>blocCommandSaturation</key>
+	<string>futureCyclePosition</string>
+	<key>capacitiesStageHead</key>
+	<string>durationStrategyInteraction</string>
+	<key>persistentControllerOffset</key>
+	<string>elasticMomentumCoord</string>
+	<key>rectTypePosition</key>
+	<string>materialShaderName</string>
+	<key>sizeAboutInterpreter</key>
+	<string>controllerAndVariable</string>
+	<key>symmetricModelTint</key>
+	<string>autoCacheType</string>
+</dict>
+</plist>

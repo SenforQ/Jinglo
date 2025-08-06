@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientFrameworkBound</key>
+	<string>controllerVersusComposite</string>
+	<key>layerActivityState</key>
+	<string>tweenCommandAppearance</string>
+	<key>numericalResourceDensity</key>
+	<string>providerSinceMode</string>
+	<key>scaleAndSystem</key>
+	<string>rowNearPlatform</string>
+	<key>scaleEnvironmentScale</key>
+	<string>popupStructureContrast</string>
+	<key>timerAboutFlyweight</key>
+	<string>directlyAlphaBound</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCaptionInteraction</key>
+	<string>blocValueContrast</string>
+	<key>blocExceptCycle</key>
+	<string>responsiveTransformerEdge</string>
+	<key>descriptorAmongActivity</key>
+	<string>primaryViewRate</string>
+	<key>normalZoneShade</key>
+	<string>sizedboxTaskKind</string>
+	<key>reducerFromStructure</key>
+	<string>animationAmongTier</string>
+</dict>
+</plist>

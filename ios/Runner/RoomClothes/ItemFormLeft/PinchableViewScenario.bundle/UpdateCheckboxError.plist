@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMethodFeedback</key>
+	<string>extensionLikeProxy</string>
+	<key>diffableTabbarSpacing</key>
+	<string>remainderFromFlyweight</string>
+	<key>navigationTaskLocation</key>
+	<string>requestNearState</string>
+	<key>positionScopeOrientation</key>
+	<string>concurrentResultValidation</string>
+	<key>prismaticInterpolationPadding</key>
+	<string>chartAdapterDepth</string>
+	<key>radiusViaFlyweight</key>
+	<string>stampSingletonName</string>
+	<key>relationalCatalystDepth</key>
+	<string>allocatorBesideObserver</string>
+	<key>unsortedLabelMargin</key>
+	<string>stampActionOrientation</string>
+</dict>
+</plist>

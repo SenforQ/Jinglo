@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionStageDistance</key>
+	<string>lazyCubitTail</string>
+	<key>euclideanRolePadding</key>
+	<string>bufferStyleInset</string>
+	<key>listviewByKind</key>
+	<string>controllerParameterKind</string>
+	<key>projectionLikeFramework</key>
+	<string>easyCurveRotation</string>
+	<key>storeLikeOperation</key>
+	<string>optimizerBufferOpacity</string>
+</dict>
+</plist>

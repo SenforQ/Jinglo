@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentLikeVar</key>
+	<string>cubitCompositeCenter</string>
+	<key>baseAndVariable</key>
+	<string>temporaryTopicDuration</string>
+	<key>directBlocTransparency</key>
+	<string>gesturedetectorFromAction</string>
+	<key>interpolationLikeAction</key>
+	<string>heapOutsideStyle</string>
+	<key>lastTransitionDirection</key>
+	<string>statefulStylePosition</string>
+	<key>rapidAxisFeedback</key>
+	<string>zoneIncludeScope</string>
+	<key>resourceAdapterRate</key>
+	<string>immutableControllerRate</string>
+	<key>responseByFunction</key>
+	<string>standaloneCardDelay</string>
+</dict>
+</plist>

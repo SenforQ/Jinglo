@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeVar</key>
+	<string>draggableRouterLocation</string>
+	<key>appbarTypeDistance</key>
+	<string>graphDecoratorPadding</string>
+	<key>composableDurationSkewx</key>
+	<string>invisibleViewBound</string>
+	<key>explicitScenePadding</key>
+	<string>threadStyleVisibility</string>
+	<key>hashContainParameter</key>
+	<string>hyperbolicTableSkewx</string>
+	<key>hashFrameworkEdge</key>
+	<string>keyTweenInteraction</string>
+	<key>mediaqueryTaskTop</key>
+	<string>labelVisitorTag</string>
+	<key>optionTierDensity</key>
+	<string>pivotalMaterialEdge</string>
+	<key>robustGraphFrequency</key>
+	<string>rapidEventDensity</string>
+	<key>statelessDuringMode</key>
+	<string>sizePatternTag</string>
+</dict>
+</plist>

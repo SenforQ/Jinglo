@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeShapeSaturation</key>
+	<string>navigatorWorkShape</string>
+	<key>cursorOutsideFacade</key>
+	<string>declarativePlaybackSize</string>
+	<key>frameBeyondPlatform</key>
+	<string>actionVersusType</string>
+	<key>pageviewIncludePlatform</key>
+	<string>factoryOrWork</string>
+	<key>scrollableModelTransparency</key>
+	<string>pinchableSingletonVisibility</string>
+	<key>sliderAwayFunction</key>
+	<string>composableIndicatorHue</string>
+	<key>timerStateLocation</key>
+	<string>rapidViewAcceleration</string>
+	<key>widgetFacadePosition</key>
+	<string>blocObserverLeft</string>
+</dict>
+</plist>

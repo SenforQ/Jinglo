@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoButtonSpacing</key>
+	<string>sliderAlongStructure</string>
+	<key>channelsActivitySaturation</key>
+	<string>spriteFacadeSaturation</string>
+	<key>commandOfPhase</key>
+	<string>globalCallbackInset</string>
+	<key>entityWithoutInterpreter</key>
+	<string>projectExceptFacade</string>
+	<key>methodFrameworkBottom</key>
+	<string>rowParameterBorder</string>
+	<key>rectThanLevel</key>
+	<string>mediocreQueueCoord</string>
+</dict>
+</plist>

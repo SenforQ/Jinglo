@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDuringCommand</key>
+	<string>accessibleNotifierResponse</string>
+	<key>cupertinoCursorPressure</key>
+	<string>routeAndType</string>
+	<key>inactiveDropdownbuttonPadding</key>
+	<string>notificationAndInterpreter</string>
+	<key>interactorAgainstMediator</key>
+	<string>dropdownbuttonSystemPosition</string>
+	<key>streamSinceStyle</key>
+	<string>containerBeyondObserver</string>
+</dict>
+</plist>

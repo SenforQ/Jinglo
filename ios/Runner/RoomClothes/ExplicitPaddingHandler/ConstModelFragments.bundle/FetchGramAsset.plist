@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetValueStyle</key>
+	<string>resolverStatePressure</string>
+	<key>discardedCacheContrast</key>
+	<string>mediumPreviewOpacity</string>
+	<key>fixedCoordinatorOrigin</key>
+	<string>managerOrCommand</string>
+	<key>interfaceUntilDecorator</key>
+	<string>graphicBesideBuffer</string>
+	<key>mediaCompositeType</key>
+	<string>binaryStructureSaturation</string>
+	<key>reactiveConstraintCount</key>
+	<string>secondActivityBrightness</string>
+	<key>repositoryVersusVar</key>
+	<string>protectedCacheCenter</string>
+	<key>resultFromForm</key>
+	<string>presenterVersusTier</string>
+	<key>statefulActionSkewx</key>
+	<string>switchAroundMemento</string>
+	<key>themeInsideVisitor</key>
+	<string>hashModePosition</string>
+</dict>
+</plist>

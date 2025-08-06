@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>semanticsFrameworkValidation</key>
+	<string>marginAtLevel</string>
+	<key>sequentialUsecaseInset</key>
+	<string>dialogsFacadeCount</string>
+	<key>textfieldAgainstActivity</key>
+	<string>mapWithoutBuffer</string>
+</dict>
+</plist>

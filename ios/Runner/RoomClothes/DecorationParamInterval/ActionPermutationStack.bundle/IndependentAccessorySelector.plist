@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInjectionPosition</key>
+	<string>displayableSegueVisible</string>
+	<key>curveFromForm</key>
+	<string>durationCycleOrigin</string>
+	<key>fusedBitrateBound</key>
+	<string>durationNumberSpeed</string>
+	<key>largeGrayscaleRate</key>
+	<string>singleEventFormat</string>
+	<key>musicMementoType</key>
+	<string>channelsModeInterval</string>
+	<key>pivotalServiceFeedback</key>
+	<string>gemAtFramework</string>
+	<key>positionInsideAdapter</key>
+	<string>nodeAsMethod</string>
+	<key>tableTierBehavior</key>
+	<string>themeTempleState</string>
+	<key>touchWorkFormat</key>
+	<string>durationWithoutMethod</string>
+</dict>
+</plist>

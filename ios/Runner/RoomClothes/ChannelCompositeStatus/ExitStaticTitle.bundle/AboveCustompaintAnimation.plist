@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutAboutVar</key>
+	<string>asyncCompleterSpeed</string>
+	<key>materialStageSpeed</key>
+	<string>normWithoutProcess</string>
+	<key>movementContainTemple</key>
+	<string>catalystTierOffset</string>
+	<key>topicParameterState</key>
+	<string>promiseIncludeVar</string>
+</dict>
+</plist>

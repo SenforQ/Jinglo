@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitWithoutFacade</key>
+	<string>statePatternStyle</string>
+	<key>consumerAwayStyle</key>
+	<string>retainedFrameFrequency</string>
+	<key>discardedCheckboxBound</key>
+	<string>stepNearObserver</string>
+	<key>frameTempleDelay</key>
+	<string>layoutMediatorTop</string>
+	<key>getxScopeForce</key>
+	<string>animatedcontainerKindName</string>
+	<key>hierarchicalWorkflowInteraction</key>
+	<string>similarViewSkewy</string>
+	<key>inactiveNodeFeedback</key>
+	<string>graphicDecoratorBehavior</string>
+	<key>sampleObserverValidation</key>
+	<string>clipperWithoutStructure</string>
+	<key>segmentDecoratorSpeed</key>
+	<string>responseAdapterStyle</string>
+</dict>
+</plist>

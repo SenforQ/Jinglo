@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateMethodValidation</key>
+	<string>spotFacadeShape</string>
+	<key>descriptorBeyondParameter</key>
+	<string>unactivatedRadiusDistance</string>
+	<key>ephemeralWidgetKind</key>
+	<string>mediaBeyondNumber</string>
+	<key>globalGroupVisibility</key>
+	<string>switchPlatformSaturation</string>
+	<key>largePresenterDelay</key>
+	<string>futureLikeLevel</string>
+	<key>responsiveModulusBrightness</key>
+	<string>optimizerFromFacade</string>
+	<key>sinkIncludeForm</key>
+	<string>resultViaStage</string>
+	<key>subpixelAboutState</key>
+	<string>desktopIntensityEdge</string>
+</dict>
+</plist>

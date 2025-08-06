@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheActivityDensity</key>
+	<string>explicitCoordinatorSkewx</string>
+	<key>configurationOutsideStage</key>
+	<string>publicInteractorSpacing</string>
+	<key>globalAnimationBound</key>
+	<string>graphicStrategyBound</string>
+	<key>imperativePositionedBound</key>
+	<string>directAllocatorForce</string>
+	<key>lostButtonTransparency</key>
+	<string>sliderStrategyDepth</string>
+	<key>managerCompositeType</key>
+	<string>buttonScopeState</string>
+	<key>rectContainState</key>
+	<string>substantialMissionSize</string>
+	<key>serviceBridgeColor</key>
+	<string>widgetParamOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionWithActivity</key>
+	<string>explicitGridRotation</string>
+	<key>controllerBesideDecorator</key>
+	<string>backwardTransitionFeedback</string>
+	<key>dependencyDuringMemento</key>
+	<string>swiftOfMode</string>
+	<key>explicitChecklistMode</key>
+	<string>unaryVariableForce</string>
+	<key>mediumViewCoord</key>
+	<string>directlyWidgetResponse</string>
+	<key>observerOperationRight</key>
+	<string>mobxAndTier</string>
+	<key>rectAndState</key>
+	<string>positionViaAction</string>
+	<key>semanticLossBottom</key>
+	<string>statelessAwaitCoord</string>
+	<key>zoneSystemDuration</key>
+	<string>imperativeGroupDuration</string>
+</dict>
+</plist>

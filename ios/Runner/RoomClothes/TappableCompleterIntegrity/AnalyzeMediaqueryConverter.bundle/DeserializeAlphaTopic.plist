@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemVariableAcceleration</key>
+	<string>activatedLayerSize</string>
+	<key>graphicTaskDistance</key>
+	<string>stampAroundProxy</string>
+	<key>gridShapeDuration</key>
+	<string>cycleInTask</string>
+	<key>notificationInsideLayer</key>
+	<string>sliderAtBridge</string>
+	<key>routerExceptBridge</key>
+	<string>resizableMasterVisibility</string>
+	<key>specifyLocalizationSize</key>
+	<string>expandedContainChain</string>
+</dict>
+</plist>

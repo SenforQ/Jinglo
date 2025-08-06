@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerModeAlignment</key>
+	<string>composableBufferAppearance</string>
+	<key>composableBlocSkewx</key>
+	<string>cacheAsSystem</string>
+	<key>coordinatorAwayOperation</key>
+	<string>liteDelegateOpacity</string>
+	<key>deferredStoryboardFrequency</key>
+	<string>featureForPattern</string>
+	<key>ephemeralDurationTension</key>
+	<string>richtextTaskTheme</string>
+	<key>eventLevelDirection</key>
+	<string>permanentOptionTransparency</string>
+	<key>modulusStageSize</key>
+	<string>gestureForMethod</string>
+	<key>tickerNearPlatform</key>
+	<string>singleTabviewSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorDespitePattern</key>
+	<string>criticalStatelessVelocity</string>
+	<key>observerActivityEdge</key>
+	<string>logDuringCycle</string>
+	<key>remainderOutsideStyle</key>
+	<string>finalFactoryTheme</string>
+	<key>typicalRiverpodRight</key>
+	<string>uniformPointType</string>
+</dict>
+</plist>

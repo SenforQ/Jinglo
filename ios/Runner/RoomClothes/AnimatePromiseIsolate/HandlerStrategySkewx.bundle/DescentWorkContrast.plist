@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customMapBound</key>
+	<string>effectUntilLevel</string>
+	<key>graphIncludeInterpreter</key>
+	<string>sequentialSegmentHue</string>
+	<key>injectionParameterRight</key>
+	<string>layoutPlatformStyle</string>
+	<key>sharedDurationForce</key>
+	<string>canvasAgainstScope</string>
+	<key>uniformDecorationValidation</key>
+	<string>resilientStackTint</string>
+	<key>usecaseParameterVelocity</key>
+	<string>playbackParameterPosition</string>
+</dict>
+</plist>

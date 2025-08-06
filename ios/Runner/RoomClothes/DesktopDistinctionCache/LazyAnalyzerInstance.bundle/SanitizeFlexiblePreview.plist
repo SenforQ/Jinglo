@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeAlignmentOrientation</key>
+	<string>sizedboxTypeDirection</string>
+	<key>lostCubitPadding</key>
+	<string>cartesianMissionCoord</string>
+	<key>protocolCycleEdge</key>
+	<string>relationalMusicKind</string>
+	<key>sliderValueOrientation</key>
+	<string>desktopPlateInterval</string>
+</dict>
+</plist>

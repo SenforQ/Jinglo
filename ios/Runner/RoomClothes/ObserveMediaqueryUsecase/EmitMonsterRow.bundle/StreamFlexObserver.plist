@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFrameworkInterval</key>
+	<string>allocatorAtJob</string>
+	<key>cubitParamPosition</key>
+	<string>mainConstraintVisibility</string>
+	<key>globalProgressbarSize</key>
+	<string>oldEffectMomentum</string>
+	<key>histogramNumberDuration</key>
+	<string>mapContextMomentum</string>
+	<key>modelThanAction</key>
+	<string>seamlessRowLocation</string>
+	<key>sharedNavigatorDepth</key>
+	<string>navigatorMediatorResponse</string>
+	<key>storyboardPerJob</key>
+	<string>alphaAsActivity</string>
+	<key>streamDecoratorBrightness</key>
+	<string>hardTopicContrast</string>
+	<key>ternaryModeVelocity</key>
+	<string>spotAgainstDecorator</string>
+	<key>timerBesideValue</key>
+	<string>layoutFunctionOrigin</string>
+</dict>
+</plist>

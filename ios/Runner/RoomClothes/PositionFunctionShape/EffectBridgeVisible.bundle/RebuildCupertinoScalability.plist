@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAsStage</key>
+	<string>brushVersusStage</string>
+	<key>constraintLevelValidation</key>
+	<string>loopExceptFunction</string>
+	<key>crudeCustompaintFeedback</key>
+	<string>agileInjectionVelocity</string>
+	<key>gridviewKindSkewx</key>
+	<string>anchorFrameworkContrast</string>
+	<key>interactorSingletonLocation</key>
+	<string>baseStrategyAppearance</string>
+	<key>iterativeCommandFeedback</key>
+	<string>disabledEffectOrientation</string>
+	<key>projectMementoBottom</key>
+	<string>standaloneResolverTop</string>
+</dict>
+</plist>

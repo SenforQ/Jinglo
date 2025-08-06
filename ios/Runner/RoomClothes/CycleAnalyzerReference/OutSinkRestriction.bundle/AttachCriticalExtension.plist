@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMissionFrequency</key>
+	<string>intensityAroundComposite</string>
+	<key>builderStrategyKind</key>
+	<string>painterAndForm</string>
+	<key>concurrentCompletionBound</key>
+	<string>completionBufferEdge</string>
+	<key>hashSincePattern</key>
+	<string>cupertinoLayerDuration</string>
+	<key>observerByFacade</key>
+	<string>completerOrFacade</string>
+	<key>optionMediatorMomentum</key>
+	<string>hierarchicalDimensionTension</string>
+	<key>repositoryViaForm</key>
+	<string>adaptiveTextureDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleArithmeticDensity</key>
+	<string>sustainableSlashDensity</string>
+	<key>independentWidgetVisible</key>
+	<string>gridAlongPrototype</string>
+	<key>referenceParamMargin</key>
+	<string>cartesianProgressbarRight</string>
+	<key>tappableLayerPressure</key>
+	<string>relationalGridTop</string>
+</dict>
+</plist>

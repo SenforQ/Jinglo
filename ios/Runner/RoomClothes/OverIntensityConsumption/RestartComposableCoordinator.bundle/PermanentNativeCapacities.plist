@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableViewMomentum</key>
+	<string>checkboxExceptProxy</string>
+	<key>frameIncludeShape</key>
+	<string>fusedZoneVisibility</string>
+	<key>gridviewBesideMediator</key>
+	<string>publicTitleInset</string>
+	<key>mobileReductionValidation</key>
+	<string>decorationAboutPrototype</string>
+	<key>petScopeStyle</key>
+	<string>delegateProxyFrequency</string>
+	<key>radiusOfAdapter</key>
+	<string>imageDuringStyle</string>
+	<key>stampParameterCoord</key>
+	<string>spriteBesideObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorMethodOffset</key>
+	<string>requiredFutureStyle</string>
+	<key>currentAccessoryShape</key>
+	<string>singleBlocTheme</string>
+	<key>desktopRouteResponse</key>
+	<string>stepValueTop</string>
+	<key>grayscaleBufferFormat</key>
+	<string>compositionLikeComposite</string>
+	<key>protectedGestureDepth</key>
+	<string>frameContainShape</string>
+</dict>
+</plist>

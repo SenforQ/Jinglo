@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStageFrequency</key>
+	<string>fixedStateHead</string>
+	<key>extensionViaOperation</key>
+	<string>desktopSceneEdge</string>
+	<key>injectionByValue</key>
+	<string>activityVariableDelay</string>
+	<key>streamForStructure</key>
+	<string>numericalClipperName</string>
+</dict>
+</plist>

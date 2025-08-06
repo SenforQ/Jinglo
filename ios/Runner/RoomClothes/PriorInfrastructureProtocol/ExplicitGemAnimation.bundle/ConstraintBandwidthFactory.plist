@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directScaleType</key>
+	<string>tabbarStagePadding</string>
+	<key>inheritedSkinCoord</key>
+	<string>vectorDuringLayer</string>
+	<key>methodTierRate</key>
+	<string>usageAdapterFeedback</string>
+	<key>navigatorWithoutAction</key>
+	<string>zoneThroughFlyweight</string>
+	<key>rowVisitorForce</key>
+	<string>handlerCommandShape</string>
+	<key>semanticGradientCenter</key>
+	<string>mediaContainStructure</string>
+	<key>semanticStorageValidation</key>
+	<string>referenceWithoutNumber</string>
+	<key>sizedboxAdapterBehavior</key>
+	<string>lostSingletonCount</string>
+</dict>
+</plist>

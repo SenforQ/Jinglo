@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFeatureVisibility</key>
+	<string>musicOfMode</string>
+	<key>chartChainVisibility</key>
+	<string>equalizationPatternOffset</string>
+	<key>chartThroughFacade</key>
+	<string>firstCubitCoord</string>
+	<key>difficultButtonCenter</key>
+	<string>positionStructureHue</string>
+	<key>routeModeName</key>
+	<string>radiusCommandCenter</string>
+</dict>
+</plist>

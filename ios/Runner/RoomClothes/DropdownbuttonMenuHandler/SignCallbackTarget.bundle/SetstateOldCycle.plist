@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterParamVisibility</key>
+	<string>controllerContainMediator</string>
+	<key>cubitBeyondPrototype</key>
+	<string>dependencyStructureAppearance</string>
+	<key>deferredObserverLocation</key>
+	<string>enabledAxisDistance</string>
+	<key>resourceKindRotation</key>
+	<string>liteMetadataEdge</string>
+	<key>smallSingletonAlignment</key>
+	<string>factoryWithProxy</string>
+	<key>stateVersusObserver</key>
+	<string>convolutionMementoCoord</string>
+	<key>taskOrMethod</key>
+	<string>methodBufferOrigin</string>
+	<key>textOrForm</key>
+	<string>exceptionEnvironmentSpeed</string>
+</dict>
+</plist>

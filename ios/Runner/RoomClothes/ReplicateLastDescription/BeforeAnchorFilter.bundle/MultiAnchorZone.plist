@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionMediatorDelay</key>
+	<string>configurationBeyondComposite</string>
+	<key>crudeChecklistTag</key>
+	<string>transitionNearPattern</string>
+	<key>listenerExceptStrategy</key>
+	<string>presenterFlyweightBorder</string>
+	<key>missedManagerRight</key>
+	<string>injectionDuringProxy</string>
+	<key>nodeAmongFacade</key>
+	<string>commonMobxResponse</string>
+	<key>permissiveTopicTension</key>
+	<string>overlayMementoResponse</string>
+	<key>radiusProxyInset</key>
+	<string>curveParameterEdge</string>
+</dict>
+</plist>

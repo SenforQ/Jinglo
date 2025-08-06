@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAsLevel</key>
+	<string>capsuleStructureFeedback</string>
+	<key>asyncStructureOrigin</key>
+	<string>sineContextRotation</string>
+	<key>backwardResponseMargin</key>
+	<string>customizedArithmeticRate</string>
+	<key>commandForBuffer</key>
+	<string>descriptorAdapterCenter</string>
+	<key>graphBeyondComposite</key>
+	<string>normalListenerFormat</string>
+	<key>newestPrecisionMode</key>
+	<string>gesturePlatformBrightness</string>
+	<key>particleUntilCommand</key>
+	<string>prevSizeBottom</string>
+	<key>slashBeyondFlyweight</key>
+	<string>completerOfFlyweight</string>
+	<key>synchronousInjectionForce</key>
+	<string>responseFromForm</string>
+</dict>
+</plist>

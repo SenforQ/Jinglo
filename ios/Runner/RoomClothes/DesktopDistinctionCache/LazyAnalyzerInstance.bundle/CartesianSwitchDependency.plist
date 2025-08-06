@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleActionFormat</key>
+	<string>asyncIncludeStructure</string>
+	<key>brushIncludeObserver</key>
+	<string>skinOfMode</string>
+	<key>composableChecklistBrightness</key>
+	<string>consumerVersusFacade</string>
+	<key>compositionalBufferPressure</key>
+	<string>sizedboxThroughSingleton</string>
+	<key>stateCompositeVisible</key>
+	<string>prevIntegerDistance</string>
+</dict>
+</plist>

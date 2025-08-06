@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCurveCenter</key>
+	<string>musicBeyondState</string>
+	<key>curveNumberTail</key>
+	<string>enabledTextureState</string>
+	<key>denseAnimationPosition</key>
+	<string>commandContextPosition</string>
+	<key>durationVariableDirection</key>
+	<string>offsetFromProxy</string>
+	<key>missionPatternBound</key>
+	<string>graphicOfContext</string>
+	<key>offsetTierVisibility</key>
+	<string>requestDespiteVar</string>
+	<key>particleProcessRate</key>
+	<string>invisibleBehaviorOpacity</string>
+	<key>threadProxyTheme</key>
+	<string>channelFacadeDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicLabelEdge</key>
+	<string>variantInTask</string>
+	<key>commandIncludeDecorator</key>
+	<string>resilientActionStatus</string>
+	<key>isolateForAction</key>
+	<string>lazyBehaviorEdge</string>
+	<key>repositoryPhaseIndex</key>
+	<string>inactiveTextDensity</string>
+	<key>requestDuringProxy</key>
+	<string>delegatePrototypeType</string>
+	<key>sharedResolverShade</key>
+	<string>profileVariableInterval</string>
+	<key>storyboardActivitySkewy</key>
+	<string>modelDuringFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCallbackVisible</key>
+	<string>tweenLayerOrigin</string>
+	<key>buttonAmongFramework</key>
+	<string>effectDuringProcess</string>
+	<key>extensionFlyweightShape</key>
+	<string>diffableMovementBehavior</string>
+	<key>inactiveAxisPosition</key>
+	<string>interpolationShapeType</string>
+	<key>integerBesideValue</key>
+	<string>queryBridgeDelay</string>
+	<key>managerOfChain</key>
+	<string>responseBesideActivity</string>
+	<key>observerStageMargin</key>
+	<string>cupertinoCubitLeft</string>
+	<key>relationalHeapFormat</key>
+	<string>exponentTypeOrientation</string>
+	<key>sinkDespiteEnvironment</key>
+	<string>semanticsUntilMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerScaleSkewy</key>
+	<string>storyboardAgainstStructure</string>
+	<key>featureWithObserver</key>
+	<string>effectWithoutAction</string>
+	<key>lostResourceCoord</key>
+	<string>contractionDecoratorMargin</string>
+	<key>routerOfForm</key>
+	<string>binaryWorkCoord</string>
+</dict>
+</plist>

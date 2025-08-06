@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorFromEnvironment</key>
+	<string>decorationWorkContrast</string>
+	<key>cartesianDependencyAlignment</key>
+	<string>transitionInsideFacade</string>
+	<key>chartMethodBehavior</key>
+	<string>hierarchicalLocalizationVisible</string>
+	<key>effectFacadeEdge</key>
+	<string>captionIncludeMode</string>
+	<key>interactorChainSaturation</key>
+	<string>decorationTypeValidation</string>
+	<key>responseWorkOrientation</key>
+	<string>bufferParameterState</string>
+	<key>tickerAmongBuffer</key>
+	<string>matrixDecoratorTension</string>
+	<key>titleValueDistance</key>
+	<string>eagerCubeFrequency</string>
+</dict>
+</plist>

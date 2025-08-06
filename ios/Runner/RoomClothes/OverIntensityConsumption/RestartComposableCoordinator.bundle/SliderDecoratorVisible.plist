@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncIncludeState</key>
+	<string>rowKindPadding</string>
+	<key>gesturedetectorLevelSpacing</key>
+	<string>composableSwiftDensity</string>
+	<key>grayscaleSinceContext</key>
+	<string>menuByType</string>
+</dict>
+</plist>

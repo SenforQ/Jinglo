@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnFacadeValidation</key>
+	<string>webChartTag</string>
+	<key>methodFromStrategy</key>
+	<string>coordinatorAroundPattern</string>
+	<key>navigatorActionMode</key>
+	<string>segmentModeDistance</string>
+	<key>petObserverTension</key>
+	<string>concreteModelRotation</string>
+	<key>unaryModeDuration</key>
+	<string>concreteServiceDensity</string>
+</dict>
+</plist>

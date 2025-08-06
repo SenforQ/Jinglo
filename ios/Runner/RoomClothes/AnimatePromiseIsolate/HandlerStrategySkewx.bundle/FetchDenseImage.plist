@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonThroughFramework</key>
+	<string>tableStateMargin</string>
+	<key>commandAdapterOffset</key>
+	<string>gesturedetectorDuringShape</string>
+	<key>commonChannelsSaturation</key>
+	<string>signaturePerProcess</string>
+	<key>containerSingletonPressure</key>
+	<string>durationCommandSize</string>
+	<key>descriptionNearMode</key>
+	<string>routerFromPlatform</string>
+</dict>
+</plist>

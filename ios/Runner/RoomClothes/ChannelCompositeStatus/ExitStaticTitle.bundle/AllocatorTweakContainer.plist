@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLoopDistance</key>
+	<string>enabledActionSaturation</string>
+	<key>cacheDespiteProxy</key>
+	<string>cosineDespiteContext</string>
+	<key>characterShapeType</key>
+	<string>displayableChartAcceleration</string>
+	<key>subtleMovementFrequency</key>
+	<string>callbackPlatformDistance</string>
+	<key>swiftThroughFlyweight</key>
+	<string>uniqueMissionBehavior</string>
+</dict>
+</plist>

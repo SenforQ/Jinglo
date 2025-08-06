@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCubitDirection</key>
+	<string>radiusScopeAppearance</string>
+	<key>accessibleProjectionName</key>
+	<string>singleModelName</string>
+	<key>crudeViewStyle</key>
+	<string>menuCompositeVelocity</string>
+	<key>delegateActionVelocity</key>
+	<string>riverpodDecoratorLocation</string>
+	<key>hyperbolicChartOpacity</key>
+	<string>gradientTierPressure</string>
+	<key>permissiveCurveCount</key>
+	<string>timerStateBehavior</string>
+	<key>popupAroundType</key>
+	<string>skinInsideBridge</string>
+	<key>responsiveOffsetDistance</key>
+	<string>commandPlatformInset</string>
+	<key>spotStrategyCount</key>
+	<string>signatureDuringFlyweight</string>
+</dict>
+</plist>

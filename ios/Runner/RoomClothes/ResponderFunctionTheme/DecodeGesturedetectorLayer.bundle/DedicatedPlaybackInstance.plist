@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customNodeInset</key>
+	<string>largeTimerTail</string>
+	<key>drawerBeyondPlatform</key>
+	<string>constraintOrChain</string>
+	<key>drawerFrameworkRight</key>
+	<string>keyAllocatorSaturation</string>
+	<key>mediumSceneMode</key>
+	<string>geometricEffectEdge</string>
+	<key>protocolVisitorTransparency</key>
+	<string>handlerIncludeState</string>
+	<key>responseFromMode</key>
+	<string>ignoredCubitTail</string>
+	<key>sineTierTheme</key>
+	<string>ignoredStreamDepth</string>
+</dict>
+</plist>

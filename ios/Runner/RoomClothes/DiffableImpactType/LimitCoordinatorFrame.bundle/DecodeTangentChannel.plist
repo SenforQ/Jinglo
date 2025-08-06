@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterCompositeType</key>
+	<string>behaviorContainType</string>
+	<key>directlyStoreSkewx</key>
+	<string>sceneAndActivity</string>
+	<key>injectionDespiteEnvironment</key>
+	<string>fragmentForScope</string>
+	<key>layoutModeTheme</key>
+	<string>decorationSinceBridge</string>
+	<key>nativeRouteValidation</key>
+	<string>transitionPlatformOffset</string>
+	<key>originalBorderKind</key>
+	<string>tweenSinceJob</string>
+	<key>substantialNodeMargin</key>
+	<string>primaryImagePressure</string>
+</dict>
+</plist>

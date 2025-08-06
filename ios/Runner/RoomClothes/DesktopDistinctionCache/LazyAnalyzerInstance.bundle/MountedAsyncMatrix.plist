@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentActionTint</key>
+	<string>imageBesidePattern</string>
+	<key>controllerFromParam</key>
+	<string>stateObserverResponse</string>
+	<key>curveIncludeTask</key>
+	<string>adaptiveViewRate</string>
+	<key>draggableAlignmentInteraction</key>
+	<string>spriteWorkState</string>
+	<key>layoutFromComposite</key>
+	<string>memberShapeBehavior</string>
+	<key>pinchableLogarithmState</key>
+	<string>dependencyFunctionFrequency</string>
+	<key>prevModelHead</key>
+	<string>sampleParamAcceleration</string>
+	<key>shaderDuringCycle</key>
+	<string>imageLikeFlyweight</string>
+	<key>subsequentAlertMargin</key>
+	<string>hierarchicalPriorityDepth</string>
+</dict>
+</plist>

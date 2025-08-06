@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAlongStrategy</key>
+	<string>hyperbolicCosineDirection</string>
+	<key>canvasLayerDistance</key>
+	<string>granularImageEdge</string>
+	<key>configurationUntilProxy</key>
+	<string>temporaryOffsetLeft</string>
+	<key>finalGemDensity</key>
+	<string>materialAgainstMode</string>
+	<key>requestShapeSpacing</key>
+	<string>subpixelPlatformTail</string>
+	<key>respectiveHeroIndex</key>
+	<string>gramDuringValue</string>
+	<key>retainedResourceAcceleration</key>
+	<string>constraintPlatformName</string>
+	<key>semanticAnimationSize</key>
+	<string>graphActionInterval</string>
+</dict>
+</plist>

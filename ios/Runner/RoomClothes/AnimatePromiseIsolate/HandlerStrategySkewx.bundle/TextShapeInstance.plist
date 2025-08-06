@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationMethodSkewx</key>
+	<string>chapterFromSystem</string>
+	<key>permanentUsecaseKind</key>
+	<string>gridWithoutShape</string>
+	<key>semanticRouteCenter</key>
+	<string>streamPerType</string>
+	<key>widgetJobDistance</key>
+	<string>lazyEntityName</string>
+</dict>
+</plist>

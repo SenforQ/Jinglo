@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSemanticsSkewx</key>
+	<string>sliderAmongSingleton</string>
+	<key>catalystKindSkewx</key>
+	<string>customIconRight</string>
+	<key>curveVersusScope</key>
+	<string>particlePhaseKind</string>
+	<key>giftOutsideStyle</key>
+	<string>unaryThroughFlyweight</string>
+</dict>
+</plist>

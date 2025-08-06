@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderExceptKind</key>
+	<string>gridDecoratorMargin</string>
+	<key>channelStrategyBehavior</key>
+	<string>zoneDespiteAdapter</string>
+	<key>completerPerOperation</key>
+	<string>threadStyleLocation</string>
+	<key>enabledMobileInterval</key>
+	<string>subpixelTierOpacity</string>
+	<key>indicatorContainStage</key>
+	<string>multiSpecifierMargin</string>
+	<key>pageviewNearLevel</key>
+	<string>equalizationStageOrientation</string>
+	<key>segmentAgainstAdapter</key>
+	<string>priorLayerResponse</string>
+	<key>semanticStackHue</key>
+	<string>prismaticStepKind</string>
+</dict>
+</plist>

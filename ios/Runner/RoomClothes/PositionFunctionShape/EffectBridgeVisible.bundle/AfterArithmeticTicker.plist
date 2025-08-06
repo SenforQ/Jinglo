@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentForPattern</key>
+	<string>mobxViaPhase</string>
+	<key>callbackPatternFlags</key>
+	<string>reusableManagerAlignment</string>
+	<key>grainAgainstValue</key>
+	<string>indicatorFromLevel</string>
+	<key>gramLikeTemple</key>
+	<string>flexFromCommand</string>
+	<key>grayscaleVarPosition</key>
+	<string>buttonParameterResponse</string>
+	<key>interfaceAmongOperation</key>
+	<string>buttonUntilCommand</string>
+	<key>mutableResourceCount</key>
+	<string>gramAsCommand</string>
+	<key>popupNumberBottom</key>
+	<string>gridActionAcceleration</string>
+	<key>scaffoldNumberCount</key>
+	<string>cupertinoThemeStatus</string>
+	<key>sineObserverVisibility</key>
+	<string>directlyCubitDirection</string>
+</dict>
+</plist>

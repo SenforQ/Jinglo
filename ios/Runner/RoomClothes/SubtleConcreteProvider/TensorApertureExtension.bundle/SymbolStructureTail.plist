@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPainterVelocity</key>
+	<string>switchIncludeShape</string>
+	<key>exceptionWithoutOperation</key>
+	<string>deferredSliderDirection</string>
+	<key>flexProcessDirection</key>
+	<string>interactiveTabbarAppearance</string>
+	<key>providerSinceInterpreter</key>
+	<string>asyncAndPhase</string>
+	<key>providerViaStructure</key>
+	<string>publicColumnOrientation</string>
+	<key>swiftStateBrightness</key>
+	<string>viewWithPrototype</string>
+</dict>
+</plist>

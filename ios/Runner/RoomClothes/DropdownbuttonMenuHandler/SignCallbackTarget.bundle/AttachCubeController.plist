@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowSinceSystem</key>
+	<string>drawerWithChain</string>
+	<key>commandOperationMode</key>
+	<string>notificationWithPhase</string>
+	<key>completerAsDecorator</key>
+	<string>staticInterfaceOrientation</string>
+	<key>controllerSingletonBorder</key>
+	<string>threadFrameworkColor</string>
+	<key>entityStageCoord</key>
+	<string>promiseTempleEdge</string>
+	<key>hyperbolicDurationShade</key>
+	<string>reducerLayerSaturation</string>
+	<key>presenterByVariable</key>
+	<string>effectFromVariable</string>
+	<key>providerCycleLocation</key>
+	<string>buttonTaskOrientation</string>
+	<key>uniformAwaitTransparency</key>
+	<string>animatedResourceInset</string>
+	<key>webGridviewMargin</key>
+	<string>otherTernaryFeedback</string>
+</dict>
+</plist>

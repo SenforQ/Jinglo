@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGrainKind</key>
+	<string>effectObserverSpeed</string>
+	<key>deferredTaskSaturation</key>
+	<string>gridviewBesidePlatform</string>
+	<key>listenerPerPrototype</key>
+	<string>loopLayerSaturation</string>
+	<key>logMethodTheme</key>
+	<string>gridNearAdapter</string>
+	<key>permissiveIntensityType</key>
+	<string>statelessVectorType</string>
+	<key>resilientStatelessVelocity</key>
+	<string>flexBesidePrototype</string>
+	<key>stateKindTheme</key>
+	<string>resizableFutureDelay</string>
+	<key>textfieldOrCommand</key>
+	<string>immediateStateHue</string>
+</dict>
+</plist>

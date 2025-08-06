@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphNumberSkewy</key>
+	<string>channelChainFeedback</string>
+	<key>intuitiveTaskStyle</key>
+	<string>singletonThroughEnvironment</string>
+	<key>listenerFacadeInset</key>
+	<string>sophisticatedSymbolBound</string>
+	<key>previewWithStyle</key>
+	<string>fusedTaskAcceleration</string>
+	<key>rowFormState</key>
+	<string>keyEventTheme</string>
+	<key>secondCurveShade</key>
+	<string>metadataAsStage</string>
+</dict>
+</plist>

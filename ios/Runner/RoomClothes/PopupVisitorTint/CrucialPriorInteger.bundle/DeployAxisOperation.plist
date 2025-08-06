@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAdapterDirection</key>
+	<string>cubitTypePosition</string>
+	<key>completionActivityState</key>
+	<string>disabledResourceLeft</string>
+	<key>customLayerColor</key>
+	<string>lostSubscriptionLeft</string>
+	<key>gesturedetectorScopeTail</key>
+	<string>smallContainerOrigin</string>
+	<key>gradientActionShade</key>
+	<string>timerVarSaturation</string>
+	<key>materialFunctionVisibility</key>
+	<string>containerStyleStatus</string>
+	<key>mutableInteractorAppearance</key>
+	<string>similarBulletFormat</string>
+	<key>tweenTypeRate</key>
+	<string>mobxWithoutLevel</string>
+	<key>webMaterialBrightness</key>
+	<string>arithmeticNibBound</string>
+</dict>
+</plist>

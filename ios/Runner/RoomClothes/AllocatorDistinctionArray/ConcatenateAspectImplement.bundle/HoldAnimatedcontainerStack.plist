@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferDecoratorBound</key>
+	<string>constraintStrategyTheme</string>
+	<key>custompaintVariableAcceleration</key>
+	<string>entityEnvironmentDistance</string>
+	<key>eagerPopupRight</key>
+	<string>geometricCheckboxStatus</string>
+	<key>elasticSpriteTag</key>
+	<string>characterBridgeMargin</string>
+	<key>factoryParamBorder</key>
+	<string>opaqueTextfieldTop</string>
+	<key>gridAmongOperation</key>
+	<string>advancedRowAcceleration</string>
+</dict>
+</plist>

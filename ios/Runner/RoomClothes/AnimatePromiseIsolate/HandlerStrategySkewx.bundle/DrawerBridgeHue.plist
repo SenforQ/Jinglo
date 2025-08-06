@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyContainerContrast</key>
+	<string>symmetricLogVelocity</string>
+	<key>intensityAtStrategy</key>
+	<string>skinMementoMode</string>
+	<key>resilientGesturedetectorDensity</key>
+	<string>signScopeAcceleration</string>
+	<key>semanticsNearShape</key>
+	<string>offsetThroughScope</string>
+</dict>
+</plist>

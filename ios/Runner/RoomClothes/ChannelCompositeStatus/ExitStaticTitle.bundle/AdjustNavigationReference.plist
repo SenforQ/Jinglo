@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncScrollKind</key>
+	<string>vectorWorkDuration</string>
+	<key>channelAgainstPhase</key>
+	<string>newestSubpixelAppearance</string>
+	<key>factoryEnvironmentFormat</key>
+	<string>labelCommandState</string>
+	<key>interactorForParameter</key>
+	<string>immediateErrorTag</string>
+	<key>largeEventStyle</key>
+	<string>controllerExceptPattern</string>
+</dict>
+</plist>

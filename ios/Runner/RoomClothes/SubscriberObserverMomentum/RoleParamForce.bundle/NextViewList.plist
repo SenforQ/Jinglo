@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveAllocatorScale</key>
+	<string>cubitNumberShape</string>
+	<key>fusedLayoutBehavior</key>
+	<string>logActionScale</string>
+	<key>slashStageTop</key>
+	<string>layoutContextSpacing</string>
+	<key>zoneDuringJob</key>
+	<string>arithmeticStorageAppearance</string>
+</dict>
+</plist>

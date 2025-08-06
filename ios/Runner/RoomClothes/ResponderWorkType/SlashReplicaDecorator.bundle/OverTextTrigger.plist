@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncRowSpeed</key>
+	<string>allocatorForPattern</string>
+	<key>commandSinceStyle</key>
+	<string>storeWithVar</string>
+	<key>eagerGrayscaleMode</key>
+	<string>dialogsFunctionKind</string>
+	<key>featureParameterDistance</key>
+	<string>declarativeOptionAppearance</string>
+	<key>grayscaleObserverContrast</key>
+	<string>controllerInSingleton</string>
+	<key>injectionAdapterForce</key>
+	<string>managerAsContext</string>
+	<key>largeGiftVisibility</key>
+	<string>scaleThroughChain</string>
+	<key>marginFormHead</key>
+	<string>sophisticatedLabelForce</string>
+	<key>navigationFromComposite</key>
+	<string>dependencyInterpreterPosition</string>
+	<key>previewChainSize</key>
+	<string>resultAsTask</string>
+</dict>
+</plist>

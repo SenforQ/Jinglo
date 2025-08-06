@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentKindSaturation</key>
+	<string>modalTypeDepth</string>
+	<key>animationParamBottom</key>
+	<string>spineTierPosition</string>
+	<key>normalModalOrigin</key>
+	<string>dynamicRowPressure</string>
+	<key>sceneAtObserver</key>
+	<string>slashMethodDirection</string>
+</dict>
+</plist>

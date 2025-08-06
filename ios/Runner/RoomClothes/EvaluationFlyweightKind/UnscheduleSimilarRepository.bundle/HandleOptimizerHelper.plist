@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTextOpacity</key>
+	<string>bulletInVariable</string>
+	<key>actionInterpreterType</key>
+	<string>animatedcontainerWithoutPrototype</string>
+	<key>buttonTempleBehavior</key>
+	<string>sensorDuringMethod</string>
+	<key>effectStateCoord</key>
+	<string>inheritedTransformerDuration</string>
+	<key>remainderBesideCommand</key>
+	<string>canvasOfSystem</string>
+	<key>signStrategyBehavior</key>
+	<string>asyncCubitOrientation</string>
+</dict>
+</plist>

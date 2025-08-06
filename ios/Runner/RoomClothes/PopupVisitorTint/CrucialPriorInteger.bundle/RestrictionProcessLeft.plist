@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedChartFlags</key>
+	<string>graphAlongPattern</string>
+	<key>effectContextFlags</key>
+	<string>draggableGridviewFormat</string>
+	<key>indicatorAwayDecorator</key>
+	<string>tappableMarginOrigin</string>
+	<key>interactiveConvolutionStatus</key>
+	<string>builderPlatformVelocity</string>
+	<key>mapContextPressure</key>
+	<string>serviceContextOrientation</string>
+	<key>presenterForState</key>
+	<string>borderModeColor</string>
+	<key>viewObserverFrequency</key>
+	<string>columnModeAlignment</string>
+</dict>
+</plist>

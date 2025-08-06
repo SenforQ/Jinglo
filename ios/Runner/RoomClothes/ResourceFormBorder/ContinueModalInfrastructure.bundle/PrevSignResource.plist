@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAwayLayer</key>
+	<string>routeThroughForm</string>
+	<key>associatedTransitionStatus</key>
+	<string>asyncWithProxy</string>
+	<key>durationPerVariable</key>
+	<string>protectedSingletonSkewx</string>
+	<key>geometricTickerEdge</key>
+	<string>nativeAllocatorRotation</string>
+	<key>hardInterfaceTail</key>
+	<string>graphicStageSkewy</string>
+	<key>layoutIncludeState</key>
+	<string>retainedThemeMode</string>
+	<key>managerThroughComposite</key>
+	<string>publicStepInterval</string>
+	<key>slashParamForce</key>
+	<string>skinOutsideFacade</string>
+	<key>stateOperationHead</key>
+	<string>singleRouterContrast</string>
+</dict>
+</plist>

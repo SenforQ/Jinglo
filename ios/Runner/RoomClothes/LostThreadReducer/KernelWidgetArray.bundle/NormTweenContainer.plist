@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStrategyVelocity</key>
+	<string>agileSegmentBehavior</string>
+	<key>completerBridgePadding</key>
+	<string>elasticDependencyVelocity</string>
+	<key>directButtonStyle</key>
+	<string>seamlessAlignmentBorder</string>
+	<key>displayableTickerHue</key>
+	<string>sensorProxyTop</string>
+	<key>operationViaCycle</key>
+	<string>rectFromTier</string>
+	<key>spineBeyondProxy</key>
+	<string>grainIncludeVariable</string>
+	<key>tappableChallengeOpacity</key>
+	<string>vectorOrVar</string>
+	<key>unactivatedBaselinePosition</key>
+	<string>containerSystemDirection</string>
+</dict>
+</plist>

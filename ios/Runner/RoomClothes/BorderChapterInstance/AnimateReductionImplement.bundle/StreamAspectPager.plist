@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionDuringComposite</key>
+	<string>cursorWithComposite</string>
+	<key>entropyStyleBound</key>
+	<string>cartesianSpineSaturation</string>
+	<key>resilientBaseValidation</key>
+	<string>exceptionAtTemple</string>
+	<key>similarBehaviorStyle</key>
+	<string>usecaseThanPattern</string>
+	<key>singletonContextInteraction</key>
+	<string>adaptiveCycleAppearance</string>
+	<key>singletonForContext</key>
+	<string>bitrateFlyweightHue</string>
+	<key>uniformResourceTop</key>
+	<string>sizeAmongParameter</string>
+</dict>
+</plist>

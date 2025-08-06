@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAtVisitor</key>
+	<string>serviceFlyweightEdge</string>
+	<key>featureFrameworkScale</key>
+	<string>factorySingletonFlags</string>
+	<key>granularNotificationCoord</key>
+	<string>sampleInterpreterKind</string>
+	<key>lazyDecorationInteraction</key>
+	<string>checkboxChainName</string>
+	<key>subtlePainterDirection</key>
+	<string>resourceStrategySize</string>
+	<key>symmetricCurveFlags</key>
+	<string>adaptiveCallbackVisible</string>
+</dict>
+</plist>

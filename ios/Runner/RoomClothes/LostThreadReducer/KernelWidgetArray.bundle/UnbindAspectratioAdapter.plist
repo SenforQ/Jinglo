@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferOutsideVar</key>
+	<string>nodeProcessFlags</string>
+	<key>compositionalPopupKind</key>
+	<string>pageviewInterpreterOpacity</string>
+	<key>effectInterpreterRotation</key>
+	<string>handlerObserverDelay</string>
+	<key>errorBeyondMethod</key>
+	<string>tabbarInterpreterOffset</string>
+	<key>screenFunctionMode</key>
+	<string>buttonStyleFlags</string>
+</dict>
+</plist>

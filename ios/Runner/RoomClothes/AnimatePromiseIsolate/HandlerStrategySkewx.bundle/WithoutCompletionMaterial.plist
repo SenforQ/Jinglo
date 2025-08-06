@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVarDepth</key>
+	<string>cardScopeLocation</string>
+	<key>chartPatternShade</key>
+	<string>cupertinoProviderOpacity</string>
+	<key>mapDuringProcess</key>
+	<string>interpolationStructurePadding</string>
+	<key>queryViaBridge</key>
+	<string>extensionOperationMode</string>
+	<key>tickerBridgeMargin</key>
+	<string>fusedSkinSkewx</string>
+</dict>
+</plist>

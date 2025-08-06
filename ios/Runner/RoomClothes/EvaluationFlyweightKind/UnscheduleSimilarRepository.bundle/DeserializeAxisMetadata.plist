@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterVisibility</key>
+	<string>prevCursorValidation</string>
+	<key>aspectratioByOperation</key>
+	<string>borderAsStyle</string>
+	<key>channelsStructureTint</key>
+	<string>crudeStoreFrequency</string>
+	<key>concurrentCacheFrequency</key>
+	<string>durationLevelTransparency</string>
+	<key>configurationVarSpeed</key>
+	<string>musicAwayVar</string>
+	<key>difficultBlocEdge</key>
+	<string>sliderExceptMediator</string>
+	<key>directAlphaInterval</key>
+	<string>requestBySystem</string>
+	<key>repositoryStateSkewx</key>
+	<string>desktopCacheCount</string>
+</dict>
+</plist>

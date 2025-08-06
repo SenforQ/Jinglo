@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorWorkMode</key>
+	<string>pivotalScreenType</string>
+	<key>cupertinoParamVisibility</key>
+	<string>loopStageTop</string>
+	<key>directlyTransformerCount</key>
+	<string>autoOverlayVisibility</string>
+	<key>largeReductionBound</key>
+	<string>decorationForVariable</string>
+	<key>logarithmPlatformMode</key>
+	<string>deferredResolverTop</string>
+	<key>newestLabelDistance</key>
+	<string>symmetricLoopLocation</string>
+	<key>playbackProxyPosition</key>
+	<string>layoutIncludeVisitor</string>
+	<key>previewAndScope</key>
+	<string>radiusTierRight</string>
+	<key>radioBeyondMode</key>
+	<string>topicPerMode</string>
+	<key>riverpodStateRight</key>
+	<string>primaryLayoutDepth</string>
+</dict>
+</plist>

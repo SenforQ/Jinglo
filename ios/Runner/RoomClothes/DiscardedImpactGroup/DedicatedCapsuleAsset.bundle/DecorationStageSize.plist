@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventAndBuffer</key>
+	<string>iconCycleBehavior</string>
+	<key>factoryOrShape</key>
+	<string>statefulButtonBorder</string>
+	<key>gesturedetectorInterpreterInterval</key>
+	<string>pinchableSingletonRotation</string>
+	<key>presenterPrototypeBrightness</key>
+	<string>utilViaMemento</string>
+	<key>promiseDecoratorRate</key>
+	<string>newestEntropyAcceleration</string>
+	<key>utilDuringFunction</key>
+	<string>positionVariableBottom</string>
+	<key>utilInsideValue</key>
+	<string>geometricServiceInteraction</string>
+</dict>
+</plist>

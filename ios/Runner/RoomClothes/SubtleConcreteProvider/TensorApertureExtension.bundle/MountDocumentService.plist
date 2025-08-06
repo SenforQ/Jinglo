@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeContextTint</key>
+	<string>sequentialVectorTheme</string>
+	<key>cubitBesideFacade</key>
+	<string>singletonAroundForm</string>
+	<key>globalDecorationOrigin</key>
+	<string>promiseViaNumber</string>
+	<key>kernelVariableSpeed</key>
+	<string>directlyGramFeedback</string>
+	<key>normalBrushScale</key>
+	<string>storageOutsideWork</string>
+	<key>reusableBuilderValidation</key>
+	<string>grainObserverDuration</string>
+</dict>
+</plist>

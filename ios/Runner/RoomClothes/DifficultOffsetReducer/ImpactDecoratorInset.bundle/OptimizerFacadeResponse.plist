@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGiftVelocity</key>
+	<string>sensorFormRotation</string>
+	<key>delegateActionHue</key>
+	<string>iterativeCubePosition</string>
+	<key>geometricAnimatedcontainerInterval</key>
+	<string>opaqueCommandCoord</string>
+	<key>intermediateGramTint</key>
+	<string>typicalCubitOrientation</string>
+	<key>intermediateTransitionMargin</key>
+	<string>resizableSkirtDelay</string>
+	<key>invisibleSemanticsInset</key>
+	<string>loopContextTransparency</string>
+	<key>localizationNumberDensity</key>
+	<string>unactivatedMovementVelocity</string>
+	<key>modelEnvironmentMode</key>
+	<string>widgetAwayStructure</string>
+	<key>presenterTempleFormat</key>
+	<string>semanticsWithoutObserver</string>
+</dict>
+</plist>

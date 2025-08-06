@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInkwellSpeed</key>
+	<string>lastFutureSaturation</string>
+	<key>clipperProxyOpacity</key>
+	<string>dropdownbuttonDuringTask</string>
+	<key>rowMediatorTail</key>
+	<string>rowInFunction</string>
+	<key>scaleAtNumber</key>
+	<string>timerUntilAction</string>
+</dict>
+</plist>

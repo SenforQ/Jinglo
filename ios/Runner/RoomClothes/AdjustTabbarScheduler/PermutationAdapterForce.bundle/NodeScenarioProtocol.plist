@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPhaseInset</key>
+	<string>titleIncludeFacade</string>
+	<key>coordinatorVisitorHead</key>
+	<string>iconCommandShade</string>
+	<key>customizedControllerAppearance</key>
+	<string>singleTransformerColor</string>
+	<key>documentScopeType</key>
+	<string>localizationContextMargin</string>
+	<key>menuParamForce</key>
+	<string>curveParamSize</string>
+	<key>rapidDialogsTail</key>
+	<string>sophisticatedStreamOrigin</string>
+	<key>semanticMethodIndex</key>
+	<string>originalLoopSkewy</string>
+	<key>smallLabelTop</key>
+	<string>variantNearWork</string>
+</dict>
+</plist>

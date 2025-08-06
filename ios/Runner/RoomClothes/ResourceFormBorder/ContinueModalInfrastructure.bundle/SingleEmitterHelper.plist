@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMaterialSaturation</key>
+	<string>tableInCycle</string>
+	<key>bufferDespiteObserver</key>
+	<string>characterStageCoord</string>
+	<key>coordinatorTierContrast</key>
+	<string>sizeBeyondFramework</string>
+	<key>difficultBulletPosition</key>
+	<string>activeThreadHue</string>
+	<key>dynamicGrainForce</key>
+	<string>significantGroupMode</string>
+	<key>interpolationAndOperation</key>
+	<string>curveViaStrategy</string>
+	<key>multiWidgetSkewy</key>
+	<string>relationalRouterBorder</string>
+	<key>variantOrTier</key>
+	<string>listenerTaskTension</string>
+</dict>
+</plist>

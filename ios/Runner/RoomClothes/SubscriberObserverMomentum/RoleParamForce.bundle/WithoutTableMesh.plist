@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseHashContrast</key>
+	<string>singleAxisPadding</string>
+	<key>gateAndDecorator</key>
+	<string>roleAlongCycle</string>
+	<key>intensityFormStyle</key>
+	<string>progressbarOperationBrightness</string>
+	<key>multiOptionShade</key>
+	<string>segueContextInset</string>
+	<key>secondNavigatorResponse</key>
+	<string>sustainableMetadataTheme</string>
+	<key>semanticBoxResponse</key>
+	<string>exponentFromAdapter</string>
+	<key>subpixelInsideFramework</key>
+	<string>sampleAwayValue</string>
+	<key>transitionVisitorBottom</key>
+	<string>tappableCollectionColor</string>
+</dict>
+</plist>

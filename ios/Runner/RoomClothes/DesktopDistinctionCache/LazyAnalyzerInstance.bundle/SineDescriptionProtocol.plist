@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSubscriptionFlags</key>
+	<string>certificateTaskTheme</string>
+	<key>gridProxyInteraction</key>
+	<string>intuitiveSymbolSaturation</string>
+	<key>hierarchicalChannelsInset</key>
+	<string>stateBeyondActivity</string>
+	<key>masterSystemSaturation</key>
+	<string>priorityAlongAction</string>
+	<key>nextMatrixDirection</key>
+	<string>beginnerSpriteTop</string>
+	<key>nibVersusPrototype</key>
+	<string>integerObserverScale</string>
+	<key>publicThemeRotation</key>
+	<string>offsetParameterVisibility</string>
+	<key>rapidAsyncVelocity</key>
+	<string>customSceneOrigin</string>
+	<key>resizableAwaitDuration</key>
+	<string>tweenOperationRate</string>
+</dict>
+</plist>

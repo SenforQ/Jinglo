@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOrVariable</key>
+	<string>modalContextTop</string>
+	<key>completerVersusLayer</key>
+	<string>layoutFromTask</string>
+	<key>containerFacadeDepth</key>
+	<string>denseTweenOpacity</string>
+	<key>nibStrategyFeedback</key>
+	<string>statelessEquipmentRate</string>
+	<key>operationAdapterDepth</key>
+	<string>futurePatternInterval</string>
+	<key>subsequentStackInteraction</key>
+	<string>histogramMementoIndex</string>
+	<key>tappableNavigationSpeed</key>
+	<string>referenceParameterRotation</string>
+	<key>taskOutsideMode</key>
+	<string>nextBlocLocation</string>
+</dict>
+</plist>

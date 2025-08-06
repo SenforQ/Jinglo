@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiUnaryBehavior</key>
+	<string>tweenOrJob</string>
+	<key>requestAboutPrototype</key>
+	<string>discardedEffectHead</string>
+	<key>singletonPrototypeDuration</key>
+	<string>frameVisitorOpacity</string>
+	<key>substantialDocumentShade</key>
+	<string>exceptionLikeAction</string>
+	<key>unsortedProfileHue</key>
+	<string>pageviewAlongFramework</string>
+	<key>zoneWithoutScope</key>
+	<string>blocSincePattern</string>
+</dict>
+</plist>

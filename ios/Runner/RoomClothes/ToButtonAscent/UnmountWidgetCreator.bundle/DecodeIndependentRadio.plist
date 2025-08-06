@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMenuRight</key>
+	<string>mobileStreamBorder</string>
+	<key>buttonAroundPlatform</key>
+	<string>intuitiveConstraintType</string>
+	<key>interactorEnvironmentSpeed</key>
+	<string>originalResolverAlignment</string>
+	<key>managerBufferDuration</key>
+	<string>imageForNumber</string>
+	<key>sharedRichtextInset</key>
+	<string>requiredSpriteAppearance</string>
+	<key>specifierExceptStage</key>
+	<string>vectorPerType</string>
+	<key>subscriptionBufferPosition</key>
+	<string>resizableLabelTint</string>
+</dict>
+</plist>

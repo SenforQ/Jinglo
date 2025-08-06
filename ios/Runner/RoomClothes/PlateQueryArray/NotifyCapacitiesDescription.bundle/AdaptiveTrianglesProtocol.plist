@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionListviewTint</key>
+	<string>crucialLayoutBorder</string>
+	<key>bufferTierOrigin</key>
+	<string>invisibleSwiftCoord</string>
+	<key>convolutionTierTop</key>
+	<string>sceneContextShade</string>
+	<key>optimizerForStage</key>
+	<string>disparateMobileShade</string>
+	<key>segueLayerOrigin</key>
+	<string>textfieldWithVariable</string>
+	<key>singletonTypeEdge</key>
+	<string>statelessSliderTop</string>
+</dict>
+</plist>

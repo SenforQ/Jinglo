@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferExceptPattern</key>
+	<string>independentPlateFrequency</string>
+	<key>capsuleActivityRate</key>
+	<string>extensionVariableAppearance</string>
+	<key>firstCompleterBehavior</key>
+	<string>tweenBesideProcess</string>
+	<key>opaqueLayerRate</key>
+	<string>layerInsideAdapter</string>
+	<key>radiusProcessDirection</key>
+	<string>specifyGramStyle</string>
+	<key>statefulCubitOffset</key>
+	<string>touchMediatorMode</string>
+</dict>
+</plist>

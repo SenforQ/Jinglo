@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnCompositeFormat</key>
+	<string>immutableRadioHue</string>
+	<key>handlerAtType</key>
+	<string>groupKindSaturation</string>
+	<key>operationVisitorPadding</key>
+	<string>alignmentSinceValue</string>
+	<key>providerAndContext</key>
+	<string>responseStrategyInset</string>
+</dict>
+</plist>

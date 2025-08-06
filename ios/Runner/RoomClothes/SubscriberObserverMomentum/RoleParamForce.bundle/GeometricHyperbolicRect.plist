@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticChannelTheme</key>
+	<string>factoryBesidePrototype</string>
+	<key>histogramAndShape</key>
+	<string>reusableInjectionMargin</string>
+	<key>lazyQueueDelay</key>
+	<string>synchronousStreamAcceleration</string>
+	<key>providerAndObserver</key>
+	<string>lastNormShade</string>
+	<key>robustBoxshadowTop</key>
+	<string>modalAboutShape</string>
+	<key>standaloneChannelLeft</key>
+	<string>flexibleMonsterColor</string>
+</dict>
+</plist>

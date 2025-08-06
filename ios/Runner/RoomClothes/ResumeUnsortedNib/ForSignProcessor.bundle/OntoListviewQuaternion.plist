@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationInFramework</key>
+	<string>indicatorAmongPhase</string>
+	<key>eventAgainstJob</key>
+	<string>standaloneParticlePosition</string>
+	<key>interactiveGradientValidation</key>
+	<string>accordionParticleBorder</string>
+	<key>materialGramName</key>
+	<string>permissiveColumnFrequency</string>
+	<key>sliderOperationIndex</key>
+	<string>injectionInWork</string>
+</dict>
+</plist>

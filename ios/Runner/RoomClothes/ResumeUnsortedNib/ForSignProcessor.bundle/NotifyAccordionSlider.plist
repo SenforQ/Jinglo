@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleStageValidation</key>
+	<string>zoneContainStage</string>
+	<key>movementWithPrototype</key>
+	<string>reactiveObserverSkewy</string>
+</dict>
+</plist>

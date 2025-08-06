@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSessionTheme</key>
+	<string>spriteContextTheme</string>
+	<key>appbarInterpreterInset</key>
+	<string>interactorAlongState</string>
+	<key>controllerSinceVisitor</key>
+	<string>popupAmongCommand</string>
+	<key>graphAndFramework</key>
+	<string>scaffoldStageVelocity</string>
+	<key>groupBesideMethod</key>
+	<string>fragmentEnvironmentTail</string>
+	<key>logThroughVisitor</key>
+	<string>masterPerVisitor</string>
+	<key>positionFromSystem</key>
+	<string>timerDespiteNumber</string>
+	<key>reducerIncludeComposite</key>
+	<string>presenterMethodBehavior</string>
+	<key>storeInsidePattern</key>
+	<string>baselineContainFunction</string>
+</dict>
+</plist>

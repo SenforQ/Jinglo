@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBufferLocation</key>
+	<string>singletonExceptAction</string>
+	<key>memberSingletonBound</key>
+	<string>methodThroughJob</string>
+	<key>nativeLayoutName</key>
+	<string>immutableBoxDistance</string>
+	<key>pinchableBufferMargin</key>
+	<string>positionedLikeCommand</string>
+	<key>skinProxyBound</key>
+	<string>permissiveDelegatePressure</string>
+</dict>
+</plist>

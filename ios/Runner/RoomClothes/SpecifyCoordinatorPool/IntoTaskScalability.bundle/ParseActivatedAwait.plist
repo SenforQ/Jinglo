@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStrategyBrightness</key>
+	<string>tangentTempleTint</string>
+	<key>extensionAndParameter</key>
+	<string>baselinePerTier</string>
+	<key>frameNearCommand</key>
+	<string>currentSubscriptionState</string>
+	<key>injectionJobInterval</key>
+	<string>invisibleReferenceAppearance</string>
+	<key>matrixPatternSkewy</key>
+	<string>frameAdapterSpacing</string>
+	<key>projectionFacadeVisibility</key>
+	<string>usecaseInsideAction</string>
+	<key>reactiveImageDelay</key>
+	<string>tickerStyleMode</string>
+	<key>spineIncludeShape</key>
+	<string>materialWorkAppearance</string>
+	<key>uniqueReductionPadding</key>
+	<string>resultBridgeBound</string>
+</dict>
+</plist>

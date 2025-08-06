@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackProcessShade</key>
+	<string>controllerBeyondKind</string>
+	<key>listenerBeyondWork</key>
+	<string>musicVisitorTransparency</string>
+	<key>mobxAroundComposite</key>
+	<string>handlerCommandDepth</string>
+	<key>pinchableRowRotation</key>
+	<string>globalBlocCenter</string>
+</dict>
+</plist>

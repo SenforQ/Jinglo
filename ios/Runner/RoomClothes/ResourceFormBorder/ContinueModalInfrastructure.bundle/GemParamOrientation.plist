@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBesideVar</key>
+	<string>rectFlyweightTint</string>
+	<key>decorationMediatorDistance</key>
+	<string>utilAdapterContrast</string>
+	<key>imageBridgeDuration</key>
+	<string>textThanBridge</string>
+	<key>imagePhaseBottom</key>
+	<string>displayableLoopBottom</string>
+	<key>interactorBesideContext</key>
+	<string>denseBaseDuration</string>
+	<key>interpolationInSingleton</key>
+	<string>modelStyleContrast</string>
+	<key>previewVarFormat</key>
+	<string>permissiveNavigatorSkewy</string>
+	<key>signStrategyStyle</key>
+	<string>effectFromTier</string>
+	<key>titleLikeNumber</key>
+	<string>inactiveMobileShade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticActivityName</key>
+	<string>criticalGraphBehavior</string>
+	<key>buttonAwayForm</key>
+	<string>cupertinoAgainstFramework</string>
+	<key>curvePerFacade</key>
+	<string>singletonParamSaturation</string>
+	<key>entityOrVar</key>
+	<string>sizeVarVisible</string>
+	<key>interactorUntilMethod</key>
+	<string>kernelNumberFeedback</string>
+	<key>modalAtBridge</key>
+	<string>secondRouterFeedback</string>
+	<key>resilientBaseVisibility</key>
+	<string>factoryThanEnvironment</string>
+</dict>
+</plist>

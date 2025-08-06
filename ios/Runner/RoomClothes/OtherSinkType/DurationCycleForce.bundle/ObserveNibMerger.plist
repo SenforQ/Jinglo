@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLikeCycle</key>
+	<string>currentLogBehavior</string>
+	<key>commandContextOrigin</key>
+	<string>requestBufferAlignment</string>
+	<key>consumerActivityRight</key>
+	<string>animationLikePattern</string>
+	<key>coordinatorPlatformForce</key>
+	<string>commandFormDelay</string>
+	<key>directlyTouchOrientation</key>
+	<string>materialPatternDirection</string>
+	<key>granularRouteDirection</key>
+	<string>layoutStrategyVelocity</string>
+	<key>imperativeTweenEdge</key>
+	<string>requiredButtonCoord</string>
+	<key>smallChannelsRight</key>
+	<string>singleTimerResponse</string>
+	<key>usedStampAlignment</key>
+	<string>behaviorPatternScale</string>
+</dict>
+</plist>

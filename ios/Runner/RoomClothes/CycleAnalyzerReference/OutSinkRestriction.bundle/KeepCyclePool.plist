@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAndFunction</key>
+	<string>nextEntitySize</string>
+	<key>missedStackCoord</key>
+	<string>assetStyleColor</string>
+	<key>opaquePointStatus</key>
+	<string>symbolObserverStatus</string>
+	<key>prevDurationKind</key>
+	<string>activatedTextCenter</string>
+	<key>requiredInterpolationTag</key>
+	<string>riverpodBesideSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAndActivity</key>
+	<string>curveModeTransparency</string>
+	<key>completerStageOrientation</key>
+	<string>compositionVariableDepth</string>
+	<key>durationAndVariable</key>
+	<string>localCoordinatorState</string>
+	<key>elasticSliderPadding</key>
+	<string>completerValueInterval</string>
+	<key>interfaceActivityDuration</key>
+	<string>mainOffsetTheme</string>
+	<key>permanentFactoryEdge</key>
+	<string>equipmentForPlatform</string>
+	<key>plateFlyweightTension</key>
+	<string>modelIncludePrototype</string>
+	<key>resizableTopicSkewx</key>
+	<string>actionDecoratorHue</string>
+	<key>viewTempleCount</key>
+	<string>concurrentAwaitScale</string>
+</dict>
+</plist>

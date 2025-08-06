@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitInterpreterState</key>
+	<string>stampIncludeBridge</string>
+	<key>builderThroughScope</key>
+	<string>normalSingletonColor</string>
+	<key>completerAwayFunction</key>
+	<string>queryVarInset</string>
+	<key>constraintJobStatus</key>
+	<string>symbolStageIndex</string>
+	<key>materialLevelPosition</key>
+	<string>alignmentEnvironmentDepth</string>
+	<key>rowPhaseSaturation</key>
+	<string>effectFacadeBrightness</string>
+	<key>segmentMementoBound</key>
+	<string>sustainableFrameBottom</string>
+	<key>signatureDuringVariable</key>
+	<string>constraintLevelDensity</string>
+</dict>
+</plist>

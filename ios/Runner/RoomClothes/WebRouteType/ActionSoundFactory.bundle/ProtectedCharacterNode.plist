@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLayoutRight</key>
+	<string>widgetAndCycle</string>
+	<key>ephemeralTransitionLeft</key>
+	<string>asynchronousRowPressure</string>
+	<key>gradientAgainstLayer</key>
+	<string>asyncInterpreterPosition</string>
+	<key>interfacePrototypeContrast</key>
+	<string>tweenObserverState</string>
+	<key>lazyButtonOpacity</key>
+	<string>inactiveLoopTransparency</string>
+	<key>resolverTempleResponse</key>
+	<string>descriptionPerTemple</string>
+	<key>subscriptionActionStatus</key>
+	<string>movementFrameworkAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAroundState</key>
+	<string>inactiveIntensityFeedback</string>
+	<key>boxActivityKind</key>
+	<string>usageParamRight</string>
+	<key>coordinatorContainCommand</key>
+	<string>visibleUsecaseRate</string>
+	<key>durationFunctionLocation</key>
+	<string>missedStateDepth</string>
+	<key>labelWithFunction</key>
+	<string>opaqueStorePosition</string>
+	<key>loopByComposite</key>
+	<string>labelForPrototype</string>
+	<key>sequentialSizeFlags</key>
+	<string>materialStateTint</string>
+	<key>usecaseAgainstShape</key>
+	<string>titleJobBehavior</string>
+</dict>
+</plist>

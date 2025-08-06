@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelScopeInterval</key>
+	<string>navigatorVersusSingleton</string>
+	<key>commonAlertRate</key>
+	<string>channelsOrSystem</string>
+	<key>composableDurationBottom</key>
+	<string>topicTypeDensity</string>
+	<key>providerAdapterAcceleration</key>
+	<string>observerTempleHue</string>
+	<key>slashDecoratorDepth</key>
+	<string>groupFromPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCompletionType</key>
+	<string>keySceneOffset</string>
+	<key>canvasTypeAcceleration</key>
+	<string>visibleRouteRight</string>
+	<key>declarativeGridviewStyle</key>
+	<string>currentEntityCount</string>
+	<key>futureJobIndex</key>
+	<string>constraintPhasePadding</string>
+	<key>interfaceAsFlyweight</key>
+	<string>prevIsolateSaturation</string>
+	<key>originalSpotPadding</key>
+	<string>resizableSkinShape</string>
+	<key>signAdapterPadding</key>
+	<string>handlerAdapterHue</string>
+	<key>specifierOrAction</key>
+	<string>sinkMethodPosition</string>
+	<key>storyboardAgainstFramework</key>
+	<string>entityInsideVar</string>
+	<key>textStageBehavior</key>
+	<string>publicObserverAlignment</string>
+</dict>
+</plist>

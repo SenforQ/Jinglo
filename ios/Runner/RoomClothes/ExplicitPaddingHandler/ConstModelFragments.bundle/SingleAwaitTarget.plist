@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxInsideStrategy</key>
+	<string>customCharacterValidation</string>
+	<key>inkwellStyleBorder</key>
+	<string>tappableLabelVisibility</string>
+	<key>materialDelegateMargin</key>
+	<string>hashAndStyle</string>
+	<key>previewSystemSpeed</key>
+	<string>graphThroughStrategy</string>
+	<key>remainderShapeTint</key>
+	<string>assetPlatformBorder</string>
+	<key>rowMethodInteraction</key>
+	<string>accordionAwaitShade</string>
+	<key>semanticPaddingName</key>
+	<string>serviceStyleFlags</string>
+</dict>
+</plist>

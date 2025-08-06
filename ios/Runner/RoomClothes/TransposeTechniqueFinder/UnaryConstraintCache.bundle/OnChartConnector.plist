@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateWithPhase</key>
+	<string>bufferFromActivity</string>
+	<key>flexFormOpacity</key>
+	<string>respectiveLayerIndex</string>
+	<key>managerSinceLayer</key>
+	<string>draggableLogContrast</string>
+	<key>matrixContextTail</key>
+	<string>requiredMenuResponse</string>
+	<key>nodeVisitorRotation</key>
+	<string>alignmentVersusDecorator</string>
+	<key>zoneVisitorTint</key>
+	<string>exceptionOutsideTask</string>
+</dict>
+</plist>

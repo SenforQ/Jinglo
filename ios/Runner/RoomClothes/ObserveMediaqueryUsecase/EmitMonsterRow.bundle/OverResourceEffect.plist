@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoVectorLeft</key>
+	<string>dynamicHashTransparency</string>
+	<key>columnNearLayer</key>
+	<string>largeFrameAcceleration</string>
+	<key>futureOutsideStrategy</key>
+	<string>compositionOperationFormat</string>
+	<key>hardScreenPosition</key>
+	<string>durationBesideBuffer</string>
+	<key>heapProcessStyle</key>
+	<string>actionContainSingleton</string>
+	<key>hierarchicalListenerOrigin</key>
+	<string>prevViewInteraction</string>
+	<key>lastDropdownbuttonDirection</key>
+	<string>discardedTweenState</string>
+	<key>standaloneExtensionPosition</key>
+	<string>sequentialIconValidation</string>
+	<key>zonePerVariable</key>
+	<string>managerFlyweightState</string>
+</dict>
+</plist>

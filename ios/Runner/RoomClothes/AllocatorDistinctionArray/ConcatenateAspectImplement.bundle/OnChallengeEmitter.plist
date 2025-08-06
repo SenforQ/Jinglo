@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferForBridge</key>
+	<string>publicCupertinoSaturation</string>
+	<key>euclideanSampleEdge</key>
+	<string>paddingLikeAction</string>
+	<key>requiredScrollDuration</key>
+	<string>lazyLocalizationPosition</string>
+	<key>routeThroughValue</key>
+	<string>gradientPatternTint</string>
+</dict>
+</plist>

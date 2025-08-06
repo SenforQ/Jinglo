@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphSinceCommand</key>
+	<string>assetTaskDelay</string>
+	<key>inheritedTextInteraction</key>
+	<string>presenterFacadeFeedback</string>
+	<key>interactorCompositeInterval</key>
+	<string>resourcePerAction</string>
+	<key>intuitiveVariantDensity</key>
+	<string>modalStructureAcceleration</string>
+	<key>navigationTypeType</key>
+	<string>commonMissionContrast</string>
+	<key>positionedAsChain</key>
+	<string>catalystWorkSkewx</string>
+	<key>workflowOrParam</key>
+	<string>asyncBulletMomentum</string>
+</dict>
+</plist>

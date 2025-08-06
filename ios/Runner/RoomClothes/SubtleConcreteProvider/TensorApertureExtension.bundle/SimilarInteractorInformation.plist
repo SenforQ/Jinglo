@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledAsyncSpeed</key>
+	<string>reactiveTransitionOrientation</string>
+	<key>errorLevelTint</key>
+	<string>nextShaderLeft</string>
+	<key>fixedAnimationValidation</key>
+	<string>tangentFormTail</string>
+	<key>nibBesideVariable</key>
+	<string>mainLabelName</string>
+	<key>variantDespiteEnvironment</key>
+	<string>sharedStreamType</string>
+</dict>
+</plist>

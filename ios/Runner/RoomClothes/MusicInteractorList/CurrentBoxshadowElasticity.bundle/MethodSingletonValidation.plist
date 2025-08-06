@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyByLevel</key>
+	<string>modalCycleDepth</string>
+	<key>methodParamKind</key>
+	<string>matrixAboutForm</string>
+	<key>nativeFeatureOrientation</key>
+	<string>providerFacadeFeedback</string>
+	<key>oldFragmentDensity</key>
+	<string>directSwiftOrientation</string>
+	<key>paddingThroughLayer</key>
+	<string>indicatorMementoTail</string>
+	<key>responsiveCommandSpeed</key>
+	<string>topicCyclePadding</string>
+</dict>
+</plist>

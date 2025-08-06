@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionCycleForce</key>
+	<string>missionVersusProxy</string>
+	<key>baselinePerPhase</key>
+	<string>textMementoPadding</string>
+	<key>channelsAndInterpreter</key>
+	<string>tangentVariableSaturation</string>
+	<key>cycleChainAppearance</key>
+	<string>zoneNearStage</string>
+	<key>getxPrototypeInterval</key>
+	<string>resultProxyPosition</string>
+	<key>textAsActivity</key>
+	<string>inactiveGroupHead</string>
+</dict>
+</plist>

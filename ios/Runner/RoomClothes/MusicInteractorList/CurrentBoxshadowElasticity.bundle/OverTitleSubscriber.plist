@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInterpolationFrequency</key>
+	<string>lastAllocatorTheme</string>
+	<key>dimensionFacadeEdge</key>
+	<string>collectionPhaseTop</string>
+	<key>fusedEntityAlignment</key>
+	<string>delegateIncludePlatform</string>
+	<key>largeRadiusDepth</key>
+	<string>themeNearVisitor</string>
+	<key>missedGroupResponse</key>
+	<string>explicitThreadBottom</string>
+	<key>operationFunctionLocation</key>
+	<string>topicUntilParam</string>
+	<key>popupFlyweightDirection</key>
+	<string>documentWorkDelay</string>
+	<key>resourceBridgeAppearance</key>
+	<string>resultNumberIndex</string>
+	<key>stackWorkRight</key>
+	<string>scaffoldThroughMethod</string>
+</dict>
+</plist>

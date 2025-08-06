@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitWithoutTask</key>
+	<string>stackMethodSize</string>
+	<key>heroFunctionColor</key>
+	<string>accordionPriorityTint</string>
+	<key>listenerSystemShape</key>
+	<string>aspectAtLevel</string>
+	<key>navigatorTierDepth</key>
+	<string>handlerLevelLeft</string>
+	<key>notificationForAdapter</key>
+	<string>webErrorContrast</string>
+	<key>progressbarExceptProxy</key>
+	<string>curvePrototypeSaturation</string>
+	<key>serviceContextCount</key>
+	<string>decorationStyleBrightness</string>
+	<key>signFrameworkMargin</key>
+	<string>menuJobMode</string>
+	<key>subscriptionAboutContext</key>
+	<string>appbarInterpreterEdge</string>
+	<key>textureVersusComposite</key>
+	<string>elasticManagerTension</string>
+</dict>
+</plist>

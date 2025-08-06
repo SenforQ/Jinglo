@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentProcessEdge</key>
+	<string>symbolAsLevel</string>
+	<key>checklistJobScale</key>
+	<string>asyncCycleCoord</string>
+	<key>criticalMetadataCount</key>
+	<string>largeSubscriptionAppearance</string>
+	<key>musicOperationDelay</key>
+	<string>cubitEnvironmentTransparency</string>
+	<key>radiusContextOpacity</key>
+	<string>diffableDrawerVisibility</string>
+	<key>textureSystemBound</key>
+	<string>arithmeticGradientVelocity</string>
+</dict>
+</plist>

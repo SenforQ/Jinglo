@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferSystemAppearance</key>
+	<string>publicThemeVelocity</string>
+	<key>comprehensiveRoleOrientation</key>
+	<string>toolNearVariable</string>
+	<key>hierarchicalBorderAppearance</key>
+	<string>draggablePetVisibility</string>
+	<key>persistentCubeBorder</key>
+	<string>interactiveInterfaceDuration</string>
+	<key>positionedPhaseBottom</key>
+	<string>keyModalMargin</string>
+</dict>
+</plist>

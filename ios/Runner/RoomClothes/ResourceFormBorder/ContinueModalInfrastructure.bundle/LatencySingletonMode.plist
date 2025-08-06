@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateForPlatform</key>
+	<string>largeAsyncScale</string>
+	<key>marginChainTint</key>
+	<string>mutableInterfaceVelocity</string>
+	<key>permanentPointAcceleration</key>
+	<string>explicitWorkflowSkewy</string>
+	<key>providerLikeOperation</key>
+	<string>sessionCompositeMomentum</string>
+	<key>queueWorkValidation</key>
+	<string>featureDecoratorBehavior</string>
+	<key>seamlessPaddingShade</key>
+	<string>builderStructureFlags</string>
+	<key>subpixelWithoutChain</key>
+	<string>reactiveTitleRate</string>
+</dict>
+</plist>

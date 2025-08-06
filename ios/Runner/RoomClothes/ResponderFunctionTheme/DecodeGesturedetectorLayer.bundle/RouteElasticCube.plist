@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAdapterDistance</key>
+	<string>accordionWidgetSaturation</string>
+	<key>chartFromState</key>
+	<string>pivotalMovementDuration</string>
+	<key>curveStateBorder</key>
+	<string>backwardNormVelocity</string>
+	<key>fusedResolverMargin</key>
+	<string>numericalExtensionMode</string>
+	<key>gridBridgeValidation</key>
+	<string>methodThanDecorator</string>
+	<key>interactorWithVisitor</key>
+	<string>tweenThroughMediator</string>
+	<key>missionPlatformRotation</key>
+	<string>progressbarScopeCount</string>
+	<key>tweenByBuffer</key>
+	<string>rowChainSize</string>
+	<key>workflowDecoratorType</key>
+	<string>scrollExceptBridge</string>
+</dict>
+</plist>

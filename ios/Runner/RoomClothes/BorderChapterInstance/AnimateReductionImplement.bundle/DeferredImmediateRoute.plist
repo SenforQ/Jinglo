@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPetValidation</key>
+	<string>precisionAtCycle</string>
+	<key>curveUntilAction</key>
+	<string>layerVisitorRate</string>
+	<key>ignoredUtilInterval</key>
+	<string>callbackDuringInterpreter</string>
+	<key>sizedboxProcessLeft</key>
+	<string>widgetFacadeBehavior</string>
+</dict>
+</plist>

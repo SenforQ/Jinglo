@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCallbackStyle</key>
+	<string>gridviewAwayEnvironment</string>
+	<key>alignmentFormIndex</key>
+	<string>cycleEnvironmentInset</string>
+	<key>finalResourceColor</key>
+	<string>displayableAnimationColor</string>
+	<key>firstReferenceRight</key>
+	<string>dynamicArithmeticBehavior</string>
+	<key>modulusTypeFormat</key>
+	<string>constraintStageColor</string>
+	<key>permissiveClipperMargin</key>
+	<string>alignmentProcessForce</string>
+	<key>routeContextDuration</key>
+	<string>screenMementoDepth</string>
+	<key>routeParameterTop</key>
+	<string>gridAdapterCenter</string>
+</dict>
+</plist>

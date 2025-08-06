@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardCycleAlignment</key>
+	<string>reducerVersusNumber</string>
+	<key>graphAmongVar</key>
+	<string>disabledEquipmentValidation</string>
+	<key>stackTaskShape</key>
+	<string>independentTransitionBound</string>
+	<key>storageMethodAcceleration</key>
+	<string>dependencyStateTheme</string>
+</dict>
+</plist>

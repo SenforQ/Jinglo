@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAsFlyweight</key>
+	<string>persistentCosineName</string>
+	<key>chartOrKind</key>
+	<string>chapterStageDelay</string>
+	<key>completionEnvironmentTint</key>
+	<string>channelKindEdge</string>
+	<key>coordinatorAroundWork</key>
+	<string>delicateTextSpacing</string>
+	<key>finalStackValidation</key>
+	<string>exceptionOrCommand</string>
+	<key>heapBufferHue</key>
+	<string>asynchronousStatefulInterval</string>
+	<key>requestContainPhase</key>
+	<string>canvasWithComposite</string>
+	<key>sampleFacadeInteraction</key>
+	<string>awaitPerContext</string>
+</dict>
+</plist>

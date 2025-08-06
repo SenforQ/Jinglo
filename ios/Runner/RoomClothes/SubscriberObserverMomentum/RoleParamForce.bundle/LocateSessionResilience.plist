@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxCompositeStatus</key>
+	<string>tensorCallbackName</string>
+	<key>constraintVisitorFlags</key>
+	<string>contractionKindLeft</string>
+	<key>normSinceFramework</key>
+	<string>builderFromInterpreter</string>
+	<key>primaryCaptionAcceleration</key>
+	<string>customMobileSpacing</string>
+	<key>progressbarPerValue</key>
+	<string>desktopCatalystShade</string>
+	<key>queueWithoutAction</key>
+	<string>coordinatorMethodType</string>
+</dict>
+</plist>

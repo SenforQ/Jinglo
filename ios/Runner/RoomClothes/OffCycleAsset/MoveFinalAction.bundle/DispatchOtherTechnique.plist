@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionParamBehavior</key>
+	<string>mediaCommandStyle</string>
+	<key>alignmentInsideTier</key>
+	<string>resultShapeIndex</string>
+	<key>containerValueCoord</key>
+	<string>aspectWithoutPattern</string>
+	<key>exceptionFacadeTransparency</key>
+	<string>mediaqueryVisitorValidation</string>
+	<key>gemNearLevel</key>
+	<string>enabledSemanticsInset</string>
+	<key>getxWithCommand</key>
+	<string>transitionContextOrigin</string>
+	<key>logarithmWithStage</key>
+	<string>histogramStyleCenter</string>
+	<key>nodePlatformBorder</key>
+	<string>resilientNodeContrast</string>
+	<key>primaryCardTint</key>
+	<string>clipperModeValidation</string>
+	<key>subtleNavigatorFormat</key>
+	<string>transformerSinceAction</string>
+</dict>
+</plist>

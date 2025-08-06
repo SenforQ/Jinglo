@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionIncludeAdapter</key>
+	<string>lostAnimatedcontainerAcceleration</string>
+	<key>animatedcontainerByVar</key>
+	<string>scrollableIconLeft</string>
+	<key>granularOptionState</key>
+	<string>usecaseSingletonName</string>
+	<key>interactiveInstructionKind</key>
+	<string>signatureScopeSkewx</string>
+	<key>iterativeRouteRight</key>
+	<string>interpolationProxySize</string>
+	<key>managerByShape</key>
+	<string>euclideanNormValidation</string>
+	<key>particleTaskPosition</key>
+	<string>queryKindSaturation</string>
+	<key>sizeActionBrightness</key>
+	<string>inheritedCacheBottom</string>
+</dict>
+</plist>

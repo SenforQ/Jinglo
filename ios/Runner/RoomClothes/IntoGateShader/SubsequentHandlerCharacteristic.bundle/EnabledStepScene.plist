@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorOutsidePrototype</key>
+	<string>promiseEnvironmentMode</string>
+	<key>batchScopeDepth</key>
+	<string>nodeBridgeFeedback</string>
+	<key>borderStageTransparency</key>
+	<string>dedicatedSpineStyle</string>
+	<key>capsuleNearSingleton</key>
+	<string>transitionStyleDirection</string>
+	<key>denseCatalystName</key>
+	<string>mediumMetadataAcceleration</string>
+	<key>injectionFunctionTint</key>
+	<string>stepSingletonName</string>
+	<key>permissiveRectFormat</key>
+	<string>customizedAxisStatus</string>
+	<key>reducerDuringVariable</key>
+	<string>deferredExceptionSkewx</string>
+	<key>remainderAroundWork</key>
+	<string>baselineValuePressure</string>
+	<key>retainedErrorTop</key>
+	<string>liteArithmeticSaturation</string>
+</dict>
+</plist>

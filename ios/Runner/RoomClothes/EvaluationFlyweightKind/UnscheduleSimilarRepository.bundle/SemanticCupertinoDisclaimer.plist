@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMatrixOffset</key>
+	<string>unsortedErrorBorder</string>
+	<key>coordinatorOperationVisible</key>
+	<string>nativeProjectCoord</string>
+	<key>currentInstructionCenter</key>
+	<string>resolverStateRight</string>
+	<key>decorationChainSkewx</key>
+	<string>euclideanButtonPosition</string>
+	<key>eventVisitorHead</key>
+	<string>reusableFeaturePadding</string>
+	<key>heapParamRate</key>
+	<string>optimizerDespiteType</string>
+	<key>repositoryAboutInterpreter</key>
+	<string>switchPhaseDensity</string>
+	<key>transformerNearLayer</key>
+	<string>resilientSpriteVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelAsObserver</key>
+	<string>missionOrFacade</string>
+	<key>listenerObserverBrightness</key>
+	<string>gridThroughVar</string>
+	<key>normBufferInteraction</key>
+	<string>metadataStateContrast</string>
+	<key>prevInteractorOffset</key>
+	<string>themeChainForce</string>
+	<key>queueModeBorder</key>
+	<string>zoneStructureTheme</string>
+	<key>sortedEffectTint</key>
+	<string>mapFunctionFrequency</string>
+</dict>
+</plist>

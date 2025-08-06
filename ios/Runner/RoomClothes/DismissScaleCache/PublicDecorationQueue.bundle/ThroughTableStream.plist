@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitFacadeDelay</key>
+	<string>mobileTaskTheme</string>
+	<key>extensionIncludeShape</key>
+	<string>rectMediatorDuration</string>
+	<key>lostNavigatorPressure</key>
+	<string>gridSinceScope</string>
+	<key>multiRepositoryBehavior</key>
+	<string>assetDuringActivity</string>
+	<key>navigatorModeTheme</key>
+	<string>tappableTransformerTint</string>
+	<key>positionOfLayer</key>
+	<string>segueVersusForm</string>
+	<key>sceneModeTag</key>
+	<string>playbackPrototypeOffset</string>
+	<key>tappableCatalystCenter</key>
+	<string>protectedTextfieldSkewy</string>
+</dict>
+</plist>

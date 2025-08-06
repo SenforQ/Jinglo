@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directBehaviorDensity</key>
+	<string>interactorActivityInterval</string>
+	<key>documentActionBehavior</key>
+	<string>isolateStructureOrigin</string>
+	<key>grainContextMode</key>
+	<string>promiseActivitySpacing</string>
+	<key>injectionCyclePressure</key>
+	<string>mediumAllocatorMode</string>
+	<key>parallelProtocolShade</key>
+	<string>adaptiveSignOrigin</string>
+	<key>seamlessStorageFrequency</key>
+	<string>sceneTierOffset</string>
+	<key>storageDespiteComposite</key>
+	<string>nextExpandedStatus</string>
+	<key>temporaryCompleterStyle</key>
+	<string>durationChainRate</string>
+</dict>
+</plist>

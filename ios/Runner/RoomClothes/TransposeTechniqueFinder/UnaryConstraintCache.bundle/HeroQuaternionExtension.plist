@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAndJob</key>
+	<string>disabledEqualizationResponse</string>
+	<key>checklistBridgeStatus</key>
+	<string>localMapOrigin</string>
+	<key>constraintVarValidation</key>
+	<string>tabviewMediatorInteraction</string>
+	<key>nodeMethodVisibility</key>
+	<string>scaffoldExceptVar</string>
+	<key>normModeDensity</key>
+	<string>mainFactoryTop</string>
+	<key>specifyIntensityDirection</key>
+	<string>tabbarIncludeFramework</string>
+	<key>tensorGrainShade</key>
+	<string>actionAdapterCoord</string>
+	<key>toolStyleBrightness</key>
+	<string>firstEffectSize</string>
+	<key>unaryForNumber</key>
+	<string>dynamicRadiusVelocity</string>
+</dict>
+</plist>

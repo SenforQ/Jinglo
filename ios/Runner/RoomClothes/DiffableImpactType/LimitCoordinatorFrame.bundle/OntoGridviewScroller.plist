@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeQueryBehavior</key>
+	<string>finalAwaitStatus</string>
+	<key>localizationActivityScale</key>
+	<string>sequentialTitleBottom</string>
+	<key>queryLayerTop</key>
+	<string>modulusVarOpacity</string>
+	<key>requestWithoutPrototype</key>
+	<string>sustainableUsecaseFeedback</string>
+	<key>staticPageviewRotation</key>
+	<string>visibleSkirtFormat</string>
+</dict>
+</plist>

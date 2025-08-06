@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConfigurationMode</key>
+	<string>presenterCompositeAlignment</string>
+	<key>dialogsFromPlatform</key>
+	<string>bufferThroughMode</string>
+	<key>elasticAlignmentDistance</key>
+	<string>accessibleSignatureMargin</string>
+	<key>frameMediatorAcceleration</key>
+	<string>interactiveRadioAppearance</string>
+	<key>fusedListenerDensity</key>
+	<string>layoutContainAction</string>
+	<key>futureWithoutDecorator</key>
+	<string>plateViaFacade</string>
+</dict>
+</plist>

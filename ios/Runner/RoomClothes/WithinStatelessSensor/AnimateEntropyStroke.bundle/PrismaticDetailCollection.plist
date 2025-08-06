@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLayoutInterval</key>
+	<string>themeAroundCycle</string>
+	<key>denseCoordinatorStyle</key>
+	<string>usageAgainstStructure</string>
+	<key>granularRadioMargin</key>
+	<string>baseAtStyle</string>
+	<key>ignoredBaseResponse</key>
+	<string>borderViaMediator</string>
+	<key>immutableAnimationScale</key>
+	<string>relationalToolSize</string>
+	<key>layerInsideCycle</key>
+	<string>baselineDespiteDecorator</string>
+</dict>
+</plist>

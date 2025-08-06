@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeJobStyle</key>
+	<string>exceptionOutsidePhase</string>
+	<key>decorationProxyTheme</key>
+	<string>builderDespiteChain</string>
+	<key>flexibleTangentSpacing</key>
+	<string>streamStrategyTop</string>
+	<key>inkwellProxyTransparency</key>
+	<string>methodStageVelocity</string>
+	<key>mutableHashLocation</key>
+	<string>mediaqueryWithType</string>
+	<key>observerTierFlags</key>
+	<string>pinchableSemanticsFrequency</string>
+	<key>sampleInterpreterFeedback</key>
+	<string>titleLikeStrategy</string>
+	<key>sinkPhaseInteraction</key>
+	<string>activatedWidgetOrigin</string>
+</dict>
+</plist>

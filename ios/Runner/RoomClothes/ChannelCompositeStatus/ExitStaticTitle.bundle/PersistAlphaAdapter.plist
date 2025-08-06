@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerModelOrigin</key>
+	<string>rapidTextfieldShade</string>
+	<key>beginnerStateFlags</key>
+	<string>cacheAboutKind</string>
+	<key>chartCommandResponse</key>
+	<string>containerContextRotation</string>
+	<key>functionalControllerTheme</key>
+	<string>normalTimerDensity</string>
+	<key>mobileSceneSkewy</key>
+	<string>enabledCollectionTint</string>
+	<key>prismaticAnchorOpacity</key>
+	<string>storageProcessStyle</string>
+	<key>radioBesideBridge</key>
+	<string>notificationExceptTier</string>
+	<key>staticBaseTag</key>
+	<string>delegateExceptFramework</string>
+</dict>
+</plist>

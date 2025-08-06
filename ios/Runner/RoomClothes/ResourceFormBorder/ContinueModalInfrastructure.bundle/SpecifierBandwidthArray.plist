@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLayerStatus</key>
+	<string>lossBridgeBrightness</string>
+	<key>buttonEnvironmentAlignment</key>
+	<string>constBufferPressure</string>
+	<key>crudeBinaryContrast</key>
+	<string>missionParamSkewy</string>
+	<key>deferredMemberTheme</key>
+	<string>commandOfFramework</string>
+	<key>groupExceptPrototype</key>
+	<string>serviceProcessShape</string>
+	<key>movementParameterVisibility</key>
+	<string>expandedVarCenter</string>
+	<key>sharedSceneDensity</key>
+	<string>viewSystemSaturation</string>
+	<key>statefulFactoryContrast</key>
+	<string>declarativeParticleHue</string>
+</dict>
+</plist>

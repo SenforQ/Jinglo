@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileVectorInset</key>
+	<string>allocatorStyleVisibility</string>
+	<key>decorationStructureTheme</key>
+	<string>heroOutsideFramework</string>
+	<key>interfaceAndLevel</key>
+	<string>commonContainerInterval</string>
+	<key>positionAroundMemento</key>
+	<string>intuitiveConstraintValidation</string>
+	<key>subtleOptimizerAcceleration</key>
+	<string>priorityThroughPattern</string>
+</dict>
+</plist>

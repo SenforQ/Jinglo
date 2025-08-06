@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStateState</key>
+	<string>positionedExceptPlatform</string>
+	<key>chapterFormState</key>
+	<string>heroCycleDelay</string>
+	<key>graphAndVisitor</key>
+	<string>awaitTempleCoord</string>
+	<key>managerForPrototype</key>
+	<string>listenerFunctionDepth</string>
+	<key>mapUntilValue</key>
+	<string>navigatorParamHead</string>
+	<key>reducerAndMediator</key>
+	<string>providerThanParam</string>
+	<key>storeSingletonSpeed</key>
+	<string>gesturedetectorMethodAcceleration</string>
+	<key>threadMementoTheme</key>
+	<string>transitionWithoutScope</string>
+</dict>
+</plist>

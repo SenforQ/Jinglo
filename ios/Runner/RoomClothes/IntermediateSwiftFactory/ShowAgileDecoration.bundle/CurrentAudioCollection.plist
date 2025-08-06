@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocWorkTag</key>
+	<string>equipmentLevelAppearance</string>
+	<key>bulletAdapterState</key>
+	<string>inheritedRowTransparency</string>
+	<key>currentTickerAlignment</key>
+	<string>labelAdapterTheme</string>
+	<key>displayableCubeCount</key>
+	<string>subtleCursorHue</string>
+	<key>expandedSystemLeft</key>
+	<string>publicBaselineRotation</string>
+	<key>exponentThanShape</key>
+	<string>statelessCurveMargin</string>
+	<key>modelContainStrategy</key>
+	<string>positionedMediatorBottom</string>
+	<key>reusableConstraintName</key>
+	<string>integerSinceStrategy</string>
+	<key>rowIncludeValue</key>
+	<string>hierarchicalTweenLeft</string>
+</dict>
+</plist>

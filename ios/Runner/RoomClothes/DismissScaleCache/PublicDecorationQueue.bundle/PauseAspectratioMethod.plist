@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncNavigatorShape</key>
+	<string>tappableEventResponse</string>
+	<key>certificateWithoutPrototype</key>
+	<string>storePhaseLeft</string>
+	<key>memberParameterStyle</key>
+	<string>alertExceptEnvironment</string>
+	<key>pinchableTableKind</key>
+	<string>routerFormCenter</string>
+	<key>positionFromLevel</key>
+	<string>scaleAndParam</string>
+	<key>viewInterpreterDistance</key>
+	<string>localizationLevelOpacity</string>
+</dict>
+</plist>

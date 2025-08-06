@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerMethodOpacity</key>
+	<string>exceptionShapeAppearance</string>
+	<key>factoryInsideParameter</key>
+	<string>blocContainInterpreter</string>
+	<key>lazySizeDepth</key>
+	<string>widgetVariableShape</string>
+	<key>navigationPerComposite</key>
+	<string>sliderValueInteraction</string>
+	<key>repositorySingletonOrigin</key>
+	<string>progressbarVarPadding</string>
+	<key>sliderShapeOffset</key>
+	<string>interactorValueKind</string>
+	<key>temporarySceneAcceleration</key>
+	<string>fixedEqualizationEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInteractorSkewy</key>
+	<string>prevBatchOrientation</string>
+	<key>anchorPerScope</key>
+	<string>mobileUsecaseOrigin</string>
+	<key>canvasAsFacade</key>
+	<string>declarativeLayoutBound</string>
+	<key>cellPerOperation</key>
+	<string>heroWithoutPattern</string>
+	<key>diffableLoopPressure</key>
+	<string>radioModeColor</string>
+	<key>invisibleSceneDirection</key>
+	<string>handlerWithoutCommand</string>
+	<key>musicCycleKind</key>
+	<string>comprehensiveBuilderInterval</string>
+	<key>persistentWidgetLeft</key>
+	<string>interfaceContainState</string>
+	<key>skirtAsCycle</key>
+	<string>builderTypeHead</string>
+</dict>
+</plist>

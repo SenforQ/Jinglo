@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperBesideFlyweight</key>
+	<string>hashByProxy</string>
+	<key>declarativeCosineTheme</key>
+	<string>modulusDuringStage</string>
+	<key>groupLayerTail</key>
+	<string>sliderPrototypeLocation</string>
+	<key>kernelDuringState</key>
+	<string>nibAboutFlyweight</string>
+	<key>materialProgressbarAppearance</key>
+	<string>adaptiveZoneDensity</string>
+	<key>promiseObserverTheme</key>
+	<string>mediaByFramework</string>
+	<key>queryExceptMediator</key>
+	<string>mobxParamDelay</string>
+	<key>semanticInteractorHue</key>
+	<string>elasticCommandContrast</string>
+</dict>
+</plist>

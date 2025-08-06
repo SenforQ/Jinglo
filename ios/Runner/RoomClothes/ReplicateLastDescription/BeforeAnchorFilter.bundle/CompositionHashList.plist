@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAsActivity</key>
+	<string>criticalTopicStatus</string>
+	<key>chartFlyweightTint</key>
+	<string>histogramBridgeBottom</string>
+	<key>documentCompositeTint</key>
+	<string>transitionLikeScope</string>
+	<key>greatAnimationInset</key>
+	<string>desktopPageviewInset</string>
+	<key>newestGateInteraction</key>
+	<string>loopEnvironmentDepth</string>
+	<key>spineLikeChain</key>
+	<string>chapterVisitorMomentum</string>
+	<key>swiftWorkResponse</key>
+	<string>interactiveSliderTop</string>
+	<key>symmetricFragmentSkewx</key>
+	<string>intensityCompositeVisible</string>
+	<key>usecaseInPlatform</key>
+	<string>imageInProxy</string>
+</dict>
+</plist>

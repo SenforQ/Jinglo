@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateDependencyMargin</key>
+	<string>columnViaAdapter</string>
+	<key>granularMapKind</key>
+	<string>publicNodeBottom</string>
+	<key>logBridgeOrientation</key>
+	<string>containerPhaseCoord</string>
+	<key>lostQueryName</key>
+	<string>compositionalArithmeticVelocity</string>
+	<key>mediumChallengeBehavior</key>
+	<string>ephemeralButtonCoord</string>
+	<key>retainedFutureOffset</key>
+	<string>futureJobShade</string>
+	<key>scrollableColumnKind</key>
+	<string>containerOrVar</string>
+	<key>workflowStateAlignment</key>
+	<string>backwardStatelessResponse</string>
+</dict>
+</plist>

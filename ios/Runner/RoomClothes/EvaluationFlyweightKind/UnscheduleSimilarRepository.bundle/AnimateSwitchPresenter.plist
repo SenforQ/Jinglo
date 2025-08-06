@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorParameterBehavior</key>
+	<string>contractionStageShape</string>
+	<key>asyncCubitShade</key>
+	<string>cellBridgeShape</string>
+	<key>channelTaskPressure</key>
+	<string>immediateCubitPosition</string>
+	<key>getxLayerDelay</key>
+	<string>intuitiveMusicResponse</string>
+	<key>mediocreVectorScale</key>
+	<string>oldGradientDelay</string>
+	<key>operationVisitorSize</key>
+	<string>injectionFromFramework</string>
+	<key>optimizerAboutValue</key>
+	<string>pinchableContainerStyle</string>
+	<key>scaleExceptType</key>
+	<string>alertIncludeValue</string>
+	<key>sessionVisitorTint</key>
+	<string>missedAnchorColor</string>
+</dict>
+</plist>

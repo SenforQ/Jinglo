@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonUntilSingleton</key>
+	<string>gemMementoOrientation</string>
+	<key>effectUntilPlatform</key>
+	<string>finalSpriteAcceleration</string>
+	<key>frameModeType</key>
+	<string>prismaticAnchorMomentum</string>
+	<key>managerMethodSpacing</key>
+	<string>kernelBeyondValue</string>
+	<key>singletonOrCommand</key>
+	<string>blocOutsidePlatform</string>
+	<key>viewActionMargin</key>
+	<string>overlayDuringFacade</string>
+</dict>
+</plist>

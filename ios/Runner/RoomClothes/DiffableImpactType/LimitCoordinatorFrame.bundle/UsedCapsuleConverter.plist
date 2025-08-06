@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRequestScale</key>
+	<string>globalRichtextTag</string>
+	<key>channelPatternMode</key>
+	<string>dynamicBlocEdge</string>
+	<key>intuitiveMapFrequency</key>
+	<string>rowSystemCount</string>
+	<key>largeConsumerColor</key>
+	<string>frameDespiteFramework</string>
+	<key>standaloneProgressbarStatus</key>
+	<string>chapterBufferTag</string>
+	<key>taskCycleStyle</key>
+	<string>functionalSizeOffset</string>
+</dict>
+</plist>

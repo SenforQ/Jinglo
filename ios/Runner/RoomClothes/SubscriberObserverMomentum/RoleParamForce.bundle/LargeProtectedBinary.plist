@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetForForm</key>
+	<string>touchProxyBorder</string>
+	<key>invisibleThemeOpacity</key>
+	<string>capsuleBeyondProcess</string>
+	<key>logarithmMementoMode</key>
+	<string>largeTitleFeedback</string>
+	<key>mediocreAlertShade</key>
+	<string>matrixWithoutProxy</string>
+</dict>
+</plist>

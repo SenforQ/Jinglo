@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCallbackBrightness</key>
+	<string>equipmentOfValue</string>
+	<key>buttonOfProcess</key>
+	<string>axisProcessName</string>
+	<key>crudeTitleFrequency</key>
+	<string>effectEnvironmentDirection</string>
+	<key>curveOrParam</key>
+	<string>directSignRight</string>
+	<key>directStorageAlignment</key>
+	<string>graphLikeShape</string>
+	<key>euclideanReductionFrequency</key>
+	<string>capsuleMementoSpacing</string>
+	<key>grainUntilForm</key>
+	<string>staticMissionInteraction</string>
+	<key>positionPlatformValidation</key>
+	<string>notificationValueDelay</string>
+</dict>
+</plist>

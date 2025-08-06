@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionFunctionStyle</key>
+	<string>textStageBottom</string>
+	<key>completerFormBehavior</key>
+	<string>listenerCommandTop</string>
+	<key>cupertinoBaselineAlignment</key>
+	<string>requestFacadeSaturation</string>
+	<key>handlerJobHue</key>
+	<string>resilientMediaqueryTail</string>
+	<key>heapShapeFlags</key>
+	<string>navigatorContextSize</string>
+	<key>layoutTierSkewy</key>
+	<string>canvasFormHead</string>
+	<key>priorHistogramForce</key>
+	<string>variantBufferShape</string>
+	<key>rapidToolBrightness</key>
+	<string>serviceOperationBorder</string>
+	<key>responseAwayTask</key>
+	<string>activeUsageTransparency</string>
+</dict>
+</plist>

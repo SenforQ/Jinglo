@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInFlyweight</key>
+	<string>particleWithoutEnvironment</string>
+	<key>customSubscriptionVisibility</key>
+	<string>ternaryWithMediator</string>
+	<key>discardedModelEdge</key>
+	<string>completerProcessName</string>
+	<key>entityAroundForm</key>
+	<string>convolutionExceptOperation</string>
+	<key>gridviewAgainstStage</key>
+	<string>easyColumnBottom</string>
+	<key>imageForBuffer</key>
+	<string>consumerUntilStage</string>
+	<key>monsterSinceParam</key>
+	<string>semanticOffsetVisible</string>
+	<key>progressbarBeyondAdapter</key>
+	<string>titleWithKind</string>
+	<key>responsiveSpriteType</key>
+	<string>euclideanBlocVisible</string>
+</dict>
+</plist>

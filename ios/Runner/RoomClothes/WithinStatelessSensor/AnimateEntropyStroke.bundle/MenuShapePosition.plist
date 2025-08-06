@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMomentumBottom</key>
+	<string>storeStrategyOffset</string>
+	<key>animatedReductionTheme</key>
+	<string>widgetPhaseInterval</string>
+	<key>basicRadiusTheme</key>
+	<string>invisibleMobileSize</string>
+	<key>decorationProcessCount</key>
+	<string>frameOperationFeedback</string>
+	<key>easyImagePosition</key>
+	<string>screenPatternType</string>
+	<key>mobileAgainstWork</key>
+	<string>scaffoldPerType</string>
+	<key>rowFunctionCoord</key>
+	<string>stackDespiteAdapter</string>
+	<key>streamContainPrototype</key>
+	<string>lastControllerState</string>
+	<key>tweenAboutFlyweight</key>
+	<string>lossDuringEnvironment</string>
+</dict>
+</plist>

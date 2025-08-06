@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedFragmentStatus</key>
+	<string>heroPatternShape</string>
+	<key>fragmentLevelSpacing</key>
+	<string>mobxWorkBrightness</string>
+	<key>layoutOrStructure</key>
+	<string>tweenAsInterpreter</string>
+	<key>metadataFlyweightBound</key>
+	<string>resolverFlyweightDistance</string>
+</dict>
+</plist>

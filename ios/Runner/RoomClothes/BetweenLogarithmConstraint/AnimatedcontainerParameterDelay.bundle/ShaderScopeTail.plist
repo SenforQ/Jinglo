@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedContractionName</key>
+	<string>musicPerState</string>
+	<key>baseAndFlyweight</key>
+	<string>gridviewMediatorBound</string>
+	<key>canvasDecoratorPosition</key>
+	<string>variantWithFramework</string>
+	<key>desktopInstructionColor</key>
+	<string>signContextMode</string>
+	<key>flexDuringShape</key>
+	<string>nextChannelsTint</string>
+	<key>intuitiveSubscriptionScale</key>
+	<string>currentBulletMode</string>
+	<key>labelLevelSkewx</key>
+	<string>mobxByVar</string>
+	<key>retainedCapsuleColor</key>
+	<string>directSpriteShape</string>
+	<key>standaloneInjectionEdge</key>
+	<string>priorResultOrigin</string>
+	<key>visibleRichtextOrigin</key>
+	<string>anchorThroughObserver</string>
+</dict>
+</plist>

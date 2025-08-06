@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticWithoutNumber</key>
+	<string>protectedAsyncName</string>
+	<key>bufferLevelCount</key>
+	<string>dedicatedCellMode</string>
+	<key>bulletMediatorSize</key>
+	<string>mediocreLabelPosition</string>
+	<key>cardAwayBuffer</key>
+	<string>animatedDurationAlignment</string>
+	<key>configurationPrototypeFormat</key>
+	<string>invisibleFutureBrightness</string>
+	<key>heapAgainstMemento</key>
+	<string>futureVisitorSpacing</string>
+	<key>interpolationModeKind</key>
+	<string>inkwellScopeKind</string>
+	<key>navigationValueMargin</key>
+	<string>ignoredContractionMargin</string>
+	<key>tangentMethodName</key>
+	<string>stateBeyondContext</string>
+</dict>
+</plist>

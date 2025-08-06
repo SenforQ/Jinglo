@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitVisitorVelocity</key>
+	<string>ephemeralCardDelay</string>
+	<key>interfaceWorkInset</key>
+	<string>serviceBeyondStrategy</string>
+	<key>labelDecoratorLocation</key>
+	<string>sortedParticleLeft</string>
+	<key>otherSymbolSaturation</key>
+	<string>appbarTierShade</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheAtInterpreter</key>
+	<string>arithmeticVersusEnvironment</string>
+	<key>deferredNodeRate</key>
+	<string>unactivatedStoryboardDistance</string>
+	<key>nativeZoneType</key>
+	<string>logarithmBridgeSaturation</string>
+	<key>scrollableCursorBehavior</key>
+	<string>localizationSinceWork</string>
+</dict>
+</plist>

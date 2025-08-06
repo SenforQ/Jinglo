@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionStateVisible</key>
+	<string>segmentPatternSaturation</string>
+	<key>modelLevelRate</key>
+	<string>basicInjectionSaturation</string>
+	<key>resilientSensorFrequency</key>
+	<string>chartVarAcceleration</string>
+	<key>rowShapeMargin</key>
+	<string>visibleCallbackBottom</string>
+	<key>transformerAmongChain</key>
+	<string>semanticAssetDensity</string>
+</dict>
+</plist>

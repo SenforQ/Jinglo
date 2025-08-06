@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryNumberVisible</key>
+	<string>segueAlongMediator</string>
+	<key>flexibleStateBrightness</key>
+	<string>resourceInLevel</string>
+	<key>resolverBufferSize</key>
+	<string>autoTickerAppearance</string>
+</dict>
+</plist>

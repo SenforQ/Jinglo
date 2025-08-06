@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackIncludeFacade</key>
+	<string>storeBufferRight</string>
+	<key>cursorAmongDecorator</key>
+	<string>handlerDuringJob</string>
+	<key>discardedDelegateRotation</key>
+	<string>coordinatorAtFramework</string>
+	<key>inheritedSingletonPressure</key>
+	<string>frameContainMemento</string>
+	<key>queryThroughPattern</key>
+	<string>assetModeLocation</string>
+	<key>requestOperationMomentum</key>
+	<string>nodeExceptParameter</string>
+	<key>segueCycleFrequency</key>
+	<string>catalystThanActivity</string>
+	<key>smartConvolutionShape</key>
+	<string>marginPlatformHue</string>
+	<key>sortedRepositoryVisibility</key>
+	<string>offsetContainTask</string>
+</dict>
+</plist>

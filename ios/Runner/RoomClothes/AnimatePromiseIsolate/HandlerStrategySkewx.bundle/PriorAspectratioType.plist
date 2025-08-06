@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFunctionCenter</key>
+	<string>allocatorByPrototype</string>
+	<key>constChartShape</key>
+	<string>instructionVersusParam</string>
+	<key>customProgressbarScale</key>
+	<string>globalSkirtFrequency</string>
+	<key>providerAgainstKind</key>
+	<string>managerThroughCycle</string>
+	<key>sizeVisitorInterval</key>
+	<string>independentBinarySaturation</string>
+</dict>
+</plist>

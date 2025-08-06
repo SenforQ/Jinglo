@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySinceStage</key>
+	<string>retainedControllerDirection</string>
+	<key>compositionObserverRotation</key>
+	<string>staticTaskDelay</string>
+	<key>declarativeIsolateVisibility</key>
+	<string>instructionCycleBorder</string>
+	<key>equalizationTaskSpacing</key>
+	<string>widgetDespiteMemento</string>
+	<key>iconWithPhase</key>
+	<string>routerPrototypeBound</string>
+	<key>labelDecoratorKind</key>
+	<string>containerPlatformTag</string>
+	<key>resilientScreenTransparency</key>
+	<string>builderParamBorder</string>
+	<key>visibleRoleDelay</key>
+	<string>disabledStateDensity</string>
+</dict>
+</plist>

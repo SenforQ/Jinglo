@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSubpixelStatus</key>
+	<string>streamInterpreterState</string>
+	<key>convolutionEnvironmentInteraction</key>
+	<string>opaqueTransformerBehavior</string>
+	<key>criticalNibState</key>
+	<string>layoutAsEnvironment</string>
+	<key>elasticRequestName</key>
+	<string>storyboardLikeInterpreter</string>
+	<key>injectionAdapterHue</key>
+	<string>materialBatchResponse</string>
+	<key>originalRectName</key>
+	<string>spriteTierLeft</string>
+	<key>resilientLayoutFeedback</key>
+	<string>optionInSingleton</string>
+	<key>responseDecoratorForce</key>
+	<string>viewOfMediator</string>
+	<key>resultSinceMediator</key>
+	<string>capacitiesEnvironmentIndex</string>
+</dict>
+</plist>

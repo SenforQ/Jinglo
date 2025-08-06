@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseParameterVisibility</key>
+	<string>unactivatedStoreStatus</string>
+	<key>brushCycleCoord</key>
+	<string>frameThroughAdapter</string>
+	<key>completerWithoutStructure</key>
+	<string>contractionAsActivity</string>
+	<key>dependencyByMethod</key>
+	<string>robustCharacterPosition</string>
+	<key>layoutLevelBottom</key>
+	<string>listenerScopeTransparency</string>
+	<key>spriteVarName</key>
+	<string>appbarModeBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAndProcess</key>
+	<string>streamBridgeAcceleration</string>
+	<key>eagerCustompaintMargin</key>
+	<string>gridviewBeyondContext</string>
+	<key>factoryFlyweightTheme</key>
+	<string>liteStoreOrientation</string>
+	<key>nodeStrategyRotation</key>
+	<string>grayscaleOperationVisible</string>
+	<key>positionedNumberPadding</key>
+	<string>storyboardCompositeStatus</string>
+	<key>sinkNearParameter</key>
+	<string>tensorCompositionTail</string>
+	<key>sizeThroughPrototype</key>
+	<string>accordionSessionLocation</string>
+	<key>subscriptionSinceComposite</key>
+	<string>radiusAlongVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleListviewState</key>
+	<string>animationVarFeedback</string>
+	<key>gramFrameworkOrientation</key>
+	<string>commandCycleSaturation</string>
+	<key>integerKindShade</key>
+	<string>persistentRadiusOrigin</string>
+	<key>prevResponseFrequency</key>
+	<string>cubeMediatorShape</string>
+	<key>rowWithoutChain</key>
+	<string>rowDespiteComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFacadeFeedback</key>
+	<string>secondPopupBorder</string>
+	<key>densePopupTail</key>
+	<string>custompaintAlongPlatform</string>
+	<key>exceptionInMediator</key>
+	<string>tweenStageTop</string>
+	<key>inheritedArithmeticCoord</key>
+	<string>instructionTierBorder</string>
+	<key>nextButtonMargin</key>
+	<string>routeMementoPosition</string>
+</dict>
+</plist>

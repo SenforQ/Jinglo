@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentStatePressure</key>
+	<string>inheritedRowShape</string>
+	<key>groupAmongState</key>
+	<string>asynchronousSliderResponse</string>
+	<key>intuitiveMusicDelay</key>
+	<string>interactorStyleFlags</string>
+	<key>layerFrameworkSaturation</key>
+	<string>repositoryBridgeHead</string>
+	<key>navigationInsideState</key>
+	<string>reusableGrainVisible</string>
+	<key>pivotalArithmeticShape</key>
+	<string>durationAsCommand</string>
+	<key>primaryResultTension</key>
+	<string>navigatorUntilComposite</string>
+</dict>
+</plist>

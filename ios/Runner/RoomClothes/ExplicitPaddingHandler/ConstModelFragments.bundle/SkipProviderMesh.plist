@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxPlatformDensity</key>
+	<string>lostIntensityInteraction</string>
+	<key>gradientPerVariable</key>
+	<string>petForParam</string>
+	<key>iterativeInteractorOrientation</key>
+	<string>mutableRouterSkewy</string>
+	<key>movementOrVariable</key>
+	<string>cursorNearStyle</string>
+	<key>resultAgainstStrategy</key>
+	<string>coordinatorCompositeInteraction</string>
+	<key>riverpodContainPrototype</key>
+	<string>animatedcontainerPlatformVisible</string>
+	<key>storyboardViaParameter</key>
+	<string>hashOrChain</string>
+</dict>
+</plist>

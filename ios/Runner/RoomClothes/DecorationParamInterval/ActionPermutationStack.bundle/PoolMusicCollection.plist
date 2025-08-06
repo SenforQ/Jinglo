@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBesideProxy</key>
+	<string>gridAtFramework</string>
+	<key>persistentBorderStyle</key>
+	<string>popupObserverHead</string>
+	<key>seamlessCurveCount</key>
+	<string>constraintObserverOpacity</string>
+	<key>sharedTopicPadding</key>
+	<string>diffableDependencyPosition</string>
+	<key>spotContainPrototype</key>
+	<string>finalAlignmentDensity</string>
+	<key>subpixelForFacade</key>
+	<string>concurrentUsecaseTail</string>
+</dict>
+</plist>

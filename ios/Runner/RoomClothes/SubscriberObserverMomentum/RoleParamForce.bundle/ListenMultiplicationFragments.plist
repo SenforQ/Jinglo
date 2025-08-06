@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorNumberMode</key>
+	<string>fragmentMediatorContrast</string>
+	<key>ephemeralSliderDensity</key>
+	<string>slashThroughMode</string>
+	<key>logarithmFacadeBehavior</key>
+	<string>euclideanAspectSaturation</string>
+	<key>shaderCompositeBehavior</key>
+	<string>similarTaskVelocity</string>
+	<key>similarChannelsBrightness</key>
+	<string>reactiveBufferShape</string>
+	<key>specifyAssetMode</key>
+	<string>synchronousResultIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateModeColor</key>
+	<string>layoutTierTransparency</string>
+	<key>constPointSkewy</key>
+	<string>cubitBesideOperation</string>
+	<key>cycleOperationTop</key>
+	<string>coordinatorCycleRate</string>
+	<key>dependencyThanPattern</key>
+	<string>semanticsOutsideParam</string>
+	<key>factoryNearFlyweight</key>
+	<string>descriptorActivityDelay</string>
+	<key>requestLevelValidation</key>
+	<string>spotShapeOrigin</string>
+	<key>sizeCommandLeft</key>
+	<string>mobxTierDuration</string>
+</dict>
+</plist>

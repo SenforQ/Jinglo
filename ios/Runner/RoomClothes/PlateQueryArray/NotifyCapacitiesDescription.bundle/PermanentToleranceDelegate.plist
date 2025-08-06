@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTransitionDirection</key>
+	<string>heroStrategyForce</string>
+	<key>channelsAwayPlatform</key>
+	<string>usecaseForShape</string>
+	<key>inheritedCallbackHue</key>
+	<string>usecaseModeIndex</string>
+	<key>intermediateSingletonScale</key>
+	<string>multiplicationFromSingleton</string>
+	<key>labelModeHue</key>
+	<string>crudeCheckboxDepth</string>
+	<key>otherSingletonOffset</key>
+	<string>advancedGetxBottom</string>
+	<key>pointProcessDelay</key>
+	<string>eagerGraphicBorder</string>
+	<key>visibleStatefulTint</key>
+	<string>shaderAlongMethod</string>
+</dict>
+</plist>

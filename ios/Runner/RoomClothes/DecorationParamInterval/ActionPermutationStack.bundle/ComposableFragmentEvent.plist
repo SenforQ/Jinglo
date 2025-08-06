@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentWorkflowAlignment</key>
+	<string>observerContextIndex</string>
+	<key>fixedProviderForce</key>
+	<string>intermediateCanvasFrequency</string>
+	<key>iconUntilLayer</key>
+	<string>commandInterpreterInteraction</string>
+	<key>parallelMobileShape</key>
+	<string>sceneCommandFeedback</string>
+	<key>persistentConstraintPadding</key>
+	<string>activatedProviderState</string>
+	<key>publicMediaquerySkewy</key>
+	<string>themeLevelMode</string>
+</dict>
+</plist>

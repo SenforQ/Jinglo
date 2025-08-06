@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonFunctionDensity</key>
+	<string>denseAsyncHue</string>
+	<key>navigatorProcessFormat</key>
+	<string>convolutionOutsideCycle</string>
+	<key>positionFrameworkResponse</key>
+	<string>gridCycleOrigin</string>
+	<key>prismaticBlocSpacing</key>
+	<string>accordionFutureTail</string>
+	<key>referenceCommandTransparency</key>
+	<string>desktopHistogramTag</string>
+	<key>subtleBulletVisible</key>
+	<string>primaryInstructionStyle</string>
+	<key>taskMethodVisible</key>
+	<string>semanticPositionBorder</string>
+</dict>
+</plist>

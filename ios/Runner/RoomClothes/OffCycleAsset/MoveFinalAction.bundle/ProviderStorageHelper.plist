@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeViewRate</key>
+	<string>exponentByProxy</string>
+	<key>descriptorOperationTop</key>
+	<string>borderOperationTransparency</string>
+	<key>invisibleViewName</key>
+	<string>newestDelegateSkewy</string>
+	<key>persistentSignTop</key>
+	<string>newestChannelTransparency</string>
+</dict>
+</plist>

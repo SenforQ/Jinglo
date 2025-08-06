@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPresenterOrientation</key>
+	<string>reductionWithoutTier</string>
+	<key>enabledCosineShape</key>
+	<string>ignoredConfigurationEdge</string>
+	<key>otherViewMargin</key>
+	<string>seamlessStackBrightness</string>
+	<key>pinchableCursorSize</key>
+	<string>graphicDespiteFacade</string>
+	<key>sampleFunctionOpacity</key>
+	<string>primaryCapsuleDirection</string>
+</dict>
+</plist>

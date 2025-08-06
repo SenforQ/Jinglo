@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertStateContrast</key>
+	<string>basicSineDirection</string>
+	<key>bitrateByKind</key>
+	<string>deferredSineTint</string>
+	<key>chartAtLevel</key>
+	<string>delegateInPhase</string>
+	<key>containerAdapterOrigin</key>
+	<string>asynchronousPointIndex</string>
+	<key>cubeSystemVelocity</key>
+	<string>accessibleScreenInset</string>
+	<key>cubitLikeMediator</key>
+	<string>protectedCycleOpacity</string>
+	<key>lazyQueueSpacing</key>
+	<string>crudePetHue</string>
+	<key>themePerStyle</key>
+	<string>discardedSizeScale</string>
+	<key>vectorTaskInteraction</key>
+	<string>localizationTaskOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedContainerPadding</key>
+	<string>actionAdapterTheme</string>
+	<key>discardedDrawerBorder</key>
+	<string>hashWithoutOperation</string>
+	<key>exceptionAdapterSize</key>
+	<string>activityFacadePadding</string>
+	<key>materialBeyondContext</key>
+	<string>sustainableLogarithmOpacity</string>
+	<key>sequentialBlocVisibility</key>
+	<string>directlyIconVisible</string>
+</dict>
+</plist>

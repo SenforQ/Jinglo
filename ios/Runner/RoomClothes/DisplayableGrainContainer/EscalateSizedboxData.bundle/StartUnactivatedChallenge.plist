@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMultiplicationBorder</key>
+	<string>unactivatedCacheKind</string>
+	<key>listenerForParam</key>
+	<string>discardedDrawerVisibility</string>
+	<key>nextDocumentDelay</key>
+	<string>immediateModalTransparency</string>
+	<key>topicExceptFacade</key>
+	<string>sizePlatformVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constLogFormat</key>
+	<string>listviewLayerTag</string>
+	<key>nodeCycleDuration</key>
+	<string>cupertinoAmongMediator</string>
+	<key>scaffoldBesideOperation</key>
+	<string>delegateBridgeAcceleration</string>
+	<key>semanticsOutsideKind</key>
+	<string>customizedProtocolDuration</string>
+	<key>titleObserverInset</key>
+	<string>decorationTierBrightness</string>
+</dict>
+</plist>

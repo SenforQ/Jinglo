@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentThroughSystem</key>
+	<string>concurrentScaleOffset</string>
+	<key>decorationFormPressure</key>
+	<string>routePerParameter</string>
+	<key>decorationTierAlignment</key>
+	<string>customizedTweenPadding</string>
+	<key>layoutLevelTop</key>
+	<string>publicDurationAppearance</string>
+	<key>liteSessionEdge</key>
+	<string>projectBeyondScope</string>
+	<key>materialStepAcceleration</key>
+	<string>tabbarFromMode</string>
+	<key>optimizerSingletonVisibility</key>
+	<string>deferredEffectDistance</string>
+	<key>spriteSystemInterval</key>
+	<string>descriptionOfMemento</string>
+</dict>
+</plist>

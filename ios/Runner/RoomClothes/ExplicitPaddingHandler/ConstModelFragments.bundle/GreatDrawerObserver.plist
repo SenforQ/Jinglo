@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureProcessInteraction</key>
+	<string>plateViaDecorator</string>
+	<key>captionPrototypeScale</key>
+	<string>imperativeAlignmentTop</string>
+	<key>draggableDurationFrequency</key>
+	<string>independentAnimatedcontainerResponse</string>
+	<key>intuitiveGrayscaleFormat</key>
+	<string>tappableTimerHue</string>
+	<key>projectionInSystem</key>
+	<string>singleTouchName</string>
+	<key>sessionObserverIndex</key>
+	<string>fusedWorkflowStatus</string>
+	<key>transitionAboutContext</key>
+	<string>denseStatefulDuration</string>
+	<key>widgetFrameworkMode</key>
+	<string>durationExceptState</string>
+	<key>zoneTierBound</key>
+	<string>factoryAtProxy</string>
+</dict>
+</plist>

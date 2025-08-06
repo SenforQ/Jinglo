@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAndProcess</key>
+	<string>buttonContainComposite</string>
+	<key>columnWithoutProxy</key>
+	<string>positionProxyDelay</string>
+	<key>equipmentContainStyle</key>
+	<string>reductionInAdapter</string>
+	<key>significantControllerSize</key>
+	<string>persistentProgressbarDepth</string>
+	<key>temporaryAlignmentSpacing</key>
+	<string>awaitDuringCommand</string>
+	<key>transformerNearDecorator</key>
+	<string>ephemeralKernelBorder</string>
+	<key>workflowFlyweightVelocity</key>
+	<string>concurrentResolverFlags</string>
+</dict>
+</plist>

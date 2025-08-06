@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationTypeFeedback</key>
+	<string>builderSystemTail</string>
+	<key>respectiveCommandFlags</key>
+	<string>signFromNumber</string>
+	<key>subtleBrushMode</key>
+	<string>ephemeralRowEdge</string>
+	<key>uniformTimerPadding</key>
+	<string>metadataPerSingleton</string>
+</dict>
+</plist>

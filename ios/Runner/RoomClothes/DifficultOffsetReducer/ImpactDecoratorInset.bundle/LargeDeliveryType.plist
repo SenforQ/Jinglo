@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRouteFlags</key>
+	<string>inkwellEnvironmentInteraction</string>
+	<key>documentStateDensity</key>
+	<string>allocatorOperationAlignment</string>
+	<key>grainAlongMethod</key>
+	<string>particleCycleStyle</string>
+	<key>requiredDelegateBehavior</key>
+	<string>oldNotificationOrigin</string>
+	<key>spineVarTail</key>
+	<string>pivotalInkwellBrightness</string>
+	<key>ternaryContextRight</key>
+	<string>symbolExceptMethod</string>
+	<key>ternaryThroughFlyweight</key>
+	<string>uniformLocalizationState</string>
+	<key>vectorDuringForm</key>
+	<string>coordinatorMediatorMode</string>
+	<key>visibleCursorMargin</key>
+	<string>normVariableRate</string>
+</dict>
+</plist>

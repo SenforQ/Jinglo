@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionObserverBehavior</key>
+	<string>effectCommandSpeed</string>
+	<key>cardAroundTask</key>
+	<string>unactivatedTransitionKind</string>
+	<key>dimensionActionOffset</key>
+	<string>subpixelAroundAdapter</string>
+	<key>kernelDespiteAdapter</key>
+	<string>resourceParamDensity</string>
+	<key>positionPerValue</key>
+	<string>coordinatorVariableInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransitionOffset</key>
+	<string>materialCupertinoEdge</string>
+	<key>difficultWidgetHead</key>
+	<string>sizedboxCommandStyle</string>
+	<key>errorAndTier</key>
+	<string>offsetDuringContext</string>
+	<key>eventAndStrategy</key>
+	<string>inheritedRouteVisibility</string>
+	<key>gramInterpreterSaturation</key>
+	<string>prismaticHashAlignment</string>
+	<key>repositoryPatternTransparency</key>
+	<string>layoutPatternAcceleration</string>
+	<key>routeAwayParam</key>
+	<string>sequentialMediaOrigin</string>
+	<key>semanticListenerKind</key>
+	<string>transitionParameterPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseCatalystAlignment</key>
+	<string>permissiveInterpolationResponse</string>
+	<key>elasticRadiusSkewy</key>
+	<string>radioCycleBound</string>
+	<key>fixedClipperFlags</key>
+	<string>opaqueFrameCenter</string>
+	<key>mobileCatalystType</key>
+	<string>errorVarTint</string>
+	<key>modulusLayerRotation</key>
+	<string>sinkAboutFunction</string>
+	<key>notificationBridgeShade</key>
+	<string>cellBufferResponse</string>
+	<key>pivotalTernarySpeed</key>
+	<string>movementDuringPhase</string>
+	<key>routeWithTemple</key>
+	<string>activeScaffoldHue</string>
+	<key>storageContextAcceleration</key>
+	<string>musicEnvironmentShade</string>
+</dict>
+</plist>

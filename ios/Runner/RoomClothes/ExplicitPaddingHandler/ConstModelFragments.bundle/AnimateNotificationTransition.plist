@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDependencyCenter</key>
+	<string>effectTypeOffset</string>
+	<key>canvasSinceType</key>
+	<string>criticalTransformerCount</string>
+	<key>consumerDuringComposite</key>
+	<string>reductionDuringActivity</string>
+	<key>descriptionDuringFlyweight</key>
+	<string>queryBesideStrategy</string>
+	<key>iconFacadeMargin</key>
+	<string>utilAlongDecorator</string>
+	<key>imperativeGateSaturation</key>
+	<string>precisionPrototypeInset</string>
+	<key>segueAmongValue</key>
+	<string>errorOrEnvironment</string>
+	<key>usageAtLevel</key>
+	<string>durationSystemOffset</string>
+	<key>widgetStructureIndex</key>
+	<string>singleZoneBorder</string>
+</dict>
+</plist>

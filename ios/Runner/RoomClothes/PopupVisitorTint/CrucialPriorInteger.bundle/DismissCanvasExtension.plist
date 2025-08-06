@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSingletonDensity</key>
+	<string>sharedRectFeedback</string>
+	<key>captionSingletonSize</key>
+	<string>permissiveCallbackDirection</string>
+	<key>dependencyStateDuration</key>
+	<string>baseMementoDirection</string>
+	<key>flexProxyDirection</key>
+	<string>buttonPatternBorder</string>
+	<key>momentumLikeAction</key>
+	<string>scaleDecoratorBehavior</string>
+	<key>specifierThanPhase</key>
+	<string>marginPlatformType</string>
+	<key>transitionOutsidePattern</key>
+	<string>retainedFrameLocation</string>
+	<key>viewWithCycle</key>
+	<string>descriptorDecoratorStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorUntilCycle</key>
+	<string>resilientConsumerDirection</string>
+	<key>cacheFromSystem</key>
+	<string>isolateAgainstTemple</string>
+	<key>compositionWithoutChain</key>
+	<string>prismaticChapterBehavior</string>
+	<key>diffableRouterDistance</key>
+	<string>imperativeTextDistance</string>
+	<key>scrollableRichtextSpacing</key>
+	<string>presenterAsObserver</string>
+	<key>sinkAtParameter</key>
+	<string>routerKindRate</string>
+	<key>topicThroughActivity</key>
+	<string>layoutPerJob</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocWorkInteraction</key>
+	<string>futureActionInset</string>
+	<key>disabledLabelDuration</key>
+	<string>sequentialStateEdge</string>
+	<key>imperativeRoleRight</key>
+	<string>relationalSliderOffset</string>
+	<key>invisibleNavigatorCoord</key>
+	<string>normAlongAction</string>
+	<key>missedFutureVelocity</key>
+	<string>rapidGraphAlignment</string>
+	<key>requestInInterpreter</key>
+	<string>semanticGestureBound</string>
+	<key>sensorAgainstTier</key>
+	<string>textureOutsideShape</string>
+	<key>tabbarFromVisitor</key>
+	<string>contractionOperationTag</string>
+</dict>
+</plist>

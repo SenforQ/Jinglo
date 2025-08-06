@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoAndMemento</key>
+	<string>checkboxParameterMargin</string>
+	<key>directlyDescriptorDistance</key>
+	<string>fragmentContainValue</string>
+	<key>interactiveDialogsIndex</key>
+	<string>specifySkirtShape</string>
+	<key>labelAgainstContext</key>
+	<string>cellViaActivity</string>
+	<key>reducerFromVariable</key>
+	<string>assetAboutLevel</string>
+	<key>resizableCharacterDelay</key>
+	<string>publicPresenterKind</string>
+	<key>smartChartTag</key>
+	<string>providerLikeFlyweight</string>
+	<key>subscriptionAsLayer</key>
+	<string>localizationOrMethod</string>
+</dict>
+</plist>

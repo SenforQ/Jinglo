@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitOrLayer</key>
+	<string>smallTaskDuration</string>
+	<key>cupertinoChannelTint</key>
+	<string>shaderInEnvironment</string>
+	<key>equipmentAgainstStage</key>
+	<string>sceneWithAdapter</string>
+	<key>frameObserverOpacity</key>
+	<string>taskFacadeInset</string>
+	<key>seamlessSubscriptionTint</key>
+	<string>sessionTypeMargin</string>
+</dict>
+</plist>

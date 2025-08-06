@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryStrategyDepth</key>
+	<string>eventOfBuffer</string>
+	<key>functionalCallbackRate</key>
+	<string>typicalSubscriptionFeedback</string>
+	<key>iconModeTint</key>
+	<string>instructionFromAdapter</string>
+	<key>isolateContextTension</key>
+	<string>offsetViaInterpreter</string>
+	<key>queryContextTransparency</key>
+	<string>positionedPatternRotation</string>
+	<key>responseDespiteVar</key>
+	<string>widgetIncludeMediator</string>
+</dict>
+</plist>

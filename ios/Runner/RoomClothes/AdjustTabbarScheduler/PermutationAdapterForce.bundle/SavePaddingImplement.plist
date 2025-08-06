@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeReducerAcceleration</key>
+	<string>blocAsMemento</string>
+	<key>semanticsLikeStyle</key>
+	<string>anchorPerProxy</string>
+	<key>stackParameterResponse</key>
+	<string>curveBeyondFunction</string>
+</dict>
+</plist>

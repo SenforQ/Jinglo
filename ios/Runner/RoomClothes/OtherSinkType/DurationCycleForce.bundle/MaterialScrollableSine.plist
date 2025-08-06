@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerTaskFlags</key>
+	<string>pageviewStrategyPadding</string>
+	<key>contractionAmongState</key>
+	<string>navigationOfVisitor</string>
+	<key>notificationWithoutLevel</key>
+	<string>typicalAppbarVisibility</string>
+	<key>queueModeMomentum</key>
+	<string>layoutProxyMargin</string>
+	<key>radiusDespiteVar</key>
+	<string>threadProcessValidation</string>
+	<key>relationalAllocatorOpacity</key>
+	<string>customizedMetadataCoord</string>
+	<key>stackPlatformBottom</key>
+	<string>nodeDuringType</string>
+	<key>statelessAroundTier</key>
+	<string>mobxProxyBrightness</string>
+	<key>storeSystemScale</key>
+	<string>columnDuringVariable</string>
+</dict>
+</plist>

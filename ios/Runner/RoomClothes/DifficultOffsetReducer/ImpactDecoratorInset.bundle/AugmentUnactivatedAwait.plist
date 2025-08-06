@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectDuringCycle</key>
+	<string>injectionSinceComposite</string>
+	<key>basicInstructionEdge</key>
+	<string>singleToolVelocity</string>
+	<key>brushProxyTag</key>
+	<string>integerDecoratorFormat</string>
+	<key>equalizationOperationBottom</key>
+	<string>instructionLayerBottom</string>
+	<key>globalHistogramBound</key>
+	<string>taskOutsidePattern</string>
+	<key>playbackFrameworkSkewy</key>
+	<string>functionalGraphicSpeed</string>
+	<key>repositoryJobCoord</key>
+	<string>diffableOffsetDirection</string>
+	<key>tweenProcessPadding</key>
+	<string>dropdownbuttonPrototypeSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectFacadeFlags</key>
+	<string>parallelPresenterInterval</string>
+	<key>delegateVersusSingleton</key>
+	<string>composableSessionInterval</string>
+	<key>heroWorkSkewx</key>
+	<string>commonClipperPadding</string>
+	<key>normBesideDecorator</key>
+	<string>explicitTaskBehavior</string>
+	<key>richtextLikeComposite</key>
+	<string>subsequentUsecaseOrientation</string>
+	<key>secondResourceHue</key>
+	<string>uniqueUnaryOpacity</string>
+	<key>secondSlashName</key>
+	<string>apertureAboutParam</string>
+	<key>webLossOrigin</key>
+	<string>mobileCycleIndex</string>
+	<key>zoneByParam</key>
+	<string>rapidRadiusLocation</string>
+</dict>
+</plist>

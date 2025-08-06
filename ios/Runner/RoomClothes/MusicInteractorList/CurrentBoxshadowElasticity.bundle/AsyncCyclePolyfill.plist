@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDuringTemple</key>
+	<string>curveContextHead</string>
+	<key>awaitBufferInteraction</key>
+	<string>isolateAgainstTemple</string>
+	<key>directAsyncValidation</key>
+	<string>chartAtCommand</string>
+	<key>lostWidgetOpacity</key>
+	<string>discardedHandlerLeft</string>
+	<key>queueFrameworkDistance</key>
+	<string>lastTextRate</string>
+	<key>queueObserverInset</key>
+	<string>gradientFormInset</string>
+	<key>resizableConfigurationValidation</key>
+	<string>isolateCycleBottom</string>
+	<key>scrollableLayoutSpeed</key>
+	<string>utilSingletonDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerWithFacade</key>
+	<string>widgetObserverBrightness</string>
+	<key>previewParameterType</key>
+	<string>coordinatorLevelMode</string>
+	<key>responseScopeTint</key>
+	<string>materialDescriptorSkewy</string>
+	<key>storeFrameworkShade</key>
+	<string>storeBufferSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChartVisibility</key>
+	<string>sustainableScaleTransparency</string>
+	<key>gramCycleVisibility</key>
+	<string>prevDropdownbuttonEdge</string>
+	<key>inheritedTopicInteraction</key>
+	<string>capsuleNearVar</string>
+	<key>semanticRowDepth</key>
+	<string>effectAtAdapter</string>
+	<key>subtleSignInset</key>
+	<string>mainProjectionLeft</string>
+	<key>textProxyTransparency</key>
+	<string>workflowTypeInset</string>
+</dict>
+</plist>

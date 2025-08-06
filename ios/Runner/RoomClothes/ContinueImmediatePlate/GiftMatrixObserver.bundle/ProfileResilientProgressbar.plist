@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedCubitCoord</key>
+	<string>stampIncludeType</string>
+	<key>featureBesideContext</key>
+	<string>subscriptionPerComposite</string>
+	<key>fixedTimerOrientation</key>
+	<string>graphPatternTop</string>
+	<key>modulusPerAdapter</key>
+	<string>stateInterpreterFrequency</string>
+	<key>observerScopeOrigin</key>
+	<string>sustainableScaleDistance</string>
+	<key>subpixelAndValue</key>
+	<string>futureSingletonInteraction</string>
+	<key>usecaseStructureColor</key>
+	<string>otherViewName</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableRoleFlags</key>
+	<string>accessoryOfWork</string>
+	<key>discardedNodeOrientation</key>
+	<string>localizationAlongProxy</string>
+	<key>entropyIncludeStyle</key>
+	<string>buttonForTask</string>
+	<key>interactiveTimerInteraction</key>
+	<string>delegateStateRight</string>
+	<key>localExtensionFeedback</key>
+	<string>listenerOfWork</string>
+	<key>memberAsFramework</key>
+	<string>topicVersusFlyweight</string>
+	<key>providerUntilShape</key>
+	<string>spotEnvironmentInteraction</string>
+	<key>visibleControllerInset</key>
+	<string>eagerUsageVelocity</string>
+</dict>
+</plist>

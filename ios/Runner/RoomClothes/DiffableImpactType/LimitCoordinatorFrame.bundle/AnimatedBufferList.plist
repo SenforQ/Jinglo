@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAroundProcess</key>
+	<string>singletonByCommand</string>
+	<key>buttonKindBound</key>
+	<string>accordionUsageTag</string>
+	<key>curveTypeSpeed</key>
+	<string>storeIncludeComposite</string>
+	<key>errorNearProxy</key>
+	<string>grayscaleVariableHue</string>
+	<key>mediumPositionTint</key>
+	<string>stateThroughWork</string>
+	<key>optimizerIncludeTemple</key>
+	<string>radioJobAppearance</string>
+	<key>progressbarAroundFacade</key>
+	<string>transitionWithProxy</string>
+	<key>semanticRouterTag</key>
+	<string>segueLayerPressure</string>
+	<key>sequentialFutureInteraction</key>
+	<string>discardedMissionTransparency</string>
+</dict>
+</plist>

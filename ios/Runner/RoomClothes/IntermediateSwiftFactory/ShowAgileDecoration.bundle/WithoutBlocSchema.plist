@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonThanEnvironment</key>
+	<string>logStateName</string>
+	<key>finalCacheBehavior</key>
+	<string>activeIntensityBrightness</string>
+	<key>fixedEffectContrast</key>
+	<string>typicalContainerBrightness</string>
+	<key>labelAwayVariable</key>
+	<string>reducerFlyweightAcceleration</string>
+	<key>lastMasterSaturation</key>
+	<string>localIconSaturation</string>
+	<key>projectionAtVariable</key>
+	<string>buttonAdapterName</string>
+	<key>reducerSingletonOpacity</key>
+	<string>hyperbolicZoneVisibility</string>
+</dict>
+</plist>

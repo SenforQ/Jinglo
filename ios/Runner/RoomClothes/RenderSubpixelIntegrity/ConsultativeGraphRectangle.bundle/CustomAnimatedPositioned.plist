@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorCommandVisible</key>
+	<string>disabledSpriteHead</string>
+	<key>baseJobBottom</key>
+	<string>functionalBaselineDistance</string>
+	<key>baselinePerVariable</key>
+	<string>extensionBridgeRotation</string>
+	<key>containerNearVariable</key>
+	<string>nativeResultTail</string>
+	<key>gesturedetectorWithoutForm</key>
+	<string>standaloneCallbackTransparency</string>
+	<key>loopViaLevel</key>
+	<string>localChannelsIndex</string>
+	<key>previewFromParam</key>
+	<string>modalAdapterSkewx</string>
+	<key>singletonPatternTint</key>
+	<string>queueBridgeRate</string>
+</dict>
+</plist>

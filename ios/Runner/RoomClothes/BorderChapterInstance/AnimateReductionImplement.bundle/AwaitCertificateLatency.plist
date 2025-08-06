@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalIntensitySpacing</key>
+	<string>spriteThroughActivity</string>
+	<key>cycleWorkTop</key>
+	<string>workflowStagePosition</string>
+	<key>immediateResponseVelocity</key>
+	<string>spriteCompositeMode</string>
+	<key>normalStateState</key>
+	<string>consumerAgainstStructure</string>
+	<key>statefulDespiteStage</key>
+	<string>directStackMargin</string>
+</dict>
+</plist>

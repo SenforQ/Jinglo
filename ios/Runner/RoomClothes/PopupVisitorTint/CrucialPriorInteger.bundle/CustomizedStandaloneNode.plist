@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncViaParameter</key>
+	<string>associatedPlaybackLocation</string>
+	<key>currentTitleIndex</key>
+	<string>featureStateTail</string>
+	<key>publicTaskOpacity</key>
+	<string>titleFrameworkName</string>
+	<key>resourceBufferAcceleration</key>
+	<string>observerUntilJob</string>
+</dict>
+</plist>

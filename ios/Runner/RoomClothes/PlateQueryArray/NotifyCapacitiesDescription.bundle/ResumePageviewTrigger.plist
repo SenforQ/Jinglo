@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGemSkewx</key>
+	<string>catalystIncludePattern</string>
+	<key>autoGrainTheme</key>
+	<string>inkwellMementoVisibility</string>
+	<key>bulletMethodVisible</key>
+	<string>sineTypeVelocity</string>
+	<key>handlerAndComposite</key>
+	<string>asyncTextureTransparency</string>
+	<key>queryFacadeDelay</key>
+	<string>textureStateName</string>
+	<key>rectPrototypeOffset</key>
+	<string>handlerAndState</string>
+	<key>storeInsidePhase</key>
+	<string>logarithmContainPattern</string>
+</dict>
+</plist>

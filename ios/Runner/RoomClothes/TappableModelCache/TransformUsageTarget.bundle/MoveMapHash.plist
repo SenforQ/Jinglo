@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChecklistPressure</key>
+	<string>injectionWithAction</string>
+	<key>awaitFromEnvironment</key>
+	<string>fusedCallbackBehavior</string>
+	<key>cupertinoTitleFeedback</key>
+	<string>bufferValueInterval</string>
+	<key>imperativeChecklistFeedback</key>
+	<string>flexibleCommandMomentum</string>
+	<key>uniqueMenuPadding</key>
+	<string>builderPhaseCoord</string>
+</dict>
+</plist>

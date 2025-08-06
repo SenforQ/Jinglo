@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationViaPrototype</key>
+	<string>coordinatorAroundStyle</string>
+	<key>handlerScopeTransparency</key>
+	<string>masterOrLevel</string>
+	<key>positionedStageHead</key>
+	<string>statelessTaskFrequency</string>
+	<key>prismaticProgressbarStatus</key>
+	<string>equalizationBesideDecorator</string>
+	<key>sizedboxPatternOffset</key>
+	<string>timerUntilOperation</string>
+</dict>
+</plist>

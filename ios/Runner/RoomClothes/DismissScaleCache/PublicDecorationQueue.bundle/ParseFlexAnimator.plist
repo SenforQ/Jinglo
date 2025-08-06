@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseAdapterShade</key>
+	<string>builderParamStyle</string>
+	<key>checkboxContextContrast</key>
+	<string>topicOutsideFlyweight</string>
+	<key>completionAboutInterpreter</key>
+	<string>completionViaFunction</string>
+	<key>delegateDuringProxy</key>
+	<string>optionOutsideComposite</string>
+	<key>exceptionContainInterpreter</key>
+	<string>bulletInterpreterShape</string>
+	<key>gemUntilAction</key>
+	<string>petCompositeAppearance</string>
+	<key>normalStatefulState</key>
+	<string>composableResponseValidation</string>
+	<key>protocolFormLocation</key>
+	<string>paddingCompositePadding</string>
+	<key>roleFrameworkColor</key>
+	<string>nativeChannelsAppearance</string>
+	<key>sustainableUsecaseCenter</key>
+	<string>symmetricQueryMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardContainerShape</key>
+	<string>uniqueGrainCenter</string>
+	<key>concurrentClipperAlignment</key>
+	<string>blocWithoutKind</string>
+	<key>crudeHashColor</key>
+	<string>utilCommandFlags</string>
+	<key>denseTechniqueAlignment</key>
+	<string>basicPageviewDelay</string>
+	<key>futurePlatformSkewy</key>
+	<string>persistentSizeSaturation</string>
+	<key>liteHeapPosition</key>
+	<string>callbackAsBuffer</string>
+	<key>observerMediatorColor</key>
+	<string>independentAnchorType</string>
+	<key>paddingDecoratorTail</key>
+	<string>cycleChainDepth</string>
+	<key>storageFromFunction</key>
+	<string>singletonOutsideScope</string>
+	<key>tabviewModePressure</key>
+	<string>dynamicBufferPadding</string>
+</dict>
+</plist>

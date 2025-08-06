@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInterpreterFeedback</key>
+	<string>currentSizeName</string>
+	<key>geometricExceptionResponse</key>
+	<string>bufferContainChain</string>
+	<key>inactiveExceptionVisibility</key>
+	<string>rectFormFlags</string>
+	<key>resolverAgainstAction</key>
+	<string>constraintPerContext</string>
+	<key>resourceIncludeForm</key>
+	<string>progressbarOutsideSingleton</string>
+	<key>semanticDurationStyle</key>
+	<string>navigatorTaskStatus</string>
+	<key>tweenLikeMediator</key>
+	<string>collectionMethodVelocity</string>
+	<key>usecaseNumberBottom</key>
+	<string>precisionUntilShape</string>
+</dict>
+</plist>

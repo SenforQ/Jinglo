@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGraphContrast</key>
+	<string>vectorAndShape</string>
+	<key>iterativeContractionVisibility</key>
+	<string>enabledTaskTint</string>
+	<key>labelCycleMargin</key>
+	<string>masterPatternDistance</string>
+	<key>mediaIncludeStructure</key>
+	<string>delegateEnvironmentFrequency</string>
+	<key>rectByCommand</key>
+	<string>lazyFrameScale</string>
+	<key>serviceCommandInterval</key>
+	<string>asyncTimerRate</string>
+</dict>
+</plist>

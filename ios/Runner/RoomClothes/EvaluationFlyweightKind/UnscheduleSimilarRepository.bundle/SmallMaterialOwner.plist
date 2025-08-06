@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInterpreterBrightness</key>
+	<string>transitionPlatformTransparency</string>
+	<key>channelsTypeOrientation</key>
+	<string>asyncNumberOpacity</string>
+	<key>curveAboutKind</key>
+	<string>cubitChainState</string>
+	<key>deferredCaptionOpacity</key>
+	<string>promiseAgainstPlatform</string>
+	<key>descriptionParamTop</key>
+	<string>particleCompositeValidation</string>
+	<key>eagerMusicHue</key>
+	<string>streamPrototypeKind</string>
+	<key>flexibleCommandLeft</key>
+	<string>publicReducerKind</string>
+	<key>prevReducerBottom</key>
+	<string>publicInteractorType</string>
+	<key>singleServiceSkewx</key>
+	<string>ignoredCupertinoBehavior</string>
+</dict>
+</plist>

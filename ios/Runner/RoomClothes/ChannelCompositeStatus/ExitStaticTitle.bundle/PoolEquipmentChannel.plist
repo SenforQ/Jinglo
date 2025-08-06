@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOutsideAction</key>
+	<string>textAroundVar</string>
+	<key>awaitAlongMethod</key>
+	<string>batchAtPattern</string>
+	<key>bufferStyleSkewx</key>
+	<string>localizationThanMode</string>
+	<key>dependencyDecoratorPadding</key>
+	<string>numericalSignCoord</string>
+	<key>mainFrameDistance</key>
+	<string>vectorModeName</string>
+	<key>providerCommandTint</key>
+	<string>sliderViaTier</string>
+	<key>referenceAgainstOperation</key>
+	<string>layoutParamMargin</string>
+	<key>retainedServiceStatus</key>
+	<string>staticTableScale</string>
+	<key>unsortedSineRate</key>
+	<string>cubitAdapterDuration</string>
+</dict>
+</plist>

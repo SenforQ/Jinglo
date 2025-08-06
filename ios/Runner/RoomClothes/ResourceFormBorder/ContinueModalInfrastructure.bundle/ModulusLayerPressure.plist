@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedExpandedTransparency</key>
+	<string>dialogsForPattern</string>
+	<key>dedicatedTitleSkewy</key>
+	<string>composableButtonResponse</string>
+	<key>exceptionPhaseTransparency</key>
+	<string>nodeStructureDepth</string>
+	<key>iconVariableFlags</key>
+	<string>consumerInStage</string>
+	<key>mediaqueryStyleFeedback</key>
+	<string>protectedRequestSpeed</string>
+	<key>notificationValueSpeed</key>
+	<string>offsetInterpreterSaturation</string>
+</dict>
+</plist>

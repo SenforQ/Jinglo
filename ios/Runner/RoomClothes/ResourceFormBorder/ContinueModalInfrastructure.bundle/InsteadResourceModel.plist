@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableSingletonLocation</key>
+	<string>adaptiveResourceTheme</string>
+	<key>spriteMementoLeft</key>
+	<string>loopAtPhase</string>
+	<key>stateBesideLayer</key>
+	<string>functionalGrainDelay</string>
+	<key>unactivatedQueryDuration</key>
+	<string>respectiveResolverMomentum</string>
+</dict>
+</plist>

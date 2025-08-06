@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTextfieldDepth</key>
+	<string>activeTweenIndex</string>
+	<key>bufferLayerDepth</key>
+	<string>basePatternOffset</string>
+	<key>dependencyContainPlatform</key>
+	<string>scrollableAssetBound</string>
+	<key>exceptionVarAcceleration</key>
+	<string>errorCycleResponse</string>
+	<key>gramWithoutLevel</key>
+	<string>granularSinkDirection</string>
+	<key>ignoredGraphRotation</key>
+	<string>skinLikeVisitor</string>
+	<key>providerForStructure</key>
+	<string>mediumBuilderValidation</string>
+	<key>stampOperationMargin</key>
+	<string>materialVisitorMode</string>
+	<key>transitionAgainstScope</key>
+	<string>builderObserverEdge</string>
+</dict>
+</plist>

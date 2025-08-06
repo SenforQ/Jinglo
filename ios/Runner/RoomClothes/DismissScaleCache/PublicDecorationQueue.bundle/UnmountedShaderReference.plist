@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSubscriptionRight</key>
+	<string>hierarchicalEntityInteraction</string>
+	<key>cardOrCycle</key>
+	<string>axisProcessSpacing</string>
+	<key>consumerVisitorShape</key>
+	<string>methodAwayStyle</string>
+	<key>cosinePatternMode</key>
+	<string>cycleLayerTag</string>
+	<key>parallelResourceFrequency</key>
+	<string>flexibleThreadTag</string>
+	<key>segueThroughAction</key>
+	<string>gridOrParam</string>
+</dict>
+</plist>

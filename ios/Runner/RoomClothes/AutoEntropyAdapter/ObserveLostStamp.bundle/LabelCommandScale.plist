@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRadiusStyle</key>
+	<string>popupBesideComposite</string>
+	<key>localConstraintRate</key>
+	<string>factoryVisitorBorder</string>
+	<key>tappableOffsetColor</key>
+	<string>equalizationFlyweightDelay</string>
+</dict>
+</plist>

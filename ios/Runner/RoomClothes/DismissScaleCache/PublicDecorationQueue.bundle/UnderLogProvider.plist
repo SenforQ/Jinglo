@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPlaybackInteraction</key>
+	<string>alertByActivity</string>
+	<key>baselinePhaseMomentum</key>
+	<string>marginAroundStage</string>
+	<key>getxNearEnvironment</key>
+	<string>exceptionModePadding</string>
+	<key>imperativeHandlerSize</key>
+	<string>completerVisitorDelay</string>
+	<key>queryFlyweightHue</key>
+	<string>disparateTitleBrightness</string>
+	<key>symmetricSpineInset</key>
+	<string>transformerValueAppearance</string>
+</dict>
+</plist>

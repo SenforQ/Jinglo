@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAboutProcess</key>
+	<string>observerStageTransparency</string>
+	<key>independentAnimationInteraction</key>
+	<string>taskProxySpacing</string>
+	<key>masterDuringPhase</key>
+	<string>priorResponseOpacity</string>
+	<key>presenterFrameworkMode</key>
+	<string>modelLikeInterpreter</string>
+	<key>routeUntilMode</key>
+	<string>custompaintAlongSingleton</string>
+	<key>seguePrototypeVisible</key>
+	<string>builderViaMethod</string>
+</dict>
+</plist>

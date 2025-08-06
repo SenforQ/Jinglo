@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentOffsetEdge</key>
+	<string>significantCompositionMode</string>
+	<key>grainObserverKind</key>
+	<string>pinchableGesturedetectorTint</string>
+	<key>secondSpriteMode</key>
+	<string>channelsFormTransparency</string>
+	<key>transitionObserverDuration</key>
+	<string>textTaskTail</string>
+</dict>
+</plist>

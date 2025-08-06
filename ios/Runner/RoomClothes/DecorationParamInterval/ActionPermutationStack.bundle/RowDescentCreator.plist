@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocThroughMode</key>
+	<string>heroOrFlyweight</string>
+	<key>displayableFrameRight</key>
+	<string>queueByStyle</string>
+	<key>firstAccessoryRate</key>
+	<string>gateAtScope</string>
+	<key>parallelSpineLocation</key>
+	<string>gestureOrBridge</string>
+	<key>workflowUntilValue</key>
+	<string>responseStateBound</string>
+</dict>
+</plist>

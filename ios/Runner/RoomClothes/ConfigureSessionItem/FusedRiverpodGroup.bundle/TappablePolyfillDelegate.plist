@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSegueFormat</key>
+	<string>usageForPlatform</string>
+	<key>compositionalSwitchVisible</key>
+	<string>displayableDecorationHue</string>
+	<key>configurationCompositeState</key>
+	<string>buttonEnvironmentState</string>
+	<key>hashAboutParam</key>
+	<string>futureMethodShade</string>
+	<key>stateAlongProcess</key>
+	<string>delegatePatternLocation</string>
+</dict>
+</plist>

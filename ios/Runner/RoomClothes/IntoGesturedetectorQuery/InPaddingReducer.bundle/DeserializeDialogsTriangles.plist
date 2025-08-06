@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeAndCommand</key>
+	<string>textureFacadeDirection</string>
+	<key>interactorAsJob</key>
+	<string>swiftOutsideBuffer</string>
+	<key>protectedSingletonShade</key>
+	<string>containerFrameworkState</string>
+	<key>segueAtPrototype</key>
+	<string>normOrTask</string>
+	<key>subtleSpriteSize</key>
+	<string>widgetCommandMode</string>
+</dict>
+</plist>

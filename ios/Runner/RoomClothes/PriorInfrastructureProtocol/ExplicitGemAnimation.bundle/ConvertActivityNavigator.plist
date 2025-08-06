@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelExceptTemple</key>
+	<string>serviceByPrototype</string>
+	<key>interfaceLevelInteraction</key>
+	<string>cardWorkCoord</string>
+	<key>masterInsideObserver</key>
+	<string>characterInState</string>
+	<key>modelAroundVariable</key>
+	<string>mobileWorkVisibility</string>
+	<key>momentumTypeOffset</key>
+	<string>tweenShapeHead</string>
+	<key>progressbarStructureAppearance</key>
+	<string>consultativeHashShade</string>
+</dict>
+</plist>

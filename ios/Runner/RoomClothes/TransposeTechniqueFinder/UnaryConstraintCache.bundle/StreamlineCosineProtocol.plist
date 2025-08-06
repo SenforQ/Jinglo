@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonVisitorDirection</key>
+	<string>gestureWithStage</string>
+	<key>configurationOutsideKind</key>
+	<string>navigatorProcessMomentum</string>
+	<key>heroPhaseMargin</key>
+	<string>resourceThroughVar</string>
+	<key>layoutWithMediator</key>
+	<string>cubitOrFacade</string>
+	<key>mutableMetadataIndex</key>
+	<string>providerVarBound</string>
+	<key>overlayNearFunction</key>
+	<string>interactorParamShade</string>
+	<key>statelessEffectPressure</key>
+	<string>configurationTypeAcceleration</string>
+</dict>
+</plist>

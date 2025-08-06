@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInkwellAlignment</key>
+	<string>dedicatedUnaryMargin</string>
+	<key>handlerCommandDepth</key>
+	<string>callbackOrContext</string>
+	<key>mediaAroundParam</key>
+	<string>interactorPhaseState</string>
+	<key>permissiveSineSize</key>
+	<string>textForWork</string>
+	<key>taskForParameter</key>
+	<string>assetActivitySpacing</string>
+</dict>
+</plist>

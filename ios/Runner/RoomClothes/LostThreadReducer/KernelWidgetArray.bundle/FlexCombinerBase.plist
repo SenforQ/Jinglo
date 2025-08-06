@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDuringComposite</key>
+	<string>advancedNavigationTransparency</string>
+	<key>delegateAroundPattern</key>
+	<string>robustRadiusValidation</string>
+	<key>hashAgainstComposite</key>
+	<string>coordinatorContainAction</string>
+	<key>mobxCommandBrightness</key>
+	<string>repositoryAroundFacade</string>
+	<key>newestArithmeticAlignment</key>
+	<string>permanentExceptionSize</string>
+	<key>retainedFutureVisible</key>
+	<string>unsortedCoordinatorVelocity</string>
+	<key>routeProxyVisibility</key>
+	<string>masterNumberSkewy</string>
+	<key>specifyChecklistCount</key>
+	<string>loopAboutChain</string>
+	<key>specifyStatelessDirection</key>
+	<string>backwardSpotOrigin</string>
+	<key>temporaryMovementPosition</key>
+	<string>tickerLevelFlags</string>
+</dict>
+</plist>

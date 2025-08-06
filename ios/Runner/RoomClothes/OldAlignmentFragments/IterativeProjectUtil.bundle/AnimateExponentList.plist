@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVarOrientation</key>
+	<string>reusableProjectRight</string>
+	<key>contractionLayerBound</key>
+	<string>directTransitionDensity</string>
+	<key>cubitWithoutType</key>
+	<string>rapidOffsetMargin</string>
+	<key>displayableTransformerSaturation</key>
+	<string>positionFormType</string>
+	<key>frameLikeMethod</key>
+	<string>clipperInsideScope</string>
+	<key>oldOverlayType</key>
+	<string>euclideanOverlayFrequency</string>
+	<key>permissiveTouchTag</key>
+	<string>crucialTabbarLocation</string>
+</dict>
+</plist>

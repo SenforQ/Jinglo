@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAllocatorPressure</key>
+	<string>instructionAdapterInterval</string>
+	<key>cartesianSubpixelShape</key>
+	<string>easyBehaviorShade</string>
+	<key>denseHistogramSkewx</key>
+	<string>currentSessionDelay</string>
+	<key>desktopBufferCenter</key>
+	<string>temporaryAsyncTag</string>
+	<key>listenerChainIndex</key>
+	<string>requestStateBorder</string>
+	<key>popupAndWork</key>
+	<string>featureByValue</string>
+	<key>previewWithoutJob</key>
+	<string>constSpotMode</string>
+	<key>unactivatedBlocEdge</key>
+	<string>oldFeatureCoord</string>
+	<key>uniqueNavigatorEdge</key>
+	<string>notificationFromContext</string>
+</dict>
+</plist>

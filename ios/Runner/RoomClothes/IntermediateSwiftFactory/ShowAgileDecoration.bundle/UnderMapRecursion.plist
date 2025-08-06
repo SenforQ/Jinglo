@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonContextLeft</key>
+	<string>parallelTaskPadding</string>
+	<key>entityWorkPadding</key>
+	<string>monsterWithActivity</string>
+	<key>observerAtBuffer</key>
+	<string>specifyTouchRotation</string>
+	<key>providerSingletonTheme</key>
+	<string>semanticsNearPhase</string>
+	<key>shaderMementoAcceleration</key>
+	<string>otherPresenterCoord</string>
+</dict>
+</plist>

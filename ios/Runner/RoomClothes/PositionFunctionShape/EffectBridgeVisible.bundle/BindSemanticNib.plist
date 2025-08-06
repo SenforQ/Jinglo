@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackIncludeOperation</key>
+	<string>blocCommandTint</string>
+	<key>channelsOutsideParam</key>
+	<string>inactiveBehaviorFeedback</string>
+	<key>effectWorkOrigin</key>
+	<string>ternaryAwayFacade</string>
+	<key>flexibleVectorInset</key>
+	<string>composableEquipmentBehavior</string>
+	<key>granularGiftShape</key>
+	<string>exceptionAtPhase</string>
+	<key>labelAroundPrototype</key>
+	<string>inkwellFromVariable</string>
+	<key>mobileKernelIndex</key>
+	<string>descriptionAlongPrototype</string>
+	<key>rowContextSkewy</key>
+	<string>normalAppbarHue</string>
+	<key>usecaseFrameworkSaturation</key>
+	<string>sustainableSignatureAcceleration</string>
+</dict>
+</plist>

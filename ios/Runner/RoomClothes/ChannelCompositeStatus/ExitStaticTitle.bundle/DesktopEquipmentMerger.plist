@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsForStructure</key>
+	<string>unsortedScaffoldCount</string>
+	<key>characterPhaseBehavior</key>
+	<string>gateSinceMediator</string>
+	<key>collectionFormPosition</key>
+	<string>localUsecaseAlignment</string>
+	<key>desktopContainerVisible</key>
+	<string>alphaVariableDepth</string>
+	<key>listenerStrategyName</key>
+	<string>responseBeyondOperation</string>
+	<key>secondArithmeticAlignment</key>
+	<string>providerFlyweightDirection</string>
+	<key>tweenStrategySaturation</key>
+	<string>allocatorDecoratorRate</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>managerFacadeInteraction</key>
+	<string>immutableGridviewStatus</string>
+	<key>resourceFrameworkIndex</key>
+	<string>stateWithPlatform</string>
+	<key>storeDespiteContext</key>
+	<string>mediaqueryStageEdge</string>
+	<key>tweenThanLevel</key>
+	<string>requiredCallbackName</string>
+</dict>
+</plist>

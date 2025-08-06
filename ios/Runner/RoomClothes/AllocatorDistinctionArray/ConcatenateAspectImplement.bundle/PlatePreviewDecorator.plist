@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAboutType</key>
+	<string>consultativeLossTheme</string>
+	<key>featureCompositeFeedback</key>
+	<string>providerBridgeAlignment</string>
+	<key>matrixEnvironmentStyle</key>
+	<string>completerAboutStage</string>
+	<key>mediumReductionSkewx</key>
+	<string>exceptionParameterPadding</string>
+	<key>zoneAndBridge</key>
+	<string>blocBesideContext</string>
+</dict>
+</plist>

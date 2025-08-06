@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardPhaseFrequency</key>
+	<string>observerFlyweightLocation</string>
+	<key>cycleVarShape</key>
+	<string>observerInsideLevel</string>
+	<key>fusedInjectionOrientation</key>
+	<string>sampleBridgeResponse</string>
+	<key>hardCommandFrequency</key>
+	<string>variantTaskFlags</string>
+	<key>momentumIncludeLevel</key>
+	<string>interactorCycleForce</string>
+	<key>requestLikeWork</key>
+	<string>managerMementoFrequency</string>
+	<key>ternaryDuringStructure</key>
+	<string>factoryTaskForce</string>
+	<key>titleFrameworkCount</key>
+	<string>statelessRowCoord</string>
+</dict>
+</plist>

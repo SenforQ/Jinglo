@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVarPadding</key>
+	<string>modulusWithObserver</string>
+	<key>bulletNearProcess</key>
+	<string>localTweenPressure</string>
+	<key>buttonBeyondStrategy</key>
+	<string>containerDecoratorDistance</string>
+	<key>callbackBridgeTint</key>
+	<string>navigationLikeMethod</string>
+	<key>promiseOutsideBuffer</key>
+	<string>retainedPreviewPosition</string>
+	<key>responseAroundProcess</key>
+	<string>temporaryNavigatorIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationParamVisible</key>
+	<string>switchAsLevel</string>
+	<key>observerFormShade</key>
+	<string>chapterKindIndex</string>
+	<key>usecaseAtComposite</key>
+	<string>sortedActionDistance</string>
+</dict>
+</plist>

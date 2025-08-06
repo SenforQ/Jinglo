@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFormFrequency</key>
+	<string>crudeApertureSaturation</string>
+	<key>binaryByStrategy</key>
+	<string>sensorBeyondScope</string>
+	<key>errorLevelCount</key>
+	<string>compositionCompositeScale</string>
+	<key>heapOfInterpreter</key>
+	<string>concurrentSymbolBehavior</string>
+	<key>positionWithCommand</key>
+	<string>skinShapeHue</string>
+	<key>priorToolRate</key>
+	<string>appbarForInterpreter</string>
+	<key>storageShapeTail</key>
+	<string>entropyForPhase</string>
+	<key>textureCycleMargin</key>
+	<string>spinePerLayer</string>
+</dict>
+</plist>

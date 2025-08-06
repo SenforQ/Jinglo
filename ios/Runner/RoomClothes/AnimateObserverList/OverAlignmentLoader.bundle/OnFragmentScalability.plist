@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledTouchOrientation</key>
+	<string>aspectParamDuration</string>
+	<key>independentCustompaintTheme</key>
+	<string>callbackPlatformBehavior</string>
+	<key>momentumAboutKind</key>
+	<string>keyCellFlags</string>
+	<key>priorProjectDistance</key>
+	<string>indicatorInsideStrategy</string>
+	<key>progressbarBesideKind</key>
+	<string>lostResponseBound</string>
+	<key>reactiveResultVelocity</key>
+	<string>binaryOutsideLayer</string>
+	<key>textureLevelVelocity</key>
+	<string>serviceAlongFacade</string>
+</dict>
+</plist>

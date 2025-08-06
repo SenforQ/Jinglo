@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTaskInset</key>
+	<string>resultModeDelay</string>
+	<key>iconVisitorDirection</key>
+	<string>symmetricCompositionBorder</string>
+	<key>independentMonsterFeedback</key>
+	<string>explicitProviderVisible</string>
+	<key>interactiveCatalystFlags</key>
+	<string>sliderOfFlyweight</string>
+	<key>pinchableExtensionFeedback</key>
+	<string>reactiveMobxPressure</string>
+	<key>playbackStyleDensity</key>
+	<string>scaffoldUntilProxy</string>
+	<key>sophisticatedVariantFrequency</key>
+	<string>rapidAlertState</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOfScope</key>
+	<string>layerPerShape</string>
+	<key>eagerChartForce</key>
+	<string>routeInSingleton</string>
+	<key>kernelNumberFormat</key>
+	<string>significantRowOpacity</string>
+	<key>layerEnvironmentMomentum</key>
+	<string>customMomentumVelocity</string>
+	<key>smallTweenMode</key>
+	<string>segueWithoutVariable</string>
+</dict>
+</plist>

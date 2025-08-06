@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRectMargin</key>
+	<string>statefulAnimationDepth</string>
+	<key>dependencyProcessShade</key>
+	<string>groupFrameworkInset</string>
+	<key>geometricRemainderVelocity</key>
+	<string>resilientMatrixInterval</string>
+	<key>localizationVarBrightness</key>
+	<string>richtextIncludeShape</string>
+	<key>optimizerOperationContrast</key>
+	<string>interactiveFrameRotation</string>
+</dict>
+</plist>

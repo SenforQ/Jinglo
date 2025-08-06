@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialEventValidation</key>
+	<string>layerContextName</string>
+	<key>gradientShapeSpeed</key>
+	<string>currentMatrixIndex</string>
+	<key>hierarchicalVariantCoord</key>
+	<string>spriteProxyTension</string>
+	<key>multiplicationFrameworkFeedback</key>
+	<string>unaryViaStrategy</string>
+	<key>profileBeyondPhase</key>
+	<string>queuePhaseTransparency</string>
+	<key>rapidThreadOpacity</key>
+	<string>granularInkwellSpeed</string>
+	<key>spriteFlyweightSpacing</key>
+	<string>staticSpecifierDuration</string>
+</dict>
+</plist>

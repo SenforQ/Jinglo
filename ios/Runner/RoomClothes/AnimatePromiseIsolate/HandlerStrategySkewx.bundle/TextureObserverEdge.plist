@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderInObserver</key>
+	<string>baseContextFrequency</string>
+	<key>desktopAlphaHead</key>
+	<string>opaqueSceneTheme</string>
+	<key>largeColumnSpeed</key>
+	<string>entityFlyweightOpacity</string>
+	<key>mutablePointContrast</key>
+	<string>gesturedetectorKindName</string>
+	<key>navigatorOrDecorator</key>
+	<string>projectionIncludeVariable</string>
+	<key>pageviewDuringValue</key>
+	<string>enabledRequestDensity</string>
+	<key>pointInterpreterLocation</key>
+	<string>streamDuringSystem</string>
+	<key>routerWorkAppearance</key>
+	<string>gradientOfObserver</string>
+	<key>zoneAwayPattern</key>
+	<string>scrollableInterfaceDelay</string>
+</dict>
+</plist>

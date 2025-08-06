@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageDuringComposite</key>
+	<string>lostButtonForce</string>
+	<key>labelPhaseBehavior</key>
+	<string>durationAndParameter</string>
+	<key>storyboardOrCycle</key>
+	<string>storyboardAlongJob</string>
+</dict>
+</plist>

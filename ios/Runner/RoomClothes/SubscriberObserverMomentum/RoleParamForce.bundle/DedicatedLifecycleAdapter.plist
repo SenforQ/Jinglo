@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorPrototypeMargin</key>
+	<string>matrixOfType</string>
+	<key>routerAndScope</key>
+	<string>notifierScopeBound</string>
+	<key>sceneMementoPadding</key>
+	<string>transitionAsKind</string>
+	<key>statefulStreamTail</key>
+	<string>diffableCallbackColor</string>
+</dict>
+</plist>

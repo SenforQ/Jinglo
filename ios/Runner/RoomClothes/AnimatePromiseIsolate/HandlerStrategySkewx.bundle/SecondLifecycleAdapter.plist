@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutAndMethod</key>
+	<string>persistentFrameDensity</string>
+	<key>pointIncludeAction</key>
+	<string>animatedcontainerVarPosition</string>
+	<key>presenterNearPhase</key>
+	<string>sampleVisitorCoord</string>
+	<key>responsiveUsecaseTag</key>
+	<string>graphPerMemento</string>
+	<key>spotVariableInterval</key>
+	<string>publicWorkflowOrigin</string>
+	<key>subscriptionWithoutAdapter</key>
+	<string>sceneInJob</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBufferStyle</key>
+	<string>textfieldActionFormat</string>
+	<key>granularRepositoryOpacity</key>
+	<string>ignoredRectFeedback</string>
+	<key>sceneParamTheme</key>
+	<string>compositionalLoopStatus</string>
+	<key>typicalMenuStatus</key>
+	<string>axisNumberDirection</string>
+</dict>
+</plist>

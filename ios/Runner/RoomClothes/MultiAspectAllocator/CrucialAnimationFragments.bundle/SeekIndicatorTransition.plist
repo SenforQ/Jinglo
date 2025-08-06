@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandFrameworkDuration</key>
+	<string>titleAlongChain</string>
+	<key>constraintDecoratorFormat</key>
+	<string>statefulFunctionAlignment</string>
+	<key>declarativeBehaviorVisibility</key>
+	<string>modalOfVar</string>
+	<key>drawerOperationHue</key>
+	<string>swiftPlatformFrequency</string>
+	<key>instructionFromType</key>
+	<string>animationAdapterTag</string>
+	<key>loopMediatorBound</key>
+	<string>builderMediatorTheme</string>
+	<key>mediaqueryAroundMemento</key>
+	<string>cacheProcessFrequency</string>
+	<key>queueBesideFunction</key>
+	<string>statefulViaParameter</string>
+	<key>resolverLikeComposite</key>
+	<string>permissiveDurationCount</string>
+</dict>
+</plist>

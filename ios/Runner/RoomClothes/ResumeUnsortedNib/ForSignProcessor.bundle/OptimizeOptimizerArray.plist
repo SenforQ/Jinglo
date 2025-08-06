@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionOrProcess</key>
+	<string>interactorNearSingleton</string>
+	<key>difficultCustompaintVisibility</key>
+	<string>storeAndFlyweight</string>
+	<key>mainPopupBehavior</key>
+	<string>canvasThanFunction</string>
+	<key>mediumLayoutOffset</key>
+	<string>constGraphShape</string>
+	<key>sharedMatrixShape</key>
+	<string>masterVarVisible</string>
+	<key>topicScopeForce</key>
+	<string>loopTaskAppearance</string>
+	<key>tweenDuringState</key>
+	<string>lastEntityInterval</string>
+</dict>
+</plist>

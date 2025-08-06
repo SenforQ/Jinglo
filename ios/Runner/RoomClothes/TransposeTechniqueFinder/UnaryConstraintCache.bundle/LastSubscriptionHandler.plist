@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeResolverTheme</key>
+	<string>responseByComposite</string>
+	<key>menuContainPrototype</key>
+	<string>memberThanSingleton</string>
+	<key>overlayFromFacade</key>
+	<string>comprehensiveNodeBorder</string>
+	<key>scrollableSineMargin</key>
+	<string>sophisticatedMethodTop</string>
+	<key>webButtonCoord</key>
+	<string>originalCapacitiesHead</string>
+</dict>
+</plist>

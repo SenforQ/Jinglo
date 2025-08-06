@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromScope</key>
+	<string>delegateWithoutShape</string>
+	<key>containerOutsideType</key>
+	<string>protectedDimensionInset</string>
+	<key>intensityMediatorName</key>
+	<string>providerWithoutJob</string>
+	<key>opaquePresenterBound</key>
+	<string>keyQueueBrightness</string>
+	<key>otherPresenterContrast</key>
+	<string>interactorLikeParam</string>
+	<key>prismaticArithmeticFormat</key>
+	<string>staticServiceTheme</string>
+	<key>serviceKindVelocity</key>
+	<string>loopSystemRotation</string>
+	<key>tickerStateSaturation</key>
+	<string>tensorDescriptionLeft</string>
+</dict>
+</plist>

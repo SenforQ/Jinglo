@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateMediatorFlags</key>
+	<string>resourceOutsideWork</string>
+	<key>dependencyAgainstAction</key>
+	<string>boxActivityContrast</string>
+	<key>nibAtInterpreter</key>
+	<string>cardDuringState</string>
+	<key>permanentProjectOrientation</key>
+	<string>iterativeLoopStatus</string>
+	<key>progressbarTaskPressure</key>
+	<string>repositoryUntilTemple</string>
+	<key>reactiveResolverResponse</key>
+	<string>sharedRouterInteraction</string>
+	<key>scenePlatformAppearance</key>
+	<string>arithmeticFutureHue</string>
+	<key>symmetricResourceDelay</key>
+	<string>extensionChainOrigin</string>
+</dict>
+</plist>

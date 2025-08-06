@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionQueueValidation</key>
+	<string>utilForFramework</string>
+	<key>chapterTierName</key>
+	<string>subscriptionOrContext</string>
+	<key>diversifiedPlaybackOrientation</key>
+	<string>themeProcessBorder</string>
+	<key>featureStateLocation</key>
+	<string>protectedDecorationLocation</string>
+	<key>groupAmongForm</key>
+	<string>alertProcessAppearance</string>
+	<key>sharedAxisTail</key>
+	<string>channelsInsideInterpreter</string>
+	<key>widgetContextMargin</key>
+	<string>listenerTempleDistance</string>
+</dict>
+</plist>

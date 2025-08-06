@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationBeyondTier</key>
+	<string>dimensionAboutStage</string>
+	<key>expandedExceptDecorator</key>
+	<string>cubitCycleTag</string>
+	<key>sliderWorkAppearance</key>
+	<string>pivotalBulletBorder</string>
+	<key>substantialProjectDuration</key>
+	<string>statePrototypeInset</string>
+	<key>timerAboutJob</key>
+	<string>bitrateOperationBorder</string>
+</dict>
+</plist>

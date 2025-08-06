@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAnchorType</key>
+	<string>immutableProgressbarSize</string>
+	<key>animatedcontainerAgainstObserver</key>
+	<string>commandAndStyle</string>
+	<key>awaitBesideStrategy</key>
+	<string>numericalBaseTint</string>
+	<key>basicProgressbarRight</key>
+	<string>constUnaryRotation</string>
+	<key>equipmentExceptFramework</key>
+	<string>reducerContainStyle</string>
+	<key>mediaqueryParamKind</key>
+	<string>sampleVariableSpacing</string>
+	<key>scaleFrameworkHead</key>
+	<string>tappablePromiseForce</string>
+	<key>viewCompositeForce</key>
+	<string>currentRoleRight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorUntilSystem</key>
+	<string>localScreenColor</string>
+	<key>customizedConvolutionType</key>
+	<string>builderObserverSkewx</string>
+	<key>descriptionInsideMemento</key>
+	<string>effectFrameworkOpacity</string>
+	<key>fixedLayerCount</key>
+	<string>respectivePointSaturation</string>
+	<key>multiplicationFacadeVisibility</key>
+	<string>allocatorWithoutSystem</string>
+	<key>protectedTitleSpacing</key>
+	<string>spriteOrTier</string>
+	<key>resolverExceptProxy</key>
+	<string>priorityThanScope</string>
+	<key>singletonInStage</key>
+	<string>responseAtObserver</string>
+	<key>tickerDespiteEnvironment</key>
+	<string>inheritedGesturedetectorSize</string>
+</dict>
+</plist>

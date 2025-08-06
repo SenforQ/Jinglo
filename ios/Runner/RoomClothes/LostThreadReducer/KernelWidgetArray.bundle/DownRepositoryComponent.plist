@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchInsidePrototype</key>
+	<string>symmetricListviewContrast</string>
+	<key>containerBeyondChain</key>
+	<string>constraintWithShape</string>
+	<key>deferredRadioHue</key>
+	<string>ephemeralSlashTheme</string>
+	<key>getxDecoratorAcceleration</key>
+	<string>ternaryAndComposite</string>
+	<key>grayscaleNearDecorator</key>
+	<string>radiusMethodSize</string>
+	<key>listviewModeVelocity</key>
+	<string>lostSlashStatus</string>
+	<key>scaleShapeFormat</key>
+	<string>visibleRouteEdge</string>
+	<key>semanticsThroughShape</key>
+	<string>alphaSystemTint</string>
+</dict>
+</plist>

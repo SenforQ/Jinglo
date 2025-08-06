@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocWithFunction</key>
+	<string>arithmeticZoneForce</string>
+	<key>gridAdapterStyle</key>
+	<string>switchThroughProxy</string>
+	<key>listenerAndType</key>
+	<string>resizableGraphTop</string>
+	<key>mobileInStage</key>
+	<string>playbackActionMode</string>
+	<key>radioNearObserver</key>
+	<string>groupFormShape</string>
+	<key>widgetDuringMediator</key>
+	<string>methodWithoutSystem</string>
+</dict>
+</plist>

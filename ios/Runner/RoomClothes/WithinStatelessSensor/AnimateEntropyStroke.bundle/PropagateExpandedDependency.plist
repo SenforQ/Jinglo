@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeIsolateVelocity</key>
+	<string>modelForFramework</string>
+	<key>crudeMobileStatus</key>
+	<string>rowPerKind</string>
+	<key>gridKindVisibility</key>
+	<string>pivotalControllerOffset</string>
+	<key>inactiveRoleFormat</key>
+	<string>particleMethodSize</string>
+	<key>listenerMethodOrigin</key>
+	<string>imagePrototypeDirection</string>
+	<key>requestNumberOrientation</key>
+	<string>columnAlongBuffer</string>
+	<key>standaloneCubitInterval</key>
+	<string>dimensionWithoutBuffer</string>
+</dict>
+</plist>

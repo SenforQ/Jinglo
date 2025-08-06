@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveVersusStage</key>
+	<string>subpixelInsideStage</string>
+	<key>exceptionStyleType</key>
+	<string>controllerProxyBrightness</string>
+	<key>largeInteractorTint</key>
+	<string>interpolationAlongProcess</string>
+	<key>presenterForComposite</key>
+	<string>arithmeticSceneRotation</string>
+	<key>zoneIncludeBuffer</key>
+	<string>denseAppbarTheme</string>
+</dict>
+</plist>

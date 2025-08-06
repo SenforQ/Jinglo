@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleApertureSpeed</key>
+	<string>bulletActionInteraction</string>
+	<key>marginInsideStructure</key>
+	<string>immediateSingletonDuration</string>
+	<key>seamlessInteractorLeft</key>
+	<string>hierarchicalThreadResponse</string>
+	<key>semanticRadiusOrigin</key>
+	<string>publicSwiftBehavior</string>
+	<key>techniqueStageTail</key>
+	<string>layerModeShade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDelegateBound</key>
+	<string>featurePrototypeTag</string>
+	<key>builderFromState</key>
+	<string>multiStreamOpacity</string>
+	<key>effectPerKind</key>
+	<string>easyMasterMode</string>
+	<key>explicitMobileShape</key>
+	<string>hardStateOpacity</string>
+	<key>spotJobColor</key>
+	<string>globalUsageTheme</string>
+	<key>storageFromFacade</key>
+	<string>presenterVariableFlags</string>
+	<key>textureOrActivity</key>
+	<string>secondHistogramHue</string>
+</dict>
+</plist>

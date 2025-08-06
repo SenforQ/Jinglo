@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterOrFlyweight</key>
+	<string>lazyCoordinatorRight</string>
+	<key>expandedMediatorPadding</key>
+	<string>uniformGridTag</string>
+	<key>labelByValue</key>
+	<string>liteConstraintInset</string>
+	<key>requiredSliderLocation</key>
+	<string>managerEnvironmentMode</string>
+	<key>transitionCompositeOpacity</key>
+	<string>responsiveExponentTension</string>
+	<key>unaryAlongStage</key>
+	<string>lazyCubitOrientation</string>
+</dict>
+</plist>

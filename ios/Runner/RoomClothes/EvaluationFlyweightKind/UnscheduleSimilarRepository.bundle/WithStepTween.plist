@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directInkwellTop</key>
+	<string>isolateModeStyle</string>
+	<key>exceptionFromStructure</key>
+	<string>pageviewAgainstVar</string>
+	<key>ignoredIndicatorContrast</key>
+	<string>subtleArithmeticVisible</string>
+	<key>lossOutsideNumber</key>
+	<string>skirtInterpreterVisibility</string>
+	<key>priorTabviewOffset</key>
+	<string>labelObserverBorder</string>
+	<key>requiredFuturePressure</key>
+	<string>utilStyleDelay</string>
+	<key>resourceMementoScale</key>
+	<string>relationalMethodDelay</string>
+	<key>scrollableCubitCoord</key>
+	<string>navigationOfKind</string>
+</dict>
+</plist>

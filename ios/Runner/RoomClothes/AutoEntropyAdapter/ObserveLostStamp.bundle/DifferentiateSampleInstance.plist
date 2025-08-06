@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOutsideMediator</key>
+	<string>mapMementoBound</string>
+	<key>constSubscriptionOffset</key>
+	<string>globalLayoutPosition</string>
+	<key>dynamicSignaturePosition</key>
+	<string>globalSubpixelBottom</string>
+	<key>gateStyleBrightness</key>
+	<string>buttonStyleHead</string>
+	<key>interpolationOperationFormat</key>
+	<string>explicitSizeMomentum</string>
+	<key>promisePlatformForce</key>
+	<string>masterAwayLevel</string>
+	<key>scrollableNavigatorInterval</key>
+	<string>standaloneSinkFrequency</string>
+	<key>widgetPerStructure</key>
+	<string>smartRadioSkewx</string>
+</dict>
+</plist>

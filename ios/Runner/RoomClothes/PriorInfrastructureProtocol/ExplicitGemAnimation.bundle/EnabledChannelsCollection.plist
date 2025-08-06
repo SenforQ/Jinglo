@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalEffectBehavior</key>
+	<string>stampLayerDirection</string>
+	<key>declarativeStoreDensity</key>
+	<string>difficultButtonCount</string>
+	<key>listviewModePosition</key>
+	<string>servicePerActivity</string>
+	<key>offsetMediatorSkewx</key>
+	<string>directlyPlaybackRate</string>
+	<key>rectOperationDuration</key>
+	<string>roleShapePadding</string>
+	<key>skinPhaseHead</key>
+	<string>robustAllocatorType</string>
+	<key>statefulRemainderColor</key>
+	<string>notificationParamSpeed</string>
+	<key>transitionCycleStyle</key>
+	<string>intuitiveOptionRate</string>
+</dict>
+</plist>

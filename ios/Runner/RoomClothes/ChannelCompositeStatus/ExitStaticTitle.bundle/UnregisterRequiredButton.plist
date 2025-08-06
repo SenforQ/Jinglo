@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPrototypeOffset</key>
+	<string>optimizerSystemStatus</string>
+	<key>dialogsAdapterScale</key>
+	<string>threadOperationVelocity</string>
+	<key>immutableUsageStatus</key>
+	<string>transformerNumberDistance</string>
+	<key>layoutOutsideLayer</key>
+	<string>enabledMetadataOrientation</string>
+	<key>pageviewLayerBrightness</key>
+	<string>futureActionLocation</string>
+	<key>sineJobDistance</key>
+	<string>denseAnimationShape</string>
+	<key>spriteExceptForm</key>
+	<string>cosineViaContext</string>
+	<key>subtleControllerOrigin</key>
+	<string>streamKindFeedback</string>
+</dict>
+</plist>

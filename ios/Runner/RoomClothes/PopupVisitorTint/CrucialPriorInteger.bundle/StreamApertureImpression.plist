@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityActionSpacing</key>
+	<string>groupBesideStage</string>
+	<key>eventOutsideNumber</key>
+	<string>kernelOutsideCommand</string>
+	<key>semanticsActivityRotation</key>
+	<string>sampleContextCenter</string>
+	<key>textVersusChain</key>
+	<string>publicEventTension</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateAgainstLayer</key>
+	<string>dialogsForPattern</string>
+	<key>diversifiedPlaybackOrientation</key>
+	<string>matrixSystemDistance</string>
+	<key>instructionWithoutDecorator</key>
+	<string>dropdownbuttonMementoVisibility</string>
+	<key>swiftBridgeAppearance</key>
+	<string>signShapeAppearance</string>
+</dict>
+</plist>

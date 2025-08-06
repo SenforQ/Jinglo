@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetMediatorBrightness</key>
+	<string>curveObserverSaturation</string>
+	<key>otherMethodCoord</key>
+	<string>tableAsPrototype</string>
+	<key>painterAdapterLocation</key>
+	<string>canvasFacadeTail</string>
+	<key>resourceExceptWork</key>
+	<string>graphicStageCenter</string>
+	<key>singletonAtStage</key>
+	<string>ephemeralCycleSpeed</string>
+</dict>
+</plist>

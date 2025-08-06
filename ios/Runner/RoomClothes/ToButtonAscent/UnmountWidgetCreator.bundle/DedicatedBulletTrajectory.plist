@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConvolutionFrequency</key>
+	<string>boxAboutState</string>
+	<key>completerViaMemento</key>
+	<string>tweenSinceFlyweight</string>
+	<key>disabledResourceContrast</key>
+	<string>storageLayerInteraction</string>
+	<key>errorAboutParam</key>
+	<string>inheritedParticleIndex</string>
+	<key>futureInsideShape</key>
+	<string>resultLikeShape</string>
+	<key>responseInVisitor</key>
+	<string>modulusBesideParameter</string>
+	<key>subtleChartContrast</key>
+	<string>permissiveAsyncLocation</string>
+</dict>
+</plist>

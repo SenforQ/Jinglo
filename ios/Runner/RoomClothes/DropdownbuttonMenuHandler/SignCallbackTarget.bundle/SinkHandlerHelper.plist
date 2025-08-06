@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionMethodOpacity</key>
+	<string>autoBuilderTheme</string>
+	<key>activatedGroupDelay</key>
+	<string>controllerThroughFacade</string>
+	<key>ephemeralInteractorInset</key>
+	<string>nodeAwayStrategy</string>
+	<key>fragmentAsMethod</key>
+	<string>tickerStrategyBottom</string>
+	<key>logarithmLevelHead</key>
+	<string>robustBrushInset</string>
+	<key>promiseCycleSaturation</key>
+	<string>widgetMementoBound</string>
+	<key>repositoryViaStage</key>
+	<string>lazyNormKind</string>
+	<key>singleLayoutFeedback</key>
+	<string>sharedAppbarColor</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentIncludeCommand</key>
+	<string>paddingFunctionFormat</string>
+	<key>channelValueTransparency</key>
+	<string>extensionByCommand</string>
+	<key>hardHashInteraction</key>
+	<string>currentConstraintCenter</string>
+	<key>providerAwayShape</key>
+	<string>assetKindAppearance</string>
+	<key>resolverIncludeSystem</key>
+	<string>staticTickerVisible</string>
+	<key>routerFormOpacity</key>
+	<string>alphaModeScale</string>
+	<key>routerLevelInterval</key>
+	<string>mobileProjectionBorder</string>
+	<key>swiftVersusPlatform</key>
+	<string>dedicatedSizeSpeed</string>
+</dict>
+</plist>

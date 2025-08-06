@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBesideBridge</key>
+	<string>streamSinceMethod</string>
+	<key>autoTransformerForce</key>
+	<string>heapViaMethod</string>
+	<key>flexDecoratorContrast</key>
+	<string>touchFlyweightTag</string>
+	<key>loopShapeCenter</key>
+	<string>iterativeIntensityOrientation</string>
+	<key>queryAdapterForce</key>
+	<string>scaffoldAdapterRate</string>
+	<key>themeAndStyle</key>
+	<string>ternaryBeyondKind</string>
+</dict>
+</plist>

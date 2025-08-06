@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonIntensityTag</key>
+	<string>tweenFlyweightSpeed</string>
+	<key>deferredReducerOffset</key>
+	<string>scrollableRouteScale</string>
+	<key>inheritedPositionResponse</key>
+	<string>controllerScopeBrightness</string>
+	<key>progressbarNumberSaturation</key>
+	<string>grayscaleTierOrigin</string>
+	<key>reducerViaAction</key>
+	<string>bufferBeyondSingleton</string>
+	<key>richtextEnvironmentLocation</key>
+	<string>rectAwayChain</string>
+	<key>routerFromStructure</key>
+	<string>borderInterpreterType</string>
+</dict>
+</plist>

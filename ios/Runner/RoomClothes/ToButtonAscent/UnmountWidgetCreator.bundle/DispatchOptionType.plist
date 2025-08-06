@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTextureBehavior</key>
+	<string>intermediateRequestShade</string>
+	<key>borderAtMethod</key>
+	<string>uniqueRowVelocity</string>
+	<key>chartByContext</key>
+	<string>sizeDuringSingleton</string>
+	<key>exceptionAtComposite</key>
+	<string>missionAroundContext</string>
+	<key>intuitiveGrainBorder</key>
+	<string>sharedRiverpodDensity</string>
+	<key>liteViewTint</key>
+	<string>cupertinoInParam</string>
+	<key>responsiveSingletonDirection</key>
+	<string>intuitiveRadioShade</string>
+	<key>temporaryProjectKind</key>
+	<string>queueStructureStyle</string>
+</dict>
+</plist>

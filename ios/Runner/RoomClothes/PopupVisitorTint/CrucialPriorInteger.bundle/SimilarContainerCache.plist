@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateChecklistLocation</key>
+	<string>easyChallengeOrigin</string>
+	<key>difficultCardBehavior</key>
+	<string>containerPerStyle</string>
+	<key>interpolationTypeBehavior</key>
+	<string>spineActionMode</string>
+	<key>primaryRectAppearance</key>
+	<string>singletonFunctionState</string>
+	<key>serviceFromChain</key>
+	<string>errorDecoratorForce</string>
+	<key>sophisticatedButtonOrigin</key>
+	<string>featureMethodDirection</string>
+	<key>specifierBufferRate</key>
+	<string>easyHeapDirection</string>
+</dict>
+</plist>

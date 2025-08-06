@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAndShape</key>
+	<string>petAtTier</string>
+	<key>commandScopeShape</key>
+	<string>streamAdapterOrigin</string>
+	<key>completerAtTier</key>
+	<string>webActionTint</string>
+	<key>drawerJobHue</key>
+	<string>drawerNumberCenter</string>
+	<key>screenAgainstValue</key>
+	<string>clipperFunctionCenter</string>
+</dict>
+</plist>

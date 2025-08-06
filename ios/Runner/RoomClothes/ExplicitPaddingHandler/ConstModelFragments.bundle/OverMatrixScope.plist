@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveForProcess</key>
+	<string>entityBufferRate</string>
+	<key>declarativeAnimationResponse</key>
+	<string>animatedcontainerFormName</string>
+	<key>discardedListenerBrightness</key>
+	<string>curveContainMediator</string>
+	<key>hardWidgetOrientation</key>
+	<string>marginUntilParameter</string>
+	<key>streamSingletonValidation</key>
+	<string>nativeBoxshadowOpacity</string>
+</dict>
+</plist>

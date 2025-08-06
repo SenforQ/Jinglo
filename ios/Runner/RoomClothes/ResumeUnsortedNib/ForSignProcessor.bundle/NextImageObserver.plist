@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncExceptType</key>
+	<string>matrixOutsideShape</string>
+	<key>flexAmongForm</key>
+	<string>equalizationFunctionRate</string>
+	<key>statefulVariableBehavior</key>
+	<string>checkboxTaskTag</string>
+	<key>typicalDimensionAppearance</key>
+	<string>futurePerTask</string>
+</dict>
+</plist>

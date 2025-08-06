@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnModeSize</key>
+	<string>secondApertureStyle</string>
+	<key>errorChainContrast</key>
+	<string>smartDecorationVisibility</string>
+	<key>lastBrushDistance</key>
+	<string>signatureMethodLocation</string>
+	<key>otherButtonTint</key>
+	<string>enabledIndicatorKind</string>
+	<key>resultAroundState</key>
+	<string>effectCommandRate</string>
+	<key>webSpecifierDelay</key>
+	<string>layerOperationSize</string>
+</dict>
+</plist>

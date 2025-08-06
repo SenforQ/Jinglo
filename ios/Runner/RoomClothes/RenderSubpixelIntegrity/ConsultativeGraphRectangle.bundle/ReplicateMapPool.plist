@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetOrDecorator</key>
+	<string>sampleWithWork</string>
+	<key>controllerOrValue</key>
+	<string>responseSingletonBehavior</string>
+	<key>errorCycleFrequency</key>
+	<string>logarithmEnvironmentTint</string>
+	<key>stepWithoutStrategy</key>
+	<string>behaviorTemplePadding</string>
+	<key>subtleDependencyKind</key>
+	<string>managerAmongTemple</string>
+	<key>tabbarScopeMode</key>
+	<string>singletonContainMemento</string>
+	<key>tickerAmongMethod</key>
+	<string>timerModeBound</string>
+	<key>unactivatedSubscriptionName</key>
+	<string>decorationFromEnvironment</string>
+</dict>
+</plist>

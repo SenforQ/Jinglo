@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowForAdapter</key>
+	<string>painterSystemFormat</string>
+	<key>brushPlatformForce</key>
+	<string>boxAroundOperation</string>
+	<key>checkboxActionForce</key>
+	<string>lastResourceResponse</string>
+	<key>constraintByKind</key>
+	<string>progressbarActionColor</string>
+	<key>eventAroundAdapter</key>
+	<string>precisionInsideStyle</string>
+	<key>prevTweenDistance</key>
+	<string>presenterValueVisible</string>
+	<key>remainderChainName</key>
+	<string>sizedboxVersusForm</string>
+	<key>singletonAndChain</key>
+	<string>metadataPerInterpreter</string>
+	<key>specifierWithoutInterpreter</key>
+	<string>injectionFromJob</string>
+</dict>
+</plist>

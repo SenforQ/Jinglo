@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticServiceFlags</key>
+	<string>storyboardAndFunction</string>
+	<key>bufferAgainstAction</key>
+	<string>sessionViaActivity</string>
+	<key>gradientDuringForm</key>
+	<string>streamCompositeBound</string>
+	<key>grayscaleLevelInteraction</key>
+	<string>prismaticViewContrast</string>
+	<key>offsetMethodVisible</key>
+	<string>sizeCommandSize</string>
+	<key>particleParamInterval</key>
+	<string>musicLayerName</string>
+	<key>typicalRouterValidation</key>
+	<string>buttonChainDensity</string>
+	<key>zoneMethodRotation</key>
+	<string>isolateExceptMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionForActivity</key>
+	<string>taskBridgeDensity</string>
+	<key>alertOperationFeedback</key>
+	<string>subscriptionDecoratorDirection</string>
+	<key>animationVersusState</key>
+	<string>completerValueBehavior</string>
+	<key>awaitVisitorTransparency</key>
+	<string>sortedEqualizationValidation</string>
+	<key>histogramInComposite</key>
+	<string>reducerOrProcess</string>
+	<key>singleObserverFeedback</key>
+	<string>marginStrategyInterval</string>
+	<key>standaloneProtocolType</key>
+	<string>similarNavigatorDepth</string>
+	<key>techniqueParameterSpeed</key>
+	<string>prismaticChartPosition</string>
+</dict>
+</plist>

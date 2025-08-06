@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyAtVariable</key>
+	<string>previewAtFlyweight</string>
+	<key>euclideanLayoutTag</key>
+	<string>labelOfFacade</string>
+	<key>graphViaKind</key>
+	<string>requiredCardValidation</string>
+	<key>imageViaProxy</key>
+	<string>popupChainVisible</string>
+	<key>kernelAndMediator</key>
+	<string>assetKindVisibility</string>
+	<key>permanentStackFeedback</key>
+	<string>touchThroughShape</string>
+	<key>singleButtonInterval</key>
+	<string>similarManagerMode</string>
+	<key>standaloneContainerAlignment</key>
+	<string>graphOrDecorator</string>
+	<key>textfieldLevelIndex</key>
+	<string>coordinatorPlatformIndex</string>
+</dict>
+</plist>

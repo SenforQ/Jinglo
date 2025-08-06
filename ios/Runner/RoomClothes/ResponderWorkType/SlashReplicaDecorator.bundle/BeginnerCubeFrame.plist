@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncRadiusMomentum</key>
+	<string>indicatorPhaseAppearance</string>
+	<key>constDependencyTop</key>
+	<string>reducerSinceAdapter</string>
+	<key>fusedBatchMargin</key>
+	<string>difficultCompletionDelay</string>
+	<key>requestExceptShape</key>
+	<string>momentumCompositeOffset</string>
+</dict>
+</plist>

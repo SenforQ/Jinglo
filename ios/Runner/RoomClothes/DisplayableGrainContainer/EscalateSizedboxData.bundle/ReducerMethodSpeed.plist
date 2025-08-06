@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRouteFeedback</key>
+	<string>capacitiesViaJob</string>
+	<key>basicRectCoord</key>
+	<string>routerAmongComposite</string>
+	<key>fixedDecorationOrientation</key>
+	<string>ephemeralRequestBottom</string>
+	<key>mobileAgainstActivity</key>
+	<string>heroUntilActivity</string>
+	<key>mobilePromiseOrigin</key>
+	<string>greatWidgetEdge</string>
+	<key>responseFlyweightOrientation</key>
+	<string>lossAgainstLayer</string>
+	<key>subpixelDuringVisitor</key>
+	<string>largeStampState</string>
+</dict>
+</plist>

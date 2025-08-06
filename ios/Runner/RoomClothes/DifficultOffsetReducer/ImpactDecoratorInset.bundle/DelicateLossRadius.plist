@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPointAlignment</key>
+	<string>pointOrFlyweight</string>
+	<key>largeModalInteraction</key>
+	<string>sequentialTransformerKind</string>
+	<key>masterDuringStage</key>
+	<string>spritePlatformShade</string>
+	<key>opaqueExceptionDelay</key>
+	<string>originalSkirtKind</string>
+	<key>unactivatedSizedboxBorder</key>
+	<string>descriptionNumberAcceleration</string>
+	<key>webHashInterval</key>
+	<string>flexibleChecklistAcceleration</string>
+</dict>
+</plist>

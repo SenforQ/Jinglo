@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitObserverVisibility</key>
+	<string>statelessContextResponse</string>
+	<key>bulletMediatorBehavior</key>
+	<string>tabbarAgainstComposite</string>
+	<key>contractionExceptInterpreter</key>
+	<string>dynamicDurationVisible</string>
+	<key>finalModalVelocity</key>
+	<string>capsuleAtCommand</string>
+	<key>menuFunctionFlags</key>
+	<string>delegateTaskState</string>
+	<key>normByAdapter</key>
+	<string>symbolWorkBrightness</string>
+	<key>popupVersusPrototype</key>
+	<string>inheritedSpotName</string>
+	<key>staticTangentSpacing</key>
+	<string>independentNotifierMode</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelStageRate</key>
+	<string>progressbarScopeTail</string>
+	<key>cycleFrameworkSpeed</key>
+	<string>actionAsType</string>
+	<key>entropyShapeTheme</key>
+	<string>inactiveProviderStyle</string>
+	<key>graphicParamVelocity</key>
+	<string>greatDropdownbuttonCoord</string>
+	<key>injectionFacadeDensity</key>
+	<string>channelInsideMode</string>
+	<key>inkwellBesideStage</key>
+	<string>resilientAnimationPadding</string>
+	<key>queueWithEnvironment</key>
+	<string>logUntilMemento</string>
+	<key>tangentStateAppearance</key>
+	<string>taskAndScope</string>
+	<key>transformerAroundLayer</key>
+	<string>customResolverRight</string>
+</dict>
+</plist>

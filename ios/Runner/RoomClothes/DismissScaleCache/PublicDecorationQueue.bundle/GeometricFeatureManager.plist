@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoIconStyle</key>
+	<string>collectionParamSpeed</string>
+	<key>operationPatternLocation</key>
+	<string>cartesianSubpixelShape</string>
+	<key>otherTabviewTension</key>
+	<string>constQueueShape</string>
+	<key>requiredListenerEdge</key>
+	<string>bufferSinceContext</string>
+	<key>subscriptionJobMode</key>
+	<string>transformerFormValidation</string>
+	<key>webBinaryDelay</key>
+	<string>metadataIncludeObserver</string>
+	<key>widgetStageColor</key>
+	<string>animationDuringShape</string>
+</dict>
+</plist>

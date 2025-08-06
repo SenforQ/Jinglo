@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalGesturedetectorFlags</key>
+	<string>arithmeticThanAdapter</string>
+	<key>discardedCoordinatorType</key>
+	<string>widgetPhaseInterval</string>
+	<key>globalPromiseBottom</key>
+	<string>asyncUntilFunction</string>
+	<key>iconScopeValidation</key>
+	<string>enabledGraphicInteraction</string>
+	<key>sharedDimensionIndex</key>
+	<string>requiredPlaybackPressure</string>
+	<key>widgetOfFacade</key>
+	<string>immediateTouchBehavior</string>
+</dict>
+</plist>

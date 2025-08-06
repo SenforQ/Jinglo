@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPreviewSpacing</key>
+	<string>requiredSwitchDistance</string>
+	<key>channelFacadeBehavior</key>
+	<string>tensorEventTail</string>
+	<key>chapterAndProxy</key>
+	<string>popupModeRate</string>
+	<key>characterPerSystem</key>
+	<string>boxWithLevel</string>
+	<key>controllerTaskForce</key>
+	<string>errorProxyMode</string>
+	<key>disabledCoordinatorSkewy</key>
+	<string>certificateCompositeBehavior</string>
+	<key>gateAboutFacade</key>
+	<string>futureMediatorOffset</string>
+	<key>gesturedetectorDecoratorSize</key>
+	<string>requestDespiteMethod</string>
+	<key>pinchableNibVisible</key>
+	<string>variantLikePlatform</string>
+	<key>requiredNotifierTag</key>
+	<string>appbarPhaseTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedScreenOpacity</key>
+	<string>mainFutureInteraction</string>
+	<key>boxStyleCount</key>
+	<string>callbackDespiteScope</string>
+	<key>configurationParamTint</key>
+	<string>symmetricMovementBound</string>
+	<key>denseSubpixelHue</key>
+	<string>permanentScaleDelay</string>
+	<key>resolverWithoutFramework</key>
+	<string>routeFunctionVisibility</string>
+	<key>sharedServiceLeft</key>
+	<string>completionVersusProcess</string>
+	<key>similarHeapHead</key>
+	<string>grayscaleParamRight</string>
+	<key>touchVarOffset</key>
+	<string>immutableIconBound</string>
+</dict>
+</plist>

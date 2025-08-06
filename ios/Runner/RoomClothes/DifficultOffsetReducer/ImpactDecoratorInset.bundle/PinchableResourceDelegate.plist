@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorScopeRotation</key>
+	<string>parallelMonsterVisible</string>
+	<key>configurationInsideBridge</key>
+	<string>crucialHeroMode</string>
+	<key>denseStoreStyle</key>
+	<string>entropyWorkSkewy</string>
+	<key>mediaqueryPhaseRate</key>
+	<string>buttonBufferSpeed</string>
+	<key>resilientAnchorRate</key>
+	<string>animationScopeInteraction</string>
+	<key>subtleCompletionSpacing</key>
+	<string>localHashLocation</string>
+</dict>
+</plist>

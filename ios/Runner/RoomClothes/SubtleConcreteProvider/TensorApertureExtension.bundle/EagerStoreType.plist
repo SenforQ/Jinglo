@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartProxyCount</key>
+	<string>widgetVersusWork</string>
+	<key>fixedPresenterSkewy</key>
+	<string>accordionCycleOpacity</string>
+	<key>flexSingletonOrientation</key>
+	<string>actionInsideVisitor</string>
+	<key>greatQueueIndex</key>
+	<string>subpixelChainVelocity</string>
+	<key>mediaqueryProcessKind</key>
+	<string>columnOfParam</string>
+	<key>queryModeDepth</key>
+	<string>streamExceptDecorator</string>
+	<key>retainedImageOrientation</key>
+	<string>lazyToolFrequency</string>
+	<key>tickerModeDuration</key>
+	<string>customizedCapsuleBottom</string>
+</dict>
+</plist>

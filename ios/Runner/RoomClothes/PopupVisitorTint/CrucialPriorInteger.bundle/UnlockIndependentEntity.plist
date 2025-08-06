@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartPhaseTag</key>
+	<string>navigatorCompositeSpeed</string>
+	<key>menuOrStrategy</key>
+	<string>matrixOutsideStage</string>
+	<key>normalVectorDuration</key>
+	<string>singletonDecoratorSpeed</string>
+	<key>petInterpreterTransparency</key>
+	<string>visibleVariantSize</string>
+	<key>serviceViaState</key>
+	<string>observerFlyweightShade</string>
+	<key>texturePlatformShade</key>
+	<string>menuBridgeInset</string>
+</dict>
+</plist>

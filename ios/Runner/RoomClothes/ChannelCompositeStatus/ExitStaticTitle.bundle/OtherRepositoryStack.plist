@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPrototypeLeft</key>
+	<string>mobileIndicatorType</string>
+	<key>concreteFrameRotation</key>
+	<string>taskFrameworkRight</string>
+	<key>interfaceActionContrast</key>
+	<string>reducerFromMemento</string>
+	<key>intermediateEffectMargin</key>
+	<string>coordinatorAsPrototype</string>
+	<key>pointVarOrigin</key>
+	<string>menuPerSingleton</string>
+	<key>shaderPlatformDepth</key>
+	<string>screenModeHue</string>
+	<key>statefulCoordinatorVisible</key>
+	<string>descriptionStyleRate</string>
+	<key>statelessParticleSpeed</key>
+	<string>similarExtensionTransparency</string>
+	<key>titleAdapterFormat</key>
+	<string>crudePageviewSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAroundStrategy</key>
+	<string>tickerNumberSpeed</string>
+	<key>containerBeyondOperation</key>
+	<string>visiblePaddingSaturation</string>
+	<key>isolateSingletonSkewx</key>
+	<string>responseScopeIndex</string>
+	<key>layoutWorkFlags</key>
+	<string>resolverPerFacade</string>
+	<key>projectParameterShade</key>
+	<string>keyImageBound</string>
+	<key>transitionFlyweightOpacity</key>
+	<string>layoutVarCount</string>
+</dict>
+</plist>

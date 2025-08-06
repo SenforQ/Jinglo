@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandActionLocation</key>
+	<string>granularSingletonName</string>
+	<key>effectIncludeFacade</key>
+	<string>referenceIncludeParam</string>
+	<key>flexDuringSingleton</key>
+	<string>dynamicCompleterRotation</string>
+	<key>localizationOrDecorator</key>
+	<string>descriptionBufferRight</string>
+	<key>projectionOfParameter</key>
+	<string>streamAgainstScope</string>
+	<key>sortedInterfaceSize</key>
+	<string>sineParamFrequency</string>
+	<key>textWithoutLayer</key>
+	<string>significantOffsetOrigin</string>
+</dict>
+</plist>

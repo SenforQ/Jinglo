@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUtilAppearance</key>
+	<string>immediateStepShade</string>
+	<key>coordinatorPhaseFormat</key>
+	<string>interactorInsideSingleton</string>
+	<key>particlePhaseMode</key>
+	<string>dependencyFrameworkOrigin</string>
+	<key>resourceWithoutActivity</key>
+	<string>difficultStoreFrequency</string>
+	<key>rowWithScope</key>
+	<string>delegateByLevel</string>
+</dict>
+</plist>

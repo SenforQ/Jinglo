@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProcessDirection</key>
+	<string>getxTempleStyle</string>
+	<key>customizedBuilderLocation</key>
+	<string>providerAlongFlyweight</string>
+	<key>easyPositionedLocation</key>
+	<string>explicitLocalizationValidation</string>
+	<key>gemCommandMargin</key>
+	<string>toolStateMargin</string>
+	<key>singletonFacadeSaturation</key>
+	<string>tweenVariableTop</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicNodeInteraction</key>
+	<string>resourceInFacade</string>
+	<key>consumerFunctionShape</key>
+	<string>pageviewPerLayer</string>
+	<key>radiusDuringAction</key>
+	<string>topicByFunction</string>
+	<key>sortedAnimationFeedback</key>
+	<string>customErrorDuration</string>
+</dict>
+</plist>

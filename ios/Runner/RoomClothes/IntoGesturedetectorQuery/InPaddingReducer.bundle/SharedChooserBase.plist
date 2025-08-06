@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerModeInteraction</key>
+	<string>shaderPhasePosition</string>
+	<key>responseAgainstPrototype</key>
+	<string>listviewInterpreterBorder</string>
+	<key>scrollInsideMediator</key>
+	<string>decorationAtPhase</string>
+	<key>ternaryInterpreterTint</key>
+	<string>firstActivityKind</string>
+</dict>
+</plist>

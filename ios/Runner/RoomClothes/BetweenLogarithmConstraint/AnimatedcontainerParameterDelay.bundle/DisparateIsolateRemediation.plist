@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationVisitorForce</key>
+	<string>completionTemplePadding</string>
+	<key>dependencyVariableMargin</key>
+	<string>activeModalTint</string>
+	<key>lastModelInteraction</key>
+	<string>commonSemanticsTint</string>
+	<key>taskAgainstKind</key>
+	<string>rapidSegmentShape</string>
+</dict>
+</plist>

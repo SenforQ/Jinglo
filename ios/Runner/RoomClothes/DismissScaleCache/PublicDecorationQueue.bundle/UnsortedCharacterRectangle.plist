@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorWithProcess</key>
+	<string>checklistExceptForm</string>
+	<key>missedTopicBehavior</key>
+	<string>mediumProviderMargin</string>
+	<key>nativeCapsuleBorder</key>
+	<string>explicitSubpixelSaturation</string>
+	<key>scrollableOptionIndex</key>
+	<string>checklistBeyondKind</string>
+	<key>singleAspectratioCoord</key>
+	<string>usedMetadataTail</string>
+</dict>
+</plist>

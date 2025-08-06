@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerShapeFormat</key>
+	<string>gesturedetectorOperationRotation</string>
+	<key>discardedEntityDuration</key>
+	<string>subscriptionEnvironmentRotation</string>
+	<key>heapBySingleton</key>
+	<string>instructionProcessDuration</string>
+	<key>managerContainTask</key>
+	<string>factoryDuringFacade</string>
+	<key>rectPrototypeOrigin</key>
+	<string>primaryArithmeticContrast</string>
+	<key>serviceLikeObserver</key>
+	<string>scaleVersusTask</string>
+	<key>smartClipperTag</key>
+	<string>imageSystemBehavior</string>
+	<key>stateBridgeRate</key>
+	<string>listenerDuringJob</string>
+	<key>touchFlyweightTint</key>
+	<string>persistentCurveContrast</string>
+	<key>viewChainBound</key>
+	<string>injectionPlatformShape</string>
+</dict>
+</plist>

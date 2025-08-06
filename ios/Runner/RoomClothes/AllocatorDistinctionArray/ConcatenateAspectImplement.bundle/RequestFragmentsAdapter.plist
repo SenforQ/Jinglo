@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferOutsideMethod</key>
+	<string>nextMissionForce</string>
+	<key>cellStrategyInset</key>
+	<string>diversifiedMatrixContrast</string>
+	<key>disparateWidgetBrightness</key>
+	<string>significantToolResponse</string>
+	<key>fusedRadiusInteraction</key>
+	<string>brushAlongState</string>
+	<key>robustMemberOffset</key>
+	<string>exponentAndContext</string>
+	<key>singletonByPattern</key>
+	<string>musicExceptChain</string>
+</dict>
+</plist>

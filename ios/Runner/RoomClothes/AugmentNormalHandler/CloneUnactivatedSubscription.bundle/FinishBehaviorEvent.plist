@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphViaEnvironment</key>
+	<string>metadataFacadeHue</string>
+	<key>mobileAboutWork</key>
+	<string>backwardProviderShade</string>
+	<key>providerCompositeContrast</key>
+	<string>entitySingletonTint</string>
+	<key>repositoryPatternRotation</key>
+	<string>textureCompositeVisibility</string>
+	<key>tickerCompositeMargin</key>
+	<string>textureVariableOrigin</string>
+	<key>transitionWithoutStrategy</key>
+	<string>inkwellActionSize</string>
+	<key>webTransitionCoord</key>
+	<string>sliderMethodVisibility</string>
+</dict>
+</plist>

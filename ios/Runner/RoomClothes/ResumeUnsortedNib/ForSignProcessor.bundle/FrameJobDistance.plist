@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInjectionVisible</key>
+	<string>localizationCommandCenter</string>
+	<key>factoryVersusPhase</key>
+	<string>factoryNearActivity</string>
+	<key>fusedRectInset</key>
+	<string>sliderFunctionShape</string>
+	<key>interfaceMediatorScale</key>
+	<string>collectionTypeMargin</string>
+	<key>mediumTopicOffset</key>
+	<string>notifierParameterVisibility</string>
+	<key>modalContextDelay</key>
+	<string>matrixThroughPhase</string>
+	<key>stackNearChain</key>
+	<string>standaloneAlignmentOrientation</string>
+	<key>widgetThroughPrototype</key>
+	<string>delicateCallbackInteraction</string>
+</dict>
+</plist>

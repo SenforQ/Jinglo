@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedWidgetPosition</key>
+	<string>tabviewOperationBorder</string>
+	<key>futureStateInterval</key>
+	<string>positionSystemRight</string>
+	<key>hardIndicatorCenter</key>
+	<string>skinDecoratorState</string>
+	<key>logVariableSize</key>
+	<string>interfaceInPlatform</string>
+	<key>missedBitrateFeedback</key>
+	<string>clipperAndEnvironment</string>
+	<key>normalDescriptionSkewx</key>
+	<string>bufferDespiteNumber</string>
+</dict>
+</plist>

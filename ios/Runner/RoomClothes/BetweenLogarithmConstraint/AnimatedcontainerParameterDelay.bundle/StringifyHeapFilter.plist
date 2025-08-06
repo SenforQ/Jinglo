@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionForWork</key>
+	<string>elasticCupertinoVisible</string>
+	<key>customizedErrorFormat</key>
+	<string>mobxPerFacade</string>
+	<key>globalAnchorStyle</key>
+	<string>platePatternFormat</string>
+	<key>inkwellAgainstStructure</key>
+	<string>specifyBinaryKind</string>
+	<key>multiTickerDepth</key>
+	<string>routerAtCommand</string>
+	<key>normalIsolateStatus</key>
+	<string>entityFunctionTransparency</string>
+</dict>
+</plist>

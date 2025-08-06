@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAdapterState</key>
+	<string>builderDuringStrategy</string>
+	<key>builderOperationTheme</key>
+	<string>interactorPatternBrightness</string>
+	<key>repositoryAroundSystem</key>
+	<string>appbarScopeAlignment</string>
+	<key>spotAmongOperation</key>
+	<string>storageContextMargin</string>
+	<key>statefulStrategyScale</key>
+	<string>captionMementoVelocity</string>
+	<key>streamPerWork</key>
+	<string>deferredInstructionDensity</string>
+</dict>
+</plist>

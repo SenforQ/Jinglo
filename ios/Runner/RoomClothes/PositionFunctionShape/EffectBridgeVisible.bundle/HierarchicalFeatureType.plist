@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowThroughState</key>
+	<string>diffableAsyncOpacity</string>
+	<key>bufferSingletonOrientation</key>
+	<string>newestInteractorBottom</string>
+	<key>decorationChainName</key>
+	<string>semanticThemeInteraction</string>
+	<key>hardCacheInterval</key>
+	<string>layoutAtActivity</string>
+	<key>protectedAppbarTag</key>
+	<string>skinAsSingleton</string>
+	<key>sessionAgainstParam</key>
+	<string>textBridgeFormat</string>
+	<key>textWithoutAction</key>
+	<string>fixedMemberInteraction</string>
+	<key>unactivatedSineOrigin</key>
+	<string>profileSingletonBottom</string>
+	<key>viewVariableForce</key>
+	<string>multiAlignmentState</string>
+</dict>
+</plist>

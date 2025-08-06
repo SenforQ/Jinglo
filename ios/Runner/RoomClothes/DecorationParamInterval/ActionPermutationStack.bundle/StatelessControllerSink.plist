@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInScope</key>
+	<string>projectSystemCoord</string>
+	<key>capsuleTaskSpacing</key>
+	<string>blocCompositeLocation</string>
+	<key>cardScopeRate</key>
+	<string>concurrentInstructionStatus</string>
+	<key>cupertinoStyleShape</key>
+	<string>positionDespiteVariable</string>
+	<key>enabledSizedboxPosition</key>
+	<string>challengeBufferStyle</string>
+	<key>synchronousMarginFlags</key>
+	<string>imageExceptEnvironment</string>
+</dict>
+</plist>

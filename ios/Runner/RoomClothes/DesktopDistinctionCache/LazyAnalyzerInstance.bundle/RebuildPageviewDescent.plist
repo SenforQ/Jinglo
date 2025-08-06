@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocThanValue</key>
+	<string>usecaseProcessDistance</string>
+	<key>desktopCycleStyle</key>
+	<string>rectAtStage</string>
+	<key>durationStageVelocity</key>
+	<string>actionUntilLevel</string>
+	<key>sustainableCoordinatorFlags</key>
+	<string>subtlePresenterEdge</string>
+	<key>tabbarNumberOpacity</key>
+	<string>gramOperationPosition</string>
+</dict>
+</plist>

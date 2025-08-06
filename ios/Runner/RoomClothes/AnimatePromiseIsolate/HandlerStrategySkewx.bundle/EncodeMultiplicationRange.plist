@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentUntilSystem</key>
+	<string>frameChainRotation</string>
+	<key>arithmeticFromFacade</key>
+	<string>observerBeyondLayer</string>
+	<key>asynchronousMaterialBehavior</key>
+	<string>managerVarName</string>
+	<key>builderScopeType</key>
+	<string>effectWorkPadding</string>
+	<key>disparateWorkflowStyle</key>
+	<string>customizedFrameEdge</string>
+	<key>injectionBesideSingleton</key>
+	<string>loopIncludePlatform</string>
+	<key>offsetAwayObserver</key>
+	<string>vectorProcessBrightness</string>
+	<key>semanticsMethodOffset</key>
+	<string>normAtFlyweight</string>
+	<key>vectorMediatorDistance</key>
+	<string>animationOrStrategy</string>
+</dict>
+</plist>

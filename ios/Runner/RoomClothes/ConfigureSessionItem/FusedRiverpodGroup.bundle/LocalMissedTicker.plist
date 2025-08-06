@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionFunctionDelay</key>
+	<string>deferredResourceForce</string>
+	<key>sampleTypeDepth</key>
+	<string>actionCycleForce</string>
+	<key>subsequentBulletStatus</key>
+	<string>taskOrPrototype</string>
+	<key>topicAtKind</key>
+	<string>notificationProxyRotation</string>
+</dict>
+</plist>

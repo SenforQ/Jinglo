@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveStateKind</key>
+	<string>captionFunctionScale</string>
+	<key>layoutChainDuration</key>
+	<string>positionAlongEnvironment</string>
+	<key>layoutCompositeTop</key>
+	<string>declarativeTabbarPressure</string>
+	<key>similarAsyncStyle</key>
+	<string>declarativeAwaitTint</string>
+	<key>typicalStoreOrientation</key>
+	<string>finalLayoutDensity</string>
+</dict>
+</plist>

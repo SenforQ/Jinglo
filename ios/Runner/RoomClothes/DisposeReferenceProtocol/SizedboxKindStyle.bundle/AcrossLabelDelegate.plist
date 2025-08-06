@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackViaObserver</key>
+	<string>baselineWithoutFlyweight</string>
+	<key>chartOutsideDecorator</key>
+	<string>borderAtLayer</string>
+	<key>criticalFrameCoord</key>
+	<string>screenKindRotation</string>
+	<key>customVectorRate</key>
+	<string>menuMethodSpacing</string>
+	<key>directSkirtTheme</key>
+	<string>comprehensiveEntityHue</string>
+	<key>entityPerLevel</key>
+	<string>aspectFunctionResponse</string>
+	<key>presenterFromEnvironment</key>
+	<string>storyboardAgainstAction</string>
+	<key>segmentContainAdapter</key>
+	<string>globalEventDistance</string>
+	<key>standaloneWidgetInterval</key>
+	<string>arithmeticCurveOpacity</string>
+	<key>unactivatedScaleTension</key>
+	<string>globalStorageStyle</string>
+</dict>
+</plist>

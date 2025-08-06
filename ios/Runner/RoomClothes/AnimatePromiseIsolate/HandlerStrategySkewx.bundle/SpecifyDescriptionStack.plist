@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableBuilderOffset</key>
+	<string>decorationTierFeedback</string>
+	<key>responsiveTextureAppearance</key>
+	<string>ephemeralGridRotation</string>
+	<key>scrollableRemainderDepth</key>
+	<string>newestViewContrast</string>
+	<key>visibleInterfaceFeedback</key>
+	<string>controllerOutsideTemple</string>
+</dict>
+</plist>

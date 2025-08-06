@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInsideTask</key>
+	<string>draggableCallbackName</string>
+	<key>buttonStageTail</key>
+	<string>tabbarMethodHead</string>
+	<key>declarativeCustompaintDelay</key>
+	<string>loopObserverDuration</string>
+	<key>difficultNavigatorBorder</key>
+	<string>resizableApertureTheme</string>
+	<key>dimensionStyleFeedback</key>
+	<string>movementPerValue</string>
+	<key>factoryWithSingleton</key>
+	<string>constraintAndActivity</string>
+	<key>opaqueProviderColor</key>
+	<string>graphObserverMargin</string>
+	<key>optimizerStyleHue</key>
+	<string>fusedCompleterSkewy</string>
+	<key>radiusFromActivity</key>
+	<string>sizeBeyondParameter</string>
+</dict>
+</plist>

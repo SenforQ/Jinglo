@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocExceptObserver</key>
+	<string>prevEventColor</string>
+	<key>declarativeCacheMomentum</key>
+	<string>customStoryboardRotation</string>
+	<key>materialAdapterTransparency</key>
+	<string>queueContainBuffer</string>
+	<key>robustAxisFeedback</key>
+	<string>accessoryAlongForm</string>
+	<key>sizeAdapterCount</key>
+	<string>flexNumberStyle</string>
+</dict>
+</plist>

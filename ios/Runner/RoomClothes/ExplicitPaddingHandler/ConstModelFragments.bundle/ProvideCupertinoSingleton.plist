@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basePrototypeFrequency</key>
+	<string>equipmentAwayPattern</string>
+	<key>missedScaffoldTheme</key>
+	<string>interactorVisitorTheme</string>
+	<key>modelStageTop</key>
+	<string>instructionProxyState</string>
+	<key>scaffoldBeyondJob</key>
+	<string>interactiveFrameValidation</string>
+	<key>scrollVisitorLeft</key>
+	<string>storeBesideScope</string>
+	<key>semanticSemanticsRotation</key>
+	<string>descriptionAmongSystem</string>
+	<key>toolScopeSpeed</key>
+	<string>eventAmongComposite</string>
+</dict>
+</plist>

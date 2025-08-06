@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheAsShape</key>
+	<string>matrixUntilPattern</string>
+	<key>gesturedetectorOperationSize</key>
+	<string>commonEventResponse</string>
+	<key>overlayWithFunction</key>
+	<string>spriteVarContrast</string>
+	<key>plateNearKind</key>
+	<string>staticResultSaturation</string>
+	<key>protectedMemberBorder</key>
+	<string>textWithShape</string>
+	<key>subtleGramBorder</key>
+	<string>permissiveMobxForce</string>
+	<key>temporaryErrorRate</key>
+	<string>semanticEntityForce</string>
+</dict>
+</plist>

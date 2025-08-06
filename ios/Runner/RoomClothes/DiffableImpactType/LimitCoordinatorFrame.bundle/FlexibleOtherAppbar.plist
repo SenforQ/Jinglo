@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsParameterDelay</key>
+	<string>liteReductionLeft</string>
+	<key>invisibleAsyncSize</key>
+	<string>taskPerBuffer</string>
+	<key>materialTierShape</key>
+	<string>hyperbolicSizeLocation</string>
+	<key>matrixCommandBrightness</key>
+	<string>inactiveTransitionStyle</string>
+	<key>priorRouterPosition</key>
+	<string>bufferProcessPressure</string>
+	<key>routeThroughFramework</key>
+	<string>descriptionLayerContrast</string>
+	<key>subtleCanvasOffset</key>
+	<string>decorationAndType</string>
+	<key>switchLevelRate</key>
+	<string>constraintPatternColor</string>
+	<key>unactivatedClipperFeedback</key>
+	<string>tensorInjectionInterval</string>
+</dict>
+</plist>

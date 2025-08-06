@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLoopFrequency</key>
+	<string>nativeParticleKind</string>
+	<key>elasticObserverType</key>
+	<string>normActionBehavior</string>
+	<key>listenerInVar</key>
+	<string>channelWithParam</string>
+	<key>mainMenuContrast</key>
+	<string>timerUntilObserver</string>
+	<key>playbackDuringComposite</key>
+	<string>transformerProcessState</string>
+	<key>repositoryOfInterpreter</key>
+	<string>compositionWorkFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderBufferRotation</key>
+	<string>titleInsidePlatform</string>
+	<key>channelWorkAppearance</key>
+	<string>presenterInsideEnvironment</string>
+	<key>completerMethodSpacing</key>
+	<string>graphicLikeMethod</string>
+	<key>hashDecoratorBrightness</key>
+	<string>rapidSegueBrightness</string>
+	<key>materialAllocatorMomentum</key>
+	<string>observerActivitySize</string>
+	<key>matrixViaCycle</key>
+	<string>nativeScreenTag</string>
+	<key>routeVersusCycle</key>
+	<string>radiusTempleStatus</string>
+	<key>semanticsAtStructure</key>
+	<string>containerVersusMediator</string>
+	<key>usecaseIncludeActivity</key>
+	<string>imperativeBuilderInset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletPerObserver</key>
+	<string>substantialSizeBottom</string>
+	<key>eventShapeInset</key>
+	<string>menuTierVisibility</string>
+	<key>imperativeSliderTail</key>
+	<string>retainedScrollDelay</string>
+	<key>navigatorMediatorAlignment</key>
+	<string>serviceOfFlyweight</string>
+	<key>ternaryInsideCycle</key>
+	<string>methodMementoInteraction</string>
+</dict>
+</plist>

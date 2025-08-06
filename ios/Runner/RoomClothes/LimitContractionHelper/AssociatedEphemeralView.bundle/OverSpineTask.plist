@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxSingletonCount</key>
+	<string>buttonVariableAppearance</string>
+	<key>iconAtChain</key>
+	<string>controllerContextFormat</string>
+	<key>liteDependencyLeft</key>
+	<string>activityDecoratorSpeed</string>
+	<key>pageviewAwayParam</key>
+	<string>handlerPhaseOffset</string>
+	<key>similarPaddingDelay</key>
+	<string>textSingletonVelocity</string>
+	<key>transformerInPhase</key>
+	<string>greatPresenterName</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAboutForm</key>
+	<string>projectSingletonInteraction</string>
+	<key>delegateInterpreterLeft</key>
+	<string>originalCubitOrigin</string>
+	<key>newestChecklistState</key>
+	<string>draggableTransitionStyle</string>
+	<key>optimizerByLayer</key>
+	<string>sharedGridviewOpacity</string>
+	<key>rapidIsolateSize</key>
+	<string>permanentReducerTint</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardStreamType</key>
+	<string>tweenVisitorLocation</string>
+	<key>configurationShapeValidation</key>
+	<string>nativeReducerScale</string>
+	<key>delegateAtTask</key>
+	<string>appbarOfPlatform</string>
+	<key>expandedFlyweightFormat</key>
+	<string>prismaticUsageDuration</string>
+	<key>finalTableName</key>
+	<string>swiftActivityCoord</string>
+	<key>getxChainDepth</key>
+	<string>fixedPetAppearance</string>
+	<key>largeErrorHue</key>
+	<string>viewStageInterval</string>
+	<key>lastExponentPosition</key>
+	<string>builderStateAlignment</string>
+	<key>singletonByParameter</key>
+	<string>granularGrainFeedback</string>
+	<key>usecaseAgainstPattern</key>
+	<string>synchronousSemanticsBrightness</string>
+</dict>
+</plist>

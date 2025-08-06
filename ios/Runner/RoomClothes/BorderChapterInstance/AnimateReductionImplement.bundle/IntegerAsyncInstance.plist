@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseGetxFlags</key>
+	<string>layoutAtScope</string>
+	<key>descriptionForType</key>
+	<string>appbarVarStatus</string>
+	<key>sceneActivityPadding</key>
+	<string>oldChecklistSkewy</string>
+	<key>screenPatternMode</key>
+	<string>dynamicRouterBrightness</string>
+</dict>
+</plist>

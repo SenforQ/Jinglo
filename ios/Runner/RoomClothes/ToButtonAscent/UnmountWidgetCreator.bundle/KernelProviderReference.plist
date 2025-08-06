@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionBeyondMemento</key>
+	<string>streamAsObserver</string>
+	<key>decorationBufferVisible</key>
+	<string>independentBlocContrast</string>
+	<key>interactorScopeShade</key>
+	<string>resourceObserverDensity</string>
+	<key>queueMediatorValidation</key>
+	<string>mapInsideVisitor</string>
+	<key>resolverBufferDensity</key>
+	<string>labelProxyName</string>
+	<key>scaffoldStageVelocity</key>
+	<string>synchronousSampleLocation</string>
+</dict>
+</plist>

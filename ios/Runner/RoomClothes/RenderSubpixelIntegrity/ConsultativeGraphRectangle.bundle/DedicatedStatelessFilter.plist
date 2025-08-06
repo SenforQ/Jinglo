@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncInsideDecorator</key>
+	<string>checklistProcessBound</string>
+	<key>configurationAtNumber</key>
+	<string>navigationContextFrequency</string>
+	<key>groupOutsideInterpreter</key>
+	<string>smallButtonLeft</string>
+	<key>localSwiftTransparency</key>
+	<string>handlerAndDecorator</string>
+	<key>resolverNearVariable</key>
+	<string>factoryOfObserver</string>
+</dict>
+</plist>

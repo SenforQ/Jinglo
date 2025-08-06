@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorChainHead</key>
+	<string>immutablePopupResponse</string>
+	<key>normLikeCommand</key>
+	<string>mutablePointHead</string>
+	<key>particleCommandSpacing</key>
+	<string>staticBoxshadowEdge</string>
+	<key>resolverFromFramework</key>
+	<string>borderViaVariable</string>
+	<key>significantSliderHead</key>
+	<string>euclideanInstructionContrast</string>
+	<key>slashModePadding</key>
+	<string>mediumMethodDepth</string>
+	<key>topicCycleCoord</key>
+	<string>protocolTaskScale</string>
+</dict>
+</plist>

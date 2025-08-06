@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicChartFlags</key>
+	<string>interactiveImageOpacity</string>
+	<key>desktopMethodEdge</key>
+	<string>symbolShapeTag</string>
+	<key>momentumParameterAcceleration</key>
+	<string>segmentJobTransparency</string>
+	<key>permanentCustompaintTheme</key>
+	<string>allocatorFromMode</string>
+	<key>resolverObserverForce</key>
+	<string>typicalLabelPosition</string>
+	<key>swiftExceptMemento</key>
+	<string>customizedMemberShape</string>
+	<key>techniqueAwayMemento</key>
+	<string>equalizationContainCommand</string>
+	<key>toolLikeSingleton</key>
+	<string>boxshadowPhaseName</string>
+</dict>
+</plist>

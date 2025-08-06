@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalButtonMode</key>
+	<string>cupertinoValuePosition</string>
+	<key>factoryFormValidation</key>
+	<string>frameAboutPrototype</string>
+	<key>mediumPresenterRate</key>
+	<string>cupertinoChartBound</string>
+	<key>modalOutsideStructure</key>
+	<string>enabledControllerSpeed</string>
+	<key>navigatorScopeName</key>
+	<string>themeAtPlatform</string>
+	<key>oldSpineCount</key>
+	<string>dynamicNavigationOrigin</string>
+	<key>protocolLevelRight</key>
+	<string>firstRequestTheme</string>
+	<key>providerAdapterTag</key>
+	<string>presenterCompositeShade</string>
+	<key>semanticsViaMode</key>
+	<string>secondConstraintKind</string>
+	<key>taskLayerStyle</key>
+	<string>semanticDelegateCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarWithoutObserver</key>
+	<string>prevSinkKind</string>
+	<key>builderJobMode</key>
+	<string>completionEnvironmentVisible</string>
+	<key>callbackByOperation</key>
+	<string>vectorProcessTail</string>
+	<key>cubitInEnvironment</key>
+	<string>pinchableCompleterInterval</string>
+	<key>normalInstructionFlags</key>
+	<string>presenterProcessFormat</string>
+	<key>paddingPerAdapter</key>
+	<string>responsiveSegueShade</string>
+	<key>querySinceSystem</key>
+	<string>metadataAgainstActivity</string>
+	<key>relationalCallbackCoord</key>
+	<string>commandPlatformHead</string>
+	<key>resilientNodeVelocity</key>
+	<string>sliderOrInterpreter</string>
+</dict>
+</plist>

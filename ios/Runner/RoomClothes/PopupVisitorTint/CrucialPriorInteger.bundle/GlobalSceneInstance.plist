@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSubpixelKind</key>
+	<string>sinkNearLayer</string>
+	<key>configurationWithoutType</key>
+	<string>topicMementoTail</string>
+	<key>ephemeralPageviewBehavior</key>
+	<string>segmentPhaseDirection</string>
+	<key>notifierOrProxy</key>
+	<string>adaptiveMediaStyle</string>
+	<key>scrollValueAcceleration</key>
+	<string>injectionTierType</string>
+	<key>storeDuringContext</key>
+	<string>lastSegmentBound</string>
+	<key>swiftAtAdapter</key>
+	<string>segmentOrMediator</string>
+	<key>usecaseScopeOrigin</key>
+	<string>containerTierSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customOverlayInset</key>
+	<string>desktopSignInset</string>
+	<key>graphFlyweightBehavior</key>
+	<string>reductionInsideStage</string>
+	<key>instructionAlongLayer</key>
+	<string>factoryNearVisitor</string>
+	<key>interactiveApertureLocation</key>
+	<string>subpixelInterpreterMode</string>
+	<key>originalChapterRate</key>
+	<string>boxDespiteMemento</string>
+	<key>referenceAlongTemple</key>
+	<string>durationAmongMediator</string>
+	<key>seamlessResultScale</key>
+	<string>stampActionMargin</string>
+	<key>signatureCommandTheme</key>
+	<string>controllerFacadeBorder</string>
+	<key>textProcessName</key>
+	<string>positionedAlongInterpreter</string>
+</dict>
+</plist>

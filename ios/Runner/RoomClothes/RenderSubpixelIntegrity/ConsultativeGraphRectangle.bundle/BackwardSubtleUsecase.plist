@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDialogsContrast</key>
+	<string>resourceEnvironmentShade</string>
+	<key>asynchronousMovementRotation</key>
+	<string>grayscaleEnvironmentKind</string>
+	<key>constLogarithmKind</key>
+	<string>factoryThroughFlyweight</string>
+	<key>directBrushFormat</key>
+	<string>symmetricObserverOpacity</string>
+	<key>draggableMediaOrigin</key>
+	<string>normalLabelKind</string>
+	<key>equalizationFromFacade</key>
+	<string>storeNearCommand</string>
+	<key>mainShaderFeedback</key>
+	<string>primaryPointTint</string>
+	<key>mediumWidgetVisibility</key>
+	<string>gemVisitorCenter</string>
+	<key>remainderInterpreterCount</key>
+	<string>backwardLayoutTint</string>
+	<key>sineStyleTail</key>
+	<string>sizeVariableMargin</string>
+</dict>
+</plist>

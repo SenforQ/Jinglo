@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateObserverInteraction</key>
+	<string>uniquePetInset</string>
+	<key>dependencyAtFacade</key>
+	<string>responseMethodHue</string>
+	<key>giftAtLayer</key>
+	<string>metadataAwayPlatform</string>
+	<key>ignoredEntropyValidation</key>
+	<string>modulusFromCycle</string>
+	<key>textureFacadeMode</key>
+	<string>cycleUntilMediator</string>
+</dict>
+</plist>

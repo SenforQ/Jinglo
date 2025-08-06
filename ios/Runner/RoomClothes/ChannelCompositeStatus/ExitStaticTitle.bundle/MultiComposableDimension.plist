@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAwayNumber</key>
+	<string>popupAndMode</string>
+	<key>declarativeBuilderKind</key>
+	<string>checklistVisitorLeft</string>
+	<key>enabledContainerEdge</key>
+	<string>constraintParameterVisible</string>
+	<key>entropyForParam</key>
+	<string>customizedRequestAppearance</string>
+	<key>momentumNearCycle</key>
+	<string>promiseAsCommand</string>
+	<key>riverpodAwayParam</key>
+	<string>priorityOutsideCommand</string>
+	<key>stampSinceMediator</key>
+	<string>dimensionInMediator</string>
+	<key>subscriptionOrTier</key>
+	<string>uniformCommandOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFactoryKind</key>
+	<string>touchPatternShade</string>
+	<key>blocDespiteParameter</key>
+	<string>actionBridgeForce</string>
+	<key>constVectorValidation</key>
+	<string>notificationExceptMode</string>
+	<key>easyFeatureBound</key>
+	<string>compositionSystemShade</string>
+	<key>labelAgainstMediator</key>
+	<string>vectorWorkName</string>
+	<key>mobxUntilAdapter</key>
+	<string>fusedConstraintEdge</string>
+	<key>popupNumberTail</key>
+	<string>statefulFlexEdge</string>
+	<key>specifyScaleCount</key>
+	<string>injectionOrMediator</string>
+	<key>swiftFormForce</key>
+	<string>entityOutsideComposite</string>
+</dict>
+</plist>

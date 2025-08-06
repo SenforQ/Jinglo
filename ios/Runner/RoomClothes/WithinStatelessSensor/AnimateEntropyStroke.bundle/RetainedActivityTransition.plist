@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeApertureHead</key>
+	<string>hashSinceFramework</string>
+	<key>equipmentFrameworkBorder</key>
+	<string>nodePerPhase</string>
+	<key>requestFormInset</key>
+	<string>builderCompositeSkewx</string>
+	<key>singletonMediatorRotation</key>
+	<string>semanticWidgetInset</string>
+</dict>
+</plist>

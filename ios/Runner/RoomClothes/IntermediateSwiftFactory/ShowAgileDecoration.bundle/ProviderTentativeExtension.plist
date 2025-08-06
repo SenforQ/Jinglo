@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationVarTint</key>
+	<string>frameLevelCount</string>
+	<key>navigationProcessSaturation</key>
+	<string>enabledRadiusTheme</string>
+	<key>sliderDuringProcess</key>
+	<string>columnTaskVelocity</string>
+</dict>
+</plist>

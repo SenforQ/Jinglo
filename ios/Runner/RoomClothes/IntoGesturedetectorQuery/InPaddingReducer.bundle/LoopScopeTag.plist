@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferShapeAcceleration</key>
+	<string>interactiveLayoutInset</string>
+	<key>convolutionJobRate</key>
+	<string>observerFromVar</string>
+	<key>plateFacadeShape</key>
+	<string>blocForChain</string>
+	<key>symbolAroundParam</key>
+	<string>callbackCompositeSize</string>
+</dict>
+</plist>

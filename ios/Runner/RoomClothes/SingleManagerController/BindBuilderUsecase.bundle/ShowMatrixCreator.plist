@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorForAction</key>
+	<string>queueNearBridge</string>
+	<key>histogramAmongVariable</key>
+	<string>threadThroughBuffer</string>
+	<key>immutableBlocTransparency</key>
+	<string>asynchronousCertificateVisible</string>
+	<key>nativeRowDistance</key>
+	<string>reusableGridForce</string>
+	<key>newestScaffoldInset</key>
+	<string>intermediatePetDirection</string>
+	<key>widgetAsCommand</key>
+	<string>managerPatternState</string>
+</dict>
+</plist>

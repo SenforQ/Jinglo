@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsPlatformRate</key>
+	<string>isolateDuringActivity</string>
+	<key>columnProxyPressure</key>
+	<string>playbackByTask</string>
+	<key>heroActivityBorder</key>
+	<string>spriteAgainstScope</string>
+	<key>labelAsState</key>
+	<string>robustBlocType</string>
+	<key>typicalReducerType</key>
+	<string>heroProcessIndex</string>
+</dict>
+</plist>

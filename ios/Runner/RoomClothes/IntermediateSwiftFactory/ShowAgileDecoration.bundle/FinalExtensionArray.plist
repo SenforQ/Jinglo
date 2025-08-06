@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSymbolRate</key>
+	<string>callbackVersusChain</string>
+	<key>channelsAroundForm</key>
+	<string>progressbarAsCommand</string>
+	<key>deferredBoxVisible</key>
+	<string>textureActionLeft</string>
+	<key>methodWithoutCommand</key>
+	<string>lossWithoutPattern</string>
+	<key>opaqueFeatureInset</key>
+	<string>accessibleTablePressure</string>
+	<key>providerEnvironmentInterval</key>
+	<string>appbarByProcess</string>
+	<key>providerJobSpeed</key>
+	<string>entityAsKind</string>
+	<key>reducerOrCycle</key>
+	<string>offsetPerForm</string>
+	<key>stackUntilCycle</key>
+	<string>providerInStyle</string>
+	<key>zoneProcessCenter</key>
+	<string>resolverContainTemple</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWithMemento</key>
+	<string>relationalTabbarTop</string>
+	<key>criticalLabelBottom</key>
+	<string>viewVersusComposite</string>
+	<key>denseSkinStatus</key>
+	<string>callbackInOperation</string>
+	<key>fusedTaskColor</key>
+	<string>scrollableResourceVisibility</string>
+	<key>indicatorSincePattern</key>
+	<string>responseStructureSize</string>
+	<key>injectionLevelTop</key>
+	<string>usedTopicFeedback</string>
+	<key>reducerLayerRight</key>
+	<string>labelWithoutFacade</string>
+	<key>sceneFacadeLeft</key>
+	<string>lostAllocatorBorder</string>
+	<key>sinkProxyEdge</key>
+	<string>metadataOrChain</string>
+</dict>
+</plist>

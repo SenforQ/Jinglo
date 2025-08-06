@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineJobCount</key>
+	<string>projectionStrategyFormat</string>
+	<key>blocWithPattern</key>
+	<string>concurrentEventRotation</string>
+	<key>effectUntilTask</key>
+	<string>directResultSaturation</string>
+	<key>liteHashDepth</key>
+	<string>layoutVersusStyle</string>
+	<key>rapidDurationStyle</key>
+	<string>parallelGrayscaleAppearance</string>
+	<key>staticSpriteDensity</key>
+	<string>tangentInsideMediator</string>
+	<key>transitionIncludeObserver</key>
+	<string>adaptiveIndicatorBorder</string>
+	<key>workflowContainInterpreter</key>
+	<string>subscriptionAndProxy</string>
+</dict>
+</plist>

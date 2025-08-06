@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constAnimationTail</key>
+	<string>blocPrototypeStatus</string>
+	<key>coordinatorFacadeShade</key>
+	<string>containerCycleContrast</string>
+	<key>hierarchicalRowColor</key>
+	<string>reusableEventBrightness</string>
+	<key>interpolationInVar</key>
+	<string>materialHandlerPadding</string>
+	<key>radiusValueInset</key>
+	<string>techniqueWithComposite</string>
+	<key>staticParticleCenter</key>
+	<string>alphaTaskPosition</string>
+	<key>symbolOutsideCycle</key>
+	<string>indicatorAgainstCycle</string>
+</dict>
+</plist>

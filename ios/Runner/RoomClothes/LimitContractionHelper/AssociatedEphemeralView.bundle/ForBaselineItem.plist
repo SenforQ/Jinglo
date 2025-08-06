@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchStrategyVelocity</key>
+	<string>boxTaskShape</string>
+	<key>cartesianProviderKind</key>
+	<string>semanticActionIndex</string>
+	<key>compositionTempleOpacity</key>
+	<string>ternaryUntilFlyweight</string>
+	<key>containerChainDensity</key>
+	<string>textureFromJob</string>
+	<key>convolutionDecoratorBehavior</key>
+	<string>precisionOperationRate</string>
+	<key>firstResolverOpacity</key>
+	<string>dynamicTangentVelocity</string>
+	<key>offsetPerBuffer</key>
+	<string>resolverBesideProcess</string>
+	<key>operationContextDepth</key>
+	<string>activatedGemVisible</string>
+	<key>singleInterpolationMargin</key>
+	<string>deferredTransformerEdge</string>
+</dict>
+</plist>

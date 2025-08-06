@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryEnvironmentValidation</key>
+	<string>richtextOfStyle</string>
+	<key>builderOrPrototype</key>
+	<string>graphFacadeCenter</string>
+	<key>descriptorPatternType</key>
+	<string>handlerSystemSpacing</string>
+	<key>eventParameterTail</key>
+	<string>axisVarLocation</string>
+	<key>layoutStructureBehavior</key>
+	<string>invisibleScrollFeedback</string>
+	<key>materialFactoryOrientation</key>
+	<string>borderSystemDirection</string>
+	<key>numericalPetBrightness</key>
+	<string>behaviorVisitorSaturation</string>
+	<key>primaryEquipmentSaturation</key>
+	<string>directlyTweenHue</string>
+	<key>spotProcessLocation</key>
+	<string>significantTransformerSaturation</string>
+</dict>
+</plist>

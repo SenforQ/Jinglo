@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseOutsideStyle</key>
+	<string>requiredPetOffset</string>
+	<key>boxshadowInsideDecorator</key>
+	<string>immediatePopupFeedback</string>
+	<key>concurrentResolverDistance</key>
+	<string>ephemeralProgressbarTension</string>
+	<key>coordinatorMethodOrigin</key>
+	<string>exceptionPhaseScale</string>
+	<key>descriptorWithoutLayer</key>
+	<string>euclideanSessionRight</string>
+	<key>disabledActionAlignment</key>
+	<string>customizedSpotStatus</string>
+	<key>optimizerAdapterRight</key>
+	<string>cacheFlyweightSpeed</string>
+	<key>pageviewWithAdapter</key>
+	<string>criticalRequestFormat</string>
+	<key>transitionContainKind</key>
+	<string>durationInParameter</string>
+</dict>
+</plist>

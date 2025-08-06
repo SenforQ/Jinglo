@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaModeStyle</key>
+	<string>scaleModeOpacity</string>
+	<key>awaitUntilMemento</key>
+	<string>storageUntilOperation</string>
+	<key>layerFromComposite</key>
+	<string>crudeStackDepth</string>
+	<key>reusableResourcePosition</key>
+	<string>tabbarSystemOrientation</string>
+	<key>scaffoldNearMode</key>
+	<string>responsiveBuilderSpacing</string>
+	<key>stackActionVelocity</key>
+	<string>originalAccessoryRate</string>
+	<key>textfieldOrStyle</key>
+	<string>synchronousTransformerScale</string>
+	<key>threadAsChain</key>
+	<string>hyperbolicInjectionLocation</string>
+</dict>
+</plist>

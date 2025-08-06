@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRowSpeed</key>
+	<string>cardBeyondJob</string>
+	<key>bufferContainStage</key>
+	<string>zoneWorkLeft</string>
+	<key>difficultCubitHue</key>
+	<string>collectionVarState</string>
+	<key>lastBulletStyle</key>
+	<string>columnTierDepth</string>
+	<key>menuBesideVar</key>
+	<string>paddingStageSpeed</string>
+	<key>scrollableGetxKind</key>
+	<string>precisionInDecorator</string>
+	<key>sliderCycleShade</key>
+	<string>animatedcontainerByPhase</string>
+</dict>
+</plist>

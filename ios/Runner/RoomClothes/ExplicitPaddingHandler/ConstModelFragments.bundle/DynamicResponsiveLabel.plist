@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicForKind</key>
+	<string>visibleChannelMargin</string>
+	<key>mobileLoopBrightness</key>
+	<string>protectedQueueSize</string>
+	<key>originalFactoryValidation</key>
+	<string>stateAgainstPhase</string>
+	<key>plateOrCycle</key>
+	<string>blocContextContrast</string>
+	<key>providerScopeName</key>
+	<string>aspectratioIncludeStrategy</string>
+	<key>smartSensorHue</key>
+	<string>resourcePhaseBehavior</string>
+	<key>temporaryRouteRate</key>
+	<string>cubitObserverState</string>
+	<key>uniformDelegateSkewy</key>
+	<string>anchorOperationPadding</string>
+</dict>
+</plist>

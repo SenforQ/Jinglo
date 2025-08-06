@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewAlongStrategy</key>
+	<string>notifierBeyondProxy</string>
+	<key>mutableInkwellOffset</key>
+	<string>permissiveTaskState</string>
+	<key>particleWithoutStrategy</key>
+	<string>crudePrecisionName</string>
+	<key>radiusExceptVisitor</key>
+	<string>widgetAlongChain</string>
+</dict>
+</plist>

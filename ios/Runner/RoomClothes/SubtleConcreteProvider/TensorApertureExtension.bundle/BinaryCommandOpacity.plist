@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAroundKind</key>
+	<string>adaptiveConstraintDepth</string>
+	<key>advancedSpriteDensity</key>
+	<string>symmetricResourceAcceleration</string>
+	<key>currentAllocatorPosition</key>
+	<string>cubitVariableDensity</string>
+	<key>observerTempleStatus</key>
+	<string>transformerNearFlyweight</string>
+	<key>radiusDespiteTemple</key>
+	<string>deferredMenuInteraction</string>
+	<key>textureLevelVelocity</key>
+	<string>actionCompositeSaturation</string>
+	<key>titleNearSingleton</key>
+	<string>anchorStructureName</string>
+</dict>
+</plist>

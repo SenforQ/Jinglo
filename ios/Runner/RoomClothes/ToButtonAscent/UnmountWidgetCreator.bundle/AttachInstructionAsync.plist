@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateInterpreterType</key>
+	<string>staticMusicForce</string>
+	<key>diffableOptimizerBehavior</key>
+	<string>discardedControllerOrientation</string>
+	<key>fixedRoleName</key>
+	<string>reducerScopeTop</string>
+	<key>independentMenuShade</key>
+	<string>cosineFromLayer</string>
+	<key>intensityIncludeScope</key>
+	<string>swiftWithoutCycle</string>
+	<key>staticTableVisibility</key>
+	<string>featureWorkContrast</string>
+	<key>symmetricSegmentOpacity</key>
+	<string>disparateInterpolationScale</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constRadiusVelocity</key>
+	<string>assetOrComposite</string>
+	<key>labelContextPosition</key>
+	<string>localizationAwayEnvironment</string>
+	<key>requestSingletonDelay</key>
+	<string>staticNodeContrast</string>
+	<key>spotOperationResponse</key>
+	<string>certificateOrChain</string>
+	<key>statefulListviewScale</key>
+	<string>ternaryLikeDecorator</string>
+	<key>zoneAtVar</key>
+	<string>sortedPromiseEdge</string>
+</dict>
+</plist>

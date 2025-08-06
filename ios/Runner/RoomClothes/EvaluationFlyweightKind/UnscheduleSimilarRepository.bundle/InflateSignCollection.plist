@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousThemeScale</key>
+	<string>imageTempleRight</string>
+	<key>bufferIncludeProcess</key>
+	<string>textBesideMode</string>
+	<key>graphicSingletonTheme</key>
+	<string>dynamicPresenterState</string>
+	<key>methodPrototypeSpacing</key>
+	<string>missedNodeShade</string>
+	<key>navigatorProcessFeedback</key>
+	<string>activeReductionDelay</string>
+	<key>navigatorThroughVar</key>
+	<string>nativeEventInset</string>
+	<key>otherCompletionAppearance</key>
+	<string>interactorVarColor</string>
+	<key>rowStructureOffset</key>
+	<string>hyperbolicContainerFlags</string>
+</dict>
+</plist>

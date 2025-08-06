@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioThroughTask</key>
+	<string>utilChainFrequency</string>
+	<key>baselineAgainstComposite</key>
+	<string>stackThroughInterpreter</string>
+	<key>dimensionUntilEnvironment</key>
+	<string>significantCommandAlignment</string>
+	<key>immediateCommandStyle</key>
+	<string>tickerNearDecorator</string>
+	<key>logVarTransparency</key>
+	<string>cacheAlongOperation</string>
+	<key>momentumScopeSize</key>
+	<string>localizationWithStrategy</string>
+	<key>nextPetDensity</key>
+	<string>uniformCurveOrientation</string>
+	<key>numericalScaffoldOpacity</key>
+	<string>enabledControllerDistance</string>
+	<key>radiusDuringChain</key>
+	<string>bitrateBesideLevel</string>
+</dict>
+</plist>

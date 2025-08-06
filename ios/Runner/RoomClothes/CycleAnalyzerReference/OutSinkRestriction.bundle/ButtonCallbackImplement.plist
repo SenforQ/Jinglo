@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityForJob</key>
+	<string>animatedTransitionInset</string>
+	<key>agileAxisPosition</key>
+	<string>materialSegueState</string>
+	<key>blocExceptEnvironment</key>
+	<string>requiredCellKind</string>
+	<key>customGraphSize</key>
+	<string>opaqueFactoryDelay</string>
+	<key>histogramFacadeName</key>
+	<string>sliderNumberSpeed</string>
+	<key>interpolationViaCycle</key>
+	<string>declarativeBuilderSize</string>
+	<key>primaryZoneHead</key>
+	<string>missedMenuCenter</string>
+	<key>reusableThreadName</key>
+	<string>activityAsFacade</string>
+</dict>
+</plist>

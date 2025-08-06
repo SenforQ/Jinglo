@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationIncludeLayer</key>
+	<string>aspectOrAdapter</string>
+	<key>responseIncludeOperation</key>
+	<string>controllerPerInterpreter</string>
+	<key>taskOutsideComposite</key>
+	<string>configurationAwayStructure</string>
+	<key>transformerParameterDepth</key>
+	<string>streamActivityCenter</string>
+</dict>
+</plist>

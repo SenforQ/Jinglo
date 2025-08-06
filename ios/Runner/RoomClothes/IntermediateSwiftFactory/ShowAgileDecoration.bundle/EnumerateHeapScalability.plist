@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionTierFeedback</key>
+	<string>adaptiveGradientIndex</string>
+	<key>compositionThroughTier</key>
+	<string>checkboxSingletonShade</string>
+	<key>intensityContainActivity</key>
+	<string>visibleUsecasePressure</string>
+	<key>labelOrFunction</key>
+	<string>discardedFutureDepth</string>
+	<key>reductionAlongAction</key>
+	<string>interpolationDuringAdapter</string>
+	<key>remainderStageForce</key>
+	<string>streamFormDepth</string>
+	<key>resourceOfParameter</key>
+	<string>sensorPhaseAcceleration</string>
+	<key>routeStructureDepth</key>
+	<string>respectiveImageAlignment</string>
+	<key>textOutsideFramework</key>
+	<string>persistentViewStyle</string>
+</dict>
+</plist>

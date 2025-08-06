@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetPrototypeMode</key>
+	<string>synchronousGroupStatus</string>
+	<key>basicRectDelay</key>
+	<string>sinkNearState</string>
+	<key>cacheSystemSkewy</key>
+	<string>featureUntilMediator</string>
+	<key>concreteRequestStyle</key>
+	<string>groupFromCycle</string>
+	<key>reactiveCubitVisibility</key>
+	<string>allocatorNumberTransparency</string>
+	<key>tickerProcessTop</key>
+	<string>serviceAndMethod</string>
+</dict>
+</plist>

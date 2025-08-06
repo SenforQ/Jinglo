@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentFlyweightTransparency</key>
+	<string>positionedPerTier</string>
+	<key>kernelInterpreterRight</key>
+	<string>bufferVisitorFormat</string>
+	<key>permissiveCheckboxDelay</key>
+	<string>signVisitorSpacing</string>
+	<key>transitionCompositeContrast</key>
+	<string>responseAsLayer</string>
+</dict>
+</plist>

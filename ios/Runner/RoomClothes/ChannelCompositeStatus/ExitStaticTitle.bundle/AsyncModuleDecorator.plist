@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLayerDensity</key>
+	<string>frameValueCenter</string>
+	<key>cellOutsideFacade</key>
+	<string>fusedStepAppearance</string>
+	<key>gesturedetectorCycleDelay</key>
+	<string>gridviewActivityLeft</string>
+	<key>menuWithoutDecorator</key>
+	<string>chapterExceptJob</string>
+	<key>nativeStepAlignment</key>
+	<string>visiblePointTop</string>
+	<key>navigationWorkTint</key>
+	<string>layerFormSkewx</string>
+	<key>nibFormOrigin</key>
+	<string>sliderLikeAdapter</string>
+	<key>particleTaskKind</key>
+	<string>effectThanMode</string>
+</dict>
+</plist>

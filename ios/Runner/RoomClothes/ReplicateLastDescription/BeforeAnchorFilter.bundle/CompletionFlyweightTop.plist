@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTweenOrigin</key>
+	<string>lostPresenterVelocity</string>
+	<key>columnOutsideStage</key>
+	<string>customizedFutureTransparency</string>
+	<key>concurrentTickerKind</key>
+	<string>controllerOutsideFlyweight</string>
+	<key>memberLikePattern</key>
+	<string>enabledCoordinatorFrequency</string>
+	<key>offsetTempleShade</key>
+	<string>binaryFacadeBound</string>
+	<key>smallParticleDepth</key>
+	<string>textStructureVisibility</string>
+	<key>typicalBorderColor</key>
+	<string>routeFacadeRate</string>
+</dict>
+</plist>

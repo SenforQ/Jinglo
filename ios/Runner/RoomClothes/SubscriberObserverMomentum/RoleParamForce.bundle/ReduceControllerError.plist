@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSceneRotation</key>
+	<string>radiusKindDistance</string>
+	<key>asyncParameterRight</key>
+	<string>tickerMethodVisibility</string>
+	<key>positionedFromOperation</key>
+	<string>managerAndPhase</string>
+	<key>relationalAnimationState</key>
+	<string>similarInteractorOrientation</string>
+	<key>sinkAsFlyweight</key>
+	<string>associatedInstructionName</string>
+</dict>
+</plist>

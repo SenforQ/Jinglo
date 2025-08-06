@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandOperationDensity</key>
+	<string>geometricOperationLocation</string>
+	<key>controllerOutsideLayer</key>
+	<string>animationTierOffset</string>
+	<key>errorChainDelay</key>
+	<string>sliderNumberPosition</string>
+	<key>mainScrollType</key>
+	<string>delegateMediatorRight</string>
+	<key>momentumObserverPosition</key>
+	<string>configurationProcessBrightness</string>
+	<key>sinkTypeFlags</key>
+	<string>behaviorStrategyPressure</string>
+</dict>
+</plist>

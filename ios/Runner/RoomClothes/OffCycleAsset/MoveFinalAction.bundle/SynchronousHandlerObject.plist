@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSlashInteraction</key>
+	<string>requestThroughEnvironment</string>
+	<key>interactorBeyondActivity</key>
+	<string>similarProgressbarInset</string>
+	<key>keyEffectScale</key>
+	<string>publicAlphaForce</string>
+	<key>matrixBridgeVisibility</key>
+	<string>lostUsecaseKind</string>
+	<key>nativeDescriptionSpeed</key>
+	<string>repositoryOrType</string>
+	<key>previewByType</key>
+	<string>gesturedetectorBeyondTemple</string>
+	<key>responseTierInterval</key>
+	<string>navigatorShapeDensity</string>
+	<key>responsiveConstraintStatus</key>
+	<string>queryLayerFeedback</string>
+	<key>sliderParamStyle</key>
+	<string>disabledEntityOffset</string>
+</dict>
+</plist>

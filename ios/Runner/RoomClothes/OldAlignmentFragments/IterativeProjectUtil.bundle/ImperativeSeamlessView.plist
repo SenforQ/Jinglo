@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesFormRate</key>
+	<string>sizedboxNearTask</string>
+	<key>commonActionResponse</key>
+	<string>requiredPainterShade</string>
+	<key>fusedTickerType</key>
+	<string>heapViaBridge</string>
+	<key>independentPlaybackVelocity</key>
+	<string>progressbarAsBuffer</string>
+	<key>layoutPhaseFrequency</key>
+	<string>extensionTaskRight</string>
+	<key>modalStateState</key>
+	<string>vectorThroughParameter</string>
+	<key>titleFlyweightMargin</key>
+	<string>flexibleOffsetTheme</string>
+	<key>usecaseTypeHead</key>
+	<string>contractionContainType</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorSinceObserver</key>
+	<string>pointSinceMode</string>
+	<key>documentFunctionIndex</key>
+	<string>transitionMethodShape</string>
+	<key>featurePhaseFormat</key>
+	<string>observerAlongMediator</string>
+	<key>gateObserverOrigin</key>
+	<string>primaryIsolateInset</string>
+	<key>inheritedBlocState</key>
+	<string>inactiveCompositionPadding</string>
+	<key>significantFrameBehavior</key>
+	<string>baseSinceVar</string>
+	<key>staticTabbarTension</key>
+	<string>fusedHashTension</string>
+	<key>subscriptionSinceStage</key>
+	<string>secondPositionTag</string>
+</dict>
+</plist>

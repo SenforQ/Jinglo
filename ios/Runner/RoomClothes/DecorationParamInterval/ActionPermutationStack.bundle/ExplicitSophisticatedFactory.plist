@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOfProcess</key>
+	<string>constDurationHead</string>
+	<key>baselineUntilPhase</key>
+	<string>multiplicationExceptChain</string>
+	<key>callbackStageTag</key>
+	<string>repositoryOrVisitor</string>
+	<key>controllerFlyweightValidation</key>
+	<string>methodDespiteParameter</string>
+	<key>customizedConstraintOffset</key>
+	<string>histogramAgainstParam</string>
+	<key>integerThroughSystem</key>
+	<string>cardActivitySkewy</string>
+	<key>modelFrameworkRotation</key>
+	<string>cubitFunctionSize</string>
+	<key>rowThroughKind</key>
+	<string>routePerPattern</string>
+	<key>secondStateEdge</key>
+	<string>scrollDuringInterpreter</string>
+</dict>
+</plist>

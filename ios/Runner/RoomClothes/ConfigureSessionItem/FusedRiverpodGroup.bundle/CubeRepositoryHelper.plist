@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPatternInteraction</key>
+	<string>textWithoutCommand</string>
+	<key>comprehensiveSensorTransparency</key>
+	<string>textCommandValidation</string>
+	<key>cupertinoStrategyForce</key>
+	<string>priorTransformerTint</string>
+	<key>exceptionVersusKind</key>
+	<string>permissiveOffsetForce</string>
+	<key>granularFlexTension</key>
+	<string>intuitiveBlocSkewx</string>
+	<key>localStateFeedback</key>
+	<string>commonDecorationStyle</string>
+	<key>oldAsyncMomentum</key>
+	<string>awaitVersusLevel</string>
+	<key>permanentChallengeName</key>
+	<string>contractionSinceTemple</string>
+	<key>semanticStackInteraction</key>
+	<string>materialScreenAppearance</string>
+</dict>
+</plist>

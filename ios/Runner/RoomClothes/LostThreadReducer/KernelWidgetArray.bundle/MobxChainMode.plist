@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPrototypeTint</key>
+	<string>anchorContainStage</string>
+	<key>certificateAtAdapter</key>
+	<string>zoneCommandShade</string>
+	<key>mobileSingletonBottom</key>
+	<string>responsiveProviderResponse</string>
+	<key>streamOrFunction</key>
+	<string>protectedSegueTint</string>
+	<key>tensorViewFormat</key>
+	<string>granularCatalystTension</string>
+</dict>
+</plist>

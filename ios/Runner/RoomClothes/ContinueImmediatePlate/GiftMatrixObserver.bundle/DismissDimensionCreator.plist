@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFacadeShape</key>
+	<string>plateTierVisible</string>
+	<key>alignmentIncludeMethod</key>
+	<string>batchPerPhase</string>
+	<key>appbarTaskKind</key>
+	<string>listenerEnvironmentShape</string>
+	<key>autoNavigatorBound</key>
+	<string>metadataByKind</string>
+	<key>inkwellCompositeHead</key>
+	<string>consultativeResourceMomentum</string>
+</dict>
+</plist>

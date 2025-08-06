@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoGridColor</key>
+	<string>primaryWidgetShade</string>
+	<key>lazyTitleColor</key>
+	<string>multiAwaitTransparency</string>
+	<key>musicAsFunction</key>
+	<string>checklistKindRate</string>
+	<key>typicalCursorSkewy</key>
+	<string>swiftWithoutFlyweight</string>
+</dict>
+</plist>

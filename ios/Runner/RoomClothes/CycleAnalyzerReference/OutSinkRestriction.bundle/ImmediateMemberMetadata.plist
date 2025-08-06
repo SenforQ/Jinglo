@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledPresenterOrigin</key>
+	<string>prevLoopBound</string>
+	<key>firstTransitionValidation</key>
+	<string>persistentBrushResponse</string>
+	<key>monsterTypeMargin</key>
+	<string>relationalLocalizationSize</string>
+	<key>precisionOperationAppearance</key>
+	<string>responsePhaseRotation</string>
+	<key>robustSinkSaturation</key>
+	<string>segmentScopeState</string>
+	<key>scrollableSineDelay</key>
+	<string>previewProxyCount</string>
+	<key>sliderInType</key>
+	<string>interactiveEffectShape</string>
+	<key>subpixelProxySaturation</key>
+	<string>permissivePopupSpeed</string>
+	<key>transitionSystemContrast</key>
+	<string>channelSingletonContrast</string>
+</dict>
+</plist>

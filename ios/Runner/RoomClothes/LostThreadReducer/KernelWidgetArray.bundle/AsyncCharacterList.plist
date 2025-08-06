@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopLossDuration</key>
+	<string>constraintAndState</string>
+	<key>dimensionOrFlyweight</key>
+	<string>fusedIndicatorHue</string>
+	<key>diversifiedChapterScale</key>
+	<string>cupertinoFrameworkScale</string>
+	<key>gesturedetectorDuringScope</key>
+	<string>streamSingletonColor</string>
+	<key>mobileByTask</key>
+	<string>spineStateSkewx</string>
+	<key>presenterCommandDistance</key>
+	<string>smallGroupVisibility</string>
+	<key>responsiveAspectratioMargin</key>
+	<string>exceptionWithoutBuffer</string>
+	<key>routerScopeHue</key>
+	<string>inheritedScreenRight</string>
+	<key>sessionInJob</key>
+	<string>globalResultFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedTaskFeedback</key>
+	<string>flexBeyondStructure</string>
+	<key>hashWithoutSystem</key>
+	<string>unaryAgainstSingleton</string>
+	<key>ignoredTouchName</key>
+	<string>tappableBuilderLeft</string>
+	<key>promiseParamShade</key>
+	<string>unsortedResultSpeed</string>
+	<key>serviceStyleDirection</key>
+	<string>statefulGetxInset</string>
+	<key>singletonCompositeRate</key>
+	<string>otherHandlerTint</string>
+	<key>sliderCommandMode</key>
+	<string>discardedDurationVisibility</string>
+	<key>subpixelObserverType</key>
+	<string>heroEnvironmentTheme</string>
+	<key>unaryInterpreterTag</key>
+	<string>vectorKindTransparency</string>
+</dict>
+</plist>

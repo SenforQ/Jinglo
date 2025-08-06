@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPageviewInteraction</key>
+	<string>disparateContainerOrientation</string>
+	<key>criticalTransitionSaturation</key>
+	<string>resizableViewCenter</string>
+	<key>delegateCycleFlags</key>
+	<string>cosineOfProcess</string>
+	<key>monsterBufferBorder</key>
+	<string>backwardTickerScale</string>
+	<key>navigationPrototypeDirection</key>
+	<string>themeViaAdapter</string>
+	<key>normalClipperBorder</key>
+	<string>agileStorageDensity</string>
+	<key>statelessLayerSpeed</key>
+	<string>displayableCosineAlignment</string>
+</dict>
+</plist>

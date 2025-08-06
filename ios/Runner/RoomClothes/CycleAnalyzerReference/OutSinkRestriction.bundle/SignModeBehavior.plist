@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardBridgeHead</key>
+	<string>lossStageRotation</string>
+	<key>cubitSystemKind</key>
+	<string>ignoredPresenterSaturation</string>
+	<key>deferredTextureName</key>
+	<string>lostScaleState</string>
+	<key>easySizeFormat</key>
+	<string>discardedGateBehavior</string>
+	<key>grainSystemEdge</key>
+	<string>layerNumberLeft</string>
+	<key>immutableQueueMargin</key>
+	<string>labelDespitePrototype</string>
+	<key>protocolPatternMode</key>
+	<string>stateObserverState</string>
+	<key>queueLevelDepth</key>
+	<string>listviewVarAppearance</string>
+	<key>responsiveChartDirection</key>
+	<string>cacheDespiteForm</string>
+</dict>
+</plist>

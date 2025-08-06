@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPerShape</key>
+	<string>iterativeArithmeticMode</string>
+	<key>decorationTaskVisible</key>
+	<string>pinchableControllerVelocity</string>
+	<key>mediaTempleStatus</key>
+	<string>similarHeapSaturation</string>
+	<key>playbackFacadeEdge</key>
+	<string>radioObserverInset</string>
+	<key>prevContainerVisible</key>
+	<string>resizableDialogsInterval</string>
+	<key>requestParamPadding</key>
+	<string>screenNumberVelocity</string>
+	<key>statelessContextFlags</key>
+	<string>deferredRowRate</string>
+</dict>
+</plist>

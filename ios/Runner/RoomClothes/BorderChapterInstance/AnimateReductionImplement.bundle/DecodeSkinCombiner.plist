@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisStageSkewx</key>
+	<string>tangentBufferHue</string>
+	<key>compositionalTweenFrequency</key>
+	<string>significantTextScale</string>
+	<key>convolutionPrototypeBehavior</key>
+	<string>nativeTransitionEdge</string>
+	<key>largeRepositorySpeed</key>
+	<string>typicalFutureSaturation</string>
+	<key>matrixTypePressure</key>
+	<string>matrixIncludeStrategy</string>
+	<key>semanticCupertinoFrequency</key>
+	<string>multiGroupPosition</string>
+	<key>textIncludeStyle</key>
+	<string>customInteractorBrightness</string>
+</dict>
+</plist>

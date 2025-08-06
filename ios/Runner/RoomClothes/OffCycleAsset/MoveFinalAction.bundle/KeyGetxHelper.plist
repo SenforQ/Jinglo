@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchStrategyEdge</key>
+	<string>responseAndProxy</string>
+	<key>containerAsMode</key>
+	<string>smartIsolateInset</string>
+	<key>cosineDuringLevel</key>
+	<string>ternaryDuringType</string>
+	<key>deferredErrorIndex</key>
+	<string>modalPrototypeFrequency</string>
+	<key>managerPlatformMomentum</key>
+	<string>menuStructureSpacing</string>
+	<key>missedNodeOpacity</key>
+	<string>notifierMementoPadding</string>
+	<key>multiCosineAcceleration</key>
+	<string>positionBesideActivity</string>
+	<key>parallelDescriptionOffset</key>
+	<string>decorationVersusKind</string>
+	<key>spotOperationIndex</key>
+	<string>featurePerBridge</string>
+	<key>stepAtKind</key>
+	<string>protectedResourceRate</string>
+</dict>
+</plist>

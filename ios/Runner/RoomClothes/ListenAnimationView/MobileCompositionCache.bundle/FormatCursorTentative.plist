@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerValueOrigin</key>
+	<string>nibOperationTop</string>
+	<key>gestureAdapterOrigin</key>
+	<string>entityDuringObserver</string>
+	<key>menuTypeOffset</key>
+	<string>cubitBufferSpacing</string>
+	<key>multiNavigatorOpacity</key>
+	<string>spriteMethodScale</string>
+	<key>operationLevelKind</key>
+	<string>cupertinoPromiseBound</string>
+	<key>progressbarOfMediator</key>
+	<string>swiftInterpreterPadding</string>
+	<key>significantGrainMode</key>
+	<string>immediatePositionedRight</string>
+	<key>similarAnimationVisibility</key>
+	<string>techniqueThroughPattern</string>
+	<key>tweenActionDuration</key>
+	<string>sequentialLoopMomentum</string>
+</dict>
+</plist>

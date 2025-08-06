@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticActionSaturation</key>
+	<string>autoChannelsBorder</string>
+	<key>completerAmongForm</key>
+	<string>singleEventAppearance</string>
+	<key>grainFrameworkAlignment</key>
+	<string>resourceBesideFramework</string>
+	<key>resultBridgeEdge</key>
+	<string>textCommandTag</string>
+	<key>subpixelDespiteChain</key>
+	<string>workflowPerStage</string>
+	<key>threadVariableBound</key>
+	<string>primaryMaterialTag</string>
+</dict>
+</plist>

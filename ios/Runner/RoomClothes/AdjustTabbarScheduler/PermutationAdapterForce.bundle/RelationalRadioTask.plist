@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncInteractorSpeed</key>
+	<string>usecaseAmongBuffer</string>
+	<key>backwardInterpolationIndex</key>
+	<string>flexInsideFlyweight</string>
+	<key>bufferSingletonRate</key>
+	<string>signAndMode</string>
+	<key>chartSingletonCount</key>
+	<string>buttonBridgeFeedback</string>
+	<key>dynamicFrameIndex</key>
+	<string>semanticListviewFormat</string>
+	<key>histogramForMediator</key>
+	<string>opaqueDurationCount</string>
+	<key>projectionEnvironmentDepth</key>
+	<string>tappableBlocFormat</string>
+	<key>signatureBridgeFlags</key>
+	<string>viewInterpreterSkewx</string>
+	<key>significantCupertinoLeft</key>
+	<string>skinVarMargin</string>
+	<key>uniformTabviewSaturation</key>
+	<string>smartTextfieldBrightness</string>
+</dict>
+</plist>

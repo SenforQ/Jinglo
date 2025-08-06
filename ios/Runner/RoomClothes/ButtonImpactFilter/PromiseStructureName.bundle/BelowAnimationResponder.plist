@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncUnaryContrast</key>
+	<string>collectionChainMode</string>
+	<key>injectionOfWork</key>
+	<string>gridChainAppearance</string>
+	<key>materialUtilInset</key>
+	<string>logStrategySaturation</string>
+	<key>observerOutsideScope</key>
+	<string>decorationUntilDecorator</string>
+	<key>riverpodExceptStage</key>
+	<string>cursorEnvironmentKind</string>
+	<key>sampleOrScope</key>
+	<string>hierarchicalTransformerContrast</string>
+</dict>
+</plist>

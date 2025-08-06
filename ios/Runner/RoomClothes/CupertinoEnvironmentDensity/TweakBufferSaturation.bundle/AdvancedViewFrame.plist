@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionOutsidePlatform</key>
+	<string>pinchableTextfieldDensity</string>
+	<key>geometricActivityInterval</key>
+	<string>builderParamSkewy</string>
+	<key>layoutAboutSingleton</key>
+	<string>fixedQueueKind</string>
+	<key>momentumAndContext</key>
+	<string>positionChainDensity</string>
+	<key>navigatorParamShape</key>
+	<string>swiftMementoHue</string>
+	<key>resizableLoopContrast</key>
+	<string>descriptorMediatorCoord</string>
+	<key>routerFlyweightInteraction</key>
+	<string>multiDecorationLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectUntilSystem</key>
+	<string>ignoredAlertAcceleration</string>
+	<key>coordinatorParamVisibility</key>
+	<string>tickerAmongEnvironment</string>
+	<key>gradientProcessTheme</key>
+	<string>kernelBeyondMemento</string>
+	<key>grainPhaseColor</key>
+	<string>threadAwayPattern</string>
+	<key>imagePerState</key>
+	<string>borderFrameworkInteraction</string>
+	<key>popupSinceFunction</key>
+	<string>titleBeyondOperation</string>
+	<key>presenterThanMode</key>
+	<string>rowInterpreterAlignment</string>
+</dict>
+</plist>

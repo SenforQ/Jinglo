@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAgainstObserver</key>
+	<string>declarativeThreadSkewx</string>
+	<key>autoTableHue</key>
+	<string>decorationDespiteBridge</string>
+	<key>interactorStructureSpacing</key>
+	<string>navigationExceptMethod</string>
+	<key>materialViaType</key>
+	<string>appbarCommandOpacity</string>
+	<key>mutableWorkflowState</key>
+	<string>taskOperationVelocity</string>
+	<key>notifierPlatformRotation</key>
+	<string>stackExceptState</string>
+	<key>observerCompositeScale</key>
+	<string>unsortedConstraintDelay</string>
+	<key>permanentManagerTheme</key>
+	<string>optionOrTask</string>
+	<key>unsortedTransformerContrast</key>
+	<string>resourceBufferVisible</string>
+</dict>
+</plist>

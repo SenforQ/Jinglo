@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMethodTransparency</key>
+	<string>desktopCompositionShade</string>
+	<key>custompaintCycleAppearance</key>
+	<string>hierarchicalTransitionFeedback</string>
+	<key>prevNavigationShade</key>
+	<string>giftTaskType</string>
+	<key>providerIncludeNumber</key>
+	<string>listenerFromMediator</string>
+	<key>reactiveSkirtAcceleration</key>
+	<string>viewAwayCycle</string>
+	<key>sustainableHashAppearance</key>
+	<string>gemAndTemple</string>
+	<key>temporarySingletonBottom</key>
+	<string>streamWithMode</string>
+	<key>tensorActionOrientation</key>
+	<string>histogramActionVisibility</string>
+</dict>
+</plist>

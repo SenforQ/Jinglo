@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nibMethodFlags</key>
+	<string>reducerVisitorType</string>
+	<key>observerSingletonTop</key>
+	<string>opaqueAnimationMode</string>
+	<key>queryDuringSingleton</key>
+	<string>positionedEnvironmentShape</string>
+	<key>staticTransitionOpacity</key>
+	<string>optimizerActivityTag</string>
+	<key>unactivatedTabbarDelay</key>
+	<string>tickerAboutFunction</string>
+</dict>
+</plist>

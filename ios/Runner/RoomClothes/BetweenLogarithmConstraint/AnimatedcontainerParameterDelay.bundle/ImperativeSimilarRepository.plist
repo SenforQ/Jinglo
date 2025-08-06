@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleExceptObserver</key>
+	<string>gateAmongScope</string>
+	<key>dropdownbuttonExceptActivity</key>
+	<string>fragmentDespiteScope</string>
+	<key>featureMethodHead</key>
+	<string>operationLayerRotation</string>
+	<key>independentGramLocation</key>
+	<string>sliderTypeAlignment</string>
+	<key>permanentFramePadding</key>
+	<string>fixedCharacterVisible</string>
+	<key>sequentialPositionedMomentum</key>
+	<string>queueMediatorFormat</string>
+	<key>statelessFunctionVelocity</key>
+	<string>otherCycleVisible</string>
+</dict>
+</plist>

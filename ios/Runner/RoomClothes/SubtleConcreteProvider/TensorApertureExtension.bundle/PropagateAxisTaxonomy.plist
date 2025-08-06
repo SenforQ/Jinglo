@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiGramTheme</key>
+	<string>basicTitleStatus</string>
+	<key>pointOutsideBuffer</key>
+	<string>constraintAlongKind</string>
+	<key>presenterBeyondShape</key>
+	<string>kernelTaskBorder</string>
+	<key>threadOutsideAdapter</key>
+	<string>giftChainPadding</string>
+	<key>tickerFormFormat</key>
+	<string>positionedJobRate</string>
+</dict>
+</plist>

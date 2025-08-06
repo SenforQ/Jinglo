@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeControllerKind</key>
+	<string>hashShapeDuration</string>
+	<key>cupertinoCoordinatorStyle</key>
+	<string>interactorDespitePhase</string>
+	<key>cupertinoNumberHead</key>
+	<string>deferredBaseTail</string>
+	<key>customViewScale</key>
+	<string>expandedAwayPhase</string>
+	<key>deferredTextureDistance</key>
+	<string>basicCompletionStyle</string>
+	<key>imperativeViewStyle</key>
+	<string>switchValuePadding</string>
+	<key>inactiveAsyncTail</key>
+	<string>adaptiveControllerDensity</string>
+	<key>largeAppbarAppearance</key>
+	<string>reusableAxisSpacing</string>
+	<key>priorityViaEnvironment</key>
+	<string>delicateMovementSpacing</string>
+	<key>routeContextName</key>
+	<string>operationPrototypeAcceleration</string>
+</dict>
+</plist>

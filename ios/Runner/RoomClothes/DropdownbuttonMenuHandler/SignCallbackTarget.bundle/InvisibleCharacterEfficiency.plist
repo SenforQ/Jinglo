@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOperationColor</key>
+	<string>missionScopeAcceleration</string>
+	<key>controllerStyleTint</key>
+	<string>missionWithoutTier</string>
+	<key>injectionThroughInterpreter</key>
+	<string>concurrentRowBrightness</string>
+	<key>lostPointVelocity</key>
+	<string>subpixelStateFrequency</string>
+	<key>numericalContainerPadding</key>
+	<string>listenerOutsideComposite</string>
+	<key>positionAwayBuffer</key>
+	<string>loopAdapterFlags</string>
+	<key>radiusUntilPhase</key>
+	<string>techniqueParamBound</string>
+	<key>semanticStorageTint</key>
+	<string>asyncDrawerLeft</string>
+</dict>
+</plist>

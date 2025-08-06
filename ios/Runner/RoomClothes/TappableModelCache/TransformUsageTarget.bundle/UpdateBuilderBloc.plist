@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVisitorColor</key>
+	<string>widgetBesideNumber</string>
+	<key>completerVersusNumber</key>
+	<string>chartWithoutNumber</string>
+	<key>cupertinoInterpreterTransparency</key>
+	<string>nativeInterpolationIndex</string>
+	<key>layoutAsJob</key>
+	<string>referenceAlongTier</string>
+	<key>missedIntensityInset</key>
+	<string>pinchableScrollTail</string>
+	<key>mutableReferenceRotation</key>
+	<string>crudeRouteTag</string>
+	<key>queueMediatorColor</key>
+	<string>instructionDuringShape</string>
+	<key>responseSinceAdapter</key>
+	<string>globalStoryboardBrightness</string>
+	<key>techniqueLayerSkewy</key>
+	<string>semanticMomentumBrightness</string>
+</dict>
+</plist>

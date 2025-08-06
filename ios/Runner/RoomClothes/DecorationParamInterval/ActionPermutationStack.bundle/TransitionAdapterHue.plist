@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeAdapterShape</key>
+	<string>synchronousErrorResponse</string>
+	<key>consultativeStreamVisibility</key>
+	<string>localizationAroundObserver</string>
+	<key>dedicatedGridInterval</key>
+	<string>nibTempleInteraction</string>
+	<key>explicitDialogsState</key>
+	<string>declarativeCubeInteraction</string>
+	<key>fragmentOutsidePhase</key>
+	<string>monsterAlongParam</string>
+	<key>observerByProxy</key>
+	<string>boxVisitorBehavior</string>
+	<key>offsetWithPlatform</key>
+	<string>channelsPlatformStatus</string>
+	<key>resolverThroughCycle</key>
+	<string>gridForLevel</string>
+	<key>sensorMediatorMode</key>
+	<string>enabledIconAppearance</string>
+</dict>
+</plist>

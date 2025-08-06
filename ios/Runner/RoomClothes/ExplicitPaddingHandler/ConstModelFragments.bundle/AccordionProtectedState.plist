@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioPerContext</key>
+	<string>eventForAdapter</string>
+	<key>aspectratioValueRate</key>
+	<string>layoutViaOperation</string>
+	<key>batchByFacade</key>
+	<string>usedUsecaseIndex</string>
+	<key>customizedDialogsRate</key>
+	<string>lossActionStatus</string>
+	<key>opaqueListviewVisible</key>
+	<string>profileProcessResponse</string>
+	<key>promiseLevelEdge</key>
+	<string>aspectStyleFormat</string>
+	<key>routerFlyweightTheme</key>
+	<string>lostSpineStyle</string>
+	<key>sequentialEffectValidation</key>
+	<string>arithmeticDespiteCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSingletonShade</key>
+	<string>eventModeOrientation</string>
+	<key>featureBeyondLayer</key>
+	<string>accordionAssetName</string>
+	<key>futureContextPosition</key>
+	<string>elasticBoxshadowIndex</string>
+	<key>geometricLoopResponse</key>
+	<string>geometricBorderName</string>
+	<key>interfaceNumberOrigin</key>
+	<string>resolverPerNumber</string>
+	<key>normAtLayer</key>
+	<string>petLevelLocation</string>
+	<key>primaryProfileDirection</key>
+	<string>progressbarInActivity</string>
+</dict>
+</plist>

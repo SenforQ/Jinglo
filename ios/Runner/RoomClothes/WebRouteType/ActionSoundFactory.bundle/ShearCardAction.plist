@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorBridgeDirection</key>
+	<string>gestureModeHead</string>
+	<key>builderLevelName</key>
+	<string>sharedDelegateBrightness</string>
+	<key>checklistMediatorSpeed</key>
+	<string>localizationStateOpacity</string>
+	<key>inheritedDurationEdge</key>
+	<string>deferredFutureFeedback</string>
+	<key>positionedAtFacade</key>
+	<string>vectorAtFunction</string>
+	<key>responsiveTransitionBrightness</key>
+	<string>navigationAlongTier</string>
+	<key>statefulTypeHead</key>
+	<string>localColumnBrightness</string>
+	<key>textureMementoTransparency</key>
+	<string>alphaFormPadding</string>
+	<key>transformerStructureTint</key>
+	<string>explicitObserverBorder</string>
+</dict>
+</plist>

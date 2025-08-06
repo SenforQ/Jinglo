@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileSessionRight</key>
+	<string>observerCompositeInteraction</string>
+	<key>positionBridgeForce</key>
+	<string>labelVisitorShape</string>
+	<key>singletonAmongType</key>
+	<string>loopContainPlatform</string>
+	<key>widgetContainPhase</key>
+	<string>standaloneRowOffset</string>
+</dict>
+</plist>

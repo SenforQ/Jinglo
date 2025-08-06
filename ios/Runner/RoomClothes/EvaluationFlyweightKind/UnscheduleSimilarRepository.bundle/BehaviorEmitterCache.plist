@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryDuringState</key>
+	<string>dedicatedKernelOffset</string>
+	<key>globalSymbolState</key>
+	<string>prevSwiftTail</string>
+	<key>granularPageviewBrightness</key>
+	<string>hashForPlatform</string>
+	<key>widgetNearProxy</key>
+	<string>statefulStrategySpeed</string>
+</dict>
+</plist>

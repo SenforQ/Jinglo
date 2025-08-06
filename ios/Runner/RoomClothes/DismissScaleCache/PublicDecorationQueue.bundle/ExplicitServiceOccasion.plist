@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxDespiteVisitor</key>
+	<string>prevTickerHead</string>
+	<key>callbackFunctionFormat</key>
+	<string>modelFlyweightResponse</string>
+	<key>methodViaContext</key>
+	<string>textureOrDecorator</string>
+	<key>seamlessSpriteInteraction</key>
+	<string>asyncAllocatorName</string>
+	<key>transitionAwayVar</key>
+	<string>particleMethodColor</string>
+	<key>transitionMementoSkewx</key>
+	<string>injectionAmongPlatform</string>
+</dict>
+</plist>

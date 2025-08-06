@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineNearProcess</key>
+	<string>widgetProxyDelay</string>
+	<key>cubitAgainstBuffer</key>
+	<string>commandShapeIndex</string>
+	<key>cubitAroundState</key>
+	<string>sinkViaForm</string>
+	<key>oldBufferDelay</key>
+	<string>gestureViaActivity</string>
+	<key>scrollableFactoryAlignment</key>
+	<string>swiftWithBuffer</string>
+</dict>
+</plist>

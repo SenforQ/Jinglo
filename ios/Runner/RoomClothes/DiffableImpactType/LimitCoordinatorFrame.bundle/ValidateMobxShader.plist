@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOrState</key>
+	<string>entityByWork</string>
+	<key>bufferContextValidation</key>
+	<string>titleExceptType</string>
+	<key>cubitBufferRate</key>
+	<string>stepFunctionDensity</string>
+	<key>equalizationNearLayer</key>
+	<string>alignmentWorkPosition</string>
+	<key>mediaqueryContainLevel</key>
+	<string>previewAroundState</string>
+	<key>statefulWorkDelay</key>
+	<string>globalTextureTail</string>
+</dict>
+</plist>

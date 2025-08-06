@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGrainOrientation</key>
+	<string>managerMethodInteraction</string>
+	<key>eventWithoutFunction</key>
+	<string>delegateSinceTask</string>
+	<key>fixedEffectSkewx</key>
+	<string>loopBeyondNumber</string>
+	<key>flexibleControllerForce</key>
+	<string>activatedProgressbarOrientation</string>
+	<key>navigatorPhaseOrientation</key>
+	<string>opaqueEventValidation</string>
+	<key>pivotalDialogsDepth</key>
+	<string>remainderForOperation</string>
+	<key>standaloneCaptionBehavior</key>
+	<string>mediumSpotTail</string>
+	<key>utilAwayEnvironment</key>
+	<string>fragmentInFacade</string>
+</dict>
+</plist>

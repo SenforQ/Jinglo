@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTypeTransparency</key>
+	<string>queueAmongJob</string>
+	<key>containerAsCycle</key>
+	<string>spriteBesideSystem</string>
+	<key>futureStateStyle</key>
+	<string>widgetWorkTag</string>
+	<key>ignoredAnimationScale</key>
+	<string>sampleAndKind</string>
+	<key>protectedRouteInteraction</key>
+	<string>spriteAsComposite</string>
+	<key>retainedSegueValidation</key>
+	<string>tickerAdapterSkewx</string>
+	<key>scrollableNotifierResponse</key>
+	<string>indicatorWithoutComposite</string>
+	<key>vectorBufferForce</key>
+	<string>unactivatedReferenceSaturation</string>
+</dict>
+</plist>

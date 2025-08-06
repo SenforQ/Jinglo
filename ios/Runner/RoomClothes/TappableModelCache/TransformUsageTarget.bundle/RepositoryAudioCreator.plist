@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterOperationFlags</key>
+	<string>directlyManagerKind</string>
+	<key>constraintModeRotation</key>
+	<string>queueCycleTransparency</string>
+	<key>graphicProxyTag</key>
+	<string>sessionCompositeStatus</string>
+	<key>hardAnimationDepth</key>
+	<string>uniformInjectionTransparency</string>
+	<key>hardControllerBound</key>
+	<string>activeDescriptorType</string>
+	<key>histogramCycleKind</key>
+	<string>chartFacadeLocation</string>
+	<key>menuOrDecorator</key>
+	<string>tableNumberAcceleration</string>
+	<key>methodTaskTheme</key>
+	<string>concreteIconTint</string>
+	<key>permanentProjectBottom</key>
+	<string>actionStageRotation</string>
+	<key>sustainableTransformerForce</key>
+	<string>cartesianBinaryAlignment</string>
+</dict>
+</plist>

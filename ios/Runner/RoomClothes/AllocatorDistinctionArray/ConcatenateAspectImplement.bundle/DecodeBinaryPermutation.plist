@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerCommandFormat</key>
+	<string>buttonWithParameter</string>
+	<key>difficultTabbarAlignment</key>
+	<string>accessoryAlongMethod</string>
+	<key>frameAtPlatform</key>
+	<string>effectAsStyle</string>
+	<key>invisibleProjectIndex</key>
+	<string>anchorThanBuffer</string>
+	<key>labelActivityHue</key>
+	<string>contractionFromScope</string>
+	<key>materialTransformerInterval</key>
+	<string>interactiveExtensionSaturation</string>
+	<key>notifierAdapterFeedback</key>
+	<string>cupertinoDespiteBridge</string>
+	<key>techniqueVisitorOpacity</key>
+	<string>tappableTechniqueFeedback</string>
+	<key>textureUntilCommand</key>
+	<string>cardChainBorder</string>
+	<key>variantDecoratorLeft</key>
+	<string>responseUntilCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureBesideProcess</key>
+	<string>spriteTempleTag</string>
+	<key>injectionExceptCommand</key>
+	<string>sharedTitleInset</string>
+	<key>interfaceFormFlags</key>
+	<string>layoutForCycle</string>
+	<key>mutableIconBound</key>
+	<string>currentRouteAlignment</string>
+	<key>priorityAlongTier</key>
+	<string>activityVarDistance</string>
+	<key>repositoryAroundVar</key>
+	<string>transformerStructureBrightness</string>
+	<key>sensorWithNumber</key>
+	<string>localizationCommandFrequency</string>
+	<key>streamActionStatus</key>
+	<string>coordinatorOfContext</string>
+</dict>
+</plist>

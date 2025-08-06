@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInterfaceFeedback</key>
+	<string>indicatorOfTask</string>
+	<key>beginnerGestureDistance</key>
+	<string>modelWorkSpeed</string>
+	<key>delegateKindRight</key>
+	<string>webBuilderRate</string>
+	<key>documentTempleKind</key>
+	<string>grainNearNumber</string>
+	<key>entityNearStructure</key>
+	<string>containerWithoutAction</string>
+	<key>mobxDespiteStrategy</key>
+	<string>interactiveCaptionBottom</string>
+	<key>prevMemberPosition</key>
+	<string>transitionWithoutSingleton</string>
+	<key>referenceViaSystem</key>
+	<string>substantialWidgetIndex</string>
+	<key>semanticsOperationBorder</key>
+	<string>sensorModeSpeed</string>
+	<key>unaryMethodTension</key>
+	<string>effectByTask</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPreviewVisibility</key>
+	<string>touchPrototypeEdge</string>
+	<key>buttonLikeTask</key>
+	<string>cupertinoExceptionSpeed</string>
+	<key>cosineDuringStyle</key>
+	<string>hierarchicalOffsetScale</string>
+	<key>dependencyWithSingleton</key>
+	<string>serviceTaskTint</string>
+	<key>globalHeroOpacity</key>
+	<string>arithmeticWidgetAlignment</string>
+	<key>histogramAlongStyle</key>
+	<string>isolateLevelState</string>
+	<key>serviceNearComposite</key>
+	<string>containerBesideLayer</string>
+	<key>taskFunctionSize</key>
+	<string>fixedServiceOpacity</string>
+	<key>typicalTaskBehavior</key>
+	<string>mediumToolPadding</string>
+</dict>
+</plist>

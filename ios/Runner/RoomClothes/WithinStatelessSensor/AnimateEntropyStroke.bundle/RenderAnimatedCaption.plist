@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationPatternDirection</key>
+	<string>stampStrategyDensity</string>
+	<key>difficultParticleShape</key>
+	<string>scrollBeyondEnvironment</string>
+	<key>eventTierDensity</key>
+	<string>presenterAtTask</string>
+	<key>modalWithoutMediator</key>
+	<string>riverpodJobCount</string>
+	<key>sensorProxyFeedback</key>
+	<string>queueBesideSystem</string>
+</dict>
+</plist>

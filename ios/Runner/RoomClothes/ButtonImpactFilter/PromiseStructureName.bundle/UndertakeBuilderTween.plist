@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureContainScope</key>
+	<string>immediateResourceFrequency</string>
+	<key>lossBesideKind</key>
+	<string>referenceInterpreterDistance</string>
+	<key>observerActivityName</key>
+	<string>widgetTypeFormat</string>
+	<key>previewAdapterPressure</key>
+	<string>disparateBlocStatus</string>
+	<key>progressbarBufferStyle</key>
+	<string>controllerBufferBehavior</string>
+	<key>remainderWithoutSingleton</key>
+	<string>fragmentChainType</string>
+	<key>responseSystemOffset</key>
+	<string>permissiveWidgetDepth</string>
+	<key>sophisticatedQueueValidation</key>
+	<string>chapterBridgeStatus</string>
+</dict>
+</plist>

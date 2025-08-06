@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryParameterRight</key>
+	<string>subtleCallbackTheme</string>
+	<key>currentRouteSpacing</key>
+	<string>functionalGridviewMargin</string>
+	<key>integerThanPlatform</key>
+	<string>deferredTitleStyle</string>
+	<key>lastAlertPosition</key>
+	<string>tablePhaseMode</string>
+	<key>unaryVisitorAlignment</key>
+	<string>nodeNumberStatus</string>
+</dict>
+</plist>

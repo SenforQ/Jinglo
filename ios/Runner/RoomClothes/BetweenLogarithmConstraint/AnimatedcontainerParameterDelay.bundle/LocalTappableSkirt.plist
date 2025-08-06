@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastParticleBehavior</key>
+	<string>geometricSkirtContrast</string>
+	<key>resolverBeyondStyle</key>
+	<string>baseAroundCommand</string>
+	<key>spineThanTask</key>
+	<string>actionAroundParameter</string>
+</dict>
+</plist>

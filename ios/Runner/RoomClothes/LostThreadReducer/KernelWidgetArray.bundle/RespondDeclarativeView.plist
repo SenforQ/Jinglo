@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeWorkflowFlags</key>
+	<string>statefulEnvironmentTint</string>
+	<key>custompaintVarShade</key>
+	<string>missionAsEnvironment</string>
+	<key>displayableFeatureBound</key>
+	<string>usedStackSpacing</string>
+	<key>fragmentParamVisible</key>
+	<string>accordionDecorationTransparency</string>
+	<key>mobxForPrototype</key>
+	<string>directlyQueueEdge</string>
+	<key>scrollWithVisitor</key>
+	<string>cosineCommandStatus</string>
+	<key>sizedboxBesideOperation</key>
+	<string>usecaseTaskColor</string>
+	<key>taskOperationCount</key>
+	<string>specifySliderMode</string>
+</dict>
+</plist>

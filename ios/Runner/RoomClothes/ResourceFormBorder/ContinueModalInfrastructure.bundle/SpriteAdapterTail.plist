@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureCommandType</key>
+	<string>significantLossShape</string>
+	<key>batchPerNumber</key>
+	<string>publicScreenResponse</string>
+	<key>immediateSwitchVisibility</key>
+	<string>missedChannelsKind</string>
+	<key>iterativeExtensionBottom</key>
+	<string>firstMetadataDelay</string>
+	<key>keyObserverRotation</key>
+	<string>navigationPerLayer</string>
+</dict>
+</plist>

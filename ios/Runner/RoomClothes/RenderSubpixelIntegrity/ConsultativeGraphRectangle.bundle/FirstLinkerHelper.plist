@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonUntilState</key>
+	<string>offsetAdapterSkewx</string>
+	<key>consumerInsideLevel</key>
+	<string>multiBlocCenter</string>
+	<key>delegateAndInterpreter</key>
+	<string>otherAlertBound</string>
+	<key>diffableNibKind</key>
+	<string>assetPerAction</string>
+	<key>inactiveHistogramSkewy</key>
+	<string>nodeCycleVelocity</string>
+	<key>navigatorInsideVisitor</key>
+	<string>slashMementoInset</string>
+	<key>petAtVar</key>
+	<string>temporaryProtocolSpacing</string>
+	<key>radiusActionBrightness</key>
+	<string>primaryInterfaceFrequency</string>
+	<key>robustSignStatus</key>
+	<string>listviewViaAction</string>
+	<key>textureWorkRate</key>
+	<string>cellThanStrategy</string>
+</dict>
+</plist>

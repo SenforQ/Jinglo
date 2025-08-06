@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityMethodVisible</key>
+	<string>decorationScopeOffset</string>
+	<key>graphByInterpreter</key>
+	<string>compositionalEntityBehavior</string>
+	<key>handlerVisitorOrigin</key>
+	<string>indicatorValueStyle</string>
+	<key>prevTimerTransparency</key>
+	<string>touchAdapterOffset</string>
+	<key>routeViaMemento</key>
+	<string>declarativeNotifierSpeed</string>
+	<key>singleTweenOrientation</key>
+	<string>unaryMethodStyle</string>
+	<key>ternaryThanScope</key>
+	<string>managerCommandContrast</string>
+	<key>topicFormStatus</key>
+	<string>commandParameterAppearance</string>
+</dict>
+</plist>

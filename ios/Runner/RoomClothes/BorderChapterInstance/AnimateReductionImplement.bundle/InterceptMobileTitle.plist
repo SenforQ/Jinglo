@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPrototypeStatus</key>
+	<string>canvasOrObserver</string>
+	<key>anchorSystemFormat</key>
+	<string>baseObserverCenter</string>
+	<key>baseAgainstPattern</key>
+	<string>largeSpriteFlags</string>
+	<key>buttonAroundLevel</key>
+	<string>logFromParameter</string>
+	<key>comprehensiveEffectPosition</key>
+	<string>requestProxySize</string>
+	<key>delegatePrototypeStyle</key>
+	<string>intensityTempleOrientation</string>
+	<key>dialogsAboutCommand</key>
+	<string>mapPrototypeHead</string>
+	<key>firstCompleterCount</key>
+	<string>backwardStreamBrightness</string>
+	<key>labelModeBehavior</key>
+	<string>immediateSpritePressure</string>
+</dict>
+</plist>

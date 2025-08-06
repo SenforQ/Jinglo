@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialTextfieldTag</key>
+	<string>cycleAroundLevel</string>
+	<key>labelActionSize</key>
+	<string>grayscaleOutsideProxy</string>
+	<key>mediaAgainstDecorator</key>
+	<string>enabledAssetVisible</string>
+	<key>tableAtCycle</key>
+	<string>tensorConfigurationBound</string>
+</dict>
+</plist>

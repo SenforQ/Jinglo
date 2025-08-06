@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTierForce</key>
+	<string>numericalBlocVisibility</string>
+	<key>multiParticleType</key>
+	<string>positionAsValue</string>
+	<key>priorityInsideScope</key>
+	<string>symmetricMaterialShade</string>
+	<key>sinkExceptShape</key>
+	<string>exponentForEnvironment</string>
+	<key>tangentTaskDuration</key>
+	<string>optimizerDecoratorSpeed</string>
+</dict>
+</plist>

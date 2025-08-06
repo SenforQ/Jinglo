@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTransitionBrightness</key>
+	<string>parallelScrollTag</string>
+	<key>cellFromFlyweight</key>
+	<string>resilientRectLocation</string>
+	<key>criticalConfigurationKind</key>
+	<string>spriteFormFormat</string>
+	<key>effectSingletonCoord</key>
+	<string>loopLikeMode</string>
+	<key>mainAspectTension</key>
+	<string>progressbarSinceMode</string>
+	<key>smartHistogramTransparency</key>
+	<string>configurationDuringEnvironment</string>
+	<key>spriteOutsideKind</key>
+	<string>sliderAwayObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitActivityStyle</key>
+	<string>permanentChecklistBottom</string>
+	<key>constScreenOrigin</key>
+	<string>smallViewVisible</string>
+	<key>equalizationAgainstParam</key>
+	<string>immutableGroupTransparency</string>
+	<key>protectedRequestEdge</key>
+	<string>activityDuringPhase</string>
+	<key>shaderAlongFramework</key>
+	<string>singleViewRight</string>
+	<key>sophisticatedPositionedShape</key>
+	<string>standaloneCatalystDensity</string>
+	<key>tabbarNumberShape</key>
+	<string>dynamicDescriptorTail</string>
+</dict>
+</plist>

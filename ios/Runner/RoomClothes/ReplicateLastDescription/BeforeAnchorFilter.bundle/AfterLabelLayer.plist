@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionViaActivity</key>
+	<string>nativeBrushFeedback</string>
+	<key>layoutInsideComposite</key>
+	<string>responseVariableOffset</string>
+	<key>mainLayerCenter</key>
+	<string>otherCheckboxCenter</string>
+	<key>relationalIsolateAppearance</key>
+	<string>intermediateContractionFormat</string>
+	<key>scrollableSkirtCenter</key>
+	<string>retainedServicePadding</string>
+	<key>timerAtComposite</key>
+	<string>sizeBesideTemple</string>
+</dict>
+</plist>

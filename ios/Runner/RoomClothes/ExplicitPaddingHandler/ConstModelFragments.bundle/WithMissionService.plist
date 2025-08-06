@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBeyondSingleton</key>
+	<string>referenceThroughState</string>
+	<key>parallelRowType</key>
+	<string>configurationSystemCount</string>
+	<key>presenterAdapterFeedback</key>
+	<string>listenerAgainstShape</string>
+	<key>resilientSpecifierPosition</key>
+	<string>sessionBeyondNumber</string>
+	<key>rowThanPrototype</key>
+	<string>canvasStyleVisibility</string>
+	<key>singletonBesidePlatform</key>
+	<string>activatedButtonBehavior</string>
+	<key>statefulTabbarTheme</key>
+	<string>previewSinceStyle</string>
+	<key>usecaseChainPressure</key>
+	<string>mobileMetadataBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSystemMode</key>
+	<string>commandSystemIndex</string>
+	<key>cubeMethodOrientation</key>
+	<string>tabbarContextName</string>
+	<key>dynamicParticleRotation</key>
+	<string>apertureBufferFormat</string>
+	<key>elasticRadiusCoord</key>
+	<string>signatureFromContext</string>
+	<key>notificationFrameworkColor</key>
+	<string>heapAboutPhase</string>
+	<key>positionForStage</key>
+	<string>painterAgainstScope</string>
+	<key>routerPerMethod</key>
+	<string>configurationOutsideVar</string>
+	<key>storagePerType</key>
+	<string>immediateNodeLeft</string>
+	<key>transformerVariableSpacing</key>
+	<string>labelTypeSpeed</string>
+</dict>
+</plist>

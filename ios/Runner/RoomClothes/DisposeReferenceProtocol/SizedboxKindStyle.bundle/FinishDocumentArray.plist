@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGrayscaleMode</key>
+	<string>textureOrMethod</string>
+	<key>constraintFrameworkPadding</key>
+	<string>lazySignDistance</string>
+	<key>euclideanInteractorAcceleration</key>
+	<string>segueSingletonCoord</string>
+	<key>featureBufferAppearance</key>
+	<string>concurrentStateTension</string>
+	<key>firstFutureInterval</key>
+	<string>roleDespiteBuffer</string>
+	<key>mainUsecaseSpacing</key>
+	<string>commandNearSingleton</string>
+	<key>protectedEntitySaturation</key>
+	<string>listviewNearFramework</string>
+	<key>sessionThanOperation</key>
+	<string>mediocreProgressbarResponse</string>
+	<key>signatureVersusNumber</key>
+	<string>commandFunctionRate</string>
+</dict>
+</plist>

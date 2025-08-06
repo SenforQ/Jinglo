@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedObserverFlags</key>
+	<string>zoneChainForce</string>
+	<key>capacitiesBeyondParameter</key>
+	<string>taskTypeValidation</string>
+	<key>compositionalIconStyle</key>
+	<string>missedDecorationOrientation</string>
+	<key>cupertinoThroughAction</key>
+	<string>allocatorPatternVelocity</string>
+	<key>effectPatternPosition</key>
+	<string>marginOutsideAdapter</string>
+	<key>radioInsideWork</key>
+	<string>marginExceptFramework</string>
+	<key>viewOfScope</key>
+	<string>tabbarTaskPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorModeTheme</key>
+	<string>labelAtBuffer</string>
+	<key>desktopCacheTransparency</key>
+	<string>unaryVariableOrigin</string>
+	<key>keyCoordinatorAlignment</key>
+	<string>concurrentSkirtOrientation</string>
+	<key>materialAgainstAction</key>
+	<string>resourceVariablePressure</string>
+	<key>protectedDocumentLocation</key>
+	<string>globalMaterialBrightness</string>
+	<key>textureEnvironmentHead</key>
+	<string>textIncludeTemple</string>
+</dict>
+</plist>

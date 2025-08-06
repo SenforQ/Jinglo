@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellBeyondFacade</key>
+	<string>isolateFlyweightBorder</string>
+	<key>mobileMarginDuration</key>
+	<string>numericalPromiseFeedback</string>
+	<key>presenterStageIndex</key>
+	<string>firstEqualizationTransparency</string>
+	<key>queueNearPlatform</key>
+	<string>callbackFacadeEdge</string>
+	<key>resourceNearStructure</key>
+	<string>adaptiveStreamStyle</string>
+	<key>responseAroundFlyweight</key>
+	<string>nativeCatalystVisibility</string>
+	<key>tabviewDecoratorFlags</key>
+	<string>firstScaleBrightness</string>
+</dict>
+</plist>

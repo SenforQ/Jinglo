@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyModalInterval</key>
+	<string>transitionBufferFormat</string>
+	<key>ignoredScaleVisibility</key>
+	<string>intermediateImageForce</string>
+	<key>resourceInsideScope</key>
+	<string>textAmongActivity</string>
+	<key>seamlessColumnIndex</key>
+	<string>multiAsyncTransparency</string>
+</dict>
+</plist>

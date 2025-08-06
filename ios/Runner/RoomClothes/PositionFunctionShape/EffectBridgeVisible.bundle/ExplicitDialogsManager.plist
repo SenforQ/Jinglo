@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTimerContrast</key>
+	<string>lossProcessDelay</string>
+	<key>requiredAllocatorDelay</key>
+	<string>directLayoutInset</string>
+	<key>subsequentSpotValidation</key>
+	<string>layerMementoMargin</string>
+	<key>swiftSinceVar</key>
+	<string>consultativeZoneVisibility</string>
+</dict>
+</plist>

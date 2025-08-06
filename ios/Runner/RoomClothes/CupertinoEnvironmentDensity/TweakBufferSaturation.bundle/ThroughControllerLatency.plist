@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDescriptionShape</key>
+	<string>normBesideBuffer</string>
+	<key>blocParameterOrigin</key>
+	<string>subsequentCubitMargin</string>
+	<key>containerAtInterpreter</key>
+	<string>errorLevelDistance</string>
+	<key>geometricDependencyMargin</key>
+	<string>gridPhaseCount</string>
+	<key>matrixAdapterRight</key>
+	<string>pivotalEffectResponse</string>
+	<key>pointDecoratorStatus</key>
+	<string>responseChainScale</string>
+	<key>sceneIncludeMemento</key>
+	<string>handlerTaskRotation</string>
+	<key>slashInComposite</key>
+	<string>originalSignBehavior</string>
+	<key>typicalBlocCenter</key>
+	<string>fixedDescriptionLocation</string>
+</dict>
+</plist>

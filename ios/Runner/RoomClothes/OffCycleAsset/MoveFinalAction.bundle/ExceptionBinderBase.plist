@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackActivityBottom</key>
+	<string>boxIncludeForm</string>
+	<key>pointUntilPattern</key>
+	<string>inkwellPhaseOpacity</string>
+	<key>sizeFromMethod</key>
+	<string>consumerPrototypeTheme</string>
+	<key>spriteAlongValue</key>
+	<string>axisOperationKind</string>
+	<key>taskDecoratorFeedback</key>
+	<string>greatBulletInset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredEntityAppearance</key>
+	<string>delegateStageMomentum</string>
+	<key>listviewPerForm</key>
+	<string>variantOutsideForm</string>
+	<key>lossBufferBound</key>
+	<string>marginViaState</string>
+	<key>monsterOfState</key>
+	<string>handlerWithStage</string>
+	<key>priorSpecifierName</key>
+	<string>alphaTierHue</string>
+	<key>screenSinceForm</key>
+	<string>convolutionFormVisibility</string>
+	<key>specifyUtilBorder</key>
+	<string>textfieldInsideStructure</string>
+	<key>synchronousTransitionStatus</key>
+	<string>zoneFacadeBound</string>
+</dict>
+</plist>

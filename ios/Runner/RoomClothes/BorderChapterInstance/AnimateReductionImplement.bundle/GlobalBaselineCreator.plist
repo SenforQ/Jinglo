@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncJobPressure</key>
+	<string>marginDespiteScope</string>
+	<key>channelsStrategySaturation</key>
+	<string>singletonPerSystem</string>
+	<key>dependencyStrategyLeft</key>
+	<string>reducerContainStrategy</string>
+	<key>dynamicFutureFrequency</key>
+	<string>spriteAmongValue</string>
+	<key>logarithmThroughVariable</key>
+	<string>actionCycleCoord</string>
+	<key>scaleProcessDensity</key>
+	<string>euclideanStackBound</string>
+	<key>usedResolverSpeed</key>
+	<string>slashAlongBuffer</string>
+	<key>vectorThroughPhase</key>
+	<string>adaptiveAlphaBrightness</string>
+</dict>
+</plist>

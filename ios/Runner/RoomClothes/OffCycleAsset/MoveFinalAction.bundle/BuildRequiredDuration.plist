@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderProcessScale</key>
+	<string>utilAtScope</string>
+	<key>dependencyContainLevel</key>
+	<string>newestEventState</string>
+	<key>featureParameterShade</key>
+	<string>durationPatternRate</string>
+	<key>firstDocumentAlignment</key>
+	<string>cycleInFlyweight</string>
+	<key>managerExceptFramework</key>
+	<string>rowAmongDecorator</string>
+	<key>offsetPrototypeSpacing</key>
+	<string>largeGrainBottom</string>
+	<key>scrollableNavigationOrientation</key>
+	<string>webTransitionCount</string>
+	<key>spotVersusMode</key>
+	<string>directlyCurveAlignment</string>
+</dict>
+</plist>

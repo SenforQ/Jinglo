@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystProcessSize</key>
+	<string>spriteOrCommand</string>
+	<key>invisibleModelSkewx</key>
+	<string>radiusBridgeSkewx</string>
+	<key>isolateWithVar</key>
+	<string>resultVarTag</string>
+	<key>materialBufferAppearance</key>
+	<string>containerViaLayer</string>
+	<key>priorityMethodAcceleration</key>
+	<string>unsortedActionType</string>
+	<key>riverpodStructureInterval</key>
+	<string>subtleCheckboxRight</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStorageTheme</key>
+	<string>missedCatalystKind</string>
+	<key>controllerAdapterPadding</key>
+	<string>curveShapePadding</string>
+	<key>effectOfLayer</key>
+	<string>priorityDespiteShape</string>
+	<key>errorInsidePlatform</key>
+	<string>deferredBitrateStatus</string>
+	<key>localLogSpacing</key>
+	<string>nextRepositoryInterval</string>
+	<key>observerSinceBridge</key>
+	<string>dependencyScopeFrequency</string>
+	<key>richtextEnvironmentAppearance</key>
+	<string>publicLayoutScale</string>
+	<key>viewBufferOrientation</key>
+	<string>navigatorOutsideForm</string>
+</dict>
+</plist>

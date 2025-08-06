@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderContainType</key>
+	<string>statefulFromBridge</string>
+	<key>concurrentAxisSpeed</key>
+	<string>unactivatedConsumerTail</string>
+	<key>featureMethodDirection</key>
+	<string>symbolPhaseName</string>
+	<key>layoutBufferRotation</key>
+	<string>retainedAlignmentInteraction</string>
+	<key>lossStructureOrientation</key>
+	<string>directlyMasterTail</string>
+	<key>statelessPlateFlags</key>
+	<string>robustExceptionShade</string>
+	<key>tickerVarDuration</key>
+	<string>featureJobBound</string>
+</dict>
+</plist>

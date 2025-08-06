@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOfStructure</key>
+	<string>synchronousInterfaceFlags</string>
+	<key>dynamicServiceState</key>
+	<string>independentPositionVisibility</string>
+	<key>ephemeralScaleVisibility</key>
+	<string>composableLoopBehavior</string>
+	<key>fusedModalSize</key>
+	<string>viewViaFacade</string>
+	<key>listenerBeyondParameter</key>
+	<string>histogramLikeValue</string>
+	<key>musicNearSingleton</key>
+	<string>storageStageVelocity</string>
+	<key>nextFrameInteraction</key>
+	<string>checkboxEnvironmentBehavior</string>
+	<key>stampProxyOffset</key>
+	<string>nodePrototypeBound</string>
+	<key>variantThroughJob</key>
+	<string>singleServiceDuration</string>
+</dict>
+</plist>

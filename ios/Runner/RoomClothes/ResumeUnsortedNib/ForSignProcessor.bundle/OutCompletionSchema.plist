@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCellSkewx</key>
+	<string>channelParamDelay</string>
+	<key>grayscaleOutsideTier</key>
+	<string>lossKindRotation</string>
+	<key>missionNearStage</key>
+	<string>largePositionedDepth</string>
+	<key>previewNumberDensity</key>
+	<string>arithmeticContractionFlags</string>
+	<key>rapidBrushRotation</key>
+	<string>tableVarInteraction</string>
+	<key>serviceBeyondMemento</key>
+	<string>petDuringProxy</string>
+	<key>sharedTaskBottom</key>
+	<string>topicVariableTail</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedVectorOpacity</key>
+	<string>asynchronousPrecisionValidation</string>
+	<key>gesturePlatformShade</key>
+	<string>actionOfState</string>
+	<key>lostLogarithmRotation</key>
+	<string>providerBufferOrigin</string>
+	<key>missedConvolutionBehavior</key>
+	<string>mediumSceneState</string>
+</dict>
+</plist>

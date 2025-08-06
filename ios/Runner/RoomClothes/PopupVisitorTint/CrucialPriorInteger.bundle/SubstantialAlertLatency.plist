@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxFacadeAppearance</key>
+	<string>queryActionAcceleration</string>
+	<key>menuPerComposite</key>
+	<string>customizedLocalizationCenter</string>
+	<key>mutableCellFrequency</key>
+	<string>asynchronousConstraintState</string>
+	<key>requiredSwiftStyle</key>
+	<string>textViaStage</string>
+	<key>resizableRouterBehavior</key>
+	<string>interfaceThroughAction</string>
+	<key>similarToolEdge</key>
+	<string>containerAmongProxy</string>
+</dict>
+</plist>

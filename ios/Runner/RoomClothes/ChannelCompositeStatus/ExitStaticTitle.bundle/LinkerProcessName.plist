@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentThroughNumber</key>
+	<string>tappableQueueFlags</string>
+	<key>arithmeticOffsetStatus</key>
+	<string>responseAtLevel</string>
+	<key>boxshadowAlongAction</key>
+	<string>playbackAmongLevel</string>
+	<key>decorationActivityContrast</key>
+	<string>diffableAppbarDepth</string>
+	<key>descriptionFlyweightBound</key>
+	<string>permanentGraphicState</string>
+	<key>sortedSessionEdge</key>
+	<string>streamVersusChain</string>
+	<key>statelessSliderOrientation</key>
+	<string>unsortedMethodOpacity</string>
+</dict>
+</plist>

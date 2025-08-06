@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConstraintInterval</key>
+	<string>singletonStageSize</string>
+	<key>customizedVariantDistance</key>
+	<string>requiredCosineLocation</string>
+	<key>labelWithoutKind</key>
+	<string>beginnerPainterForce</string>
+	<key>progressbarValueShape</key>
+	<string>buttonStageCount</string>
+	<key>singleReductionDirection</key>
+	<string>originalDescriptionDepth</string>
+	<key>subpixelPerScope</key>
+	<string>binaryOutsideWork</string>
+	<key>tabbarActivityFrequency</key>
+	<string>workflowAtTier</string>
+	<key>widgetVersusWork</key>
+	<string>compositionalViewDepth</string>
+</dict>
+</plist>

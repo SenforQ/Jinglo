@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventFormTransparency</key>
+	<string>subscriptionBesideMediator</string>
+	<key>grayscaleAboutCommand</key>
+	<string>resultBufferOffset</string>
+	<key>inkwellStyleVisibility</key>
+	<string>heapSinceAdapter</string>
+	<key>labelVisitorVisible</key>
+	<string>statelessListviewSpacing</string>
+	<key>managerMediatorOffset</key>
+	<string>mobileResultName</string>
+	<key>modelParameterFlags</key>
+	<string>commandPatternTail</string>
+	<key>persistentIsolateTag</key>
+	<string>navigatorViaPattern</string>
+	<key>sliderIncludeEnvironment</key>
+	<string>progressbarVarPadding</string>
+	<key>smallSkinOrientation</key>
+	<string>captionPlatformType</string>
+	<key>ternaryScopeLeft</key>
+	<string>hashStyleScale</string>
+</dict>
+</plist>

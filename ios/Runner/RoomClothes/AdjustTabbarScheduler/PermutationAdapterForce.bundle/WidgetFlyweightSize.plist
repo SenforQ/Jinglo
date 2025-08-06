@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerLabelSpacing</key>
+	<string>currentAlignmentBrightness</string>
+	<key>disabledGridType</key>
+	<string>layerSystemShade</string>
+	<key>iterativeInkwellPosition</key>
+	<string>actionOrParam</string>
+	<key>layerWithBuffer</key>
+	<string>animationPlatformFeedback</string>
+	<key>nativeQuerySkewx</key>
+	<string>providerCompositeInteraction</string>
+	<key>radiusContextKind</key>
+	<string>configurationFromStrategy</string>
+	<key>sinkCompositeVelocity</key>
+	<string>semanticManagerDuration</string>
+	<key>unsortedTickerColor</key>
+	<string>dependencyProxyType</string>
+</dict>
+</plist>

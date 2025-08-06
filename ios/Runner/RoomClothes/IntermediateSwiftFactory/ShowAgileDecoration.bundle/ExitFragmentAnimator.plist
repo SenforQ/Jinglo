@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentChainPressure</key>
+	<string>nodeBesidePattern</string>
+	<key>alphaOutsideContext</key>
+	<string>hardSizedboxShape</string>
+	<key>graphSingletonStatus</key>
+	<string>blocAmongLayer</string>
+	<key>mutableProgressbarSpacing</key>
+	<string>spriteVisitorStyle</string>
+	<key>mutableResultOrigin</key>
+	<string>uniqueLayoutIndex</string>
+	<key>pivotalIsolateBorder</key>
+	<string>utilWithPattern</string>
+	<key>queryAmongPhase</key>
+	<string>sustainableNavigatorStatus</string>
+	<key>rowCompositeTop</key>
+	<string>compositionShapeAppearance</string>
+</dict>
+</plist>

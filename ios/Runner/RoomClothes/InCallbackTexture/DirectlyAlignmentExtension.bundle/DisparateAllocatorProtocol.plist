@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedActionVelocity</key>
+	<string>materialThemeRate</string>
+	<key>baseOrCommand</key>
+	<string>masterJobName</string>
+	<key>commandNumberDepth</key>
+	<string>coordinatorWithDecorator</string>
+	<key>commonCompositionEdge</key>
+	<string>cycleInCommand</string>
+	<key>currentFactoryRotation</key>
+	<string>hierarchicalThreadOpacity</string>
+	<key>immutablePlatePressure</key>
+	<string>sliderSystemInterval</string>
+	<key>lossProxyTop</key>
+	<string>radiusFlyweightDelay</string>
+	<key>usedGridInterval</key>
+	<string>tensorCheckboxPressure</string>
+</dict>
+</plist>

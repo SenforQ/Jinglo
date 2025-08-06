@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAroundInterpreter</key>
+	<string>listviewUntilAction</string>
+	<key>curveMethodSaturation</key>
+	<string>compositionalApertureSpacing</string>
+	<key>curveUntilCommand</key>
+	<string>themeContextVisible</string>
+	<key>cycleScopeHue</key>
+	<string>switchActionFrequency</string>
+	<key>scaffoldForLevel</key>
+	<string>particleThroughInterpreter</string>
+	<key>specifyTextureBrightness</key>
+	<string>reactiveResponseColor</string>
+	<key>spriteNumberOrigin</key>
+	<string>documentFromLayer</string>
+</dict>
+</plist>

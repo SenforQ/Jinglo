@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetWithVisitor</key>
+	<string>rowOfForm</string>
+	<key>durationStrategyFrequency</key>
+	<string>dropdownbuttonVariableInterval</string>
+	<key>easySubscriptionInteraction</key>
+	<string>playbackUntilPhase</string>
+	<key>masterAmongActivity</key>
+	<string>cursorVarBound</string>
+	<key>movementSingletonSpacing</key>
+	<string>usecaseVarVelocity</string>
+	<key>priorityPrototypeBehavior</key>
+	<string>ignoredStateKind</string>
+	<key>rectOutsideMediator</key>
+	<string>lastRouteFormat</string>
+	<key>relationalAwaitIndex</key>
+	<string>ternaryOrSystem</string>
+	<key>sortedSignType</key>
+	<string>currentScaleSpeed</string>
+	<key>unactivatedZoneFormat</key>
+	<string>commonTweenLocation</string>
+</dict>
+</plist>

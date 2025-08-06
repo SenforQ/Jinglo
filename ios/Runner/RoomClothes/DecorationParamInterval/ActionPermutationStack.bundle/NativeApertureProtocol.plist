@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerOptionDelay</key>
+	<string>catalystFormFeedback</string>
+	<key>easyCallbackFlags</key>
+	<string>listviewKindVisibility</string>
+	<key>logarithmVersusShape</key>
+	<string>queueParamState</string>
+	<key>signProcessDelay</key>
+	<string>routeForWork</string>
+</dict>
+</plist>

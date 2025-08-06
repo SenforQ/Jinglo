@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFormFeedback</key>
+	<string>mapShapeIndex</string>
+	<key>grainOperationShape</key>
+	<string>desktopEventMode</string>
+	<key>interactorUntilVisitor</key>
+	<string>resourceActionSpeed</string>
+	<key>iterativeContractionOpacity</key>
+	<string>interactiveInjectionCoord</string>
+	<key>newestProjectValidation</key>
+	<string>durationFacadeForce</string>
+	<key>priorCupertinoAcceleration</key>
+	<string>delegatePhaseLeft</string>
+	<key>providerFacadeFrequency</key>
+	<string>lostGridOrigin</string>
+	<key>sliderStyleMomentum</key>
+	<string>brushInterpreterAcceleration</string>
+	<key>usedCheckboxRate</key>
+	<string>viewVarDistance</string>
+</dict>
+</plist>

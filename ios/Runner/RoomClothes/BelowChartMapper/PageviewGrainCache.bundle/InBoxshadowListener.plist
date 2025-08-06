@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAsStage</key>
+	<string>activeLogTint</string>
+	<key>bitrateTypeTag</key>
+	<string>usageInsideAdapter</string>
+	<key>gridFromJob</key>
+	<string>bitrateChainBrightness</string>
+	<key>handlerTempleDuration</key>
+	<string>lazyProgressbarOffset</string>
+	<key>layoutValueType</key>
+	<string>scaffoldPrototypeType</string>
+	<key>nibBufferAcceleration</key>
+	<string>spriteTierRight</string>
+	<key>remainderChainHead</key>
+	<string>transitionPerPlatform</string>
+	<key>slashOfActivity</key>
+	<string>widgetAboutProcess</string>
+	<key>swiftThroughCycle</key>
+	<string>lastCompletionStatus</string>
+	<key>uniformErrorInteraction</key>
+	<string>priorRowFrequency</string>
+</dict>
+</plist>

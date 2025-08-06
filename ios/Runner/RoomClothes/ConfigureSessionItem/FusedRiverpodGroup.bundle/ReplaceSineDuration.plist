@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonShapeOpacity</key>
+	<string>permanentButtonEdge</string>
+	<key>declarativeProjectionPosition</key>
+	<string>subtleVectorDepth</string>
+	<key>dedicatedErrorPressure</key>
+	<string>densePreviewVisibility</string>
+	<key>exponentOutsideBuffer</key>
+	<string>delicateLogCount</string>
+	<key>graphByStructure</key>
+	<string>stackExceptComposite</string>
+	<key>prevHeroBehavior</key>
+	<string>projectionLikeNumber</string>
+	<key>reducerPlatformOrientation</key>
+	<string>webAllocatorAppearance</string>
+	<key>resultStrategyValidation</key>
+	<string>lastTopicTag</string>
+	<key>variantAboutScope</key>
+	<string>observerInterpreterPadding</string>
+</dict>
+</plist>

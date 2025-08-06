@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDependencyOrigin</key>
+	<string>titleAndAction</string>
+	<key>animatedLayerRotation</key>
+	<string>mediaAtFunction</string>
+	<key>gridAdapterName</key>
+	<string>providerAdapterSkewx</string>
+	<key>groupIncludeMemento</key>
+	<string>controllerEnvironmentStyle</string>
+	<key>momentumFlyweightMargin</key>
+	<string>projectStateStatus</string>
+	<key>protectedParticleCenter</key>
+	<string>largeDecorationTint</string>
+	<key>serviceMementoFlags</key>
+	<string>builderFlyweightVisibility</string>
+	<key>symmetricTextTail</key>
+	<string>effectLevelOffset</string>
+	<key>tangentLayerEdge</key>
+	<string>buttonKindDuration</string>
+</dict>
+</plist>

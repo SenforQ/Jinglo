@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEquipmentForce</key>
+	<string>symmetricActionBottom</string>
+	<key>boxshadowAwayStrategy</key>
+	<string>listenerIncludePattern</string>
+	<key>cosineStateBrightness</key>
+	<string>pinchableScenePressure</string>
+	<key>gridProcessSpeed</key>
+	<string>projectionAgainstNumber</string>
+	<key>managerLayerKind</key>
+	<string>graphTempleStyle</string>
+	<key>zoneTypeIndex</key>
+	<string>previewStructureSkewy</string>
+</dict>
+</plist>

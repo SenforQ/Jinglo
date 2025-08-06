@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionInPrototype</key>
+	<string>sessionViaState</string>
+	<key>concurrentModelTransparency</key>
+	<string>dependencyJobInterval</string>
+	<key>criticalAlertDistance</key>
+	<string>dedicatedMovementCount</string>
+	<key>cubitViaKind</key>
+	<string>layerLevelLocation</string>
+	<key>disparateBorderTransparency</key>
+	<string>logarithmScopeLocation</string>
+	<key>permissiveStepTop</key>
+	<string>singletonForObserver</string>
+	<key>primarySceneShape</key>
+	<string>semanticRadiusTransparency</string>
+	<key>radiusMethodFlags</key>
+	<string>canvasSingletonType</string>
+	<key>semanticTernaryMomentum</key>
+	<string>gridProcessShade</string>
+	<key>tabviewFrameworkCount</key>
+	<string>arithmeticProcessAppearance</string>
+</dict>
+</plist>

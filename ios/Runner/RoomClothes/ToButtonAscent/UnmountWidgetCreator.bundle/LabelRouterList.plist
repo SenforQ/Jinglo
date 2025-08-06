@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectBeyondMemento</key>
+	<string>modalFlyweightBehavior</string>
+	<key>equipmentVersusAction</key>
+	<string>textJobDuration</string>
+	<key>navigationCycleTint</key>
+	<string>entityAwayType</string>
+	<key>visibleCompleterBrightness</key>
+	<string>effectIncludeJob</string>
+	<key>widgetCommandResponse</key>
+	<string>primaryCollectionDirection</string>
+	<key>widgetStageStyle</key>
+	<string>diffableFragmentBrightness</string>
+</dict>
+</plist>

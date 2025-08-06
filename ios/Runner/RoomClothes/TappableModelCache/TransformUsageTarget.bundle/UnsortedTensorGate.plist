@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvePrototypeOrientation</key>
+	<string>playbackStylePressure</string>
+	<key>customizedMethodAcceleration</key>
+	<string>positionedAroundDecorator</string>
+	<key>radioPhaseValidation</key>
+	<string>interactorFromVariable</string>
+	<key>symmetricEffectMomentum</key>
+	<string>immediateCompleterBehavior</string>
+	<key>taskOrTask</key>
+	<string>stackInStrategy</string>
+</dict>
+</plist>

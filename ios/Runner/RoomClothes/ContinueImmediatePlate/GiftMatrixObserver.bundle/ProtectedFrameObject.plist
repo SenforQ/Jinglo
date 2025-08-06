@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMenuOrigin</key>
+	<string>localizationUntilProxy</string>
+	<key>interactorVersusPhase</key>
+	<string>batchCompositeShape</string>
+	<key>logarithmPerKind</key>
+	<string>secondErrorType</string>
+	<key>signatureValueFlags</key>
+	<string>textLayerSpacing</string>
+	<key>statelessThanWork</key>
+	<string>interactorBridgeShape</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInstructionKind</key>
+	<string>instructionParamBrightness</string>
+	<key>controllerLikeChain</key>
+	<string>custompaintMediatorRotation</string>
+	<key>equalizationBeyondObserver</key>
+	<string>resultLevelSaturation</string>
+	<key>indicatorForMemento</key>
+	<string>injectionBufferPressure</string>
+	<key>indicatorTaskHead</key>
+	<string>intuitiveNibTransparency</string>
+	<key>sessionVariableState</key>
+	<string>constraintStateFeedback</string>
+</dict>
+</plist>

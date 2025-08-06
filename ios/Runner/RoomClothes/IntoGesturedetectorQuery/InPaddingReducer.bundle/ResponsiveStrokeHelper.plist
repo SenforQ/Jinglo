@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAroundContext</key>
+	<string>positionedCompositeColor</string>
+	<key>builderAroundContext</key>
+	<string>stateInsideComposite</string>
+	<key>consumerFacadeInset</key>
+	<string>touchLikeShape</string>
+	<key>descriptionMediatorBottom</key>
+	<string>masterVersusState</string>
+	<key>documentAboutBridge</key>
+	<string>subsequentBuilderMode</string>
+	<key>nibStyleHue</key>
+	<string>cellModeTail</string>
+	<key>scaleBeyondFacade</key>
+	<string>associatedUtilCount</string>
+</dict>
+</plist>

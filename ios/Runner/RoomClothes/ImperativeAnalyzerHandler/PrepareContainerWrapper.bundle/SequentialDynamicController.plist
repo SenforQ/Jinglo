@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystScopeVisible</key>
+	<string>mediaPhaseOrientation</string>
+	<key>composableCycleRotation</key>
+	<string>frameAlongFunction</string>
+	<key>concreteWidgetDensity</key>
+	<string>popupFromLayer</string>
+	<key>dependencyObserverCount</key>
+	<string>segmentAlongFlyweight</string>
+	<key>dimensionDuringOperation</key>
+	<string>interactorTierScale</string>
+	<key>interactorWithContext</key>
+	<string>materialModeSkewx</string>
+	<key>playbackStagePosition</key>
+	<string>responseStrategySaturation</string>
+	<key>serviceInScope</key>
+	<string>providerActionOpacity</string>
+</dict>
+</plist>

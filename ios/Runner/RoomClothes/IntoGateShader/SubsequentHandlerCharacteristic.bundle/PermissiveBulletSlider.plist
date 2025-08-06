@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialSkinLeft</key>
+	<string>vectorTempleRight</string>
+	<key>dedicatedBoxshadowOffset</key>
+	<string>smartNibSkewy</string>
+	<key>drawerByFlyweight</key>
+	<string>spriteBesideEnvironment</string>
+	<key>interpolationAsAdapter</key>
+	<string>arithmeticNumberVisible</string>
+	<key>shaderProxyTop</key>
+	<string>synchronousSensorMargin</string>
+	<key>spineAsAction</key>
+	<string>missedTextVelocity</string>
+	<key>vectorVisitorBehavior</key>
+	<string>statefulIncludePattern</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardContainAdapter</key>
+	<string>remainderDuringMethod</string>
+	<key>descriptorByValue</key>
+	<string>observerInsideEnvironment</string>
+	<key>isolateAmongComposite</key>
+	<string>gridFacadeAppearance</string>
+	<key>resultActionCount</key>
+	<string>gestureLevelAppearance</string>
+	<key>specifyControllerBrightness</key>
+	<string>originalDescriptionHead</string>
+</dict>
+</plist>

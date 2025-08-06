@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartUntilPlatform</key>
+	<string>newestTextVisible</string>
+	<key>descriptionScopeVelocity</key>
+	<string>progressbarPatternContrast</string>
+	<key>interactiveFactoryBrightness</key>
+	<string>assetStrategySkewx</string>
+	<key>interfaceBeyondParam</key>
+	<string>matrixTierCoord</string>
+	<key>permanentCheckboxFlags</key>
+	<string>brushContextPressure</string>
+	<key>permanentErrorShade</key>
+	<string>titleIncludeInterpreter</string>
+	<key>protectedTaskFlags</key>
+	<string>commandPerPhase</string>
+	<key>secondSubpixelTag</key>
+	<string>flexibleWidgetPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderExceptFramework</key>
+	<string>completerChainOrientation</string>
+	<key>cubitByFramework</key>
+	<string>eventInterpreterSaturation</string>
+	<key>groupValueMargin</key>
+	<string>animatedFrameState</string>
+	<key>injectionTempleSaturation</key>
+	<string>reductionVisitorOrientation</string>
+	<key>mediumAnimationFormat</key>
+	<string>navigatorFromFacade</string>
+	<key>routerSinceSingleton</key>
+	<string>sliderStateOffset</string>
+	<key>textModeSpacing</key>
+	<string>featureSinceCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerInterpreterForce</key>
+	<string>animatedcontainerThanBridge</string>
+	<key>injectionMementoLeft</key>
+	<string>resourceFlyweightIndex</string>
+	<key>mediaThanProxy</key>
+	<string>liteProviderFlags</string>
+	<key>observerOutsideMode</key>
+	<string>customizedQueueInset</string>
+	<key>publicMethodInteraction</key>
+	<string>reusableMasterState</string>
+	<key>reusableChartVisibility</key>
+	<string>intensityExceptStage</string>
+</dict>
+</plist>

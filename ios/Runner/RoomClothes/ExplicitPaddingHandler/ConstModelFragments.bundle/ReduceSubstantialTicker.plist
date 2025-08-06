@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBridgeBehavior</key>
+	<string>independentSubscriptionVisible</string>
+	<key>equalizationTierBehavior</key>
+	<string>characterActionDensity</string>
+	<key>labelFromBridge</key>
+	<string>graphicBridgeOpacity</string>
+	<key>optimizerProxyVelocity</key>
+	<string>fixedCallbackAppearance</string>
+	<key>petInterpreterLeft</key>
+	<string>containerWorkInteraction</string>
+	<key>queryModeOrientation</key>
+	<string>immutableIsolateAcceleration</string>
+	<key>specifierFormAcceleration</key>
+	<string>retainedLogarithmSize</string>
+	<key>unsortedStampRight</key>
+	<string>switchBeyondShape</string>
+	<key>usageBeyondBridge</key>
+	<string>pinchableBuilderRotation</string>
+	<key>visibleLayoutVelocity</key>
+	<string>euclideanObserverDirection</string>
+</dict>
+</plist>

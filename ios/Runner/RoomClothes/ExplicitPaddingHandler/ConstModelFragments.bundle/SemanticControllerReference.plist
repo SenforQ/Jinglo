@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedMasterTail</key>
+	<string>resizableTitleSpacing</string>
+	<key>exponentBeyondSystem</key>
+	<string>pinchableTaskInset</string>
+	<key>functionalConstraintStyle</key>
+	<string>ephemeralMatrixLeft</string>
+	<key>parallelDependencyTint</key>
+	<string>sineAgainstTier</string>
+	<key>petProcessInteraction</key>
+	<string>listviewVersusShape</string>
+	<key>reducerMediatorAppearance</key>
+	<string>zoneFunctionLeft</string>
+	<key>robustEffectVisibility</key>
+	<string>compositionalIndicatorStatus</string>
+	<key>statefulDrawerBehavior</key>
+	<string>swiftMethodState</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBridgeDistance</key>
+	<string>providerAndState</string>
+	<key>buttonInStrategy</key>
+	<string>largeSingletonName</string>
+	<key>previewOperationCenter</key>
+	<string>widgetFacadeInteraction</string>
+	<key>sizePhaseVelocity</key>
+	<string>substantialSizedboxOrigin</string>
+</dict>
+</plist>

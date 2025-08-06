@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelExceptNumber</key>
+	<string>interfaceActionOrientation</string>
+	<key>checklistTierBottom</key>
+	<string>roleNumberDistance</string>
+	<key>histogramNumberRotation</key>
+	<string>eventVariableSize</string>
+	<key>operationOperationType</key>
+	<string>eagerApertureKind</string>
+	<key>sustainableNotifierCenter</key>
+	<string>lazyCompositionValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonIntensityResponse</key>
+	<string>cupertinoPainterBrightness</string>
+	<key>handlerAsPlatform</key>
+	<string>unsortedModulusSkewx</string>
+	<key>interactiveFeatureSkewx</key>
+	<string>effectKindCoord</string>
+	<key>secondMatrixOpacity</key>
+	<string>gridOutsideCommand</string>
+	<key>segueInsidePrototype</key>
+	<string>gesturedetectorWithoutStyle</string>
+	<key>tangentBridgeSkewx</key>
+	<string>euclideanScaleRotation</string>
+</dict>
+</plist>

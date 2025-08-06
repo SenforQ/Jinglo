@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rectInsidePattern</key>
+	<string>adaptiveManagerShape</string>
+	<key>smallBlocDuration</key>
+	<string>inheritedAnimationOrigin</string>
+	<key>textOrMode</key>
+	<string>layoutAmongPattern</string>
+	<key>widgetValueBorder</key>
+	<string>sequentialCoordinatorStyle</string>
+</dict>
+</plist>

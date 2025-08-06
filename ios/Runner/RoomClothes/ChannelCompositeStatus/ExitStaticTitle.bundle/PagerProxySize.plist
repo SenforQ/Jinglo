@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPlatformTheme</key>
+	<string>customAssetSpeed</string>
+	<key>delegateModeDistance</key>
+	<string>custompaintChainResponse</string>
+	<key>diffableAnimatedcontainerContrast</key>
+	<string>greatListviewResponse</string>
+	<key>frameBridgeInset</key>
+	<string>coordinatorSystemDirection</string>
+</dict>
+</plist>

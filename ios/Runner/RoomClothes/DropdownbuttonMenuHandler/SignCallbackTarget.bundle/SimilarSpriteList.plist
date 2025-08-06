@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticActionFlags</key>
+	<string>mobileSignMargin</string>
+	<key>dedicatedSpriteVisibility</key>
+	<string>basePrototypeVelocity</string>
+	<key>loopMementoSkewx</key>
+	<string>usecaseOperationVelocity</string>
+	<key>routeActionResponse</key>
+	<string>entityStageFormat</string>
+	<key>sampleAwayActivity</key>
+	<string>cupertinoIncludeChain</string>
+	<key>titleAroundChain</key>
+	<string>logarithmStyleMode</string>
+</dict>
+</plist>

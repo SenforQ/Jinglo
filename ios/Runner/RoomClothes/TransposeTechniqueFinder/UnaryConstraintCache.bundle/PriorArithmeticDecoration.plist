@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineThroughPhase</key>
+	<string>serviceSinceSystem</string>
+	<key>equalizationFlyweightSaturation</key>
+	<string>usecaseVariableDelay</string>
+	<key>getxSinceState</key>
+	<string>secondPromiseSaturation</string>
+	<key>injectionExceptPlatform</key>
+	<string>uniformFutureBottom</string>
+	<key>reusableResourceCount</key>
+	<string>petIncludeMode</string>
+	<key>routeViaPlatform</key>
+	<string>projectBridgeTension</string>
+	<key>rowBufferMargin</key>
+	<string>roleFrameworkDuration</string>
+</dict>
+</plist>

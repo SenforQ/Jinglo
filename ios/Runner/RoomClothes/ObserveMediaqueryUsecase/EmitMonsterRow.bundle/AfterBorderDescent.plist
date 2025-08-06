@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystParameterTint</key>
+	<string>permanentRectOrientation</string>
+	<key>characterOutsideParam</key>
+	<string>customTitleName</string>
+	<key>descriptionShapeEdge</key>
+	<string>hyperbolicNotificationShade</string>
+	<key>directSessionMargin</key>
+	<string>curveAboutSystem</string>
+	<key>errorChainSize</key>
+	<string>normalOffsetForce</string>
+	<key>loopFormShade</key>
+	<string>asyncMenuFeedback</string>
+	<key>queueStateIndex</key>
+	<string>drawerFacadeSkewx</string>
+	<key>relationalSubscriptionBorder</key>
+	<string>prevRouteSize</string>
+	<key>vectorBufferFormat</key>
+	<string>clipperDuringScope</string>
+</dict>
+</plist>

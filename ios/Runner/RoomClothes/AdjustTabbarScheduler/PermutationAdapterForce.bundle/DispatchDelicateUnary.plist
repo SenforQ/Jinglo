@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorVisitorForce</key>
+	<string>storageAdapterRight</string>
+	<key>inactiveTextureMode</key>
+	<string>baseOperationForce</string>
+	<key>mutablePriorityIndex</key>
+	<string>scaleOrInterpreter</string>
+	<key>subpixelContainStage</key>
+	<string>taskBufferContrast</string>
+	<key>visibleAnimationShade</key>
+	<string>presenterOrMemento</string>
+</dict>
+</plist>

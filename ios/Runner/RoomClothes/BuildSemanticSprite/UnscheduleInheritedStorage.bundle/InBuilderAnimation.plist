@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCoordinatorFlags</key>
+	<string>alignmentDespitePattern</string>
+	<key>kernelPhaseSkewx</key>
+	<string>sampleVarMargin</string>
+	<key>loopCompositeTag</key>
+	<string>typicalMasterPosition</string>
+	<key>normalServiceAlignment</key>
+	<string>elasticVectorState</string>
+	<key>statelessCompositeInterval</key>
+	<string>exceptionFormSkewx</string>
+</dict>
+</plist>

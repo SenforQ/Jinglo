@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushBesideType</key>
+	<string>resizableOptionStatus</string>
+	<key>gramSystemFormat</key>
+	<string>globalPaddingBorder</string>
+	<key>sinePerFramework</key>
+	<string>alphaParamShape</string>
+	<key>spotAroundChain</key>
+	<string>otherButtonInset</string>
+	<key>transitionTypeStatus</key>
+	<string>invisibleSpriteTransparency</string>
+</dict>
+</plist>

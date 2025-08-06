@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAgainstChain</key>
+	<string>widgetVersusFacade</string>
+	<key>binaryTemplePadding</key>
+	<string>serviceOutsidePlatform</string>
+	<key>controllerLikeType</key>
+	<string>uniformUsecaseBehavior</string>
+	<key>curveParameterCenter</key>
+	<string>singletonJobAlignment</string>
+	<key>drawerOfPrototype</key>
+	<string>radiusVariableIndex</string>
+	<key>equalizationFacadeVisible</key>
+	<string>missedUsecaseVisibility</string>
+	<key>offsetBesideBuffer</key>
+	<string>mediocreCommandInset</string>
+	<key>optionContainStructure</key>
+	<string>observerShapeState</string>
+	<key>paddingFrameworkFrequency</key>
+	<string>transitionPlatformScale</string>
+	<key>rectDecoratorSkewx</key>
+	<string>enabledHeroSpacing</string>
+</dict>
+</plist>

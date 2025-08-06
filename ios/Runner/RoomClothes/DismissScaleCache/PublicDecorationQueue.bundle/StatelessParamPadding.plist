@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeStylePressure</key>
+	<string>paddingSingletonHead</string>
+	<key>constPreviewFeedback</key>
+	<string>basicGradientSpacing</string>
+	<key>listenerBesideState</key>
+	<string>cubitOutsideEnvironment</string>
+	<key>menuActionInterval</key>
+	<string>timerObserverMomentum</string>
+	<key>observerLikeMode</key>
+	<string>nodeInsideVariable</string>
+</dict>
+</plist>

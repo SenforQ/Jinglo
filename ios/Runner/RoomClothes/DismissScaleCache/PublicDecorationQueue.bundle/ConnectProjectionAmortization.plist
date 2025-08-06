@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryOutsideMethod</key>
+	<string>nibExceptForm</string>
+	<key>columnAmongPattern</key>
+	<string>kernelJobFlags</string>
+	<key>constButtonState</key>
+	<string>deferredOverlayBrightness</string>
+	<key>isolateDuringComposite</key>
+	<string>behaviorAroundLevel</string>
+	<key>sampleObserverDistance</key>
+	<string>beginnerAlignmentHead</string>
+	<key>serviceModeIndex</key>
+	<string>cartesianStepStyle</string>
+	<key>topicVersusPlatform</key>
+	<string>significantSingletonAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationViaParam</key>
+	<string>descriptorPerSingleton</string>
+	<key>builderOfPrototype</key>
+	<string>opaquePresenterDepth</string>
+	<key>dedicatedTextBorder</key>
+	<string>methodInsideObserver</string>
+	<key>draggableListenerPressure</key>
+	<string>touchNearLevel</string>
+	<key>grainFunctionDensity</key>
+	<string>invisibleResultMode</string>
+	<key>graphicNearContext</key>
+	<string>durationFromFlyweight</string>
+	<key>hyperbolicOverlayPadding</key>
+	<string>futureAtCycle</string>
+	<key>interpolationIncludeVisitor</key>
+	<string>cartesianInjectionDistance</string>
+	<key>normalHashBorder</key>
+	<string>decorationNumberShape</string>
+	<key>streamProcessAppearance</key>
+	<string>temporaryProviderCenter</string>
+</dict>
+</plist>

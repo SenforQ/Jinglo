@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionAndBuffer</key>
+	<string>crudePromiseTransparency</string>
+	<key>crudeUtilMargin</key>
+	<string>lazyAnimationSkewx</string>
+	<key>grainCycleKind</key>
+	<string>effectOrKind</string>
+	<key>modelLevelBrightness</key>
+	<string>pinchableImageOffset</string>
+	<key>previewInsideChain</key>
+	<string>resultVersusState</string>
+	<key>resultAtKind</key>
+	<string>streamInState</string>
+	<key>storageParameterLocation</key>
+	<string>delicateBufferAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheAlongVisitor</key>
+	<string>memberFormVisibility</string>
+	<key>dynamicMethodEdge</key>
+	<string>webCacheEdge</string>
+	<key>inactiveDependencyTransparency</key>
+	<string>sessionOrParam</string>
+	<key>keyChannelBottom</key>
+	<string>multiCapacitiesTheme</string>
+	<key>methodVariableOrigin</key>
+	<string>uniformPositionStatus</string>
+	<key>persistentRoleCoord</key>
+	<string>disabledIntensityContrast</string>
+	<key>rowOfLayer</key>
+	<string>errorPerFlyweight</string>
+	<key>singletonForScope</key>
+	<string>tweenInCommand</string>
+	<key>textDespiteSingleton</key>
+	<string>uniformRemainderVisibility</string>
+</dict>
+</plist>

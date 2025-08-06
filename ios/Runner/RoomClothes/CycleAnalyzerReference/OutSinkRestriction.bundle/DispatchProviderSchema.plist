@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledConstraintTheme</key>
+	<string>multiDropdownbuttonOpacity</string>
+	<key>navigatorOrWork</key>
+	<string>stateNearWork</string>
+	<key>navigatorStyleCount</key>
+	<string>protectedCanvasSkewy</string>
+	<key>projectionAgainstPhase</key>
+	<string>singletonValueOpacity</string>
+	<key>radiusFlyweightDelay</key>
+	<string>transitionFromChain</string>
+	<key>significantActionInteraction</key>
+	<string>routePerDecorator</string>
+	<key>tappableGatePadding</key>
+	<string>reusableActivityShape</string>
+	<key>viewContainStructure</key>
+	<string>pivotalNibLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerInState</key>
+	<string>opaquePromiseFeedback</string>
+	<key>curveInSingleton</key>
+	<string>decorationActionShade</string>
+	<key>layoutOutsideBuffer</key>
+	<string>transitionDuringAction</string>
+	<key>responseFunctionSpeed</key>
+	<string>cycleWithValue</string>
+</dict>
+</plist>
