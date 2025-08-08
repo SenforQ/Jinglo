@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaContainComposite</key>
+	<string>blocStrategyRate</string>
+	<key>behaviorThroughShape</key>
+	<string>capsuleTierRotation</string>
+	<key>fixedCellTop</key>
+	<string>handlerPatternValidation</string>
+	<key>layoutScopePadding</key>
+	<string>integerWorkDelay</string>
+	<key>localTextBehavior</key>
+	<string>expandedAboutContext</string>
+	<key>modelMethodShade</key>
+	<string>routerChainResponse</string>
+	<key>scaffoldTaskBehavior</key>
+	<string>boxshadowUntilParam</string>
+	<key>switchSystemInterval</key>
+	<string>observerOrMediator</string>
+	<key>transformerExceptInterpreter</key>
+	<string>sineAsActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAboutMode</key>
+	<string>aspectStageInteraction</string>
+	<key>dependencyAgainstComposite</key>
+	<string>sliderFlyweightCount</string>
+	<key>frameActivityIndex</key>
+	<string>activatedProtocolSize</string>
+	<key>lostSignatureBorder</key>
+	<string>iterativeCubeMode</string>
+	<key>missedTitleMargin</key>
+	<string>remainderValueShape</string>
+</dict>
+</plist>

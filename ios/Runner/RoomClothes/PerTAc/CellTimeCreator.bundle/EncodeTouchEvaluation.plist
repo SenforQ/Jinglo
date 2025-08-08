@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerStateTint</key>
+	<string>accordionConfigurationSkewy</string>
+	<key>diffableQueryBehavior</key>
+	<string>usecaseCycleStatus</string>
+	<key>multiplicationOrTask</key>
+	<string>gramUntilComposite</string>
+	<key>permanentPlaybackVisible</key>
+	<string>stampAtTier</string>
+	<key>providerCommandResponse</key>
+	<string>boxDuringProcess</string>
+	<key>requestDuringPhase</key>
+	<string>normOfForm</string>
+	<key>statefulCharacterLeft</key>
+	<string>retainedServiceOrientation</string>
+	<key>textureFrameworkRight</key>
+	<string>blocDuringMode</string>
+	<key>transitionInBuffer</key>
+	<string>aspectratioSinceAction</string>
+</dict>
+</plist>

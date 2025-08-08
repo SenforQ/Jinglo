@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackScopeMargin</key>
+	<string>commandThanSystem</string>
+	<key>customRadiusTint</key>
+	<string>buttonInsideCommand</string>
+	<key>featureAmongKind</key>
+	<string>responseValueTheme</string>
+	<key>interactorViaSystem</key>
+	<string>missionWorkName</string>
+	<key>projectionAlongScope</key>
+	<string>statelessInsideLayer</string>
+	<key>streamFacadeFlags</key>
+	<string>tickerAtSingleton</string>
+	<key>subpixelShapeInterval</key>
+	<string>enabledGridviewSpeed</string>
+</dict>
+</plist>

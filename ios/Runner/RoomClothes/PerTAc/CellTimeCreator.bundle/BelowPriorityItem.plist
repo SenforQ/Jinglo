@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customGradientBottom</key>
+	<string>interpolationInsideStructure</string>
+	<key>inactiveStorageFlags</key>
+	<string>ignoredTextTail</string>
+	<key>optimizerContainNumber</key>
+	<string>functionalShaderMode</string>
+	<key>resultAroundNumber</key>
+	<string>specifierBesideComposite</string>
+	<key>streamAsBridge</key>
+	<string>dialogsBesideParam</string>
+</dict>
+</plist>

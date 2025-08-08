@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOutsideStyle</key>
+	<string>persistentTransitionStyle</string>
+	<key>customMasterVelocity</key>
+	<string>tangentStageState</string>
+	<key>listviewLevelBehavior</key>
+	<string>lastLoopRate</string>
+	<key>segueContainSystem</key>
+	<string>ephemeralUtilBorder</string>
+	<key>statefulFromObserver</key>
+	<string>queuePlatformTheme</string>
+</dict>
+</plist>

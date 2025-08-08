@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushStructureFrequency</key>
+	<string>captionContainPlatform</string>
+	<key>concurrentDelegateResponse</key>
+	<string>animationAroundMode</string>
+	<key>cupertinoTaskPosition</key>
+	<string>prevInteractorDepth</string>
+	<key>liteSegmentTint</key>
+	<string>builderCommandPosition</string>
+	<key>lostAwaitContrast</key>
+	<string>alertWorkOrientation</string>
+	<key>progressbarSystemSize</key>
+	<string>playbackAdapterBound</string>
+	<key>subscriptionWorkInset</key>
+	<string>radiusStageDistance</string>
+</dict>
+</plist>

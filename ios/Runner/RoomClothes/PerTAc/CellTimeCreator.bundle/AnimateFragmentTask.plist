@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelAtCommand</key>
+	<string>previewLevelDensity</string>
+	<key>mediumGetxIndex</key>
+	<string>smallScreenSaturation</string>
+	<key>petOutsideActivity</key>
+	<string>routeTaskLocation</string>
+	<key>resultJobSkewy</key>
+	<string>cupertinoFragmentType</string>
+	<key>scrollVisitorIndex</key>
+	<string>variantThanFlyweight</string>
+</dict>
+</plist>

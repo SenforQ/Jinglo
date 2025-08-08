@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectThroughChain</key>
+	<string>cartesianIsolateIndex</string>
+	<key>delicateNotifierVisibility</key>
+	<string>groupStyleContrast</string>
+	<key>hashFlyweightTag</key>
+	<string>injectionOperationDepth</string>
+	<key>logVisitorRate</key>
+	<string>diffableGradientSkewy</string>
+	<key>materialSegueSkewy</key>
+	<string>seguePrototypeTheme</string>
+	<key>popupProcessScale</key>
+	<string>routeUntilMode</string>
+	<key>rapidTickerColor</key>
+	<string>commandBufferDepth</string>
+</dict>
+</plist>

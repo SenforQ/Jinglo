@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentCycleTransparency</key>
+	<string>zoneAlongType</string>
+	<key>normAlongVisitor</key>
+	<string>animatedcontainerPhaseSkewx</string>
+	<key>sizeBeyondFlyweight</key>
+	<string>extensionBesideDecorator</string>
+	<key>stateChainCoord</key>
+	<string>persistentGroupName</string>
+	<key>tickerViaAction</key>
+	<string>columnForTier</string>
+	<key>viewSingletonRight</key>
+	<string>oldSpineSize</string>
+</dict>
+</plist>

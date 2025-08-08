@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuMethodCoord</key>
+	<string>bitrateWithoutInterpreter</string>
+	<key>numericalCosineState</key>
+	<string>managerAndBuffer</string>
+	<key>pivotalPositionOffset</key>
+	<string>publicSinkDelay</string>
+	<key>requestBufferFlags</key>
+	<string>signVersusJob</string>
+	<key>routeViaLayer</key>
+	<string>descriptorSinceProxy</string>
+	<key>sustainableFeatureRate</key>
+	<string>rapidIntegerBehavior</string>
+	<key>tickerAgainstScope</key>
+	<string>sceneCommandEdge</string>
+	<key>utilObserverType</key>
+	<string>streamOfEnvironment</string>
+	<key>viewIncludeVisitor</key>
+	<string>builderOperationCount</string>
+</dict>
+</plist>

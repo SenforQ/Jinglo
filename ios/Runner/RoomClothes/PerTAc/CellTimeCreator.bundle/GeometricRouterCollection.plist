@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionExceptType</key>
+	<string>sensorNumberVelocity</string>
+	<key>euclideanSubscriptionSpeed</key>
+	<string>catalystAdapterColor</string>
+	<key>gradientBufferTheme</key>
+	<string>numericalFutureOpacity</string>
+	<key>offsetCommandDistance</key>
+	<string>textBufferBrightness</string>
+	<key>robustGrayscaleTransparency</key>
+	<string>eagerConstraintPadding</string>
+</dict>
+</plist>

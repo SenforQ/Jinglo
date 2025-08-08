@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandMementoTag</key>
+	<string>semanticTweenFeedback</string>
+	<key>cubitCompositeAcceleration</key>
+	<string>sizeViaLevel</string>
+	<key>decorationChainTransparency</key>
+	<string>arithmeticCharacterDelay</string>
+	<key>extensionBeyondMemento</key>
+	<string>segueWorkSkewx</string>
+	<key>numericalProgressbarDensity</key>
+	<string>allocatorPlatformTheme</string>
+	<key>popupBesideFacade</key>
+	<string>unsortedAccessoryPadding</string>
+	<key>resultAmongInterpreter</key>
+	<string>scrollProcessCenter</string>
+</dict>
+</plist>
