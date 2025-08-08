@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:app_tracking_transparency/app_tracking_transparency.dart';
 import 'user_agreement_page.dart';
 import 'privacy_policy_page.dart';
 import 'eula_page.dart';
@@ -37,30 +38,59 @@ class _WelcomePageState extends State<WelcomePage> {
   Future<void> _agreeToTerms() async {
     if (!_isAgreed) {
       // 显示提示，要求用户先同意协议
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(
-          content: Text('Please agree to the Terms of Service, Privacy Policy and EULA first'),
-          backgroundColor: Colors.red,
-          duration: Duration(seconds: 2),
-        ),
-      );
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Please agree to the Terms of Service, Privacy Policy and EULA first'),
+            backgroundColor: Colors.red,
+            duration: Duration(seconds: 2),
+          ),
+        );
+      }
       return;
     }
 
     try {
-      // 直接跳转到主页面，不保存用户同意状态
+      // 请求App Tracking Transparency权限
+      await _requestTrackingPermission();
+      
+      // 跳转到主页面
       if (mounted) {
         Navigator.pushReplacementNamed(context, '/main');
       }
     } catch (e) {
       debugPrint('Error navigating to main page: $e');
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text('Error: ${e.toString()}'),
-          backgroundColor: Colors.red,
-          duration: Duration(seconds: 2),
-        ),
-      );
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Error: ${e.toString()}'),
+            backgroundColor: Colors.red,
+            duration: Duration(seconds: 2),
+          ),
+        );
+      }
+    }
+  }
+
+  Future<void> _requestTrackingPermission() async {
+    try {
+      // 检查当前跟踪授权状态
+      final status = await AppTrackingTransparency.trackingAuthorizationStatus;
+      
+      // 如果状态是未确定，则请求权限
+      if (status == TrackingStatus.notDetermined) {
+        // 延迟1秒后请求权限，给用户时间了解应用
+        await Future.delayed(const Duration(seconds: 1));
+        await AppTrackingTransparency.requestTrackingAuthorization();
+      }
+      
+      // 获取最终的跟踪授权状态
+      final finalStatus = await AppTrackingTransparency.trackingAuthorizationStatus;
+      debugPrint('App Tracking Transparency status: $finalStatus');
+      
+    } catch (e) {
+      debugPrint('Error requesting tracking permission: $e');
+      // 即使请求失败，也继续进入应用
     }
   }
 

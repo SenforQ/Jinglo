@@ -3,6 +3,8 @@ PODS:
     - Adjust/Core (= 4.31.0)
   - Adjust/Core (4.31.0)
   - Alamofire (5.9.1)
+  - app_tracking_transparency (0.0.1):
+    - Flutter
   - AppAuth (1.7.6):
     - AppAuth/Core (= 1.7.6)
     - AppAuth/ExternalUserAgent (= 1.7.6)
@@ -328,6 +330,7 @@ PODS:
   - ZegoExpressAudio (3.16.1)
 
 DEPENDENCIES:
+  - app_tracking_transparency (from `.symlinks/plugins/app_tracking_transparency/ios`)
   - audioplayers_darwin (from `.symlinks/plugins/audioplayers_darwin/darwin`)
   - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
   - Firebase/RemoteConfig (~> 10.24.0)
@@ -412,6 +415,8 @@ SPEC REPOS:
     - ZegoExpressAudio
 
 EXTERNAL SOURCES:
+  app_tracking_transparency:
+    :path: ".symlinks/plugins/app_tracking_transparency/ios"
   audioplayers_darwin:
     :path: ".symlinks/plugins/audioplayers_darwin/darwin"
   connectivity_plus:
@@ -444,6 +449,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Adjust: 8d4c9da5bb1d161db5d35dd091e34a641c9511ef
   Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  app_tracking_transparency: 3d84f147f67ca82d3c15355c36b1fa6b66ca7c92
   AppAuth: d4f13a8fe0baf391b2108511793e4b479691fb73
   audioplayers_darwin: 4f9ca89d92d3d21cec7ec580e78ca888e5fb68bd
   connectivity_plus: cb623214f4e1f6ef8fe7403d580fdad517d2f7dd

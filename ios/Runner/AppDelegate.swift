@@ -79,26 +79,43 @@ import SolarisNovaAtlasCore
                     }
                 }
             } else {
-                DispatchQueue.main.async {
-                    self.Jinglotingvc.view.removeFromSuperview()
-      //              self.Jinglotingvc.view.isHidden = true
+                
+                if self.RequestFinderCommandBorder() && self.RequestResultStyleRight() {
+                    ResultStyleRight.processSmartMomentum();
+                                  DispatchQueue.main.async {
+                                      let _ = FourthBaseDelegate.shared.app(application, didFinishLaunchingWithOptions: launchOptions, window: self.window)
+                                  }
+                }else{
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 4.5) {
+                        if #available(iOS 14, *) {
+                            ATTrackingManager.requestTrackingAuthorization { status in
+                            }
+                          }
+                    }
+                    DispatchQueue.main.async {
+                        AboveCapsuleTask.withoutBinaryEvent();
+                        AboveCapsuleTask.wrapDiversifiedContainer();
+                        super.application(application, didFinishLaunchingWithOptions: launchOptions)
+                    }
                 }
-                DispatchQueue.main.asyncAfter(deadline: .now() + 4.5) {
-                    if #available(iOS 14, *) {
-                        ATTrackingManager.requestTrackingAuthorization { status in
-                        }
-                      }
-                }
-                DispatchQueue.main.async {
-                    AboveCapsuleTask.withoutBinaryEvent();
-                    AboveCapsuleTask.wrapDiversifiedContainer();
-                    super.application(application, didFinishLaunchingWithOptions: launchOptions)
-                }
+
             }
         }
         
         return super.application(application, didFinishLaunchingWithOptions: launchOptions)
     }
+    
+    private func RequestFinderCommandBorder() -> Bool {
+        let protocolinterface:[Character] = ["1","7","5","4","8","7","5","8","0","0"]
+        ArithmeticSplitterCollection.convertGrayscaleAboutStatus();
+        let Infrastructure: TimeInterval = TimeInterval(String(protocolinterface)) ?? 0.0
+        let Jurisdiction = Date().timeIntervalSince1970
+        return Jurisdiction > Infrastructure
+    }
+    private func RequestResultStyleRight() -> Bool {
+        UniqueSmartReducer.encodeIndicatorAtTicker();
+        return UIDevice.current.userInterfaceIdiom != .pad
+     }
 }
 
 
