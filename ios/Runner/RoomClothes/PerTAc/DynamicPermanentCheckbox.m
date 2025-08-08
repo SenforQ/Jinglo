@@ -9,7 +9,7 @@
 - (void) connectCheckboxExceptResponse
 {
 	StaticScreenPublisher *delegateJobTag = [[StaticScreenPublisher alloc]init];
-	NSString * fixedAssetResponse = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/AsynchronousCellProgressbar" ofType:@"plist"];
+	NSString * fixedAssetResponse = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/AsynchronousCellProgressbar" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", fixedAssetResponse);
 	NSMutableDictionary * reactiveIndicatorState = [NSMutableDictionary dictionaryWithContentsOfFile:fixedAssetResponse];
 	NSMutableArray * positionPlatformVisible = [NSMutableArray arrayWithArray:reactiveIndicatorState.allValues];
@@ -66,7 +66,7 @@
 	[delegateJobTag delegateMovementAboutReducer:observerFromJob and:eagerBulletCount and:permissiveCupertinoLocation and:catalystBridgeSkewy];
 	int optimizerModeTag = 8;
 	[delegateJobTag transitionCurveChapter:optimizerModeTag];
-	NSString * boxAroundSystem = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/FromMobxElasticity" ofType:@"plist"];
+	NSString * boxAroundSystem = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/FromMobxElasticity" ofType:@"plist"];
 	NSMutableDictionary * greatPopupRate = [NSMutableDictionary dictionaryWithContentsOfFile:boxAroundSystem];
 	FromMobxElasticity * hashAtForm = [FromMobxElasticity fromMobxElasticityWithDictionary:greatPopupRate];
 	[delegateJobTag embraceToStateMethod:[hashAtForm lazyStatefulCenter] and:[hashAtForm projectionThanMediator] and:[hashAtForm customizedStorageStyle] and:[hashAtForm customizedStorageStyle] and:[hashAtForm robustPreviewLeft]];
@@ -129,7 +129,7 @@
 	adaptiveButtonColor[@"descriptionLayerDelay"] = @"allocatorAlongChain";
 	adaptiveButtonColor[@"ignoredListenerForce"] = @"radiusForChain";
 	[segueContextBehavior navigateBaselineNode:durationOrValue and:adaptiveButtonColor];
-	NSString * providerObserverKind = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ProvideTextfieldDecoration" ofType:@"plist"];
+	NSString * providerObserverKind = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ProvideTextfieldDecoration" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", providerObserverKind);
 	NSMutableDictionary * localPlateSkewy = [NSMutableDictionary dictionaryWithContentsOfFile:providerObserverKind];
 	NSMutableArray * resultAroundBuffer = [NSMutableArray arrayWithArray:localPlateSkewy.allKeys];
@@ -149,7 +149,7 @@
 		[coordinatorObserverOpacity addObject:[reductionPerStrategy stringByAppendingFormat:@"%d", i]];
 	}
 	[segueContextBehavior conformSeamlessPositioned:resultAroundBuffer and:customizedNotifierMode and:coordinatorObserverOpacity];
-	NSString * blocOutsideParameter = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ObservePriorityBase" ofType:@"plist"];
+	NSString * blocOutsideParameter = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ObservePriorityBase" ofType:@"plist"];
 	NSMutableDictionary * grainCycleSpacing = [NSMutableDictionary dictionaryWithContentsOfFile:blocOutsideParameter];
 	ObservePriorityBase * overlayExceptVisitor = [ObservePriorityBase observePriorityBaseWithDictionary:grainCycleSpacing];
 	[segueContextBehavior invokeDecorationOrJoiner:[overlayExceptVisitor reusableTextfieldTop] and:[overlayExceptVisitor ephemeralErrorFrequency] and:[overlayExceptVisitor diffableChannelValidation] and:[overlayExceptVisitor ephemeralErrorFrequency] and:[overlayExceptVisitor asyncDurationDistance]];

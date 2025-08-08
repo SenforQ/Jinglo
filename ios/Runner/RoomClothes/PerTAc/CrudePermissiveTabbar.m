@@ -10,7 +10,7 @@
 {
 	ColorStateFeedback *parallelAccessoryShade = [[ColorStateFeedback alloc]init];
 	[parallelAccessoryShade mountedIndependentBinary];
-	NSString * matrixOrProxy = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/TimerTransformerDecorator" ofType:@"plist"];
+	NSString * matrixOrProxy = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/TimerTransformerDecorator" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", matrixOrProxy);
 	NSMutableDictionary * baseContainMemento = [NSMutableDictionary dictionaryWithContentsOfFile:matrixOrProxy];
 	NSMutableArray * singleListenerBottom = [NSMutableArray arrayWithArray:baseContainMemento.allKeys];

@@ -25,7 +25,7 @@
 	[signWithoutWork addObject:@"storageThanStrategy"];
 	[signWithoutWork addObject:@"denseTextureResponse"];
 	[interactiveServiceTransparency unmountedIntuitiveFuture:singleApertureAlignment and:inheritedSizeCoord and:signWithoutWork];
-	NSString * presenterOperationCount = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/FixedDescriptorDrawer" ofType:@"plist"];
+	NSString * presenterOperationCount = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/FixedDescriptorDrawer" ofType:@"plist"];
 	NSMutableDictionary * subscriptionParamValidation = [NSMutableDictionary dictionaryWithContentsOfFile:presenterOperationCount];
 	FixedDescriptorDrawer * isolatePrototypeFlags = [FixedDescriptorDrawer fixedDescriptorDrawerWithDictionary:subscriptionParamValidation];
 	[interactiveServiceTransparency registerCustomizedNode:[isolatePrototypeFlags activeNavigatorOrigin] and:[isolatePrototypeFlags fusedCoordinatorSkewy] and:[isolatePrototypeFlags fusedCoordinatorSkewy] and:[isolatePrototypeFlags cellCompositeMargin] and:[isolatePrototypeFlags robustCacheDelay]];
@@ -47,7 +47,7 @@
 	}
 	[interactiveServiceTransparency visitOntoErrorShape:lastCupertinoValidation and:displayableEntityPosition and:sophisticatedPreviewPressure and:instructionStructureAcceleration];
 	int imageSingletonCoord = 52;
-	NSString * agileUtilBrightness = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/AnimatedPlateShape" ofType:@"plist"];
+	NSString * agileUtilBrightness = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/AnimatedPlateShape" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", agileUtilBrightness);
 	NSMutableDictionary * intermediateModalOpacity = [NSMutableDictionary dictionaryWithContentsOfFile:agileUtilBrightness];
 	NSMutableArray * layerWithoutStructure = [NSMutableArray arrayWithArray:intermediateModalOpacity.allKeys];
@@ -82,7 +82,7 @@
 	[semanticsCommandLeft holdUnderStoreStructure];
 	[semanticsCommandLeft sendFixedProjectionLayer];
 	[semanticsCommandLeft asyncAccessibleTernary];
-	NSString * textureSingletonKind = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/BinaryFactoryManager" ofType:@"plist"];
+	NSString * textureSingletonKind = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/BinaryFactoryManager" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", textureSingletonKind);
 	NSMutableDictionary * threadOperationPosition = [NSMutableDictionary dictionaryWithContentsOfFile:textureSingletonKind];
 	NSMutableArray * viewFromParameter = [NSMutableArray arrayWithArray:threadOperationPosition.allValues];

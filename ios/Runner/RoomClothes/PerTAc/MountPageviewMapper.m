@@ -9,11 +9,11 @@
 - (void) layoutBeforeExpandedForm
 {
 	DurationSliderType *blocScopeTail = [[DurationSliderType alloc]init];
-	NSString * directlyDimensionMargin = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/AutoDiscardedPlate" ofType:@"plist"];
+	NSString * directlyDimensionMargin = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/AutoDiscardedPlate" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", directlyDimensionMargin);
 	NSMutableDictionary * fragmentExceptProxy = [NSMutableDictionary dictionaryWithContentsOfFile:directlyDimensionMargin];
 	NSMutableArray * entityStructureScale = [NSMutableArray arrayWithArray:fragmentExceptProxy.allKeys];
-	NSString * challengeByPlatform = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/EvaluateSkinGrid" ofType:@"plist"];
+	NSString * challengeByPlatform = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/EvaluateSkinGrid" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", challengeByPlatform);
 	NSMutableDictionary * entropyInterpreterMargin = [NSMutableDictionary dictionaryWithContentsOfFile:challengeByPlatform];
 	NSMutableArray * reducerTempleContrast = [NSMutableArray arrayWithArray:entropyInterpreterMargin.allValues];

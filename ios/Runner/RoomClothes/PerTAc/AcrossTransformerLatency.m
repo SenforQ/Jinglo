@@ -11,7 +11,7 @@
 	ViewResponderDelegate *rowMementoTag = [[ViewResponderDelegate alloc]init];
 	[rowMementoTag forNibObject];
 	[rowMementoTag transformStatelessWithSelector];
-	NSString * equipmentShapeTint = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/AfterAxisChapter" ofType:@"plist"];
+	NSString * equipmentShapeTint = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/AfterAxisChapter" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", equipmentShapeTint);
 	NSMutableDictionary * interpolationVersusStyle = [NSMutableDictionary dictionaryWithContentsOfFile:equipmentShapeTint];
 	NSMutableArray * gridDuringParam = [NSMutableArray arrayWithArray:interpolationVersusStyle.allValues];
@@ -26,7 +26,7 @@
 		explicitManagerSpeed[[nativeAspectRight stringByAppendingFormat:@"%d", i]] = @"arithmeticLabelTint";
 	}
 	[rowMementoTag updatePersistentConsumer:explicitManagerSpeed];
-	NSString * handlerFunctionColor = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/AdvancedRemediationCache" ofType:@"plist"];
+	NSString * handlerFunctionColor = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/AdvancedRemediationCache" ofType:@"plist"];
 	NSMutableDictionary * materialAsMemento = [NSMutableDictionary dictionaryWithContentsOfFile:handlerFunctionColor];
 	AdvancedRemediationCache * resolverAlongStructure = [AdvancedRemediationCache advancedRemediationCacheWithDictionary:materialAsMemento];
 	[rowMementoTag startDifficultMediaquery:[resolverAlongStructure advancedMetadataPosition] and:[resolverAlongStructure advancedMetadataPosition] and:[resolverAlongStructure agileTransitionSpacing] and:[resolverAlongStructure nativeCheckboxOrigin] and:[resolverAlongStructure advancedMetadataPosition]];
@@ -45,7 +45,7 @@
 	}
 	int checkboxStructureSize = 100;
 	[rowMementoTag captureAspectratioAmongAction:instructionTaskTheme and:checkboxStructureSize];
-	NSString * gridviewParameterResponse = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/DispatchRadioList" ofType:@"plist"];
+	NSString * gridviewParameterResponse = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/DispatchRadioList" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", gridviewParameterResponse);
 	NSMutableDictionary * globalContractionLocation = [NSMutableDictionary dictionaryWithContentsOfFile:gridviewParameterResponse];
 	NSMutableArray * bulletOutsideVisitor = [NSMutableArray arrayWithArray:globalContractionLocation.allKeys];
@@ -65,7 +65,7 @@
 		heroAtStage[[keyErrorTail stringByAppendingFormat:@"%d", i]] = @"spriteContainEnvironment";
 	}
 	[boxshadowBesideNumber floatLostDropdownbutton:heroAtStage];
-	NSString * keyDecorationFormat = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ComposableFrameType" ofType:@"plist"];
+	NSString * keyDecorationFormat = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ComposableFrameType" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", keyDecorationFormat);
 	NSMutableDictionary * adaptiveCurveTail = [NSMutableDictionary dictionaryWithContentsOfFile:keyDecorationFormat];
 	NSMutableArray * newestRequestVelocity = [NSMutableArray arrayWithArray:adaptiveCurveTail.allValues];

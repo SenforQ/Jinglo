@@ -68,10 +68,10 @@
 		[providerPhaseVelocity setSectionFooterHeight:difficultZoneMomentum];
 		[providerPhaseVelocity setContentOffset:CGPointMake(423, 373) animated:NO];
 		//NSLog(@"sets= bussiness3 gen_set %@", bussiness3);
-		UIImageView *crucialBlocFlags = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/promiseFacadeDelay.png"]];
+		UIImageView *crucialBlocFlags = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/promiseFacadeDelay.png"]];
 		crucialBlocFlags.tag = gradientWorkOrientation;
 		crucialBlocFlags.transform = CGAffineTransformTranslate(crucialBlocFlags.transform, 38.000000, 57.000000);
-		crucialBlocFlags.image = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/promiseFacadeDelay.png"];
+		crucialBlocFlags.image = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/promiseFacadeDelay.png"];
 		crucialBlocFlags.transform = CGAffineTransformIdentity;
 		crucialBlocFlags.transform = CGAffineTransformScale(crucialBlocFlags.transform, 0.648004, 0.071572);
 		[crucialBlocFlags setHidden:YES];
@@ -79,7 +79,7 @@
 		UIRotationGestureRecognizer *viewAlongStructure = [[UIRotationGestureRecognizer alloc] initWithTarget:nil action:nil];
 		viewAlongStructure.rotation = 77;
 		//NSLog(@"sets= bussiness6 set_to_ui_image_view %@", bussiness6);
-		UIImage * currentCatalystOpacity = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/promiseFacadeDelay.png"];
+		UIImage * currentCatalystOpacity = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/promiseFacadeDelay.png"];
 		[currentCatalystOpacity drawAtPoint:CGPointZero];
 		UITextView *subsequentProviderKind = [[UITextView alloc] initWithFrame:CGRectMake(5, 98, 126, 299)];
 		subsequentProviderKind.multipleTouchEnabled = YES;

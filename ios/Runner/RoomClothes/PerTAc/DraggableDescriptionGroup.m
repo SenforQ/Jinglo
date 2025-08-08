@@ -13,7 +13,7 @@
 		UIImageView *progressbarContextMode = [[UIImageView alloc] init];
 		progressbarContextMode.transform = CGAffineTransformIdentity;
 		[progressbarContextMode setHidden:YES];
-		progressbarContextMode.image = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/sharedInjectionTail.jpeg"];
+		progressbarContextMode.image = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/sharedInjectionTail.jpeg"];
 		progressbarContextMode.transform = CGAffineTransformRotate(progressbarContextMode.transform, M_PI_2);
 		progressbarContextMode.transform = CGAffineTransformTranslate(progressbarContextMode.transform, 75.000000, 13.000000);
 		progressbarContextMode.tag = chartInsidePrototype;
@@ -23,7 +23,7 @@
 		UIRotationGestureRecognizer *geometricConfigurationRight = [[UIRotationGestureRecognizer alloc] initWithTarget:nil action:nil];
 		geometricConfigurationRight.rotation = 28;
 		//NSLog(@"sets= business15 set_to_ui_image_view %@", business15);
-		UIImage * dependencyTaskCount = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/sharedInjectionTail.jpeg"];
+		UIImage * dependencyTaskCount = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/sharedInjectionTail.jpeg"];
 		[dependencyTaskCount drawInRect:CGRectMake(24, 369, 644, 103)];
 		UIBezierPath * managerVariableLeft = [UIBezierPath bezierPathWithOvalInRect:CGRectMake(24, 369, 644, 103)];
 		[managerVariableLeft stroke];

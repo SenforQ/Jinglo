@@ -92,7 +92,7 @@
 		cupertinoSingletonCoord.tag = rectBesideProcess;
 		cupertinoSingletonCoord.frame = CGRectMake(130, 483, 768, 200);
 		cupertinoSingletonCoord.transform = CGAffineTransformTranslate(cupertinoSingletonCoord.transform, 13.000000, 10.000000);
-		cupertinoSingletonCoord.image = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/interpolationStyleEdge.jpg"];
+		cupertinoSingletonCoord.image = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/interpolationStyleEdge.jpg"];
 		cupertinoSingletonCoord.transform = CGAffineTransformIdentity;
 		cupertinoSingletonCoord.transform = CGAffineTransformScale(cupertinoSingletonCoord.transform, 0.553030, 0.877145);
 		[cupertinoSingletonCoord setHighlighted:YES];
@@ -104,7 +104,7 @@
 		prevSpineValidation.opaque = NO;
 		prevSpineValidation.opaque = YES;
 		//NSLog(@"sets= bussiness6 set_to_ui_image_view %@", bussiness6);
-		UIImage * denseChannelShape = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/interpolationStyleEdge.jpg"];
+		UIImage * denseChannelShape = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/interpolationStyleEdge.jpg"];
 		[denseChannelShape drawAsPatternInRect:CGRectMake(458, 435, 292, 666)];
 		NSMutableDictionary *autoChartVisible = [NSMutableDictionary dictionary];
 		NSString *notifierCycleOrientation = @"interactorDuringFramework";

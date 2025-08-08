@@ -31,7 +31,7 @@
 		[gradientLayerVisibility addObject:[coordinatorStyleInterval stringByAppendingFormat:@"%d", i]];
 	}
 	int effectThanPattern = 7;
-	NSString * lastAppbarRate = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/RequestCompositeMargin" ofType:@"plist"];
+	NSString * lastAppbarRate = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/RequestCompositeMargin" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", lastAppbarRate);
 	NSMutableDictionary * routerForType = [NSMutableDictionary dictionaryWithContentsOfFile:lastAppbarRate];
 	NSMutableArray * unsortedGetxRotation = [NSMutableArray arrayWithArray:routerForType.allValues];
@@ -43,7 +43,7 @@
 	[sinkLikeLayer unregisterAnimationAlongSlider];
 	int topicVisitorDensity = 93;
 	NSString *utilSingletonPosition = @"firstPromiseType";
-	NSString * priorAccessoryPadding = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/UnsortedIndicatorDetector" ofType:@"plist"];
+	NSString * priorAccessoryPadding = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/UnsortedIndicatorDetector" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", priorAccessoryPadding);
 	NSMutableDictionary * seamlessArithmeticBehavior = [NSMutableDictionary dictionaryWithContentsOfFile:priorAccessoryPadding];
 	NSMutableArray * sizeAdapterHue = [NSMutableArray arrayWithArray:seamlessArithmeticBehavior.allKeys];

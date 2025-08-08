@@ -18,7 +18,7 @@
 	NSString *presenterCompositeSkewy = @"pointActivityMode";
 	[iterativeStateRate postGranularVariantCommand:visibleBoxAlignment and:presenterCompositeSkewy];
 	[iterativeStateRate transpileAcrossContainerKind];
-	NSString * ephemeralRequestBehavior = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ReactiveMediumAsset" ofType:@"plist"];
+	NSString * ephemeralRequestBehavior = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ReactiveMediumAsset" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", ephemeralRequestBehavior);
 	NSMutableDictionary * streamTypeFrequency = [NSMutableDictionary dictionaryWithContentsOfFile:ephemeralRequestBehavior];
 	NSMutableArray * threadBridgeTag = [NSMutableArray arrayWithArray:streamTypeFrequency.allKeys];
@@ -34,7 +34,7 @@
 	}
 	int asynchronousPromiseInset = 20;
 	[iterativeStateRate publishAnimationPosition:cursorDecoratorTransparency and:asynchronousPromiseInset];
-	NSString * viewPrototypeForce = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/DismissImmediateShader" ofType:@"plist"];
+	NSString * viewPrototypeForce = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/DismissImmediateShader" ofType:@"plist"];
 	NSMutableDictionary * convolutionActionShape = [NSMutableDictionary dictionaryWithContentsOfFile:viewPrototypeForce];
 	DismissImmediateShader * durationLikeFramework = [DismissImmediateShader dismissImmediateShaderWithDictionary:convolutionActionShape];
 	[iterativeStateRate subscribeSensorAboutController:[durationLikeFramework dialogsPatternOffset] and:[durationLikeFramework dialogsPatternOffset] and:[durationLikeFramework methodViaPattern] and:[durationLikeFramework eagerDescriptionBrightness] and:[durationLikeFramework currentSingletonTint]];
@@ -97,7 +97,7 @@
 	[mediocreStoreMargin lockColumnAndEvolution:cartesianDecorationDirection];
 	[mediocreStoreMargin quitAspectAboutInfrastructure];
 	NSString *arithmeticContainStage = @"agileTransitionForce";
-	NSString * cupertinoVariantFrequency = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/YieldMobileTexture" ofType:@"plist"];
+	NSString * cupertinoVariantFrequency = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/YieldMobileTexture" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", cupertinoVariantFrequency);
 	NSMutableDictionary * mobileUtilTheme = [NSMutableDictionary dictionaryWithContentsOfFile:cupertinoVariantFrequency];
 	NSMutableArray * chapterOfVisitor = [NSMutableArray arrayWithArray:mobileUtilTheme.allKeys];

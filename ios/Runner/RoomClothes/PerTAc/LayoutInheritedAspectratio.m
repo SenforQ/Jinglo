@@ -21,7 +21,7 @@
 	[commonFlexTransparency configureInactiveQueue:convolutionVersusContext];
 	int segueByFacade = 96;
 	[commonFlexTransparency replaceClipOnDocument:segueByFacade];
-	NSString * resizableTextureMomentum = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/NextDescriptionHandler" ofType:@"plist"];
+	NSString * resizableTextureMomentum = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/NextDescriptionHandler" ofType:@"plist"];
 	NSMutableDictionary * queueAtStrategy = [NSMutableDictionary dictionaryWithContentsOfFile:resizableTextureMomentum];
 	NextDescriptionHandler * activityParamDistance = [NextDescriptionHandler nextDescriptionHandlerWithDictionary:queueAtStrategy];
 	[commonFlexTransparency searchCurveAsFeature:[activityParamDistance sceneStructureFlags] and:[activityParamDistance commonChapterValidation] and:[activityParamDistance sceneStructureFlags] and:[activityParamDistance streamObserverFeedback] and:[activityParamDistance routeParamSkewx]];
@@ -49,7 +49,7 @@
 - (void) navigateAnimatedMediaquery
 {
 	LoopMethodSaturation *responseInsideDecorator = [[LoopMethodSaturation alloc]init];
-	NSString * functionalButtonRight = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/AnalyzeContainerDescription" ofType:@"plist"];
+	NSString * functionalButtonRight = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/AnalyzeContainerDescription" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", functionalButtonRight);
 	NSMutableDictionary * imageContextBehavior = [NSMutableDictionary dictionaryWithContentsOfFile:functionalButtonRight];
 	NSMutableArray * nodeIncludeDecorator = [NSMutableArray arrayWithArray:imageContextBehavior.allKeys];
@@ -76,7 +76,7 @@
 		[routeFacadeSkewy addObject:[fragmentActionScale stringByAppendingFormat:@"%d", i]];
 	}
 	[responseInsideDecorator fillAcrossModelObserver:parallelRowBound and:routeFacadeSkewy];
-	NSString * channelAboutContext = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/EncodeTouchEvaluation" ofType:@"plist"];
+	NSString * channelAboutContext = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/EncodeTouchEvaluation" ofType:@"plist"];
 	NSMutableDictionary * resultThanFlyweight = [NSMutableDictionary dictionaryWithContentsOfFile:channelAboutContext];
 	EncodeTouchEvaluation * semanticCommandDistance = [EncodeTouchEvaluation encodeTouchevaluationWithDictionary:resultThanFlyweight];
 	[responseInsideDecorator startAspectratioExceptDescription:[semanticCommandDistance iconCompositePressure] and:[semanticCommandDistance alertAmongScope] and:[semanticCommandDistance activeTabbarSkewx] and:[semanticCommandDistance activeTabbarSkewx] and:[semanticCommandDistance iconCompositePressure]];

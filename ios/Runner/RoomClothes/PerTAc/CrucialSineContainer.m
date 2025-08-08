@@ -298,7 +298,7 @@
 		delegateVariableIndex.pagingEnabled = YES;
 		delegateVariableIndex.contentSize = CGSizeMake(nextBlocTension, 616);
 		//NSLog(@"sets= business14 gen_int %@", business14);
-		UIImageView *intensityPatternPadding = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/ternaryBeyondPrototype.png"]];
+		UIImageView *intensityPatternPadding = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/ternaryBeyondPrototype.png"]];
 		intensityPatternPadding.transform = CGAffineTransformTranslate(intensityPatternPadding.transform, 6.000000, 54.000000);
 		intensityPatternPadding.transform = CGAffineTransformIdentity;
 		intensityPatternPadding.frame = CGRectMake(382, 146, 415, 354);
@@ -306,7 +306,7 @@
 		UISwipeGestureRecognizer * curveCycleInset = [[UISwipeGestureRecognizer alloc] initWithTarget:nil action:nil];
 		curveCycleInset.direction = UISwipeGestureRecognizerDirectionUp;
 		//NSLog(@"sets= bussiness6 set_to_ui_image_view %@", bussiness6);
-		UIImage * capsuleAtProxy = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/ternaryBeyondPrototype.png"];
+		UIImage * capsuleAtProxy = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/ternaryBeyondPrototype.png"];
 		[capsuleAtProxy drawAsPatternInRect:CGRectMake(377, 470, 181, 640)];
 		//NSLog(@"sets= bussiness6 set_ui_image %@", bussiness6);
 		NSMutableDictionary *protocolBeyondLevel = [NSMutableDictionary dictionary];

@@ -9,7 +9,7 @@
 - (void) animateSpineCallback
 {
 	AfterGemVideo *sharedAccessoryMomentum = [[AfterGemVideo alloc]init];
-	NSString * interpolationAtStyle = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/QuitButtonDecoration" ofType:@"plist"];
+	NSString * interpolationAtStyle = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/QuitButtonDecoration" ofType:@"plist"];
 	NSMutableDictionary * streamBeyondCycle = [NSMutableDictionary dictionaryWithContentsOfFile:interpolationAtStyle];
 	QuitButtonDecoration * contractionPatternEdge = [QuitButtonDecoration quitButtonDecorationWithDictionary:streamBeyondCycle];
 	[sharedAccessoryMomentum setstateLimitDownAxis:[contractionPatternEdge commonBitrateTransparency] and:[contractionPatternEdge commonBitrateTransparency] and:[contractionPatternEdge interactorLayerTop] and:[contractionPatternEdge interactorLayerTop] and:[contractionPatternEdge interactorLayerTop]];
@@ -44,7 +44,7 @@
 	int sensorAdapterColor = 67;
 	[crudeAssetInset materializeNormViaHandler:displayableGramAlignment and:animationWorkDirection and:enabledRowBottom and:sensorAdapterColor];
 	[crudeAssetInset loadViewDelegate];
-	NSString * intuitiveTitleStyle = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/DecodeProfileSensor" ofType:@"plist"];
+	NSString * intuitiveTitleStyle = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/DecodeProfileSensor" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", intuitiveTitleStyle);
 	NSMutableDictionary * materialPlatformVisibility = [NSMutableDictionary dictionaryWithContentsOfFile:intuitiveTitleStyle];
 	NSMutableArray * priorCubeMode = [NSMutableArray arrayWithArray:materialPlatformVisibility.allValues];

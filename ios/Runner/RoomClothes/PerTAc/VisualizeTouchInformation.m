@@ -57,7 +57,7 @@
 	[particleModeOpacity withBulletMesh:effectContainStyle and:intensityVisitorDelay and:exceptionPatternBehavior];
 	int controllerOfFlyweight = 19;
 	NSString *multiLabelShape = @"radiusValueCoord";
-	NSString * monsterTypeHue = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/BulletInterpreterEdge" ofType:@"plist"];
+	NSString * monsterTypeHue = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/BulletInterpreterEdge" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", monsterTypeHue);
 	NSMutableDictionary * behaviorAdapterVisible = [NSMutableDictionary dictionaryWithContentsOfFile:monsterTypeHue];
 	NSMutableArray * stepScopePosition = [NSMutableArray arrayWithArray:behaviorAdapterVisible.allValues];
@@ -120,7 +120,7 @@
 		[playbackFromParam addObject:[NSString stringWithFormat:@"plateAtStructure%d", i]];
 	}
 	[unsortedHandlerResponse playOnRequestProcess:threadChainVisible and:controllerOrMemento and:playbackFromParam];
-	NSString * beginnerSkinCenter = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/AutoMaterialCoordinator" ofType:@"plist"];
+	NSString * beginnerSkinCenter = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/AutoMaterialCoordinator" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", beginnerSkinCenter);
 	NSMutableDictionary * boxshadowLikeValue = [NSMutableDictionary dictionaryWithContentsOfFile:beginnerSkinCenter];
 	NSMutableArray * publicRemainderVisible = [NSMutableArray arrayWithArray:boxshadowLikeValue.allKeys];

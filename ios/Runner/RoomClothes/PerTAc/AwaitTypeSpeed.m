@@ -84,13 +84,13 @@
 	for (int i = 8; i != 0; --i) {
 		listenerAmongOperation[[temporaryAppbarCenter stringByAppendingFormat:@"%d", i]] = @"builderStateBehavior";
 	}
-	NSString * disparateSceneStatus = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/LabelAnimationManager" ofType:@"plist"];
+	NSString * disparateSceneStatus = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/LabelAnimationManager" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", disparateSceneStatus);
 	NSMutableDictionary * displayableCubitMargin = [NSMutableDictionary dictionaryWithContentsOfFile:disparateSceneStatus];
 	NSMutableArray * binaryCommandSpeed = [NSMutableArray arrayWithArray:displayableCubitMargin.allKeys];
 	[disparateResourceTransparency transformCupertinoDuringPermutation:listenerAmongOperation and:binaryCommandSpeed];
 	[disparateResourceTransparency showSmallProgressbarObserver];
-	NSString * liteQueueBottom = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/MediocreProjectFactory" ofType:@"plist"];
+	NSString * liteQueueBottom = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/MediocreProjectFactory" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", liteQueueBottom);
 	NSMutableDictionary * roleChainHead = [NSMutableDictionary dictionaryWithContentsOfFile:liteQueueBottom];
 	NSMutableArray * popupVersusCycle = [NSMutableArray arrayWithArray:roleChainHead.allValues];

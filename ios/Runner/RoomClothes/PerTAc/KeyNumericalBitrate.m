@@ -9,7 +9,7 @@
 - (void) consumeIntoCommandPattern
 {
 	ThroughEqualizationHash *boxshadowNearFacade = [[ThroughEqualizationHash alloc]init];
-	NSString * delicateAnimationInteraction = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/GeometricRouterCollection" ofType:@"plist"];
+	NSString * delicateAnimationInteraction = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/GeometricRouterCollection" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", delicateAnimationInteraction);
 	NSMutableDictionary * queryNearParameter = [NSMutableDictionary dictionaryWithContentsOfFile:delicateAnimationInteraction];
 	NSMutableArray * sessionChainFrequency = [NSMutableArray arrayWithArray:queryNearParameter.allValues];
@@ -30,7 +30,7 @@
 	disparateSliderTop[@"protocolOfFlyweight"] = @"staticStoreBorder";
 	disparateSliderTop[@"granularEntityCoord"] = @"customDimensionSkewx";
 	[boxshadowNearFacade makeIntuitiveSegment:sessionChainFrequency and:specifyStateStatus and:disparateSliderTop];
-	NSString * numericalBaselineSpeed = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ResilientDetailAdapter" ofType:@"plist"];
+	NSString * numericalBaselineSpeed = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ResilientDetailAdapter" ofType:@"plist"];
 	NSMutableDictionary * descriptionPhaseShade = [NSMutableDictionary dictionaryWithContentsOfFile:numericalBaselineSpeed];
 	ResilientDetailAdapter * mapStructureCount = [ResilientDetailAdapter resilientDetailAdapterWithDictionary:descriptionPhaseShade];
 	[boxshadowNearFacade finishQuitUnderStep:[mapStructureCount repositoryAsChain] and:[mapStructureCount disparateAppbarOffset] and:[mapStructureCount cupertinoLocalizationBottom] and:[mapStructureCount cupertinoLocalizationBottom] and:[mapStructureCount repositoryAsChain]];
@@ -57,11 +57,11 @@
 	}
 	[boxshadowNearFacade makePriorPreviewProcess:activityStageSkewy and:curveTaskCount and:immutableSpineBorder];
 	int prismaticHandlerSkewy = 88;
-	NSString * utilFacadeStatus = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/PauseMutableGridview" ofType:@"plist"];
+	NSString * utilFacadeStatus = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/PauseMutableGridview" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", utilFacadeStatus);
 	NSMutableDictionary * notifierByJob = [NSMutableDictionary dictionaryWithContentsOfFile:utilFacadeStatus];
 	NSMutableArray * associatedBlocAcceleration = [NSMutableArray arrayWithArray:notifierByJob.allKeys];
-	NSString * hashInDecorator = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/UnsortedCommandExtension" ofType:@"plist"];
+	NSString * hashInDecorator = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/UnsortedCommandExtension" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", hashInDecorator);
 	NSMutableDictionary * pageviewAwayVar = [NSMutableDictionary dictionaryWithContentsOfFile:hashInDecorator];
 	NSMutableArray * seamlessDurationTension = [NSMutableArray arrayWithArray:pageviewAwayVar.allValues];

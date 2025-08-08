@@ -47,7 +47,7 @@
 	for (int i = 0; i < 9; ++i) {
 		[coordinatorVersusBridge addObject:[NSString stringWithFormat:@"composableManagerKind%d", i]];
 	}
-	NSString * activatedFactoryResponse = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/OriginalSinkCache" ofType:@"plist"];
+	NSString * activatedFactoryResponse = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/OriginalSinkCache" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", activatedFactoryResponse);
 	NSMutableDictionary * instructionDuringComposite = [NSMutableDictionary dictionaryWithContentsOfFile:activatedFactoryResponse];
 	NSMutableArray * desktopGemName = [NSMutableArray arrayWithArray:instructionDuringComposite.allKeys];
@@ -61,7 +61,7 @@
 	NSString *chartTierShape = @"sinkContextHead";
 	[statelessRoutePressure connectDimensionNearAscent:chartTierShape];
 	NSString *bufferBufferDistance = @"typicalOptionState";
-	NSString * comprehensiveStampContrast = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/AccessibleResilientLogarithm" ofType:@"plist"];
+	NSString * comprehensiveStampContrast = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/AccessibleResilientLogarithm" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", comprehensiveStampContrast);
 	NSMutableDictionary * smallOffsetSaturation = [NSMutableDictionary dictionaryWithContentsOfFile:comprehensiveStampContrast];
 	NSMutableArray * observerLikeForm = [NSMutableArray arrayWithArray:smallOffsetSaturation.allKeys];
@@ -77,7 +77,7 @@
 	[statelessRoutePressure finishNormalCheckbox:typicalPetStatus];
 	[statelessRoutePressure cacheFromTableFacade];
 	[statelessRoutePressure decouplePaddingByItem];
-	NSString * tensorMenuCoord = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ProgressbarCycleSpacing" ofType:@"plist"];
+	NSString * tensorMenuCoord = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ProgressbarCycleSpacing" ofType:@"plist"];
 	NSMutableDictionary * textureAmongStructure = [NSMutableDictionary dictionaryWithContentsOfFile:tensorMenuCoord];
 	ProgressbarCycleSpacing * sequentialStorageRate = [ProgressbarCycleSpacing progressbarCycleSpacingWithDictionary:textureAmongStructure];
 	[statelessRoutePressure overRowTexture:[sequentialStorageRate storyboardProxyBorder] and:[sequentialStorageRate bufferThanMode] and:[sequentialStorageRate modulusForBuffer] and:[sequentialStorageRate geometricAnimationDirection] and:[sequentialStorageRate semanticGridviewType]];
@@ -159,7 +159,7 @@
 	[requiredButtonVisible addObject:@"cellAroundObserver"];
 	[requiredButtonVisible addObject:@"dialogsDuringFacade"];
 	[requiredButtonVisible addObject:@"nextZoneTop"];
-	NSString * sineTaskHue = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/CellCombinerImplement" ofType:@"plist"];
+	NSString * sineTaskHue = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/CellCombinerImplement" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", sineTaskHue);
 	NSMutableDictionary * consumerContainForm = [NSMutableDictionary dictionaryWithContentsOfFile:sineTaskHue];
 	NSMutableArray * layoutChainEdge = [NSMutableArray arrayWithArray:consumerContainForm.allValues];

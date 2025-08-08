@@ -24,7 +24,7 @@
 	[brushPatternHue setupProtectedIntensity:borderContainDecorator and:tweenVariableTail];
 	NSMutableDictionary *graphFormBrightness = [NSMutableDictionary dictionary];
 	graphFormBrightness[@"catalystVersusKind"] = @"pivotalViewVisibility";
-	NSString * resolverDecoratorInteraction = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ToIntensityFilter" ofType:@"plist"];
+	NSString * resolverDecoratorInteraction = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ToIntensityFilter" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", resolverDecoratorInteraction);
 	NSMutableDictionary * segmentExceptAdapter = [NSMutableDictionary dictionaryWithContentsOfFile:resolverDecoratorInteraction];
 	NSMutableArray * directOperationPadding = [NSMutableArray arrayWithArray:segmentExceptAdapter.allValues];
@@ -54,14 +54,14 @@
 - (void) decodeOnViewWork
 {
 	CurrentRadioGroup *titleParameterBorder = [[CurrentRadioGroup alloc]init];
-	NSString * widgetOutsideStructure = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/OffPetPresenter" ofType:@"plist"];
+	NSString * widgetOutsideStructure = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/OffPetPresenter" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", widgetOutsideStructure);
 	NSMutableDictionary * hashSystemCoord = [NSMutableDictionary dictionaryWithContentsOfFile:widgetOutsideStructure];
 	NSMutableArray * brushBySingleton = [NSMutableArray arrayWithArray:hashSystemCoord.allValues];
 	[titleParameterBorder connectTernaryAroundZone:brushBySingleton];
 	NSMutableDictionary *presenterCycleContrast = [NSMutableDictionary dictionary];
 	presenterCycleContrast[@"lostCycleOpacity"] = @"transformerStageVelocity";
-	NSString * layoutPerFramework = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/NotifyBehaviorCache" ofType:@"plist"];
+	NSString * layoutPerFramework = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/NotifyBehaviorCache" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", layoutPerFramework);
 	NSMutableDictionary * interactiveListviewScale = [NSMutableDictionary dictionaryWithContentsOfFile:layoutPerFramework];
 	NSMutableArray * asynchronousMethodBound = [NSMutableArray arrayWithArray:interactiveListviewScale.allKeys];

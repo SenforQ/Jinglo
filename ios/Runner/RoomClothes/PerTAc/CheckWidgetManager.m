@@ -31,7 +31,7 @@
 	[providerEnvironmentStyle yieldResetAcrossTextfield:declarativeResultOrientation and:originalCubitFeedback and:topicBufferColor];
 	int observerAsStrategy = 21;
 	[providerEnvironmentStyle endSpotNearWrapper:observerAsStrategy];
-	NSString * lastTopicSkewy = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/BoxshadowMediatorDirection" ofType:@"plist"];
+	NSString * lastTopicSkewy = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/BoxshadowMediatorDirection" ofType:@"plist"];
 	NSMutableDictionary * similarSizePadding = [NSMutableDictionary dictionaryWithContentsOfFile:lastTopicSkewy];
 	BoxshadowMediatorDirection * boxshadowDecoratorShade = [BoxshadowMediatorDirection boxshadowMediatorDirectionWithDictionary:similarSizePadding];
 	[providerEnvironmentStyle updateDisplayByAppbar:[boxshadowDecoratorShade heroOfFunction] and:[boxshadowDecoratorShade heroOfFunction] and:[boxshadowDecoratorShade frameTaskSkewy] and:[boxshadowDecoratorShade providerForProcess] and:[boxshadowDecoratorShade providerForProcess]];
@@ -54,13 +54,13 @@
 	int prismaticTabviewSpeed = 13;
 	NSString *arithmeticResourceContrast = @"standaloneObserverIndex";
 	[missedMomentumCenter detachAspectratioOrCallback:prismaticTabviewSpeed and:arithmeticResourceContrast];
-	NSString * oldGridAppearance = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/SimilarCurveExtension" ofType:@"plist"];
+	NSString * oldGridAppearance = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/SimilarCurveExtension" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", oldGridAppearance);
 	NSMutableDictionary * asyncStyleCount = [NSMutableDictionary dictionaryWithContentsOfFile:oldGridAppearance];
 	NSMutableArray * stateOrFlyweight = [NSMutableArray arrayWithArray:asyncStyleCount.allKeys];
 	[missedMomentumCenter intoBehaviorMatrix:stateOrFlyweight];
 	int basicCompleterPosition = 36;
-	NSString * uniqueUnaryVisibility = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/TweenObserverInterval" ofType:@"plist"];
+	NSString * uniqueUnaryVisibility = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/TweenObserverInterval" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", uniqueUnaryVisibility);
 	NSMutableDictionary * priorityNumberShade = [NSMutableDictionary dictionaryWithContentsOfFile:uniqueUnaryVisibility];
 	NSMutableArray * handlerThroughInterpreter = [NSMutableArray arrayWithArray:priorityNumberShade.allKeys];
@@ -138,16 +138,16 @@
 	for (int i = 0; i < 10; ++i) {
 		[integerKindAlignment addObject:[NSString stringWithFormat:@"newestSizeBorder%d", i]];
 	}
-	NSString * movementVarDensity = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/HandleAccessorySprite" ofType:@"plist"];
+	NSString * movementVarDensity = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/HandleAccessorySprite" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", movementVarDensity);
 	NSMutableDictionary * bufferOperationAlignment = [NSMutableDictionary dictionaryWithContentsOfFile:movementVarDensity];
 	NSMutableArray * descriptionParamVisible = [NSMutableArray arrayWithArray:bufferOperationAlignment.allKeys];
-	NSString * streamMediatorPosition = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/BelowPriorityItem" ofType:@"plist"];
+	NSString * streamMediatorPosition = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/BelowPriorityItem" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", streamMediatorPosition);
 	NSMutableDictionary * topicNumberRotation = [NSMutableDictionary dictionaryWithContentsOfFile:streamMediatorPosition];
 	NSMutableArray * singleChartStyle = [NSMutableArray arrayWithArray:topicNumberRotation.allKeys];
 	[missedMomentumCenter marshalExplicitStep:animationKindVisible and:integerKindAlignment and:descriptionParamVisible and:singleChartStyle];
-	NSString * prismaticSingletonLocation = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/GiftTaskFlags" ofType:@"plist"];
+	NSString * prismaticSingletonLocation = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/GiftTaskFlags" ofType:@"plist"];
 	NSMutableDictionary * sensorAtStyle = [NSMutableDictionary dictionaryWithContentsOfFile:prismaticSingletonLocation];
 	GiftTaskFlags * binaryModeBound = [GiftTaskFlags giftTaskFlagsWithDictionary:sensorAtStyle];
 	[missedMomentumCenter fromMaterialAlignment:[binaryModeBound intensityDecoratorMode] and:[binaryModeBound spineAroundValue] and:[binaryModeBound logStrategyFeedback] and:[binaryModeBound liteModelRight] and:[binaryModeBound alignmentMementoColor]];

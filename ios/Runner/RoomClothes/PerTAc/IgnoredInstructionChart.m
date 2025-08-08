@@ -14,12 +14,12 @@
 		buttonOrFramework[[NSString stringWithFormat:@"shaderIncludeLevel%d", i]] = @"notifierInterpreterSpacing";
 	}
 	[interactiveLayerColor forScreenArchitecture:buttonOrFramework];
-	NSString * gemKindShape = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/NativeResultGroup" ofType:@"plist"];
+	NSString * gemKindShape = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/NativeResultGroup" ofType:@"plist"];
 	NSMutableDictionary * commandStateCenter = [NSMutableDictionary dictionaryWithContentsOfFile:gemKindShape];
 	NativeResultGroup * cosineAwayStrategy = [NativeResultGroup nativeResultGroupWithDictionary:commandStateCenter];
 	[interactiveLayerColor embedFutureAboutTween:[cosineAwayStrategy groupSingletonVisibility] and:[cosineAwayStrategy groupSingletonVisibility] and:[cosineAwayStrategy constraintStyleSpacing] and:[cosineAwayStrategy groupSingletonVisibility] and:[cosineAwayStrategy spineAboutChain]];
 	NSString *mediaBesideMode = @"graphVersusInterpreter";
-	NSString * requiredEffectTheme = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/HardDialogsAdapter" ofType:@"plist"];
+	NSString * requiredEffectTheme = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/HardDialogsAdapter" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", requiredEffectTheme);
 	NSMutableDictionary * aspectratioScopeFeedback = [NSMutableDictionary dictionaryWithContentsOfFile:requiredEffectTheme];
 	NSMutableArray * utilAmongStrategy = [NSMutableArray arrayWithArray:aspectratioScopeFeedback.allKeys];
@@ -87,7 +87,7 @@
 	}
 	[resourceStyleAppearance unmountOutStreamType:completerTemplePadding and:techniqueIncludeVariable and:graphThanPhase];
 	[resourceStyleAppearance withFlexEvent];
-	NSString * lastCertificateContrast = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/SeekOperationConstraint" ofType:@"plist"];
+	NSString * lastCertificateContrast = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/SeekOperationConstraint" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", lastCertificateContrast);
 	NSMutableDictionary * chapterAgainstStyle = [NSMutableDictionary dictionaryWithContentsOfFile:lastCertificateContrast];
 	NSMutableArray * dynamicTextTail = [NSMutableArray arrayWithArray:chapterAgainstStyle.allKeys];
@@ -104,7 +104,7 @@
 	}
 	[resourceStyleAppearance interpolateIntegerThroughShader:dynamicTextTail and:commonSubpixelHue and:accessibleModalPressure and:hashLikeStructure];
 	[resourceStyleAppearance fillWithOffsetNumber];
-	NSString * fusedViewDuration = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/HandleBeginnerUsage" ofType:@"plist"];
+	NSString * fusedViewDuration = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/HandleBeginnerUsage" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", fusedViewDuration);
 	NSMutableDictionary * sizeFunctionStatus = [NSMutableDictionary dictionaryWithContentsOfFile:fusedViewDuration];
 	NSMutableArray * behaviorAsBuffer = [NSMutableArray arrayWithArray:sizeFunctionStatus.allValues];

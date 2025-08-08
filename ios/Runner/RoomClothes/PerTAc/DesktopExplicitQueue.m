@@ -9,7 +9,7 @@
 - (void) adjustFirstMusic
 {
 	DifferentiateStreamStatus *tweenAroundMethod = [[DifferentiateStreamStatus alloc]init];
-	NSString * progressbarViaDecorator = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ProcessArithmeticCard" ofType:@"plist"];
+	NSString * progressbarViaDecorator = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ProcessArithmeticCard" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", progressbarViaDecorator);
 	NSMutableDictionary * metadataByNumber = [NSMutableDictionary dictionaryWithContentsOfFile:progressbarViaDecorator];
 	NSMutableArray * decorationAboutParameter = [NSMutableArray arrayWithArray:metadataByNumber.allValues];
@@ -35,7 +35,7 @@
 	[tweenAroundMethod setupGateObserver:gradientObserverTail];
 	[tweenAroundMethod shouldComprehensiveTopicState];
 	NSString *ignoredTextureBottom = @"indicatorProcessPadding";
-	NSString * profileAgainstPattern = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/StartExtensionAnalogy" ofType:@"plist"];
+	NSString * profileAgainstPattern = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/StartExtensionAnalogy" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", profileAgainstPattern);
 	NSMutableDictionary * unactivatedDurationSize = [NSMutableDictionary dictionaryWithContentsOfFile:profileAgainstPattern];
 	NSMutableArray * stateSinceWork = [NSMutableArray arrayWithArray:unactivatedDurationSize.allValues];
@@ -50,7 +50,7 @@
 	[tweenAroundMethod deflateTableAmongFuture];
 	NSMutableArray *mainSubscriptionAppearance = [NSMutableArray array];
 	[mainSubscriptionAppearance addObject:@"controllerSystemType"];
-	NSString * eventByType = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/CaptionActionHead" ofType:@"plist"];
+	NSString * eventByType = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/CaptionActionHead" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", eventByType);
 	NSMutableDictionary * interactiveNodeRotation = [NSMutableDictionary dictionaryWithContentsOfFile:eventByType];
 	NSMutableArray * hardBoxValidation = [NSMutableArray arrayWithArray:interactiveNodeRotation.allKeys];

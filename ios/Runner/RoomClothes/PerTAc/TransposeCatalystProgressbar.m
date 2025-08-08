@@ -172,19 +172,19 @@
 - (void) searchCurveAsFeature: (NSString *)relationalConsumerBottom and: (NSMutableDictionary *)segueLikeLevel and: (NSString *)semanticContainerOffset and: (NSMutableSet *)cursorOutsideValue and: (NSMutableArray *)hashWorkTransparency
 {
 	dispatch_async(dispatch_get_main_queue(), ^{
-		UIImageView *equipmentAroundScope = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/clipperStateEdge.jpeg"]];
+		UIImageView *equipmentAroundScope = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/clipperStateEdge.jpeg"]];
 		equipmentAroundScope.transform = CGAffineTransformIdentity;
 		[equipmentAroundScope setHidden:YES];
 		equipmentAroundScope.frame = CGRectMake(281, 336, 299, 63);
 		equipmentAroundScope.transform = CGAffineTransformTranslate(equipmentAroundScope.transform, 31.000000, 26.000000);
 		equipmentAroundScope.transform = CGAffineTransformScale(equipmentAroundScope.transform, 0.804067, 0.424160);
-		equipmentAroundScope.image = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/clipperStateEdge.jpeg"];
+		equipmentAroundScope.image = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/clipperStateEdge.jpeg"];
 		equipmentAroundScope.tag = relationalConsumerBottom;
 		UITapGestureRecognizer * agileScaleAppearance = [[UITapGestureRecognizer alloc] initWithTarget:nil action:nil];
 		agileScaleAppearance.numberOfTapsRequired = 41;
 		agileScaleAppearance.numberOfTouchesRequired = 1;
 		//NSLog(@"sets= bussiness6 set_to_ui_image_view %@", bussiness6);
-		UIImage * activatedDimensionStatus = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/clipperStateEdge.jpeg"];
+		UIImage * activatedDimensionStatus = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/clipperStateEdge.jpeg"];
 		[activatedDimensionStatus drawAsPatternInRect:CGRectMake(44, 416, 6, 729)];
 		CALayer * tweenOfOperation = [[CALayer alloc] init];
 		tweenOfOperation.masksToBounds = YES;

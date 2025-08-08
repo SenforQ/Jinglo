@@ -59,7 +59,7 @@
 		providerTaskType[[NSString stringWithFormat:@"skirtAroundSystem%d", i]] = @"brushPatternTop";
 	}
 	int hardDimensionFrequency = 24;
-	NSString * providerDuringScope = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/EmitReferenceTimeline" ofType:@"plist"];
+	NSString * providerDuringScope = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/EmitReferenceTimeline" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", providerDuringScope);
 	NSMutableDictionary * controllerNearFlyweight = [NSMutableDictionary dictionaryWithContentsOfFile:providerDuringScope];
 	NSMutableArray * tweenContainValue = [NSMutableArray arrayWithArray:controllerNearFlyweight.allKeys];
@@ -74,7 +74,7 @@
 {
 	DisconnectSemanticListener *reactiveDurationTransparency = [[DisconnectSemanticListener alloc]init];
 	int subscriptionActionVelocity = 23;
-	NSString * swiftVersusStage = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/StatusStructureBottom" ofType:@"plist"];
+	NSString * swiftVersusStage = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/StatusStructureBottom" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", swiftVersusStage);
 	NSMutableDictionary * factoryBridgeValidation = [NSMutableDictionary dictionaryWithContentsOfFile:swiftVersusStage];
 	NSMutableArray * sortedConstraintBottom = [NSMutableArray arrayWithArray:factoryBridgeValidation.allKeys];

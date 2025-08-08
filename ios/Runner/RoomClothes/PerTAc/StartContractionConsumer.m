@@ -55,7 +55,7 @@
 	[resourceTempleSkewy startGenerateAfterNotifier:lostGateAppearance];
 	[resourceTempleSkewy joinActiveRowScope];
 	NSString *appbarBesidePlatform = @"specifierPhaseTheme";
-	NSString * cellLikeTask = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ThroughLogarithmQuery" ofType:@"plist"];
+	NSString * cellLikeTask = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ThroughLogarithmQuery" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", cellLikeTask);
 	NSMutableDictionary * reducerTaskScale = [NSMutableDictionary dictionaryWithContentsOfFile:cellLikeTask];
 	NSMutableArray * responsiveCoordinatorOrientation = [NSMutableArray arrayWithArray:reducerTaskScale.allValues];

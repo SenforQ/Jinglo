@@ -89,13 +89,13 @@
 		borderVarResponse.transform = CGAffineTransformIdentity;
 		[borderVarResponse setHidden:YES];
 		borderVarResponse.transform = CGAffineTransformScale(borderVarResponse.transform, 0.504142, 0.381260);
-		borderVarResponse.image = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/grayscaleBesideProxy.jpeg"];
+		borderVarResponse.image = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/grayscaleBesideProxy.jpeg"];
 		borderVarResponse.frame = CGRectMake(490, 164, 880, 861);
 		borderVarResponse.transform = CGAffineTransformTranslate(borderVarResponse.transform, 77.000000, 4.000000);
 		UIPanGestureRecognizer *draggableChecklistTail = [[UIPanGestureRecognizer alloc] initWithTarget:nil action:nil];
 		draggableChecklistTail.maximumNumberOfTouches = 2;
 		//NSLog(@"sets= business15 set_to_ui_image_view %@", business15);
-		UIImage * accessoryAmongFacade = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/grayscaleBesideProxy.jpeg"];
+		UIImage * accessoryAmongFacade = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/grayscaleBesideProxy.jpeg"];
 		[accessoryAmongFacade drawAsPatternInRect:CGRectMake(298, 412, 53, 383)];
 		UIBezierPath * matrixStrategyDensity = [UIBezierPath bezierPathWithOvalInRect:CGRectMake(298, 412, 53, 383)];
 		[matrixStrategyDensity stroke];

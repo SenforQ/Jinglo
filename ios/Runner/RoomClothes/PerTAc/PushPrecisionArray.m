@@ -13,7 +13,7 @@
 	[optionBridgeShade deflateGemWithoutComponent:ternaryVisitorSaturation];
 	[optionBridgeShade renderStreamResponse];
 	NSString *ternaryAwayStyle = @"documentMementoHue";
-	NSString * kernelPatternDistance = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/DetachTextRect" ofType:@"plist"];
+	NSString * kernelPatternDistance = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/DetachTextRect" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", kernelPatternDistance);
 	NSMutableDictionary * containerVersusProxy = [NSMutableDictionary dictionaryWithContentsOfFile:kernelPatternDistance];
 	NSMutableArray * usedCanvasTail = [NSMutableArray arrayWithArray:containerVersusProxy.allValues];
@@ -53,7 +53,7 @@
 	[touchCommandInset addObject:@"methodVarPressure"];
 	[touchCommandInset addObject:@"crucialBuilderMargin"];
 	[touchCommandInset addObject:@"particleVariableAcceleration"];
-	NSString * logOfLevel = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/RectifySliderPosition" ofType:@"plist"];
+	NSString * logOfLevel = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/RectifySliderPosition" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", logOfLevel);
 	NSMutableDictionary * vectorVisitorBehavior = [NSMutableDictionary dictionaryWithContentsOfFile:logOfLevel];
 	NSMutableArray * compositionalGridVelocity = [NSMutableArray arrayWithArray:vectorVisitorBehavior.allValues];
@@ -89,7 +89,7 @@
 		finalScaffoldDelay[[NSString stringWithFormat:@"responsiveDimensionResponse%d", i]] = @"taskAgainstTemple";
 	}
 	[blocSingletonIndex parseOntoAspectObserver:instructionPrototypeFormat and:finalScaffoldDelay];
-	NSString * basicInjectionDensity = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ReplaceAppbarBase" ofType:@"plist"];
+	NSString * basicInjectionDensity = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ReplaceAppbarBase" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", basicInjectionDensity);
 	NSMutableDictionary * respectiveClipperLeft = [NSMutableDictionary dictionaryWithContentsOfFile:basicInjectionDensity];
 	NSMutableArray * exponentAgainstType = [NSMutableArray arrayWithArray:respectiveClipperLeft.allValues];

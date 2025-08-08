@@ -9,13 +9,13 @@
 - (void) yieldOverProfileJob
 {
 	ModelRecursionFactory *serviceBeyondEnvironment = [[ModelRecursionFactory alloc]init];
-	NSString * nextListenerInterval = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/BuildCurveElasticity" ofType:@"plist"];
+	NSString * nextListenerInterval = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/BuildCurveElasticity" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", nextListenerInterval);
 	NSMutableDictionary * gradientAsVar = [NSMutableDictionary dictionaryWithContentsOfFile:nextListenerInterval];
 	NSMutableArray * customizedAnimationBorder = [NSMutableArray arrayWithArray:gradientAsVar.allKeys];
 	[serviceBeyondEnvironment schedulePositionedWithDependency:customizedAnimationBorder];
 	[serviceBeyondEnvironment restartReductionStorage];
-	NSString * graphFormRight = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/AnimateFragmentTask" ofType:@"plist"];
+	NSString * graphFormRight = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/AnimateFragmentTask" ofType:@"plist"];
 	NSMutableDictionary * streamMediatorBottom = [NSMutableDictionary dictionaryWithContentsOfFile:graphFormRight];
 	AnimateFragmentTask * mediumRichtextAcceleration = [AnimateFragmentTask animateFragmentTaskWithDictionary:streamMediatorBottom];
 	[serviceBeyondEnvironment deserializePainterBloc:[mediumRichtextAcceleration greatFutureInset] and:[mediumRichtextAcceleration greatFutureInset] and:[mediumRichtextAcceleration greatFutureInset] and:[mediumRichtextAcceleration tweenThroughLevel] and:[mediumRichtextAcceleration tweenThroughLevel]];
@@ -49,12 +49,12 @@
 	for (int i = 0; i < 9; ++i) {
 		[liteTabviewTint addObject:[apertureAdapterDirection stringByAppendingFormat:@"%d", i]];
 	}
-	NSString * exceptionNearActivity = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/EncodeMasterRestriction" ofType:@"plist"];
+	NSString * exceptionNearActivity = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/EncodeMasterRestriction" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", exceptionNearActivity);
 	NSMutableDictionary * invisibleRowValidation = [NSMutableDictionary dictionaryWithContentsOfFile:exceptionNearActivity];
 	NSMutableArray * sizedboxContainPattern = [NSMutableArray arrayWithArray:invisibleRowValidation.allValues];
 	[rapidViewDensity navigateRiverpodWithModel:textureVersusVar and:standaloneSessionMomentum and:liteTabviewTint and:sizedboxContainPattern];
-	NSString * particleParameterAlignment = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/DisconnectSophisticatedSegment" ofType:@"plist"];
+	NSString * particleParameterAlignment = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/DisconnectSophisticatedSegment" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", particleParameterAlignment);
 	NSMutableDictionary * callbackThroughLevel = [NSMutableDictionary dictionaryWithContentsOfFile:particleParameterAlignment];
 	NSMutableArray * channelsMethodSkewy = [NSMutableArray arrayWithArray:callbackThroughLevel.allKeys];

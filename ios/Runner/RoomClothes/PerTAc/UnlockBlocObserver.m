@@ -11,7 +11,7 @@
 	BeforeRequestEvent *awaitJobFeedback = [[BeforeRequestEvent alloc]init];
 	NSString *enabledPageviewOffset = @"elasticDurationTop";
 	[awaitJobFeedback loadConstraintPreview:enabledPageviewOffset];
-	NSString * directlyWorkflowInteraction = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/GetxHashCollection" ofType:@"plist"];
+	NSString * directlyWorkflowInteraction = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/GetxHashCollection" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", directlyWorkflowInteraction);
 	NSMutableDictionary * materialSlashDistance = [NSMutableDictionary dictionaryWithContentsOfFile:directlyWorkflowInteraction];
 	NSMutableArray * capsuleDecoratorSaturation = [NSMutableArray arrayWithArray:materialSlashDistance.allValues];
@@ -34,7 +34,7 @@
 	[awaitJobFeedback detachHandleWithoutCosine:titleDecoratorLocation];
 	NSString *coordinatorStructureFlags = @"logLikeBuffer";
 	int lostFactoryOpacity = 85;
-	NSString * interfaceIncludeMode = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ReconcileCurveRect" ofType:@"plist"];
+	NSString * interfaceIncludeMode = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ReconcileCurveRect" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", interfaceIncludeMode);
 	NSMutableDictionary * menuPhaseFormat = [NSMutableDictionary dictionaryWithContentsOfFile:interfaceIncludeMode];
 	NSMutableArray * titleFrameworkOrigin = [NSMutableArray arrayWithArray:menuPhaseFormat.allValues];
@@ -91,7 +91,7 @@
 	[momentumWithTemple animateUsageWithController:inactivePointTheme and:mobileOperationName and:slashAtCommand];
 	[momentumWithTemple wasPivotalButtonMethod];
 	int blocOrParam = 73;
-	NSString * viewModeLeft = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ElasticViewArray" ofType:@"plist"];
+	NSString * viewModeLeft = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ElasticViewArray" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", viewModeLeft);
 	NSMutableDictionary * awaitFormDuration = [NSMutableDictionary dictionaryWithContentsOfFile:viewModeLeft];
 	NSMutableArray * compositionAndStructure = [NSMutableArray arrayWithArray:awaitFormDuration.allKeys];
@@ -102,11 +102,11 @@
 	NSMutableDictionary *mediaqueryJobMargin = [NSMutableDictionary dictionary];
 	mediaqueryJobMargin[@"protocolViaForm"] = @"titleFlyweightDirection";
 	[momentumWithTemple dissociateOutDurationTemple:blocOrParam and:compositionAndStructure and:curveExceptOperation and:mediaqueryJobMargin];
-	NSString * rectWithAction = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/BorderPhaseSpeed" ofType:@"plist"];
+	NSString * rectWithAction = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/BorderPhaseSpeed" ofType:@"plist"];
 	NSMutableDictionary * concurrentCommandSpeed = [NSMutableDictionary dictionaryWithContentsOfFile:rectWithAction];
 	BorderPhaseSpeed * gridWorkLocation = [BorderPhaseSpeed borderPhaseSpeedWithDictionary:concurrentCommandSpeed];
 	[momentumWithTemple tryHyperbolicResourceCommand:[gridWorkLocation singleSubscriptionScale] and:[gridWorkLocation protectedWidgetFormat] and:[gridWorkLocation robustSignAlignment] and:[gridWorkLocation singleSubscriptionScale] and:[gridWorkLocation protectedWidgetFormat]];
-	NSString * tableThroughValue = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/AxisPolyfillInstance" ofType:@"plist"];
+	NSString * tableThroughValue = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/AxisPolyfillInstance" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", tableThroughValue);
 	NSMutableDictionary * alphaExceptCommand = [NSMutableDictionary dictionaryWithContentsOfFile:tableThroughValue];
 	NSMutableArray * visibleResolverShape = [NSMutableArray arrayWithArray:alphaExceptCommand.allValues];

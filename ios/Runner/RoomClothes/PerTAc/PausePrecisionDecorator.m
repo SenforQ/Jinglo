@@ -12,7 +12,7 @@
 	[variantByPlatform startDownSpotProxy];
 	NSString *rowVarDepth = @"isolateInsideState";
 	[variantByPlatform undertakeCharacterCoordinator:rowVarDepth];
-	NSString * viewContextCount = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/PresentSequentialScaffold" ofType:@"plist"];
+	NSString * viewContextCount = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/PresentSequentialScaffold" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", viewContextCount);
 	NSMutableDictionary * vectorVersusActivity = [NSMutableDictionary dictionaryWithContentsOfFile:viewContextCount];
 	NSMutableArray * convolutionPatternDistance = [NSMutableArray arrayWithArray:vectorVersusActivity.allValues];
@@ -73,7 +73,7 @@
 	for (int i = 7; i != 0; --i) {
 		[deferredStateLeft addObject:[NSString stringWithFormat:@"imperativeBufferStyle%d", i]];
 	}
-	NSString * delegateDuringObserver = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/GiftPhaseInteraction" ofType:@"plist"];
+	NSString * delegateDuringObserver = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/GiftPhaseInteraction" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", delegateDuringObserver);
 	NSMutableDictionary * axisAboutWork = [NSMutableDictionary dictionaryWithContentsOfFile:delegateDuringObserver];
 	NSMutableArray * sequentialProgressbarInterval = [NSMutableArray arrayWithArray:axisAboutWork.allKeys];

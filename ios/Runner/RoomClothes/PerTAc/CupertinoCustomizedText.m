@@ -45,7 +45,7 @@
 	[getxLevelSaturation resolveSkirtAgainstConstraint:catalystVisitorSaturation];
 	[getxLevelSaturation visitAccordionMultiplication];
 	[getxLevelSaturation notifySophisticatedMethod];
-	NSString * mobileLikeCycle = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/SingletonKindBound" ofType:@"plist"];
+	NSString * mobileLikeCycle = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/SingletonKindBound" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", mobileLikeCycle);
 	NSMutableDictionary * sizeOperationMode = [NSMutableDictionary dictionaryWithContentsOfFile:mobileLikeCycle];
 	NSMutableArray * taskOrBridge = [NSMutableArray arrayWithArray:sizeOperationMode.allValues];
@@ -56,7 +56,7 @@
 	}
 	[getxLevelSaturation interceptAdvancedException:taskOrBridge and:accordionDurationCoord];
 	[getxLevelSaturation unbindDisparateRiverpod];
-	NSString * sinkVersusChain = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/CleanTabviewConnector" ofType:@"plist"];
+	NSString * sinkVersusChain = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/CleanTabviewConnector" ofType:@"plist"];
 	NSMutableDictionary * loopPhaseState = [NSMutableDictionary dictionaryWithContentsOfFile:sinkVersusChain];
 	CleanTabviewConnector * cubitDespiteKind = [CleanTabviewConnector cleanTabviewconnectorWithDictionary:loopPhaseState];
 	[getxLevelSaturation introspectBlocAndQueue:[cubitDespiteKind actionInFramework] and:[cubitDespiteKind actionInFramework] and:[cubitDespiteKind crudeFragmentRight] and:[cubitDespiteKind immediatePresenterTop] and:[cubitDespiteKind popupExceptMethod]];

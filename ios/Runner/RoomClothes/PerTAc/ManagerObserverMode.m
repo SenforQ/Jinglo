@@ -37,7 +37,7 @@
 	NSString *dependencyTempleFeedback = @"blocTierForce";
 	[statefulAwaitHue observeMonsterFactory:dependencyTempleFeedback];
 	[statefulAwaitHue measureBehaviorTransformer];
-	NSString * remainderAmongCommand = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/DeferredDirectlyDialogs" ofType:@"plist"];
+	NSString * remainderAmongCommand = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/DeferredDirectlyDialogs" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", remainderAmongCommand);
 	NSMutableDictionary * singletonPatternPosition = [NSMutableDictionary dictionaryWithContentsOfFile:remainderAmongCommand];
 	NSMutableArray * enabledMediaLocation = [NSMutableArray arrayWithArray:singletonPatternPosition.allKeys];
@@ -45,7 +45,7 @@
 	[statefulAwaitHue fromIndicatorParticle:enabledMediaLocation and:custompaintFlyweightHead];
 	NSString *heapVariableInset = @"tableAsVar";
 	[statefulAwaitHue publishTextfieldRequest:heapVariableInset];
-	NSString * factoryNearTemple = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/KeepWidgetHandler" ofType:@"plist"];
+	NSString * factoryNearTemple = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/KeepWidgetHandler" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", factoryNearTemple);
 	NSMutableDictionary * immediateCycleAlignment = [NSMutableDictionary dictionaryWithContentsOfFile:factoryNearTemple];
 	NSMutableArray * transformerContainScope = [NSMutableArray arrayWithArray:immediateCycleAlignment.allValues];

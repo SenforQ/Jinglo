@@ -16,7 +16,7 @@
 	}
 	int sliderStageKind = 84;
 	NSString *layerFormRotation = @"tickerDespiteSingleton";
-	NSString * navigationFormIndex = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ConcurrentDecorationOffset" ofType:@"plist"];
+	NSString * navigationFormIndex = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ConcurrentDecorationOffset" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", navigationFormIndex);
 	NSMutableDictionary * coordinatorModeSkewx = [NSMutableDictionary dictionaryWithContentsOfFile:navigationFormIndex];
 	NSMutableArray * tickerSystemBehavior = [NSMutableArray arrayWithArray:coordinatorModeSkewx.allKeys];
@@ -26,7 +26,7 @@
 	[subscriptionAdapterForce shearTechniqueAndReceiver:curveOrPlatform and:sessionBufferHue];
 	[subscriptionAdapterForce parseAsyncVector];
 	[subscriptionAdapterForce postSubsequentGetxType];
-	NSString * listenerSinceMode = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/CoordinatorBufferHandler" ofType:@"plist"];
+	NSString * listenerSinceMode = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/CoordinatorBufferHandler" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", listenerSinceMode);
 	NSMutableDictionary * reducerMethodDepth = [NSMutableDictionary dictionaryWithContentsOfFile:listenerSinceMode];
 	NSMutableArray * imageProcessAlignment = [NSMutableArray arrayWithArray:reducerMethodDepth.allValues];
@@ -73,7 +73,7 @@
 	for (int i = 1; i != 0; --i) {
 		rowDespiteState[[opaqueStateDepth stringByAppendingFormat:@"%d", i]] = @"protectedCanvasInset";
 	}
-	NSString * kernelAlongFunction = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/RetrieveCupertinoSprite" ofType:@"plist"];
+	NSString * kernelAlongFunction = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/RetrieveCupertinoSprite" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", kernelAlongFunction);
 	NSMutableDictionary * fixedCubitCenter = [NSMutableDictionary dictionaryWithContentsOfFile:kernelAlongFunction];
 	NSMutableArray * backwardRepositorySpacing = [NSMutableArray arrayWithArray:fixedCubitCenter.allKeys];
@@ -99,13 +99,13 @@
 	NSString *lostToolSpacing = @"specifierAboutObserver";
 	int stackMediatorColor = 87;
 	int widgetSinceValue = 14;
-	NSString * streamInsideTier = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/RefactorGranularQuery" ofType:@"plist"];
+	NSString * streamInsideTier = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/RefactorGranularQuery" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", streamInsideTier);
 	NSMutableDictionary * cupertinoContainerPadding = [NSMutableDictionary dictionaryWithContentsOfFile:streamInsideTier];
 	NSMutableArray * viewChainCenter = [NSMutableArray arrayWithArray:cupertinoContainerPadding.allKeys];
 	[layerAlongProcess mountedIntoPetPattern:lostToolSpacing and:stackMediatorColor and:widgetSinceValue and:viewChainCenter];
 	int alphaPerChain = 29;
-	NSString * granularBorderFrequency = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/OutUtilDescent" ofType:@"plist"];
+	NSString * granularBorderFrequency = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/OutUtilDescent" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", granularBorderFrequency);
 	NSMutableDictionary * blocExceptContext = [NSMutableDictionary dictionaryWithContentsOfFile:granularBorderFrequency];
 	NSMutableArray * sequentialRequestSpeed = [NSMutableArray arrayWithArray:blocExceptContext.allKeys];

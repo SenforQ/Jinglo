@@ -216,7 +216,7 @@
 		UIPanGestureRecognizer *customizedTimerValidation = [[UIPanGestureRecognizer alloc] initWithTarget:nil action:nil];
 		customizedTimerValidation.maximumNumberOfTouches = 7;
 		//NSLog(@"sets= bussiness6 set_to_ui_image_view %@", bussiness6);
-		UIImage * advancedPositionMargin = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/spineFacadeFlags.jpeg"];
+		UIImage * advancedPositionMargin = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/spineFacadeFlags.jpeg"];
 		[advancedPositionMargin drawAsPatternInRect:CGRectMake(286, 271, 858, 184)];
 		//NSLog(@"sets= bussiness6 set_ui_image %@", bussiness6);
 		UILabel *usagePlatformEdge = [[UILabel alloc] initWithFrame:CGRectMake(37, 430, 180, 584)];

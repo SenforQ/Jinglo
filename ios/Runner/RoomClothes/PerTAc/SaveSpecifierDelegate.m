@@ -9,7 +9,7 @@
 - (void) runMissedAspectProxy
 {
 	PivotalCustomizedTransition *cosineAmongPlatform = [[PivotalCustomizedTransition alloc]init];
-	NSString * concretePainterBorder = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/SetstateSensorChart" ofType:@"plist"];
+	NSString * concretePainterBorder = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/SetstateSensorChart" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", concretePainterBorder);
 	NSMutableDictionary * repositoryInsideProcess = [NSMutableDictionary dictionaryWithContentsOfFile:concretePainterBorder];
 	NSMutableArray * usecaseNearVar = [NSMutableArray arrayWithArray:repositoryInsideProcess.allKeys];
@@ -28,7 +28,7 @@
 	for (int i = 5; i != 0; --i) {
 		[switchContainMemento addObject:[boxshadowVarAcceleration stringByAppendingFormat:@"%d", i]];
 	}
-	NSString * fragmentVarRotation = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/SerializeTappableBox" ofType:@"plist"];
+	NSString * fragmentVarRotation = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/SerializeTappableBox" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", fragmentVarRotation);
 	NSMutableDictionary * prismaticTabbarOpacity = [NSMutableDictionary dictionaryWithContentsOfFile:fragmentVarRotation];
 	NSMutableArray * nativeMetadataVelocity = [NSMutableArray arrayWithArray:prismaticTabbarOpacity.allValues];

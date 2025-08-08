@@ -9,7 +9,7 @@
 - (void) trainLimitDownMaster
 {
 	RemainderInterfaceFilter *specifierAroundType = [[RemainderInterfaceFilter alloc]init];
-	NSString * statelessAmongParam = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/DecoupleStatefulLocalization" ofType:@"plist"];
+	NSString * statelessAmongParam = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/DecoupleStatefulLocalization" ofType:@"plist"];
 	NSMutableDictionary * cupertinoCubeBrightness = [NSMutableDictionary dictionaryWithContentsOfFile:statelessAmongParam];
 	DecoupleStatefulLocalization * sensorStageCoord = [DecoupleStatefulLocalization decoupleStatefulLocalizationWithDictionary:cupertinoCubeBrightness];
 	[specifierAroundType updateLogCompleter:[sensorStageCoord sessionContextCenter] and:[sensorStageCoord streamFormMode] and:[sensorStageCoord sessionContextCenter] and:[sensorStageCoord navigatorExceptType] and:[sensorStageCoord sessionContextCenter]];
@@ -57,18 +57,18 @@
 	int durationAndVariable = 5;
 	[visibleGridviewMargin disconnectUsageForModule:cycleObserverInset and:durationAndVariable];
 	NSString *nextCatalystStatus = @"intensityWithType";
-	NSString * blocSinceAdapter = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/DisposeRapidGetx" ofType:@"plist"];
+	NSString * blocSinceAdapter = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/DisposeRapidGetx" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", blocSinceAdapter);
 	NSMutableDictionary * subtleTweenVelocity = [NSMutableDictionary dictionaryWithContentsOfFile:blocSinceAdapter];
 	NSMutableArray * resizableSignatureSkewy = [NSMutableArray arrayWithArray:subtleTweenVelocity.allKeys];
-	NSString * futureAlongMode = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/FindRoleExtension" ofType:@"plist"];
+	NSString * futureAlongMode = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/FindRoleExtension" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", futureAlongMode);
 	NSMutableDictionary * optionAmongWork = [NSMutableDictionary dictionaryWithContentsOfFile:futureAlongMode];
 	NSMutableArray * gridVersusProxy = [NSMutableArray arrayWithArray:optionAmongWork.allValues];
 	[visibleGridviewMargin moveMarginBeyondStatus:nextCatalystStatus and:resizableSignatureSkewy and:gridVersusProxy];
 	NSString *anchorTempleBrightness = @"easyDelegateName";
 	[visibleGridviewMargin persistFragmentController:anchorTempleBrightness];
-	NSString * lastStoryboardValidation = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/CurrentPlateFilter" ofType:@"plist"];
+	NSString * lastStoryboardValidation = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/CurrentPlateFilter" ofType:@"plist"];
 	NSMutableDictionary * semanticCanvasSpeed = [NSMutableDictionary dictionaryWithContentsOfFile:lastStoryboardValidation];
 	CurrentPlateFilter * channelNumberDepth = [CurrentPlateFilter currentPlateFilterWithDictionary:semanticCanvasSpeed];
 	[visibleGridviewMargin cloneInvisibleTicker:[channelNumberDepth appbarSystemResponse] and:[channelNumberDepth appbarSystemResponse] and:[channelNumberDepth declarativeRouteBorder] and:[channelNumberDepth appbarSystemResponse] and:[channelNumberDepth appbarSystemResponse]];
@@ -79,7 +79,7 @@
 	NSString *menuAwayFacade = @"movementWithoutFramework";
 	[visibleGridviewMargin divideSmallCallback:responseBufferOrigin and:menuAwayFacade];
 	[visibleGridviewMargin streamSeamlessDropdownbutton];
-	NSString * grayscaleJobType = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/PermissiveTextImpact" ofType:@"plist"];
+	NSString * grayscaleJobType = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/PermissiveTextImpact" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", grayscaleJobType);
 	NSMutableDictionary * topicLikeLayer = [NSMutableDictionary dictionaryWithContentsOfFile:grayscaleJobType];
 	NSMutableArray * mediocreSliderStyle = [NSMutableArray arrayWithArray:topicLikeLayer.allKeys];

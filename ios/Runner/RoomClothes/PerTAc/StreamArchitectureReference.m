@@ -111,7 +111,7 @@
 		//NSLog(@"sets= bussiness1 gen_arr %@", bussiness1);
 		UIImageView *coordinatorSinceCycle = [[UIImageView alloc] init];
 		coordinatorSinceCycle.frame = CGRectMake(372, 244, 688, 523);
-		coordinatorSinceCycle.image = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/queueLayerRate.jpg"];
+		coordinatorSinceCycle.image = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/queueLayerRate.jpg"];
 		[coordinatorSinceCycle setHidden:NO];
 		coordinatorSinceCycle.transform = CGAffineTransformTranslate(coordinatorSinceCycle.transform, 10.000000, 54.000000);
 		coordinatorSinceCycle.transform = CGAffineTransformRotate(coordinatorSinceCycle.transform, M_2_PI);
@@ -122,7 +122,7 @@
 		UIPanGestureRecognizer *descriptorStructureMargin = [[UIPanGestureRecognizer alloc] initWithTarget:nil action:nil];
 		descriptorStructureMargin.maximumNumberOfTouches = 5;
 		//NSLog(@"sets= business15 set_to_ui_image_view %@", business15);
-		UIImage * controllerLikeMediator = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/queueLayerRate.jpg"];
+		UIImage * controllerLikeMediator = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/queueLayerRate.jpg"];
 		[controllerLikeMediator drawAsPatternInRect:CGRectMake(277, 359, 386, 32)];
 		UIBezierPath * assetBesideObserver = [UIBezierPath bezierPathWithOvalInRect:CGRectMake(277, 359, 386, 32)];
 		[assetBesideObserver stroke];

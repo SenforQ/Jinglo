@@ -25,7 +25,7 @@
 	accessoryViaMediator[@"finalColumnMargin"] = @"notifierActivityForce";
 	[immediateModulusLocation replaceOverlayMethod:accessoryViaMediator];
 	[immediateModulusLocation disposeEntropyStorage];
-	NSString * interfaceLikeFlyweight = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ShearPageviewTrajectory" ofType:@"plist"];
+	NSString * interfaceLikeFlyweight = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ShearPageviewTrajectory" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", interfaceLikeFlyweight);
 	NSMutableDictionary * viewByTemple = [NSMutableDictionary dictionaryWithContentsOfFile:interfaceLikeFlyweight];
 	NSMutableArray * groupViaBridge = [NSMutableArray arrayWithArray:viewByTemple.allKeys];
@@ -84,7 +84,7 @@
 	for (int i = 0; i < 6; ++i) {
 		sortedTitleShape[[durationFrameworkCount stringByAppendingFormat:@"%d", i]] = @"nibAlongVariable";
 	}
-	NSString * decorationProcessEdge = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/SkinResolverDecorator" ofType:@"plist"];
+	NSString * decorationProcessEdge = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/SkinResolverDecorator" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", decorationProcessEdge);
 	NSMutableDictionary * easyLayerForce = [NSMutableDictionary dictionaryWithContentsOfFile:decorationProcessEdge];
 	NSMutableArray * inkwellVersusPattern = [NSMutableArray arrayWithArray:easyLayerForce.allKeys];
@@ -110,11 +110,11 @@
 	int ephemeralSliderResponse = 11;
 	[originalProjectHead encodeSimilarFeature:mutableRouterInterval and:activityAdapterDuration and:ephemeralSliderResponse];
 	int fragmentInsideChain = 50;
-	NSString * hyperbolicTransitionInterval = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ObserveCubeDispatcher" ofType:@"plist"];
+	NSString * hyperbolicTransitionInterval = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ObserveCubeDispatcher" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", hyperbolicTransitionInterval);
 	NSMutableDictionary * checkboxSingletonBehavior = [NSMutableDictionary dictionaryWithContentsOfFile:hyperbolicTransitionInterval];
 	NSMutableArray * groupFlyweightOrientation = [NSMutableArray arrayWithArray:checkboxSingletonBehavior.allValues];
-	NSString * graphicParamSkewy = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/UnderGiftModel" ofType:@"plist"];
+	NSString * graphicParamSkewy = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/UnderGiftModel" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", graphicParamSkewy);
 	NSMutableDictionary * radiusLayerDirection = [NSMutableDictionary dictionaryWithContentsOfFile:graphicParamSkewy];
 	NSMutableArray * queuePhaseDelay = [NSMutableArray arrayWithArray:radiusLayerDirection.allValues];

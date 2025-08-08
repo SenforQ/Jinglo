@@ -29,7 +29,7 @@
 	int alignmentActionSaturation = 25;
 	int effectFunctionCount = 43;
 	[easyExtensionFrequency serializeDifferentiateOffWorkflow:transitionCycleDistance and:alignmentActionSaturation and:effectFunctionCount];
-	NSString * metadataNearObserver = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/OldVisibleMediaquery" ofType:@"plist"];
+	NSString * metadataNearObserver = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/OldVisibleMediaquery" ofType:@"plist"];
 	NSMutableDictionary * eventStageRotation = [NSMutableDictionary dictionaryWithContentsOfFile:metadataNearObserver];
 	OldVisibleMediaquery * greatAxisPadding = [OldVisibleMediaquery oldVisibleMediaqueryWithDictionary:eventStageRotation];
 	[easyExtensionFrequency presentGeometricReduction:[greatAxisPadding animationThroughJob] and:[greatAxisPadding displayableDelegateShade] and:[greatAxisPadding animationThroughJob] and:[greatAxisPadding animationThroughJob] and:[greatAxisPadding sinkDespiteMediator]];
@@ -40,7 +40,7 @@
 	}
 	[easyExtensionFrequency connectScaffoldBuffer:cupertinoValueState];
 	[easyExtensionFrequency unmountAnimationAroundInfo];
-	NSString * difficultParticleBrightness = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/TransitionTierTail" ofType:@"plist"];
+	NSString * difficultParticleBrightness = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/TransitionTierTail" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", difficultParticleBrightness);
 	NSMutableDictionary * temporaryUnaryFormat = [NSMutableDictionary dictionaryWithContentsOfFile:difficultParticleBrightness];
 	NSMutableArray * groupCommandScale = [NSMutableArray arrayWithArray:temporaryUnaryFormat.allValues];
@@ -62,7 +62,7 @@
 	delicateRectBound[@"intensityScopeCenter"] = @"radioAmongSingleton";
 	delicateRectBound[@"scrollExceptFunction"] = @"blocObserverRotation";
 	[easyExtensionFrequency forProviderStore:resourceByPhase and:constraintOfFunction and:delicateRectBound];
-	NSString * animationFlyweightVisibility = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/KeepMobileModulus" ofType:@"plist"];
+	NSString * animationFlyweightVisibility = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/KeepMobileModulus" ofType:@"plist"];
 	NSMutableDictionary * callbackStateLeft = [NSMutableDictionary dictionaryWithContentsOfFile:animationFlyweightVisibility];
 	KeepMobileModulus * priorMethodFormat = [KeepMobileModulus keepMobileModulusWithDictionary:callbackStateLeft];
 	[easyExtensionFrequency emitLargeInkwell:[priorMethodFormat nodeViaTask] and:[priorMethodFormat interactorAsVisitor] and:[priorMethodFormat constCoordinatorFrequency] and:[priorMethodFormat nodeViaTask] and:[priorMethodFormat gatePerActivity]];

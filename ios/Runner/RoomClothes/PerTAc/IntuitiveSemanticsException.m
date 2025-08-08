@@ -84,7 +84,7 @@
 	[scrollInsideCommand mustSynchronousSkirtFacade:stepDuringCommand and:nodePrototypeMode];
 	NSString *sizeMementoVisible = @"curveAtMethod";
 	[scrollInsideCommand respondSegmentFeature:sizeMementoVisible];
-	NSString * pageviewFormInterval = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/LayoutMomentumExtension" ofType:@"plist"];
+	NSString * pageviewFormInterval = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/LayoutMomentumExtension" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", pageviewFormInterval);
 	NSMutableDictionary * transformerStrategyFeedback = [NSMutableDictionary dictionaryWithContentsOfFile:pageviewFormInterval];
 	NSMutableArray * bitrateVariableColor = [NSMutableArray arrayWithArray:transformerStrategyFeedback.allValues];

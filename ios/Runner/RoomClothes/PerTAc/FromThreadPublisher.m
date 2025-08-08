@@ -60,7 +60,7 @@
 		[requestForType addObject:[tweenAwayParam stringByAppendingFormat:@"%d", i]];
 	}
 	[metadataMementoDensity invokeScrollChart:usecaseWorkEdge and:requestForType];
-	NSString * diffableExponentType = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/StartRichtextFragments" ofType:@"plist"];
+	NSString * diffableExponentType = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/StartRichtextFragments" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", diffableExponentType);
 	NSMutableDictionary * activeConvolutionHead = [NSMutableDictionary dictionaryWithContentsOfFile:diffableExponentType];
 	NSMutableArray * delegateJobAlignment = [NSMutableArray arrayWithArray:activeConvolutionHead.allValues];
@@ -110,7 +110,7 @@
 		[concreteNibEdge addObject:[NSString stringWithFormat:@"timerContextPadding%d", i]];
 	}
 	[missionStyleShape saveOutStampForm:disabledOperationFlags and:concreteNibEdge];
-	NSString * cubitShapeBehavior = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/LazySeamlessDescriptor" ofType:@"plist"];
+	NSString * cubitShapeBehavior = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/LazySeamlessDescriptor" ofType:@"plist"];
 	NSMutableDictionary * spriteStructureInterval = [NSMutableDictionary dictionaryWithContentsOfFile:cubitShapeBehavior];
 	LazySeamlessDescriptor * crudeLayoutDistance = [LazySeamlessDescriptor lazySeamlessDescriptorWithDictionary:spriteStructureInterval];
 	[missionStyleShape setstateOptionFromSprite:[crudeLayoutDistance groupByType] and:[crudeLayoutDistance groupByType] and:[crudeLayoutDistance groupByType] and:[crudeLayoutDistance tickerUntilParam] and:[crudeLayoutDistance draggableCursorRotation]];

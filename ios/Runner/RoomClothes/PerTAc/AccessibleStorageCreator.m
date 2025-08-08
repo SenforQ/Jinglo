@@ -14,7 +14,7 @@
 	[arithmeticDelegateRight addObject:@"seamlessShaderBottom"];
 	[arithmeticDelegateRight addObject:@"taskFlyweightOrigin"];
 	[segueChainVisible byPainterFrame:arithmeticDelegateRight];
-	NSString * borderModeAppearance = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/SubsequentSubsequentTechnique" ofType:@"plist"];
+	NSString * borderModeAppearance = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/SubsequentSubsequentTechnique" ofType:@"plist"];
 	NSMutableDictionary * pinchableScrollKind = [NSMutableDictionary dictionaryWithContentsOfFile:borderModeAppearance];
 	SubsequentSubsequentTechnique * fusedChartForce = [SubsequentSubsequentTechnique subsequentsubsequentTechniqueWithDictionary:pinchableScrollKind];
 	[segueChainVisible handleDownRowPhase:[fusedChartForce tabbarInsideMethod] and:[fusedChartForce textExceptObserver] and:[fusedChartForce textExceptObserver] and:[fusedChartForce layerIncludeLevel] and:[fusedChartForce layerIncludeLevel]];
@@ -24,7 +24,7 @@
 		cubitBesideOperation[[positionedWithScope stringByAppendingFormat:@"%d", i]] = @"prevLocalizationAcceleration";
 	}
 	int capsuleFromStage = 18;
-	NSString * handlerInVisitor = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ProvideToolTarget" ofType:@"plist"];
+	NSString * handlerInVisitor = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ProvideToolTarget" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", handlerInVisitor);
 	NSMutableDictionary * hyperbolicListviewInset = [NSMutableDictionary dictionaryWithContentsOfFile:handlerInVisitor];
 	NSMutableArray * sensorKindKind = [NSMutableArray arrayWithArray:hyperbolicListviewInset.allValues];

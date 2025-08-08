@@ -9,7 +9,7 @@
 - (void) registerDialogsSink
 {
 	CollectionStorageManager *fragmentForProxy = [[CollectionStorageManager alloc]init];
-	NSString * tabbarNumberTint = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/OffTextReceiver" ofType:@"plist"];
+	NSString * tabbarNumberTint = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/OffTextReceiver" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", tabbarNumberTint);
 	NSMutableDictionary * permissiveEntityDensity = [NSMutableDictionary dictionaryWithContentsOfFile:tabbarNumberTint];
 	NSMutableArray * subsequentStoreLeft = [NSMutableArray arrayWithArray:permissiveEntityDensity.allKeys];
@@ -18,7 +18,7 @@
 	[fragmentForProxy visitThroughReducerContext];
 	[fragmentForProxy drawRetainedPositionChain];
 	[fragmentForProxy unmarshalPageviewLikeUtil];
-	NSString * agileBaseLocation = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/DrawerPositionHandler" ofType:@"plist"];
+	NSString * agileBaseLocation = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/DrawerPositionHandler" ofType:@"plist"];
 	NSMutableDictionary * prismaticQueueCoord = [NSMutableDictionary dictionaryWithContentsOfFile:agileBaseLocation];
 	DrawerPositionHandler * decorationAmongAction = [DrawerPositionHandler drawerPositionHandlerWithDictionary:prismaticQueueCoord];
 	[fragmentForProxy byMatrixFeature:[decorationAmongAction spriteInsideDecorator] and:[decorationAmongAction channelBesideDecorator] and:[decorationAmongAction sharedRichtextCount] and:[decorationAmongAction scrollableSliderDensity] and:[decorationAmongAction scrollableSliderDensity]];
@@ -36,7 +36,7 @@
 	descriptionForObserver[@"sortedCustompaintFlags"] = @"navigationAlongVisitor";
 	[fragmentForProxy insteadAsynchronousExponent:descriptionForObserver];
 	[fragmentForProxy outScrollSlider];
-	NSString * containerAboutCycle = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ParseUsageProvider" ofType:@"plist"];
+	NSString * containerAboutCycle = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ParseUsageProvider" ofType:@"plist"];
 	NSMutableDictionary * mediaqueryFunctionHue = [NSMutableDictionary dictionaryWithContentsOfFile:containerAboutCycle];
 	ParseUsageProvider * intensityTempleShade = [ParseUsageProvider parseUsageproviderWithDictionary:mediaqueryFunctionHue];
 	[fragmentForProxy belowTableThreshold:[intensityTempleShade dropdownbuttonSystemForce] and:[intensityTempleShade disabledStatelessDistance] and:[intensityTempleShade animatedContainerValidation] and:[intensityTempleShade cursorVisitorSpeed] and:[intensityTempleShade cursorVisitorSpeed]];

@@ -9,7 +9,7 @@
 - (void) persistResetUnderAlert
 {
 	WithoutCapacitiesConstraint *futurePerState = [[WithoutCapacitiesConstraint alloc]init];
-	NSString * listviewViaChain = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/WithinSwitchStore" ofType:@"plist"];
+	NSString * listviewViaChain = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/WithinSwitchStore" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", listviewViaChain);
 	NSMutableDictionary * chartDespiteEnvironment = [NSMutableDictionary dictionaryWithContentsOfFile:listviewViaChain];
 	NSMutableArray * storageFrameworkScale = [NSMutableArray arrayWithArray:chartDespiteEnvironment.allKeys];

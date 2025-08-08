@@ -14,7 +14,7 @@
 	for (int i = 0; i < 7; ++i) {
 		[musicThroughComposite addObject:[NSString stringWithFormat:@"offsetSystemBrightness%d", i]];
 	}
-	NSString * rapidEventOpacity = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/QuantizerBoxshadowArray" ofType:@"plist"];
+	NSString * rapidEventOpacity = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/QuantizerBoxshadowArray" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", rapidEventOpacity);
 	NSMutableDictionary * geometricScaffoldCount = [NSMutableDictionary dictionaryWithContentsOfFile:rapidEventOpacity];
 	NSMutableArray * localizationFromMode = [NSMutableArray arrayWithArray:geometricScaffoldCount.allValues];
@@ -38,12 +38,12 @@
 		[layoutStyleStatus addObject:[NSString stringWithFormat:@"blocParamMode%d", i]];
 	}
 	[accordionResourceIndex encodeTaskConstraint:completerWithoutBuffer and:completionThroughVariable and:layoutStyleStatus];
-	NSString * radioOfPattern = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/SkipActivatedSample" ofType:@"plist"];
+	NSString * radioOfPattern = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/SkipActivatedSample" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", radioOfPattern);
 	NSMutableDictionary * awaitShapeScale = [NSMutableDictionary dictionaryWithContentsOfFile:radioOfPattern];
 	NSMutableArray * projectionActionAlignment = [NSMutableArray arrayWithArray:awaitShapeScale.allKeys];
 	[accordionResourceIndex streamViewPreview:projectionActionAlignment];
-	NSString * vectorCommandSkewy = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/PushMemberMetrics" ofType:@"plist"];
+	NSString * vectorCommandSkewy = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/PushMemberMetrics" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", vectorCommandSkewy);
 	NSMutableDictionary * topicUntilSingleton = [NSMutableDictionary dictionaryWithContentsOfFile:vectorCommandSkewy];
 	NSMutableArray * tabviewWorkResponse = [NSMutableArray arrayWithArray:topicUntilSingleton.allKeys];
@@ -58,7 +58,7 @@
 - (void) playPromiseAwayStorage
 {
 	NumericalNativeUsage *boxTierMomentum = [[NumericalNativeUsage alloc]init];
-	NSString * diffableStepRight = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/DiffableResourceFilter" ofType:@"plist"];
+	NSString * diffableStepRight = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/DiffableResourceFilter" ofType:@"plist"];
 	NSMutableDictionary * descriptionSystemFormat = [NSMutableDictionary dictionaryWithContentsOfFile:diffableStepRight];
 	DiffableResourceFilter * sinkUntilValue = [DiffableResourceFilter diffableResourceFilterWithDictionary:descriptionSystemFormat];
 	[boxTierMomentum withStatefulItem:[sinkUntilValue concreteDependencyResponse] and:[sinkUntilValue capsuleOperationTail] and:[sinkUntilValue streamDecoratorBehavior] and:[sinkUntilValue numericalSymbolTail] and:[sinkUntilValue listenerTaskName]];

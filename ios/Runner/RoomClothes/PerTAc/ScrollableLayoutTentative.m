@@ -17,7 +17,7 @@
 	[contractionSingletonColor addObject:@"sensorProcessTop"];
 	[contractionSingletonColor addObject:@"criticalPositionOrigin"];
 	[contractionSingletonColor addObject:@"checkboxProcessFrequency"];
-	NSString * immediateActionAppearance = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ForNavigatorSprite" ofType:@"plist"];
+	NSString * immediateActionAppearance = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ForNavigatorSprite" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", immediateActionAppearance);
 	NSMutableDictionary * columnBridgeInset = [NSMutableDictionary dictionaryWithContentsOfFile:immediateActionAppearance];
 	NSMutableArray * layoutAtObserver = [NSMutableArray arrayWithArray:columnBridgeInset.allValues];

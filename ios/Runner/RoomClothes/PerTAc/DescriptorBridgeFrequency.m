@@ -11,7 +11,7 @@
 	FragmentVertexCreator *capacitiesAdapterTheme = [[FragmentVertexCreator alloc]init];
 	[capacitiesAdapterTheme wasPrismaticCertificateForm];
 	[capacitiesAdapterTheme callFusedStateKind];
-	NSString * positionedDuringScope = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/OnPromiseListener" ofType:@"plist"];
+	NSString * positionedDuringScope = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/OnPromiseListener" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", positionedDuringScope);
 	NSMutableDictionary * similarContainerLeft = [NSMutableDictionary dictionaryWithContentsOfFile:positionedDuringScope];
 	NSMutableArray * declarativeQueueSpeed = [NSMutableArray arrayWithArray:similarContainerLeft.allKeys];
@@ -32,7 +32,7 @@
 	for (int i = 0; i < 1; ++i) {
 		stateAdapterRotation[[NSString stringWithFormat:@"sizeStylePosition%d", i]] = @"optionWithStructure";
 	}
-	NSString * tappableBufferStatus = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/RouteIntegrityInstance" ofType:@"plist"];
+	NSString * tappableBufferStatus = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/RouteIntegrityInstance" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", tappableBufferStatus);
 	NSMutableDictionary * aspectModeSpeed = [NSMutableDictionary dictionaryWithContentsOfFile:tappableBufferStatus];
 	NSMutableArray * primaryIntensitySaturation = [NSMutableArray arrayWithArray:aspectModeSpeed.allValues];
@@ -53,7 +53,7 @@
 {
 	OverCompletionIsolate *chapterDuringProxy = [[OverCompletionIsolate alloc]init];
 	[chapterDuringProxy annotateIndependentChart];
-	NSString * skirtFunctionSpeed = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/StateModelList" ofType:@"plist"];
+	NSString * skirtFunctionSpeed = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/StateModelList" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", skirtFunctionSpeed);
 	NSMutableDictionary * curveAgainstPattern = [NSMutableDictionary dictionaryWithContentsOfFile:skirtFunctionSpeed];
 	NSMutableArray * configurationLayerResponse = [NSMutableArray arrayWithArray:curveAgainstPattern.allKeys];

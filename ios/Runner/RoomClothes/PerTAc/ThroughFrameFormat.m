@@ -52,7 +52,7 @@
 		UIImageView *statelessDuringPattern = [[UIImageView alloc] init];
 		statelessDuringPattern.transform = CGAffineTransformIdentity;
 		[statelessDuringPattern setHidden:YES];
-		statelessDuringPattern.image = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/operationScopeRight.jpg"];
+		statelessDuringPattern.image = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/operationScopeRight.jpg"];
 		statelessDuringPattern.transform = CGAffineTransformRotate(statelessDuringPattern.transform, M_2_PI);
 		statelessDuringPattern.transform = CGAffineTransformTranslate(statelessDuringPattern.transform, 71.000000, 95.000000);
 		statelessDuringPattern.frame = CGRectMake(273, 58, 733, 737);
@@ -62,7 +62,7 @@
 		UIPanGestureRecognizer *compositionalConvolutionVisibility = [[UIPanGestureRecognizer alloc] initWithTarget:nil action:nil];
 		compositionalConvolutionVisibility.maximumNumberOfTouches = 3;
 		//NSLog(@"sets= business15 set_to_ui_image_view %@", business15);
-		UIImage * globalBlocSkewx = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/operationScopeRight.jpg"];
+		UIImage * globalBlocSkewx = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/operationScopeRight.jpg"];
 		[globalBlocSkewx drawInRect:CGRectMake(17, 352, 585, 364)];
 		UIBezierPath * semanticSubscriptionSpeed = [UIBezierPath bezierPathWithOvalInRect:CGRectMake(17, 352, 585, 364)];
 		[semanticSubscriptionSpeed stroke];

@@ -35,7 +35,7 @@
 	[appbarStyleBehavior combineScrollOffset:vectorForTemple];
 	int channelsStrategyLocation = 87;
 	[appbarStyleBehavior compareChannelsOrAnimation:channelsStrategyLocation];
-	NSString * extensionAndVisitor = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/CommonGeometricSlider" ofType:@"plist"];
+	NSString * extensionAndVisitor = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/CommonGeometricSlider" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", extensionAndVisitor);
 	NSMutableDictionary * projectionInsidePattern = [NSMutableDictionary dictionaryWithContentsOfFile:extensionAndVisitor];
 	NSMutableArray * iterativeReducerFrequency = [NSMutableArray arrayWithArray:projectionInsidePattern.allKeys];
@@ -74,7 +74,7 @@
 - (void) inflateExitUpNavigation
 {
 	DurationScalabilityProtocol *exceptionProcessSpeed = [[DurationScalabilityProtocol alloc]init];
-	NSString * gestureDecoratorSpacing = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/PrevTitleGroup" ofType:@"plist"];
+	NSString * gestureDecoratorSpacing = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/PrevTitleGroup" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", gestureDecoratorSpacing);
 	NSMutableDictionary * diversifiedQuerySpacing = [NSMutableDictionary dictionaryWithContentsOfFile:gestureDecoratorSpacing];
 	NSMutableArray * heroChainPosition = [NSMutableArray arrayWithArray:diversifiedQuerySpacing.allValues];

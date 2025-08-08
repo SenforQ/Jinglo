@@ -157,7 +157,7 @@
 		UIRotationGestureRecognizer *subscriptionActivityContrast = [[UIRotationGestureRecognizer alloc] initWithTarget:nil action:nil];
 		subscriptionActivityContrast.rotation = 88;
 		//NSLog(@"sets= bussiness6 set_to_ui_image_view %@", bussiness6);
-		UIImage * zoneNearLevel = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/tensorRouteDepth.jpg"];
+		UIImage * zoneNearLevel = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/tensorRouteDepth.jpg"];
 		[zoneNearLevel drawAsPatternInRect:CGRectMake(351, 497, 66, 807)];
 		//NSLog(@"sets= bussiness6 set_ui_image %@", bussiness6);
 		//NSLog(@"sets= bussiness6 gen_str %@", bussiness6);

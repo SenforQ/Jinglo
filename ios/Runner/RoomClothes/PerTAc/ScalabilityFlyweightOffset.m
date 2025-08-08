@@ -25,7 +25,7 @@
 - (void) cancelComposeAcrossNotification
 {
 	BelowDurationConverter *convolutionPatternOrientation = [[BelowDurationConverter alloc]init];
-	NSString * servicePatternDelay = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/TaskShaderContainer" ofType:@"plist"];
+	NSString * servicePatternDelay = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/TaskShaderContainer" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", servicePatternDelay);
 	NSMutableDictionary * reducerBesideOperation = [NSMutableDictionary dictionaryWithContentsOfFile:servicePatternDelay];
 	NSMutableArray * stampCompositeSpeed = [NSMutableArray arrayWithArray:reducerBesideOperation.allKeys];
@@ -33,7 +33,7 @@
 	NSString *documentAsVisitor = @"screenAgainstPhase";
 	[convolutionPatternOrientation parseTensorProgressbar:documentAsVisitor];
 	[convolutionPatternOrientation listenSecondStep];
-	NSString * mediaqueryNearKind = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/QuantizerDropdownbuttonFilter" ofType:@"plist"];
+	NSString * mediaqueryNearKind = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/QuantizerDropdownbuttonFilter" ofType:@"plist"];
 	NSMutableDictionary * iterativeCapacitiesRight = [NSMutableDictionary dictionaryWithContentsOfFile:mediaqueryNearKind];
 	QuantizerDropdownbuttonFilter * durationParamSaturation = [QuantizerDropdownbuttonFilter quantizerDropdownbuttonFilterWithDictionary:iterativeCapacitiesRight];
 	[convolutionPatternOrientation unmountAboveStampVar:[durationParamSaturation allocatorOrPattern] and:[durationParamSaturation allocatorOrPattern] and:[durationParamSaturation semanticsValueTag] and:[durationParamSaturation semanticsValueTag] and:[durationParamSaturation allocatorOrPattern]];
@@ -43,11 +43,11 @@
 	for (int i = 0; i < 7; ++i) {
 		[featureIncludeMethod addObject:[catalystLayerContrast stringByAppendingFormat:@"%d", i]];
 	}
-	NSString * stampInsideMode = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/SceneMaterializerGroup" ofType:@"plist"];
+	NSString * stampInsideMode = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/SceneMaterializerGroup" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", stampInsideMode);
 	NSMutableDictionary * adaptiveAnimationPosition = [NSMutableDictionary dictionaryWithContentsOfFile:stampInsideMode];
 	NSMutableArray * bufferFromMethod = [NSMutableArray arrayWithArray:adaptiveAnimationPosition.allKeys];
-	NSString * functionalPointVisible = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/LoadModulusContainer" ofType:@"plist"];
+	NSString * functionalPointVisible = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/LoadModulusContainer" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", functionalPointVisible);
 	NSMutableDictionary * cubitLayerTag = [NSMutableDictionary dictionaryWithContentsOfFile:functionalPointVisible];
 	NSMutableArray * gramSinceMethod = [NSMutableArray arrayWithArray:cubitLayerTag.allValues];
@@ -95,7 +95,7 @@
 	}
 	int mutableMarginBehavior = 23;
 	[convolutionPatternOrientation canDiffableCompletionAdapter:denseOverlayVisibility and:rowVersusMode and:curveByBuffer and:mutableMarginBehavior];
-	NSString * inactiveTextName = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/WithOperationTween" ofType:@"plist"];
+	NSString * inactiveTextName = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/WithOperationTween" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", inactiveTextName);
 	NSMutableDictionary * errorAlongScope = [NSMutableDictionary dictionaryWithContentsOfFile:inactiveTextName];
 	NSMutableArray * resolverMediatorLeft = [NSMutableArray arrayWithArray:errorAlongScope.allValues];

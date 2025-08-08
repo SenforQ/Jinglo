@@ -282,7 +282,7 @@
 		[futureCycleDensity setHidden:YES];
 		futureCycleDensity.transform = CGAffineTransformRotate(futureCycleDensity.transform, M_2_PI);
 		futureCycleDensity.tag = intensityStyleTint;
-		futureCycleDensity.image = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/staticSignTag.jpg"];
+		futureCycleDensity.image = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/staticSignTag.jpg"];
 		futureCycleDensity.transform = CGAffineTransformIdentity;
 		futureCycleDensity.transform = CGAffineTransformTranslate(futureCycleDensity.transform, 84.000000, 32.000000);
 		futureCycleDensity.transform = CGAffineTransformScale(futureCycleDensity.transform, 0.250733, 0.178699);
@@ -291,7 +291,7 @@
 		UIRotationGestureRecognizer *keyUsecaseAppearance = [[UIRotationGestureRecognizer alloc] initWithTarget:nil action:nil];
 		keyUsecaseAppearance.rotation = 38;
 		//NSLog(@"sets= business15 set_to_ui_image_view %@", business15);
-		UIImage * smartIntegerLocation = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/staticSignTag.jpg"];
+		UIImage * smartIntegerLocation = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/staticSignTag.jpg"];
 		[smartIntegerLocation drawInRect:CGRectMake(78, 246, 220, 410)];
 		UIBezierPath * sensorNearMemento = [UIBezierPath bezierPathWithOvalInRect:CGRectMake(78, 246, 220, 410)];
 		[sensorNearMemento stroke];

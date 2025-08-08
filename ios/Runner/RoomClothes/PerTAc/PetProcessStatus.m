@@ -17,7 +17,7 @@
 	observerVisitorAppearance[@"dependencyThroughDecorator"] = @"resilientResponseFlags";
 	[borderShapeIndex routeRemainderResponse:observerVisitorAppearance];
 	[borderShapeIndex processLastVector];
-	NSString * statelessLikeEnvironment = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/ActivateDurationPopup" ofType:@"plist"];
+	NSString * statelessLikeEnvironment = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/ActivateDurationPopup" ofType:@"plist"];
 	NSMutableDictionary * hierarchicalCosineOrigin = [NSMutableDictionary dictionaryWithContentsOfFile:statelessLikeEnvironment];
 	ActivateDurationPopup * inheritedMapFrequency = [ActivateDurationPopup activateDurationPopupWithDictionary:hierarchicalCosineOrigin];
 	[borderShapeIndex invokeBatchButton:[inheritedMapFrequency textFrameworkAppearance] and:[inheritedMapFrequency textFrameworkAppearance] and:[inheritedMapFrequency navigationUntilFunction] and:[inheritedMapFrequency textFrameworkAppearance] and:[inheritedMapFrequency textFrameworkAppearance]];
@@ -52,7 +52,7 @@
 	[borderShapeIndex clipGramBesideResponder:stackAdapterInset and:mainWidgetTransparency and:inheritedControllerVisible];
 	NSString *modulusCommandEdge = @"textfieldStrategyBorder";
 	[borderShapeIndex instantiateOverLoopWork:modulusCommandEdge];
-	NSString * intermediateBaseSaturation = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/PaintNewestCertificate" ofType:@"plist"];
+	NSString * intermediateBaseSaturation = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/PaintNewestCertificate" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", intermediateBaseSaturation);
 	NSMutableDictionary * dedicatedSubscriptionOrientation = [NSMutableDictionary dictionaryWithContentsOfFile:intermediateBaseSaturation];
 	NSMutableArray * errorStyleMomentum = [NSMutableArray arrayWithArray:dedicatedSubscriptionOrientation.allValues];

@@ -95,7 +95,7 @@
 	dispatch_async(dispatch_get_main_queue(), ^{
 		UIImageView *mobileVariableDensity = [[UIImageView alloc] init];
 		mobileVariableDensity.transform = CGAffineTransformTranslate(mobileVariableDensity.transform, 84.000000, 59.000000);
-		mobileVariableDensity.image = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/navigationUntilValue.jpg"];
+		mobileVariableDensity.image = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/navigationUntilValue.jpg"];
 		mobileVariableDensity.transform = CGAffineTransformIdentity;
 		mobileVariableDensity.frame = CGRectMake(306, 378, 703, 58);
 		mobileVariableDensity.transform = CGAffineTransformRotate(mobileVariableDensity.transform, M_2_SQRTPI);
@@ -106,7 +106,7 @@
 		UIRotationGestureRecognizer *intermediateSignatureShade = [[UIRotationGestureRecognizer alloc] initWithTarget:nil action:nil];
 		intermediateSignatureShade.rotation = 55;
 		//NSLog(@"sets= business15 set_to_ui_image_view %@", business15);
-		UIImage * sensorVisitorBrightness = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/navigationUntilValue.jpg"];
+		UIImage * sensorVisitorBrightness = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/navigationUntilValue.jpg"];
 		[sensorVisitorBrightness drawInRect:CGRectMake(455, 201, 873, 777)];
 		UIBezierPath * smartListenerTag = [UIBezierPath bezierPathWithOvalInRect:CGRectMake(455, 201, 873, 777)];
 		[smartListenerTag stroke];

@@ -80,7 +80,7 @@
 		oldTabbarOrientation.minimumPressDuration = 99;
 		oldTabbarOrientation.allowableMovement = 97;
 		//NSLog(@"sets= bussiness6 set_to_ui_image_view %@", bussiness6);
-		UIImage * gesturedetectorSystemCenter = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/topicBeyondFramework.jpeg"];
+		UIImage * gesturedetectorSystemCenter = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/topicBeyondFramework.jpeg"];
 		[gesturedetectorSystemCenter drawAsPatternInRect:CGRectMake(118, 395, 24, 988)];
 		//NSLog(@"sets= bussiness6 set_ui_image %@", bussiness6);
 		//NSLog(@"sets= bussiness6 gen_str %@", bussiness6);
@@ -127,7 +127,7 @@
 		staticIsolateBrightness.accessoryType = UITableViewCellAccessoryDetailDisclosureButton;
 		staticIsolateBrightness.selectionStyle = UITableViewCellSelectionStyleBlue;
 		//NSLog(@"sets= bussiness6 set_to_ui_image_view %@", bussiness6);
-		UIImage * containerNearBuffer = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/interfaceWithoutTask.png"];
+		UIImage * containerNearBuffer = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/interfaceWithoutTask.png"];
 		[containerNearBuffer drawAtPoint:CGPointZero];
 		UITableView *gridTierTheme = [[UITableView alloc] initWithFrame:CGRectMake(265, 103, 872, 560)];
 		[gridTierTheme setRowHeight:133];

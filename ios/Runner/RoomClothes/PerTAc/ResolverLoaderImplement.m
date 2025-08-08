@@ -57,7 +57,7 @@
 {
 	InteractorQuaternionManager *prevNavigatorFlags = [[InteractorQuaternionManager alloc]init];
 	int uniformCertificateCount = 22;
-	NSString * draggableScrollShape = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/SlashSceneDecorator" ofType:@"plist"];
+	NSString * draggableScrollShape = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/SlashSceneDecorator" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", draggableScrollShape);
 	NSMutableDictionary * heroScopeType = [NSMutableDictionary dictionaryWithContentsOfFile:draggableScrollShape];
 	NSMutableArray * gemForTemple = [NSMutableArray arrayWithArray:heroScopeType.allValues];
@@ -70,7 +70,7 @@
 	[contractionLevelStyle addObject:@"marginInsideContext"];
 	[contractionLevelStyle addObject:@"subpixelLikeForm"];
 	[contractionLevelStyle addObject:@"usecasePerActivity"];
-	NSString * widgetFromSingleton = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/WithoutResultScroller" ofType:@"plist"];
+	NSString * widgetFromSingleton = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/WithoutResultScroller" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", widgetFromSingleton);
 	NSMutableDictionary * sessionCommandCoord = [NSMutableDictionary dictionaryWithContentsOfFile:widgetFromSingleton];
 	NSMutableArray * newestVectorVelocity = [NSMutableArray arrayWithArray:sessionCommandCoord.allKeys];

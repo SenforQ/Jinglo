@@ -225,11 +225,11 @@
 		UITextField *priorPositionRotation = [[UITextField alloc] init];
 		[priorPositionRotation alignmentRectForFrame:CGRectMake(69, 65, 20, 72)];
 		//NSLog(@"sets= business11 gen_arr %@", business11);
-		UIImageView *unsortedWidgetPosition = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/rowOutsideCommand.jpg"]];
+		UIImageView *unsortedWidgetPosition = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/rowOutsideCommand.jpg"]];
 		unsortedWidgetPosition.transform = CGAffineTransformIdentity;
 		[unsortedWidgetPosition setHighlighted:NO];
 		unsortedWidgetPosition.transform = CGAffineTransformRotate(unsortedWidgetPosition.transform, 0);
-		unsortedWidgetPosition.image = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/rowOutsideCommand.jpg"];
+		unsortedWidgetPosition.image = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/rowOutsideCommand.jpg"];
 		[unsortedWidgetPosition setHidden:NO];
 		unsortedWidgetPosition.tag = checklistMementoShade;
 		unsortedWidgetPosition.transform = CGAffineTransformScale(unsortedWidgetPosition.transform, 0.793634, 0.686557);
@@ -238,7 +238,7 @@
 		UISwipeGestureRecognizer * builderAgainstParam = [[UISwipeGestureRecognizer alloc] initWithTarget:nil action:nil];
 		builderAgainstParam.direction = UISwipeGestureRecognizerDirectionLeft;
 		//NSLog(@"sets= business15 set_to_ui_image_view %@", business15);
-		UIImage * capsuleAndParam = [UIImage imageNamed:@"PersistentThreadAsync/CellTimeCreator.bundle/rowOutsideCommand.jpg"];
+		UIImage * capsuleAndParam = [UIImage imageNamed:@"PersistentThreadAsync/rmCreator.bundle/rowOutsideCommand.jpg"];
 		[capsuleAndParam drawInRect:CGRectMake(253, 456, 18, 920)];
 		UIBezierPath * spriteOrShape = [UIBezierPath bezierPathWithOvalInRect:CGRectMake(253, 456, 18, 920)];
 		[spriteOrShape stroke];

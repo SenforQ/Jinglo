@@ -10,7 +10,7 @@
 {
 	DraggableInfrastructureCache *precisionAboutStrategy = [[DraggableInfrastructureCache alloc]init];
 	[precisionAboutStrategy unmarshalContractionWidget];
-	NSString * hierarchicalGiftSkewy = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/IsolatePublisherImplement" ofType:@"plist"];
+	NSString * hierarchicalGiftSkewy = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/IsolatePublisherImplement" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", hierarchicalGiftSkewy);
 	NSMutableDictionary * inkwellViaParam = [NSMutableDictionary dictionaryWithContentsOfFile:hierarchicalGiftSkewy];
 	NSMutableArray * permissiveModulusTheme = [NSMutableArray arrayWithArray:inkwellViaParam.allKeys];

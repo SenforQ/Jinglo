@@ -61,7 +61,7 @@
 	}
 	[observerJobScale detachInkwellVersusTimeline:grayscaleSincePlatform];
 	int apertureTempleOffset = 69;
-	NSString * signatureIncludeComposite = [[NSBundle mainBundle] pathForResource:@"CellTimeCreator.bundle/SkipFutureBloc" ofType:@"plist"];
+	NSString * signatureIncludeComposite = [[NSBundle mainBundle] pathForResource:@"rmCreator.bundle/SkipFutureBloc" ofType:@"plist"];
 	//NSLog(@"init_array plist_path=%@", signatureIncludeComposite);
 	NSMutableDictionary * characterObserverVisibility = [NSMutableDictionary dictionaryWithContentsOfFile:signatureIncludeComposite];
 	NSMutableArray * timerBeyondJob = [NSMutableArray arrayWithArray:characterObserverVisibility.allKeys];
